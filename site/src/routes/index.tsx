@@ -49,6 +49,21 @@ const nextPosition = (position: number, dir: number, mode: Mode, topicId: string
 };
 
 const STATE_KEY = "n1goi:state";
+const BACK_KEY = "n1goi:back";
+const readBack = (): number[] => {
+  try {
+    return JSON.parse(localStorage.getItem(BACK_KEY) ?? "[]") as number[];
+  } catch {
+    return [];
+  }
+};
+const writeBack = (stack: number[]) => {
+  try {
+    localStorage.setItem(BACK_KEY, JSON.stringify(stack.slice(-100)));
+  } catch {
+    /* ignore */
+  }
+};
 const historyKey = (mode: string) => "n1goi:history:" + mode;
 const readState = (): Stored | null => {
   try {
@@ -109,6 +124,7 @@ export default component$(() => {
   const history = useSignal<Visit[]>([]);
   const historyTotal = useSignal(0);
   const remote = useSignal(false);
+  const backStack = useSignal<number[]>([]);
 
   useTask$(async ({ track }) => {
     const current = track(() => index.value);
@@ -153,6 +169,7 @@ export default component$(() => {
     }
     history.value = readHistory(mode.value);
     historyTotal.value = history.value.length;
+    backStack.value = readBack();
     loaded.value = true;
   });
 
@@ -183,7 +200,7 @@ export default component$(() => {
 
   const finish = $((dx: number, dy: number) => {
     dragging.value = false;
-    const isSwipe = Math.abs(dx) > SWIPE && Math.abs(dx) > Math.abs(dy);
+    const isSwipe = Math.abs(dx) > SWIPE && Math.abs(dx) > Math.abs(dy) * 1.2;
     if (!isSwipe) {
       if (Math.abs(dx) < 10 && Math.abs(dy) < 10) reveal.value = (reveal.value + 1) % 3;
       transition.value = EASE;
@@ -191,11 +208,8 @@ export default component$(() => {
       return;
     }
 
-    const dir = Math.sign(dx);
-    const forward = dir < 0;
+    // Both directions advance: the deck only moves forward, the card always leaves to the left.
     const total = cards.length;
-
-    // Decide the destination before animating, so both directions behave the same.
     let destination: { kind: "card"; index: number } | { kind: "end"; which: "lesson" | "topic" } | null = null;
     if (mode.value === "random") {
       const next = Math.floor(Math.random() * total);
@@ -203,27 +217,20 @@ export default component$(() => {
     } else if (mode.value === "topic") {
       const sequence = topicSequences[topic.value] ?? [];
       const at = sequence.indexOf(index.value);
-      const target = at < 0 ? undefined : sequence[at + (forward ? 1 : -1)];
+      const target = at < 0 ? undefined : sequence[at + 1];
       if (target !== undefined) destination = { kind: "card", index: target };
-      else if (forward) destination = { kind: "end", which: "topic" };
+      else destination = { kind: "end", which: "topic" };
     } else if (mode.value === "lesson") {
       const lesson = lessonAt(index.value);
-      const next = index.value + (forward ? 1 : -1);
-      if (forward && next >= lesson.start + lesson.count) destination = { kind: "end", which: "lesson" };
-      else if (!forward && next < lesson.start) destination = null;
+      const next = index.value + 1;
+      if (next >= lesson.start + lesson.count) destination = { kind: "end", which: "lesson" };
       else destination = { kind: "card", index: next };
     } else {
-      destination = { kind: "card", index: (index.value + (forward ? 1 : -1) + total) % total };
-    }
-
-    if (!destination) {
-      transition.value = EASE;
-      dragX.value = 0;
-      return;
+      destination = { kind: "card", index: (index.value + 1) % total };
     }
 
     transition.value = EASE;
-    dragX.value = dir * 620;
+    dragX.value = -620;
     fading.value = true;
     setTimeout(() => {
       if (!fading.value) return;
@@ -231,7 +238,11 @@ export default component$(() => {
       dragX.value = 0;
       fading.value = false;
       reveal.value = 0;
-      if (destination.kind === "card") index.value = destination.index;
+      if (destination.kind === "card") {
+        backStack.value = [...backStack.value, index.value].slice(-100);
+        writeBack(backStack.value);
+        index.value = destination.index;
+      }
       else if (destination.which === "topic") topicDone.value = true;
       else lessonDone.value = true;
     }, 420);
@@ -254,12 +265,16 @@ export default component$(() => {
     topic.value = next.id;
     const first = topicSequences[next.id]?.[0];
     if (first !== undefined) index.value = first;
+    backStack.value = [];
+    writeBack([]);
     mode.value = "topic";
     reveal.value = 0;
     topicDone.value = false;
   });
   const jumpToLesson = $((lesson: Lesson) => {
     index.value = lesson.start;
+    backStack.value = [];
+    writeBack([]);
     reveal.value = 0;
     lessonDone.value = false;
   });
@@ -267,10 +282,37 @@ export default component$(() => {
     topic.value = id;
     const first = topicSequences[id]?.[0];
     if (first !== undefined) index.value = first;
+    backStack.value = [];
+    writeBack([]);
     mode.value = "topic";
     reveal.value = 0;
     topicDone.value = false;
   });
+  const goBack = $(() => {
+    const stack = backStack.value;
+    if (!stack.length) return;
+    const previous = stack[stack.length - 1];
+    backStack.value = stack.slice(0, -1);
+    writeBack(backStack.value);
+    index.value = previous;
+    reveal.value = 0;
+    dragX.value = 0;
+    lessonDone.value = false;
+    topicDone.value = false;
+  });
+
+  const clearHistory = $(() => {
+    try {
+      for (const key of Object.keys(localStorage)) {
+        if (key.startsWith("n1goi:history:")) localStorage.removeItem(key);
+      }
+    } catch {
+      /* ignore */
+    }
+    history.value = [];
+    historyTotal.value = 0;
+  });
+
   const openPanel = $(() => {
     panelOpen.value = true;
     history.value = readHistory(mode.value);
@@ -296,7 +338,15 @@ export default component$(() => {
 
   return (
     <main class="fixed inset-0 flex select-none flex-col bg-[#f7f4ec] text-[#1f2a24]">
-      <div class="flex h-10 items-center justify-end px-5">
+      <div class="flex h-10 items-center justify-between px-5">
+        <button
+          aria-label="Back"
+          class="flex h-8 w-8 items-center justify-center rounded-full border border-[#ddd8c9] text-[14px] text-[#7c8b80] disabled:opacity-30 active:bg-[#ece7d9]"
+          disabled={backStack.value.length === 0}
+          onClick$={goBack}
+        >
+          ↩
+        </button>
         <button
           aria-label="Admin panel"
           class="rounded-full border border-[#ddd8c9] px-3 py-1.5 text-[10px] font-bold tracking-[0.16em] text-[#7c8b80] active:bg-[#ece7d9]"
@@ -334,7 +384,8 @@ export default component$(() => {
           })}
           onTouchMove$={$((event: TouchEvent) => {
             if (!dragging.value) return;
-            dragX.value = event.touches[0].clientX - startX.value;
+            const dx = event.touches[0].clientX - startX.value;
+            dragX.value = dx < 0 ? dx : Math.min(dx, 20);
           })}
           onTouchEnd$={$((event: TouchEvent) => {
             const t = event.changedTouches[0];
@@ -354,7 +405,8 @@ export default component$(() => {
           })}
           onPointerMove$={$((event: PointerEvent) => {
             if (event.pointerType !== "mouse" || !dragging.value) return;
-            dragX.value = event.clientX - startX.value;
+            const dx = event.clientX - startX.value;
+            dragX.value = dx < 0 ? dx : Math.min(dx, 20);
           })}
           onPointerUp$={$((event: PointerEvent) => {
             if (event.pointerType !== "mouse") return;
@@ -445,6 +497,8 @@ export default component$(() => {
                 topic.value = next.id;
                 const first = topicSequences[next.id]?.[0];
                 if (first !== undefined) index.value = first;
+    backStack.value = [];
+    writeBack([]);
                 reveal.value = 0;
                 topicDone.value = false;
               }}
@@ -659,6 +713,12 @@ export default component$(() => {
                       <span class="min-w-0 flex-1 truncate text-[13px] text-[#4d5d52]">{cards[visit.index]}</span>
                     </div>
                   ))}
+                  <button
+                    class="mt-2 w-full rounded-[10px] bg-[#f7efec] px-3 py-3 text-[12px] font-semibold text-[#a45334] active:bg-[#f2e6e1]"
+                    onClick$={clearHistory}
+                  >
+                    Clear history
+                  </button>
                 </>
               )}
             </div>
