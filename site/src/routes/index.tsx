@@ -162,7 +162,7 @@ const readToday = (): number => {
 
 const PART_BG = ["bg-[#e0efe4]", "bg-[#f8e9d6]", "bg-[#e4e8f7]", "bg-[#f6e2e5]", "bg-[#e5eee7]"];
 const SWIPE = 80;
-const EASE = "transform 200ms ease-out, opacity 200ms ease-out";
+const EASE = "transform 200ms ease-out";
 
 export default component$(() => {
   const index = useSignal(0);
@@ -459,7 +459,6 @@ export default component$(() => {
         </div>
       </div>
       <div class="relative mx-auto w-full max-w-[480px] flex-1 px-4 pb-2">
-        <div class="pointer-events-none absolute inset-x-[26px] bottom-0 top-8 rounded-[26px] border border-[#eae4d6] bg-[#f3eee1]" />
         <div class="pointer-events-none absolute inset-x-4 bottom-6 top-2 flex flex-col overflow-hidden rounded-[26px] border border-[#e6e0d2] bg-[#fffefa] shadow-[0_24px_60px_-28px_rgba(41,67,49,0.45)]">
           <div class="flex items-baseline justify-between px-6 pt-5">
             <span class="truncate text-[10px] font-semibold uppercase tracking-[0.16em] text-[#a9b3a9]">{typeLabel}</span>
@@ -498,7 +497,6 @@ export default component$(() => {
           style={{
             transform: `translateX(${dragX.value}px) rotate(${dragX.value / 26}deg)`,
             transition: transition.value,
-            opacity: fading.value ? 0 : 1,
           }}
           onTouchStart$={$((event: TouchEvent) => {
             const t = event.touches[0];
