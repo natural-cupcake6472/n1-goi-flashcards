@@ -550,7 +550,7 @@ export default component$(() => {
           >
             {reveal.value >= 2 && info && (
               <>
-                <p class="mx-auto mb-4 w-fit max-w-full rounded-[6px] bg-[#eef1e6] px-3 py-1.5 text-center text-[15px] font-medium leading-snug text-[#2c3d33]">
+                <p class="m-0 mb-3 text-center text-[15px] leading-normal text-[#3a4a40]">
                   {info[language.value]}
                 </p>
                 <ul class="m-0 grid list-none grid-cols-[max-content_1fr] items-baseline gap-x-3 gap-y-2 p-0">
