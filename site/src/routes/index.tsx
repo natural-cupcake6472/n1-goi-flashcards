@@ -174,6 +174,7 @@ export default component$(() => {
   const mode = useSignal<Mode>("lesson");
   const topic = useSignal<string>(topicList[0]?.id ?? "");
   const detail = useSignal<KnowledgeEntry | undefined>(undefined);
+  const detailFor = useSignal<number>(-1);
   const previewDetail = useSignal<KnowledgeEntry | undefined>(undefined);
   const dragX = useSignal(0);
   const dragging = useSignal(false);
@@ -196,14 +197,17 @@ export default component$(() => {
   useTask$(async ({ track }) => {
     const current = track(() => index.value);
     const japanese = cards[current];
-    detail.value = undefined;
     if (!japanese) return;
     const { loadChunk } = await import("../generated/knowledge-loader");
-    const chunk = await loadChunk(deckIndex(current));
-    if (index.value !== current) return;
-    detail.value = chunk?.[japanese];
+    let chunk: Record<string, KnowledgeEntry> | undefined;
+    if (detailFor.value !== current) {
+      chunk = await loadChunk(deckIndex(current));
+      if (index.value !== current) return;
+      detail.value = chunk?.[japanese];
+      detailFor.value = current;
+    }
     const previewPosition = nextPosition(current, -1, mode.value, topic.value) ?? (current + 1) % cards.length;
-    const previewChunk = await loadChunk(deckIndex(previewPosition));
+    const previewChunk = chunk ?? (await loadChunk(deckIndex(previewPosition)));
     if (index.value !== current) return;
     previewDetail.value = previewChunk?.[cards[previewPosition]];
     for (const offset of [1, 2, 3, 4, 5]) {
@@ -293,16 +297,24 @@ export default component$(() => {
     transition.value = EASE;
     dragX.value = Math.sign(dx) * 620;
     fading.value = true;
-    setTimeout(() => {
+    setTimeout(async () => {
       if (!fading.value) return;
       transition.value = "none";
       dragX.value = 0;
       fading.value = false;
       reveal.value = 0;
       if (destination.kind === "card") {
+        // Preload the next entry during the flight, so the new card paints complete
+        // (no plain-text frame, no async hitch at the swap).
+        const target = destination.index;
+        const { loadChunk } = await import("../generated/knowledge-loader");
+        const nextChunk = await loadChunk(deckIndex(target));
+        if (!nextChunk) return;
+        detail.value = nextChunk[cards[target]];
+        detailFor.value = target;
         backStack.value = [...backStack.value, index.value].slice(-100);
         writeBack(backStack.value);
-        index.value = destination.index;
+        index.value = target;
       }
       else if (destination.which === "topic") topicDone.value = true;
       else lessonDone.value = true;
@@ -497,10 +509,14 @@ export default component$(() => {
         </div>
         <div
           data-testid="card"
-          class="absolute inset-x-4 bottom-6 top-2 flex touch-none flex-col overflow-hidden rounded-[26px] border border-[#e6e0d2] bg-[#fffefa] shadow-[0_24px_60px_-28px_rgba(41,67,49,0.45)]"
+          class={
+            "absolute inset-x-4 bottom-6 top-2 flex touch-none flex-col overflow-hidden rounded-[26px] border border-[#e6e0d2] bg-[#fffefa] will-change-transform " +
+            (dragging.value || fading.value ? "" : "shadow-[0_24px_60px_-28px_rgba(41,67,49,0.45)]")
+          }
           style={{
             transform: `translateX(${dragX.value}px) rotate(${dragX.value / 26}deg)`,
             transition: transition.value,
+            backfaceVisibility: "hidden",
           }}
           onTouchStart$={$((event: TouchEvent) => {
             const t = event.touches[0];
