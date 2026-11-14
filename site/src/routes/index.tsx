@@ -36,7 +36,11 @@ const cards: string[] = displayOrder.map((i) => deck[i]);
 const kanjiAll: (string | null)[] = (kanjiMap as { cardKanji: (string | null)[] }).cardKanji;
 const cardKanji: (string | null)[] = displayOrder.map((i) => kanjiAll[i] ?? null);
 const HANVIET = hanvietMap as Record<string, string>;
-const hanvietFor = (kanji: string | null): string => (kanji ? HANVIET[kanji] ?? "" : "");
+const hanvietForText = (text: string): string =>
+  [...new Set([...text].filter((c) => /\p{Script=Han}/u.test(c)))]
+    .map((c) => HANVIET[c] ?? "")
+    .filter(Boolean)
+    .join(" ");
 const lessonAt = (position: number): Lesson =>
   lessons.find((l) => position >= l.start && position < l.start + l.count) ?? lessons[0];
 const nextPosition = (position: number, dir: number, mode: Mode, topicId: string): number | null => {
@@ -347,6 +351,22 @@ export default component$(() => {
         : mode.value === "group"
           ? "Kanji: " + (kanjiNow || "")
           : "Random";
+  const currentLesson = lessonAt(index.value);
+  const topicSeqNow = topicSequences[topic.value] ?? [];
+  const topicPos = topicSeqNow.indexOf(index.value);
+  const progress =
+    mode.value === "lesson"
+      ? { done: index.value - currentLesson.start + 1, total: currentLesson.count }
+      : mode.value === "topic"
+        ? { done: topicPos + 1, total: topicSeqNow.length }
+        : null;
+  const progressPct = progress && progress.total ? Math.round((progress.done / progress.total) * 100) : 0;
+  const visited = new Set(history.value.map((visit) => visit.index));
+  const groupIndices = (item: Lesson | Topic): number[] =>
+    "start" in item
+      ? Array.from({ length: item.count }, (_, k) => item.start + k)
+      : topicSequences[item.id] ?? [];
+
   const sentenceClass = (isLoaded: boolean) =>
     `m-0 text-center font-serif text-[clamp(20px,5.8vw,29px)] leading-[1.9] [text-wrap:balance] transition-opacity duration-150 ${isLoaded ? "opacity-100" : "opacity-0"}`;
 
@@ -369,6 +389,21 @@ export default component$(() => {
           ADMIN
         </button>
       </div>
+      <div class="mx-auto w-full max-w-[480px] px-5 pb-2">
+        <div class="flex items-center gap-2">
+          <div class="h-[3px] flex-1 overflow-hidden rounded-full bg-[#e6e2d4]">
+            <div
+              class="h-full rounded-full bg-[#7fa98c] transition-[width] duration-300"
+              style={{ width: `${progressPct}%` }}
+            />
+          </div>
+          {progress && (
+            <span class="text-[10px] tabular-nums text-[#a6b0a6]">
+              {progress.done}/{progress.total}
+            </span>
+          )}
+        </div>
+      </div>
       <div class="relative mx-auto w-full max-w-[480px] flex-1 px-4 pb-2">
         <div class="pointer-events-none absolute inset-x-[26px] bottom-0 top-8 rounded-[26px] border border-[#eae4d6] bg-[#f3eee1]" />
         <div class="pointer-events-none absolute inset-x-4 bottom-6 top-2 flex flex-col overflow-hidden rounded-[26px] border border-[#e6e0d2] bg-[#fffefa] shadow-[0_24px_60px_-28px_rgba(41,67,49,0.45)]">
@@ -376,9 +411,6 @@ export default component$(() => {
             <span class="truncate text-[10px] font-semibold uppercase tracking-[0.16em] text-[#a9b3a9]">{typeLabel}</span>
             <span class="flex shrink-0 flex-col items-end pl-3 leading-none">
               <span class="text-[12px] tracking-[0.3em] text-[#b6c0b5]">{kanjiNext}</span>
-              {language.value === "vi" && (
-                <span class="mt-1 text-[9px] tracking-[0.08em] text-[#c6cec3]">{hanvietFor(kanjiNext)}</span>
-              )}
             </span>
           </div>
           <div class="flex flex-1 flex-col items-center justify-center gap-2 px-6">
@@ -434,9 +466,6 @@ export default component$(() => {
             <span class="truncate text-[10px] font-semibold uppercase tracking-[0.16em] text-[#a9b3a9]">{typeLabel}</span>
             <span class="flex shrink-0 flex-col items-end pl-3 leading-none">
             <span class="text-[12px] tracking-[0.3em] text-[#b6c0b5]">{kanjiNow}</span>
-            {language.value === "vi" && (
-              <span class="mt-1 text-[9px] tracking-[0.08em] text-[#c6cec3]">{hanvietFor(kanjiNow)}</span>
-            )}
           </span>
           </div>
           <div class="flex flex-1 flex-col items-center justify-center gap-2 px-6">
@@ -483,7 +512,13 @@ export default component$(() => {
                 <ul class="m-0 flex list-none flex-wrap gap-1.5 p-0">
                   {info.parts.map((part, i) => (
                     <li key={i} class={`rounded-[3px] px-2 py-1 text-[13px] leading-snug text-[#5b6a60] ${PART_BG[i % 5]}`}>
-                      <b class="font-semibold text-[#22322a]">{part.text}</b> <span>{part[language.value]}</span>
+                      <b class="font-semibold text-[#22322a]">{part.text}</b>{" "}
+                      {language.value === "vi" && hanvietForText(part.text) && (
+                        <span class="mr-1 text-[10px] uppercase tracking-[0.06em] text-[#8fa094]">
+                          {hanvietForText(part.text)}
+                        </span>
+                      )}
+                      <span>{part[language.value]}</span>
                     </li>
                   ))}
                 </ul>
@@ -727,6 +762,28 @@ export default component$(() => {
 
               {picker.value === "history" && (
                 <>
+                  <div class="mb-2 text-[10px] font-semibold uppercase tracking-[0.16em] text-[#a9b3a9]">Progress</div>
+                  <div class="mb-4">
+                    {(mode.value === "topic" ? topicList : lessons).map((item) => {
+                      const indices = groupIndices(item);
+                      const seen = indices.filter((i) => visited.has(i)).length;
+                      const pct = indices.length ? Math.round((seen / indices.length) * 100) : 0;
+                      return (
+                        <div key={item.id} class="py-1.5">
+                          <div class="mb-1 flex items-baseline justify-between">
+                            <span class="text-[12px] text-[#4d5d52]">{item.label}</span>
+                            <span class="text-[10px] tabular-nums text-[#a6b0a6]">
+                              {seen}/{indices.length}
+                            </span>
+                          </div>
+                          <div class="h-[3px] overflow-hidden rounded-full bg-[#eef0e9]">
+                            <div class="h-full rounded-full bg-[#7fa98c]" style={{ width: `${pct}%` }} />
+                          </div>
+                        </div>
+                      );
+                    })}
+                  </div>
+                  <div class="mb-1 text-[10px] font-semibold uppercase tracking-[0.16em] text-[#a9b3a9]">Recent</div>
                   {history.value.length === 0 && <div class="py-4 text-[13px] text-[#a6b0a6]">Nothing yet.</div>}
                   {history.value.map((visit, i) => (
                     <div key={i} class="flex items-baseline gap-3 py-2">
