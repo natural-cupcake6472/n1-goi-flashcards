@@ -162,11 +162,12 @@ const readToday = (): number => {
 
 const PART_BG = ["bg-[#e0efe4]", "bg-[#f8e9d6]", "bg-[#e4e8f7]", "bg-[#f6e2e5]", "bg-[#e5eee7]"];
 const SWIPE = 80;
-const EASE = "transform 200ms ease-out, opacity 200ms ease-out";
+const EASE = "transform 200ms ease-out";
 
 export default component$(() => {
   const index = useSignal(0);
   const reveal = useSignal(0);
+  const revealFor = useSignal(0);
   const language = useSignal<"en" | "vi" | "ja">("en");
   const mode = useSignal<Mode>("lesson");
   const topic = useSignal<string>(topicList[0]?.id ?? "");
@@ -235,11 +236,13 @@ export default component$(() => {
     const ready = track(() => loaded.value);
     const card = track(() => index.value);
     const step = track(() => reveal.value);
+    const stageCard = track(() => revealFor.value);
     const lang = track(() => language.value);
     const order = track(() => mode.value);
     const currentTopic = track(() => topic.value);
     if (!ready || typeof window === "undefined") return;
-    const snapshot = { index: card, reveal: step, lang, mode: order, topic: currentTopic };
+    const stage = stageCard === card ? step : 0;
+    const snapshot = { index: card, reveal: stage, lang, mode: order, topic: currentTopic };
     writeState(snapshot);
     void idbPut("state", snapshot);
     if (!remote.value) {
@@ -254,7 +257,10 @@ export default component$(() => {
     dragging.value = false;
     const isSwipe = Math.abs(dx) > SWIPE && Math.abs(dx) > Math.abs(dy) * 1.2;
     if (!isSwipe) {
-      if (Math.abs(dx) < 10 && Math.abs(dy) < 10) reveal.value = (reveal.value + 1) % 3;
+      if (Math.abs(dx) < 10 && Math.abs(dy) < 10) {
+        reveal.value = (reveal.value + 1) % 3;
+        revealFor.value = index.value;
+      }
       transition.value = EASE;
       dragX.value = 0;
       return;
@@ -290,10 +296,14 @@ export default component$(() => {
       dragX.value = 0;
       fading.value = false;
       reveal.value = 0;
+      revealFor.value = index.value;
       if (destination.kind === "card") {
         backStack.value = [...backStack.value, index.value].slice(-100);
         writeBack(backStack.value);
-        index.value = destination.index;
+        const target = destination.index;
+        setTimeout(() => {
+          index.value = target;
+        }, 16);
       }
       else if (destination.which === "topic") topicDone.value = true;
       else lessonDone.value = true;
@@ -382,6 +392,7 @@ export default component$(() => {
     historyTotal.value = history.value.length;
   });
 
+  const shown = revealFor.value === index.value ? reveal.value : 0;
   const card = cards[index.value];
   const previewPosition = nextPosition(index.value, -1, mode.value, topic.value) ?? (index.value + 1) % cards.length;
   const nextCard = cards[previewPosition];
@@ -453,7 +464,7 @@ export default component$(() => {
       </div>
       <div class="relative mx-auto w-full max-w-[480px] flex-1 px-4 pb-2">
         <div class="pointer-events-none absolute inset-x-[26px] bottom-0 top-8 rounded-[26px] border border-[#eae4d6] bg-[#f3eee1]" />
-        <div class="pointer-events-none absolute inset-x-4 bottom-6 top-2 flex flex-col overflow-hidden rounded-[26px] border border-[#e6e0d2] bg-[#fffefa] shadow-[0_8px_0_0_rgba(41,67,49,0.05)]">
+        <div class="pointer-events-none absolute inset-x-4 bottom-6 top-2 flex flex-col overflow-hidden rounded-[26px] border border-[#e6e0d2] bg-[#fffefa] shadow-[0_12px_0_0_rgba(41,67,49,0.18)]">
           <div class="flex items-baseline justify-between px-6 pt-5">
             <span class="truncate text-[10px] font-semibold uppercase tracking-[0.16em] text-[#a9b3a9]">{typeLabel}</span>
             <span class="flex shrink-0 flex-col items-end pl-3 leading-none">
@@ -487,11 +498,10 @@ export default component$(() => {
         </div>
         <div
           data-testid="card"
-          class="absolute inset-x-4 bottom-6 top-2 flex touch-none flex-col overflow-hidden rounded-[26px] border border-[#e6e0d2] bg-[#fffefa] shadow-[0_8px_0_0_rgba(41,67,49,0.05)]"
+          class="absolute inset-x-4 bottom-6 top-2 flex touch-none flex-col overflow-hidden rounded-[26px] border border-[#e6e0d2] bg-[#fffefa] shadow-[0_12px_0_0_rgba(41,67,49,0.18)]"
           style={{
             transform: `translateX(${dragX.value}px) rotate(${dragX.value / 26}deg)`,
             transition: transition.value,
-            opacity: fading.value ? 0 : 1,
           }}
           onTouchStart$={$((event: TouchEvent) => {
             const t = event.touches[0];
@@ -543,8 +553,8 @@ export default component$(() => {
                       <span
                         key={`${i}-${j}`}
                         class={
-                          "inline-flex max-w-full flex-col items-center rounded-[3px] px-0.5 align-bottom transition-colors duration-150" +
-                          (reveal.value >= 2 ? ` ${PART_BG[i % 5]}` : "")
+                          "inline-flex max-w-full flex-col items-center rounded-[3px] px-0.5 align-bottom" +
+                          (shown >= 2 ? ` ${PART_BG[i % 5]}` : "")
                         }
                       >
                         <span
@@ -553,7 +563,7 @@ export default component$(() => {
                               ? "flex w-full justify-between whitespace-nowrap"
                               : "whitespace-nowrap") +
                             " font-sans text-[0.34em] leading-[1.25] text-[#6c8a76] transition-opacity duration-150 " +
-                            (reveal.value >= 1 ? "opacity-100" : "opacity-0")
+                            (shown >= 1 ? "opacity-100" : "opacity-0")
                           }
                         >
                           {unit.whole && unit.reading
@@ -570,10 +580,10 @@ export default component$(() => {
           <div
             class={
               "min-h-0 flex-1 overflow-y-auto px-6 pb-6 pt-4 " +
-              (reveal.value >= 2 && info ? "sheet-in border-t border-[#e3ded2]" : "")
+              (shown >= 2 && info ? "sheet-in border-t border-[#e3ded2]" : "")
             }
           >
-            {reveal.value >= 2 && info && (
+            {shown >= 2 && info && (
               <>
                 <p class="m-0 mb-3 text-center text-[15px] leading-normal text-[#3a4a40]">
                   {info[language.value]}
