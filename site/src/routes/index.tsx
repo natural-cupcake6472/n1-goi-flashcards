@@ -230,7 +230,7 @@ export default component$(() => {
     }
 
     transition.value = EASE;
-    dragX.value = -620;
+    dragX.value = Math.sign(dx) * 620;
     fading.value = true;
     setTimeout(() => {
       if (!fading.value) return;
@@ -384,8 +384,7 @@ export default component$(() => {
           })}
           onTouchMove$={$((event: TouchEvent) => {
             if (!dragging.value) return;
-            const dx = event.touches[0].clientX - startX.value;
-            dragX.value = dx < 0 ? dx : Math.min(dx, 20);
+            dragX.value = event.touches[0].clientX - startX.value;
           })}
           onTouchEnd$={$((event: TouchEvent) => {
             const t = event.changedTouches[0];
@@ -405,8 +404,7 @@ export default component$(() => {
           })}
           onPointerMove$={$((event: PointerEvent) => {
             if (event.pointerType !== "mouse" || !dragging.value) return;
-            const dx = event.clientX - startX.value;
-            dragX.value = dx < 0 ? dx : Math.min(dx, 20);
+            dragX.value = event.clientX - startX.value;
           })}
           onPointerUp$={$((event: PointerEvent) => {
             if (event.pointerType !== "mouse") return;
