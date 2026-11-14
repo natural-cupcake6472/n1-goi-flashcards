@@ -3,3 +3,7 @@ dist
 .state.json
 tmp
 *.log
+.xdg
+.bun-tmp
+.bun-cache
+.wrangler
