@@ -456,7 +456,7 @@ export default component$(() => {
             </span>
           </div>
           <div class="flex flex-1 flex-col items-center justify-center gap-2 px-6">
-            <p class={sentenceClass(loaded.value)}>{nextCard}</p>
+            <p class={sentenceClass(loaded.value)} lang="ja">{nextCard}</p>
           </div>
           <div class="flex-1 px-6 pb-6 pt-4" />
         </div>
