@@ -8,7 +8,6 @@ import lessonOrder from "../generated/lesson-order.json";
 import topicsData from "../generated/topics.json";
 import hanvietMap from "../generated/hanviet.json";
 import lessonKanji from "../generated/lesson-kanji.json";
-import { loadPack } from "../generated/undraw-loader";
 
 type Unit = { text: string; reading?: string; whole?: boolean };
 type Mode = "lesson" | "topic" | "group" | "random";
@@ -176,8 +175,6 @@ export default component$(() => {
   const topic = useSignal<string>(topicList[0]?.id ?? "");
   const detail = useSignal<KnowledgeEntry | undefined>(undefined);
   const previewDetail = useSignal<KnowledgeEntry | undefined>(undefined);
-  const pack = useSignal<string[]>([]);
-  const packTopic = useSignal<string>("");
   const dragX = useSignal(0);
   const dragging = useSignal(false);
   const fading = useSignal(false);
@@ -209,13 +206,6 @@ export default component$(() => {
     const previewChunk = await loadChunk(deckIndex(previewPosition));
     if (index.value !== current) return;
     previewDetail.value = previewChunk?.[cards[previewPosition]];
-    const topicId = (topicsData as { cardTopics: string[][] }).cardTopics[current]?.[0] ?? "misc";
-    if (packTopic.value !== topicId) {
-      const loaded = await loadPack(topicId);
-      if (index.value !== current) return;
-      pack.value = loaded;
-      packTopic.value = topicId;
-    }
     for (const offset of [1, 2, 3, 4, 5]) {
       const target =
         mode.value === "topic"
@@ -403,7 +393,6 @@ export default component$(() => {
   });
 
   const shown = revealFor.value === index.value ? reveal.value : 0;
-  const bg = pack.value.length ? pack.value[index.value % pack.value.length] : "";
   const card = cards[index.value];
   const previewPosition = nextPosition(index.value, -1, mode.value, topic.value) ?? (index.value + 1) % cards.length;
   const nextCard = cards[previewPosition];
@@ -475,11 +464,6 @@ export default component$(() => {
       </div>
       <div class="relative mx-auto w-full max-w-[480px] flex-1 px-4 pb-2">
         <div class="pointer-events-none absolute inset-x-4 bottom-6 top-2 flex flex-col overflow-hidden rounded-[26px] border border-[#e6e0d2] bg-[#fffefa] shadow-[0_24px_60px_-28px_rgba(41,67,49,0.45)]">
-          <div class="pointer-events-none absolute inset-0 art-layer opacity-[0.28]">
-            {bg && (
-              <img src={`data:image/svg+xml;utf8,${encodeURIComponent(bg)}`} alt="" class="h-full w-full object-contain art-anim" />
-            )}
-          </div>
           <div class="flex items-baseline justify-between px-6 pt-5">
             <span class="truncate text-[10px] font-semibold uppercase tracking-[0.16em] text-[#a9b3a9]">{typeLabel}</span>
             <span class="flex shrink-0 flex-col items-end pl-3 leading-none">
@@ -554,11 +538,6 @@ export default component$(() => {
             void finish(event.clientX - startX.value, event.clientY - startY.value);
           })}
         >
-          <div class="pointer-events-none absolute inset-0 art-layer opacity-[0.28]">
-            {bg && (
-              <img src={`data:image/svg+xml;utf8,${encodeURIComponent(bg)}`} alt="" class="h-full w-full object-contain art-anim" />
-            )}
-          </div>
           <div class="flex items-baseline justify-between px-6 pt-5">
             <span class="truncate text-[10px] font-semibold uppercase tracking-[0.16em] text-[#a9b3a9]">{typeLabel}</span>
             <span class="flex shrink-0 flex-col items-end pl-3 leading-none">
@@ -650,11 +629,6 @@ export default component$(() => {
 
       {intro.value && (
         <div class="fixed inset-0 z-40 flex items-center justify-center bg-[#f7f4ec] px-6">
-          <div class="pointer-events-none absolute inset-0 art-layer opacity-30">
-            {bg && (
-              <img src={`data:image/svg+xml;utf8,${encodeURIComponent(bg)}`} alt="" class="h-full w-full object-contain art-anim" />
-            )}
-          </div>
           <div class="relative w-full max-w-[340px]">
             <div class="text-[10px] font-bold tracking-[0.22em] text-[#a0aaa1]">
               {mode.value === "topic" ? "TOPIC" : "LESSON"}
