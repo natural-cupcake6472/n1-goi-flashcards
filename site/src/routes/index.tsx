@@ -162,6 +162,7 @@ const readToday = (): number => {
   }
 };
 
+const preloaded = new Map<number, KnowledgeEntry | undefined>();
 const PART_BG = ["bg-[#e0efe4]", "bg-[#f8e9d6]", "bg-[#e4e8f7]", "bg-[#f6e2e5]", "bg-[#e5eee7]"];
 const SWIPE = 80;
 const EASE = "transform 200ms ease-out";
@@ -294,30 +295,40 @@ export default component$(() => {
       destination = { kind: "card", index: (index.value + 1) % total };
     }
 
+    if (destination.kind === "card") {
+      const target = destination.index;
+      void import("../generated/knowledge-loader")
+        .then((m) => m.loadChunk(deckIndex(target)))
+        .then((chunk) => preloaded.set(target, chunk?.[cards[target]]))
+        .catch(() => undefined);
+    }
     transition.value = EASE;
     dragX.value = Math.sign(dx) * 620;
     fading.value = true;
-    setTimeout(async () => {
+    setTimeout(() => {
       if (!fading.value) return;
-      transition.value = "none";
-      dragX.value = 0;
-      fading.value = false;
-      reveal.value = 0;
       if (destination.kind === "card") {
-        // Preload the next entry during the flight, so the new card paints complete
-        // (no plain-text frame, no async hitch at the swap).
         const target = destination.index;
-        const { loadChunk } = await import("../generated/knowledge-loader");
-        const nextChunk = await loadChunk(deckIndex(target));
-        if (!nextChunk) return;
-        detail.value = nextChunk[cards[target]];
-        detailFor.value = target;
+        const ready = preloaded.get(target);
+        if (ready !== undefined) {
+          detail.value = ready;
+          detailFor.value = target;
+        }
         backStack.value = [...backStack.value, index.value].slice(-100);
         writeBack(backStack.value);
         index.value = target;
+        reveal.value = 0;
+        transition.value = "none";
+        dragX.value = 0;
+        fading.value = false;
+      } else {
+        transition.value = "none";
+        dragX.value = 0;
+        fading.value = false;
+        reveal.value = 0;
+        if (destination.which === "topic") topicDone.value = true;
+        else lessonDone.value = true;
       }
-      else if (destination.which === "topic") topicDone.value = true;
-      else lessonDone.value = true;
     }, 420);
   });
 
