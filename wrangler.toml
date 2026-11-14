@@ -1,0 +1,9 @@
+# Deploy from the repository root (Cloudflare Workers build).
+# Build command: cd site && npm install && npm run build:ci
+# Deploy command: npx wrangler deploy
+name = "n1-goi-flashcards"
+compatibility_date = "2025-11-01"
+
+[assets]
+directory = "./site/dist"
+not_found_handling = "single-page-application"

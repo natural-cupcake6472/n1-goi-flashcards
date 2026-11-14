@@ -1,6 +1,4 @@
-# Cloudflare Workers static-assets deployment.
-# Build first: bun run build   (writes ./dist)
-# Deploy:      bunx wrangler deploy
+# Local deploy from this directory: bun run build && bun run deploy
 name = "n1-goi-flashcards"
 compatibility_date = "2025-11-01"
 
