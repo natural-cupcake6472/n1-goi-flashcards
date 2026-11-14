@@ -10,3 +10,7 @@ html, body { height: 100%; margin: 0; overscroll-behavior: none; background: #f7
 .art-layer svg { width: 100%; height: 100%; display: block; }
 @keyframes drift { 0%, 100% { transform: translate3d(0,0,0) scale(1); } 50% { transform: translate3d(0,-8px,0) scale(1.02); } }
 .art-anim { animation: drift 16s ease-in-out infinite; }
+@keyframes fly-out-left { from { opacity: 1; } to { transform: translateX(-620px) rotate(-24deg); opacity: 0; } }
+@keyframes fly-out-right { from { opacity: 1; } to { transform: translateX(620px) rotate(24deg); opacity: 0; } }
+.fly-left { animation: fly-out-left 200ms ease-out forwards; }
+.fly-right { animation: fly-out-right 200ms ease-out forwards; }

@@ -162,7 +162,6 @@ const readToday = (): number => {
   }
 };
 
-const preloaded = new Map<number, KnowledgeEntry | undefined>();
 const PART_BG = ["bg-[#e0efe4]", "bg-[#f8e9d6]", "bg-[#e4e8f7]", "bg-[#f6e2e5]", "bg-[#e5eee7]"];
 const SWIPE = 80;
 const EASE = "transform 200ms ease-out";
@@ -180,6 +179,7 @@ export default component$(() => {
   const dragX = useSignal(0);
   const dragging = useSignal(false);
   const fading = useSignal(false);
+  const fly = useSignal<"" | "left" | "right">("");
   const transition = useSignal("none");
   const startX = useSignal(0);
   const startY = useSignal(0);
@@ -295,34 +295,24 @@ export default component$(() => {
       destination = { kind: "card", index: (index.value + 1) % total };
     }
 
-    if (destination.kind === "card") {
-      const target = destination.index;
-      void import("../generated/knowledge-loader")
-        .then((m) => m.loadChunk(deckIndex(target)))
-        .then((chunk) => preloaded.set(target, chunk?.[cards[target]]))
-        .catch(() => undefined);
-    }
-    transition.value = EASE;
-    dragX.value = Math.sign(dx) * 620;
+    transition.value = "none";
+    fly.value = Math.sign(dx) < 0 ? "left" : "right";
     fading.value = true;
     setTimeout(() => {
       if (!fading.value) return;
       if (destination.kind === "card") {
         const target = destination.index;
-        const ready = preloaded.get(target);
-        if (ready !== undefined) {
-          detail.value = ready;
-          detailFor.value = target;
-        }
         backStack.value = [...backStack.value, index.value].slice(-100);
         writeBack(backStack.value);
         index.value = target;
         reveal.value = 0;
         transition.value = "none";
+        fly.value = "";
         dragX.value = 0;
         fading.value = false;
       } else {
         transition.value = "none";
+        fly.value = "";
         dragX.value = 0;
         fading.value = false;
         reveal.value = 0;
@@ -486,7 +476,7 @@ export default component$(() => {
         </div>
       </div>
       <div class="relative mx-auto w-full max-w-[480px] flex-1 px-4 pb-2">
-        <div class="pointer-events-none absolute inset-x-4 bottom-6 top-2 flex flex-col overflow-hidden rounded-[26px] border border-[#e6e0d2] bg-[#fffefa] shadow-[0_10px_20px_-10px_rgba(41,67,49,0.35)]">
+        <div class="pointer-events-none absolute inset-x-4 bottom-6 top-2 flex flex-col overflow-hidden rounded-[26px] border border-[#e6e0d2] bg-[#fffefa] shadow-[0_24px_60px_-28px_rgba(41,67,49,0.45)]">
           <div class="flex items-baseline justify-between px-6 pt-5">
             <span class="truncate text-[10px] font-semibold uppercase tracking-[0.16em] text-[#a9b3a9]">{typeLabel}</span>
             <span class="flex shrink-0 flex-col items-end pl-3 leading-none">
@@ -521,13 +511,12 @@ export default component$(() => {
         <div
           data-testid="card"
           class={
-            "absolute inset-x-4 bottom-6 top-2 flex touch-none flex-col overflow-hidden rounded-[26px] border border-[#e6e0d2] bg-[#fffefa] will-change-transform " +
-            (dragging.value || fading.value ? "" : "shadow-[0_10px_20px_-10px_rgba(41,67,49,0.35)]")
+            "absolute inset-x-4 bottom-6 top-2 flex touch-none flex-col overflow-hidden rounded-[26px] border border-[#e6e0d2] bg-[#fffefa] shadow-[0_24px_60px_-28px_rgba(41,67,49,0.45)] " +
+            (fly.value === "left" ? "fly-left" : fly.value === "right" ? "fly-right" : "")
           }
           style={{
             transform: `translateX(${dragX.value}px) rotate(${dragX.value / 26}deg)`,
             transition: transition.value,
-            backfaceVisibility: "hidden",
           }}
           onTouchStart$={$((event: TouchEvent) => {
             const t = event.touches[0];
