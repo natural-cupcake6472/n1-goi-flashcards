@@ -453,7 +453,7 @@ export default component$(() => {
       </div>
       <div class="relative mx-auto w-full max-w-[480px] flex-1 px-4 pb-2">
         <div class="pointer-events-none absolute inset-x-[26px] bottom-0 top-8 rounded-[26px] border border-[#eae4d6] bg-[#f3eee1]" />
-        <div class="pointer-events-none absolute inset-x-4 bottom-6 top-2 flex flex-col overflow-hidden rounded-[26px] border border-[#e6e0d2] bg-[#fffefa] shadow-[0_24px_60px_-28px_rgba(41,67,49,0.45)]">
+        <div class="pointer-events-none absolute inset-x-4 bottom-6 top-2 flex flex-col overflow-hidden rounded-[26px] border border-[#e6e0d2] bg-[#fffefa] shadow-[0_8px_0_0_rgba(41,67,49,0.05)]">
           <div class="flex items-baseline justify-between px-6 pt-5">
             <span class="truncate text-[10px] font-semibold uppercase tracking-[0.16em] text-[#a9b3a9]">{typeLabel}</span>
             <span class="flex shrink-0 flex-col items-end pl-3 leading-none">
@@ -487,7 +487,7 @@ export default component$(() => {
         </div>
         <div
           data-testid="card"
-          class="absolute inset-x-4 bottom-6 top-2 flex touch-none flex-col overflow-hidden rounded-[26px] border border-[#e6e0d2] bg-[#fffefa] shadow-[0_24px_60px_-28px_rgba(41,67,49,0.45)]"
+          class="absolute inset-x-4 bottom-6 top-2 flex touch-none flex-col overflow-hidden rounded-[26px] border border-[#e6e0d2] bg-[#fffefa] shadow-[0_8px_0_0_rgba(41,67,49,0.05)]"
           style={{
             transform: `translateX(${dragX.value}px) rotate(${dragX.value / 26}deg)`,
             transition: transition.value,
