@@ -301,6 +301,17 @@ export default component$(() => {
     topicDone.value = false;
   });
 
+  // Browser/hardware back steps a card instead of leaving the app.
+  useVisibleTask$(({ cleanup }) => {
+    window.history.pushState({ n1goi: true }, "", location.href);
+    const onPop = () => {
+      void goBack();
+      window.history.pushState({ n1goi: true }, "", location.href);
+    };
+    window.addEventListener("popstate", onPop);
+    cleanup(() => window.removeEventListener("popstate", onPop));
+  });
+
   const clearHistory = $(() => {
     try {
       for (const key of Object.keys(localStorage)) {
