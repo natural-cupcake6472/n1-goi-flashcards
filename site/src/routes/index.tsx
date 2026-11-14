@@ -550,17 +550,25 @@ export default component$(() => {
           >
             {reveal.value >= 2 && info && (
               <>
-                <p class="m-0 mb-3 text-center text-[15px] leading-normal text-[#3a4a40]">{info[language.value]}</p>
-                <ul class="m-0 flex list-none flex-wrap gap-1.5 p-0">
+                <p class="mx-auto mb-4 w-fit max-w-full rounded-[6px] bg-[#eef1e6] px-3 py-1.5 text-center text-[15px] font-medium leading-snug text-[#2c3d33]">
+                  {info[language.value]}
+                </p>
+                <ul class="m-0 grid list-none grid-cols-[max-content_1fr] items-baseline gap-x-3 gap-y-2 p-0">
                   {info.parts.map((part, i) => (
-                    <li key={i} class={`rounded-[3px] px-2 py-1 text-[13px] leading-snug text-[#5b6a60] ${PART_BG[i % 5]}`}>
-                      <b class="font-semibold text-[#22322a]">{part.text}</b>{" "}
-                      {language.value === "vi" && hanvietForText(part.text) && (
-                        <span class="mr-1 text-[10px] uppercase tracking-[0.06em] text-[#8fa094]">
-                          {hanvietForText(part.text)}
-                        </span>
-                      )}
-                      <span>{part[language.value]}</span>
+                    <li key={i} class="contents">
+                      <span
+                        class={`justify-self-start rounded-[3px] px-1.5 py-0.5 text-[13px] font-semibold text-[#22322a] ${PART_BG[i % 5]}`}
+                      >
+                        {part.text}
+                      </span>
+                      <span class="text-[13px] leading-snug text-[#4d5d52]">
+                        {language.value === "vi" && hanvietForText(part.text) && (
+                          <span class="mr-1.5 text-[10px] uppercase tracking-[0.06em] text-[#8fa094]">
+                            {hanvietForText(part.text)}
+                          </span>
+                        )}
+                        {part[language.value]}
+                      </span>
                     </li>
                   ))}
                 </ul>
