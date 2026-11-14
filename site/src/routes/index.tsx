@@ -183,53 +183,58 @@ export default component$(() => {
 
   const finish = $((dx: number, dy: number) => {
     dragging.value = false;
-    if (Math.abs(dx) > SWIPE && Math.abs(dx) > Math.abs(dy)) {
-      const dir = Math.sign(dx);
-      transition.value = EASE;
-      dragX.value = dir * 620;
-      fading.value = true;
-      setTimeout(() => {
-        if (!fading.value) return;
-        transition.value = "none";
-        dragX.value = 0;
-        fading.value = false;
-        const total = cards.length;
-        if (mode.value === "random") {
-          const next = Math.floor(Math.random() * total);
-          index.value = next === index.value ? (next + 1) % total : next;
-          reveal.value = 0;
-          return;
-        }
-        if (mode.value === "topic") {
-          const sequence = topicSequences[topic.value] ?? [];
-          const target = sequence[sequence.indexOf(index.value) + (dir > 0 ? -1 : 1)];
-          if (target === undefined) {
-            topicDone.value = true;
-            reveal.value = 0;
-            return;
-          }
-          index.value = target;
-          reveal.value = 0;
-          return;
-        }
-        const lesson = lessonAt(index.value);
-        const next = index.value + (dir > 0 ? -1 : 1);
-        if (mode.value === "lesson" && dir < 0 && next >= lesson.start + lesson.count) {
-          lessonDone.value = true;
-          reveal.value = 0;
-          return;
-        }
-        index.value = (next + total) % total;
-        reveal.value = 0;
-      }, 420);
-    } else if (Math.abs(dx) < 10 && Math.abs(dy) < 10) {
-      reveal.value = (reveal.value + 1) % 3;
+    const isSwipe = Math.abs(dx) > SWIPE && Math.abs(dx) > Math.abs(dy);
+    if (!isSwipe) {
+      if (Math.abs(dx) < 10 && Math.abs(dy) < 10) reveal.value = (reveal.value + 1) % 3;
       transition.value = EASE;
       dragX.value = 0;
-    } else {
-      transition.value = EASE;
-      dragX.value = 0;
+      return;
     }
+
+    const dir = Math.sign(dx);
+    const forward = dir < 0;
+    const total = cards.length;
+
+    // Decide the destination before animating, so both directions behave the same.
+    let destination: { kind: "card"; index: number } | { kind: "end"; which: "lesson" | "topic" } | null = null;
+    if (mode.value === "random") {
+      const next = Math.floor(Math.random() * total);
+      destination = { kind: "card", index: next === index.value ? (next + 1) % total : next };
+    } else if (mode.value === "topic") {
+      const sequence = topicSequences[topic.value] ?? [];
+      const at = sequence.indexOf(index.value);
+      const target = at < 0 ? undefined : sequence[at + (forward ? 1 : -1)];
+      if (target !== undefined) destination = { kind: "card", index: target };
+      else if (forward) destination = { kind: "end", which: "topic" };
+    } else if (mode.value === "lesson") {
+      const lesson = lessonAt(index.value);
+      const next = index.value + (forward ? 1 : -1);
+      if (forward && next >= lesson.start + lesson.count) destination = { kind: "end", which: "lesson" };
+      else if (!forward && next < lesson.start) destination = null;
+      else destination = { kind: "card", index: next };
+    } else {
+      destination = { kind: "card", index: (index.value + (forward ? 1 : -1) + total) % total };
+    }
+
+    if (!destination) {
+      transition.value = EASE;
+      dragX.value = 0;
+      return;
+    }
+
+    transition.value = EASE;
+    dragX.value = dir * 620;
+    fading.value = true;
+    setTimeout(() => {
+      if (!fading.value) return;
+      transition.value = "none";
+      dragX.value = 0;
+      fading.value = false;
+      reveal.value = 0;
+      if (destination.kind === "card") index.value = destination.index;
+      else if (destination.which === "topic") topicDone.value = true;
+      else lessonDone.value = true;
+    }, 420);
   });
 
   const cycleMode = $((dir: number) => {
