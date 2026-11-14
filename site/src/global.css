@@ -7,3 +7,6 @@ html, body { height: 100%; margin: 0; overscroll-behavior: none; background: #f7
   to { opacity: 1; transform: none; }
 }
 .sheet-in { animation: sheet-in 180ms ease-out; }
+.art-layer svg { width: 100%; height: 100%; display: block; }
+@keyframes drift { 0%, 100% { transform: translate3d(0,0,0) scale(1); } 50% { transform: translate3d(0,-8px,0) scale(1.02); } }
+.art-anim { animation: drift 16s ease-in-out infinite; }

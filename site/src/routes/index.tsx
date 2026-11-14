@@ -7,6 +7,8 @@ import kanjiMap from "../generated/kanji.json";
 import lessonOrder from "../generated/lesson-order.json";
 import topicsData from "../generated/topics.json";
 import hanvietMap from "../generated/hanviet.json";
+import lessonKanji from "../generated/lesson-kanji.json";
+import { loadPack } from "../generated/undraw-loader";
 
 type Unit = { text: string; reading?: string; whole?: boolean };
 type Mode = "lesson" | "topic" | "group" | "random";
@@ -36,6 +38,7 @@ const cards: string[] = displayOrder.map((i) => deck[i]);
 const kanjiAll: (string | null)[] = (kanjiMap as { cardKanji: (string | null)[] }).cardKanji;
 const cardKanji: (string | null)[] = displayOrder.map((i) => kanjiAll[i] ?? null);
 const HANVIET = hanvietMap as Record<string, string>;
+const LESSON_KANJI = lessonKanji as Record<string, string[]>;
 const hanvietForText = (text: string): string =>
   [...new Set([...text].filter((c) => /\p{Script=Han}/u.test(c)))]
     .map((c) => HANVIET[c] ?? "")
@@ -173,6 +176,8 @@ export default component$(() => {
   const topic = useSignal<string>(topicList[0]?.id ?? "");
   const detail = useSignal<KnowledgeEntry | undefined>(undefined);
   const previewDetail = useSignal<KnowledgeEntry | undefined>(undefined);
+  const pack = useSignal<string[]>([]);
+  const packTopic = useSignal<string>("");
   const dragX = useSignal(0);
   const dragging = useSignal(false);
   const fading = useSignal(false);
@@ -181,6 +186,7 @@ export default component$(() => {
   const startY = useSignal(0);
   const loaded = useSignal(false);
   const panelOpen = useSignal(false);
+  const intro = useSignal(false);
   const lessonDone = useSignal(false);
   const topicDone = useSignal(false);
   const picker = useSignal<"view" | "lesson" | "topic" | "history" | null>(null);
@@ -203,6 +209,13 @@ export default component$(() => {
     const previewChunk = await loadChunk(deckIndex(previewPosition));
     if (index.value !== current) return;
     previewDetail.value = previewChunk?.[cards[previewPosition]];
+    const topicId = (topicsData as { cardTopics: string[][] }).cardTopics[current]?.[0] ?? "misc";
+    if (packTopic.value !== topicId) {
+      const loaded = await loadPack(topicId);
+      if (index.value !== current) return;
+      pack.value = loaded;
+      packTopic.value = topicId;
+    }
     for (const offset of [1, 2, 3, 4, 5]) {
       const target =
         mode.value === "topic"
@@ -316,6 +329,7 @@ export default component$(() => {
     index.value = next.start;
     reveal.value = 0;
     lessonDone.value = false;
+    intro.value = true;
   });
   const cycleTopic = $((dir: number) => {
     const at = topicList.findIndex((item) => item.id === topic.value);
@@ -389,6 +403,7 @@ export default component$(() => {
   });
 
   const shown = revealFor.value === index.value ? reveal.value : 0;
+  const bg = pack.value.length ? pack.value[index.value % pack.value.length] : "";
   const card = cards[index.value];
   const previewPosition = nextPosition(index.value, -1, mode.value, topic.value) ?? (index.value + 1) % cards.length;
   const nextCard = cards[previewPosition];
@@ -460,6 +475,11 @@ export default component$(() => {
       </div>
       <div class="relative mx-auto w-full max-w-[480px] flex-1 px-4 pb-2">
         <div class="pointer-events-none absolute inset-x-4 bottom-6 top-2 flex flex-col overflow-hidden rounded-[26px] border border-[#e6e0d2] bg-[#fffefa] shadow-[0_24px_60px_-28px_rgba(41,67,49,0.45)]">
+          <div class="pointer-events-none absolute inset-0 art-layer opacity-[0.28]">
+            {bg && (
+              <img src={`data:image/svg+xml;utf8,${encodeURIComponent(bg)}`} alt="" class="h-full w-full object-contain art-anim" />
+            )}
+          </div>
           <div class="flex items-baseline justify-between px-6 pt-5">
             <span class="truncate text-[10px] font-semibold uppercase tracking-[0.16em] text-[#a9b3a9]">{typeLabel}</span>
             <span class="flex shrink-0 flex-col items-end pl-3 leading-none">
@@ -534,6 +554,11 @@ export default component$(() => {
             void finish(event.clientX - startX.value, event.clientY - startY.value);
           })}
         >
+          <div class="pointer-events-none absolute inset-0 art-layer opacity-[0.28]">
+            {bg && (
+              <img src={`data:image/svg+xml;utf8,${encodeURIComponent(bg)}`} alt="" class="h-full w-full object-contain art-anim" />
+            )}
+          </div>
           <div class="flex items-baseline justify-between px-6 pt-5">
             <span class="truncate text-[10px] font-semibold uppercase tracking-[0.16em] text-[#a9b3a9]">{typeLabel}</span>
             <span class="flex shrink-0 flex-col items-end pl-3 leading-none">
@@ -622,6 +647,44 @@ export default component$(() => {
           </button>
         ))}
       </nav>
+
+      {intro.value && (
+        <div class="fixed inset-0 z-40 flex items-center justify-center bg-[#f7f4ec] px-6">
+          <div class="pointer-events-none absolute inset-0 art-layer opacity-30">
+            {bg && (
+              <img src={`data:image/svg+xml;utf8,${encodeURIComponent(bg)}`} alt="" class="h-full w-full object-contain art-anim" />
+            )}
+          </div>
+          <div class="relative w-full max-w-[340px]">
+            <div class="text-[10px] font-bold tracking-[0.22em] text-[#a0aaa1]">
+              {mode.value === "topic" ? "TOPIC" : "LESSON"}
+            </div>
+            <div class="mt-2 text-[26px] font-semibold text-[#22322a]">
+              {mode.value === "topic"
+                ? topicList.find((t) => t.id === topic.value)?.label ?? ""
+                : lessonAt(index.value).label}
+            </div>
+            <div class="mt-1 text-[13px] text-[#7c8b80]">
+              {mode.value === "topic"
+                ? (topicSequences[topic.value]?.length ?? 0) + " cards"
+                : lessonAt(index.value).count + " cards · " + (LESSON_KANJI[lessonAt(index.value).id]?.length ?? 0) + " kanji"}
+            </div>
+            {mode.value !== "topic" && (LESSON_KANJI[lessonAt(index.value).id]?.length ?? 0) > 0 && (
+              <div class="mt-5 flex flex-wrap gap-x-2.5 gap-y-1.5 text-[17px] text-[#3d4f44]">
+                {(LESSON_KANJI[lessonAt(index.value).id] ?? []).map((kanji) => (
+                  <span key={kanji}>{kanji}</span>
+                ))}
+              </div>
+            )}
+            <button
+              class="mt-8 w-full rounded-full bg-[#2f5d45] py-3 text-[13px] font-semibold text-[#f7f4ec]"
+              onClick$={() => (intro.value = false)}
+            >
+              Start
+            </button>
+          </div>
+        </div>
+      )}
 
       {topicDone.value && (
         <div class="fixed inset-0 z-40 flex items-center justify-center bg-[#f7f4ec]/95 px-6">
