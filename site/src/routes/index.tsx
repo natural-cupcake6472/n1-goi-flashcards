@@ -646,9 +646,15 @@ export default component$(() => {
             </button>
             <button
               class="mt-2 w-full rounded-full border border-[#e0dbcd] py-3 text-[13px] font-semibold text-[#6d7c71]"
-              onClick$={() => (topicDone.value = false)}
+              onClick$={() => {
+                const first = topicSequences[topic.value]?.[0];
+                if (first !== undefined) index.value = first;
+                reveal.value = 0;
+                revealFor.value = first ?? index.value;
+                topicDone.value = false;
+              }}
             >
-              Stay here
+              Restart topic
             </button>
             <button class="mt-3 text-[12px] text-[#8f9c92] underline" onClick$={openPanel}>
               Pick another topic
@@ -677,9 +683,15 @@ export default component$(() => {
             </button>
             <button
               class="mt-2 w-full rounded-full border border-[#e0dbcd] py-3 text-[13px] font-semibold text-[#6d7c71]"
-              onClick$={() => (lessonDone.value = false)}
+              onClick$={() => {
+                const start = lessonAt(index.value).start;
+                index.value = start;
+                reveal.value = 0;
+                revealFor.value = start;
+                lessonDone.value = false;
+              }}
             >
-              Review again
+              Restart lesson
             </button>
             <button class="mt-3 text-[12px] text-[#8f9c92] underline" onClick$={openPanel}>
               Pick another lesson
