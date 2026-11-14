@@ -6,6 +6,7 @@ import furiganaMap from "../generated/furigana.json";
 import kanjiMap from "../generated/kanji.json";
 import lessonOrder from "../generated/lesson-order.json";
 import topicsData from "../generated/topics.json";
+import hanvietMap from "../generated/hanviet.json";
 
 type Unit = { text: string; reading?: string; whole?: boolean };
 type Mode = "lesson" | "topic" | "group" | "random";
@@ -34,6 +35,8 @@ const deckIndex = (position: number) => displayOrder[position] ?? 0;
 const cards: string[] = displayOrder.map((i) => deck[i]);
 const kanjiAll: (string | null)[] = (kanjiMap as { cardKanji: (string | null)[] }).cardKanji;
 const cardKanji: (string | null)[] = displayOrder.map((i) => kanjiAll[i] ?? null);
+const HANVIET = hanvietMap as Record<string, string>;
+const hanvietFor = (kanji: string | null): string => (kanji ? HANVIET[kanji] ?? "" : "");
 const lessonAt = (position: number): Lesson =>
   lessons.find((l) => position >= l.start && position < l.start + l.count) ?? lessons[0];
 const nextPosition = (position: number, dir: number, mode: Mode, topicId: string): number | null => {
@@ -371,7 +374,12 @@ export default component$(() => {
         <div class="pointer-events-none absolute inset-x-4 bottom-6 top-2 flex flex-col overflow-hidden rounded-[26px] border border-[#e6e0d2] bg-[#fffefa] shadow-[0_24px_60px_-28px_rgba(41,67,49,0.45)]">
           <div class="flex items-baseline justify-between px-6 pt-5">
             <span class="truncate text-[10px] font-semibold uppercase tracking-[0.16em] text-[#a9b3a9]">{typeLabel}</span>
-            <span class="shrink-0 pl-3 text-[12px] tracking-[0.3em] text-[#b6c0b5]">{kanjiNext}</span>
+            <span class="flex shrink-0 flex-col items-end pl-3 leading-none">
+              <span class="text-[12px] tracking-[0.3em] text-[#b6c0b5]">{kanjiNext}</span>
+              {language.value === "vi" && (
+                <span class="mt-1 text-[9px] tracking-[0.08em] text-[#c6cec3]">{hanvietFor(kanjiNext)}</span>
+              )}
+            </span>
           </div>
           <div class="flex flex-1 flex-col items-center justify-center gap-2 px-6">
             <p class={sentenceClass(loaded.value)}>{nextCard}</p>
@@ -424,7 +432,12 @@ export default component$(() => {
         >
           <div class="flex items-baseline justify-between px-6 pt-5">
             <span class="truncate text-[10px] font-semibold uppercase tracking-[0.16em] text-[#a9b3a9]">{typeLabel}</span>
-            <span class="shrink-0 pl-3 text-[12px] tracking-[0.3em] text-[#b6c0b5]">{kanjiNow}</span>
+            <span class="flex shrink-0 flex-col items-end pl-3 leading-none">
+            <span class="text-[12px] tracking-[0.3em] text-[#b6c0b5]">{kanjiNow}</span>
+            {language.value === "vi" && (
+              <span class="mt-1 text-[9px] tracking-[0.08em] text-[#c6cec3]">{hanvietFor(kanjiNow)}</span>
+            )}
+          </span>
           </div>
           <div class="flex flex-1 flex-col items-center justify-center gap-2 px-6">
             <p data-testid="sentence" class={sentenceClass(loaded.value)} lang="ja">
@@ -434,7 +447,7 @@ export default component$(() => {
                       <span
                         key={`${i}-${j}`}
                         class={
-                          "inline-flex max-w-full flex-col items-center rounded-[3px] px-0.5 align-bottom" +
+                          "inline-flex max-w-full flex-col items-center rounded-[3px] px-0.5 align-bottom transition-colors duration-150" +
                           (reveal.value >= 2 ? ` ${PART_BG[i % 5]}` : "")
                         }
                       >
@@ -461,7 +474,7 @@ export default component$(() => {
           <div
             class={
               "min-h-0 flex-1 overflow-y-auto px-6 pb-6 pt-4 " +
-              (reveal.value >= 2 && info ? "border-t border-[#e3ded2]" : "")
+              (reveal.value >= 2 && info ? "sheet-in border-t border-[#e3ded2]" : "")
             }
           >
             {reveal.value >= 2 && info && (
