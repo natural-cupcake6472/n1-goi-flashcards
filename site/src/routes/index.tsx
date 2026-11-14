@@ -428,21 +428,23 @@ export default component$(() => {
           </div>
           <div class="flex flex-1 flex-col items-center justify-center gap-2 px-6">
             <p data-testid="sentence" class={sentenceClass(loaded.value)} lang="ja">
-              {reveal.value >= 1 && info
+              {info
                 ? info.parts.flatMap((part, i) =>
                     unitsFor(part.text, part.kana).map((unit, j) => (
                       <span
                         key={`${i}-${j}`}
                         class={
-                          "inline-flex max-w-full flex-col items-center align-bottom" +
-                          (reveal.value >= 2 ? ` ${PART_BG[i % 5]} rounded-[3px] px-0.5` : "")
+                          "inline-flex max-w-full flex-col items-center rounded-[3px] px-0.5 align-bottom" +
+                          (reveal.value >= 2 ? ` ${PART_BG[i % 5]}` : "")
                         }
                       >
                         <span
                           class={
-                            unit.whole
-                              ? "flex w-full justify-between whitespace-nowrap font-sans text-[0.34em] leading-[1.25] text-[#6c8a76]"
-                              : "whitespace-nowrap font-sans text-[0.34em] leading-[1.25] text-[#6c8a76]"
+                            (unit.whole
+                              ? "flex w-full justify-between whitespace-nowrap"
+                              : "whitespace-nowrap") +
+                            " font-sans text-[0.34em] leading-[1.25] text-[#6c8a76] transition-opacity duration-150 " +
+                            (reveal.value >= 1 ? "opacity-100" : "opacity-0")
                           }
                         >
                           {unit.whole && unit.reading
