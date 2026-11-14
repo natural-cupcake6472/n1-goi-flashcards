@@ -28,6 +28,20 @@ bun run dev       # or: vite --mode ssr
 
 The build reads the authored cards from `../knowledge` and the card catalog from `site/src/catalog`.
 
+## Deploy to Cloudflare
+
+The app is a static build, so it runs on Cloudflare's CDN with no server.
+
+```bash
+cd site
+bunx wrangler login    # once, opens the browser
+bun run build
+bun run deploy         # wrangler deploy -> https://n1-goi-flashcards.<your-subdomain>.workers.dev
+```
+
+Config lives in `site/wrangler.toml` (Workers static assets, SPA fallback).
+For Cloudflare Pages instead: `bun run deploy:pages`.
+
 ## Data
 
 - `knowledge/cards-*.json` — sentences with English/Vietnamese/Japanese translations and per-word breakdowns.
