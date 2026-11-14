@@ -56,6 +56,43 @@ const nextPosition = (position: number, dir: number, mode: Mode, topicId: string
 };
 
 const STATE_KEY = "n1goi:state";
+const IDB_NAME = "n1goi";
+const openDb = (): Promise<IDBDatabase | null> =>
+  new Promise((resolve) => {
+    try {
+      const request = indexedDB.open(IDB_NAME, 1);
+      request.onupgradeneeded = () => {
+        if (!request.result.objectStoreNames.contains("kv")) request.result.createObjectStore("kv");
+      };
+      request.onsuccess = () => resolve(request.result);
+      request.onerror = () => resolve(null);
+    } catch {
+      resolve(null);
+    }
+  });
+const idbPut = async (key: string, value: unknown) => {
+  const db = await openDb();
+  if (!db) return;
+  await new Promise<void>((resolve) => {
+    const tx = db.transaction("kv", "readwrite");
+    tx.objectStore("kv").put(value, key);
+    tx.oncomplete = () => resolve();
+    tx.onerror = () => resolve();
+  });
+  db.close();
+};
+const idbGet = async <T,>(key: string): Promise<T | null> => {
+  const db = await openDb();
+  if (!db) return null;
+  const value = await new Promise<T | null>((resolve) => {
+    const tx = db.transaction("kv", "readonly");
+    const request = tx.objectStore("kv").get(key);
+    request.onsuccess = () => resolve((request.result ?? null) as T | null);
+    request.onerror = () => resolve(null);
+  });
+  db.close();
+  return value;
+};
 const BACK_KEY = "n1goi:back";
 const readBack = (): number[] => {
   try {
@@ -171,11 +208,13 @@ export default component$(() => {
   });
 
   // Local state only: read once on the client, URL wins when it carries a card.
-  useVisibleTask$(() => {
+  useVisibleTask$(async () => {
+    void navigator.storage?.persist?.().catch(() => undefined);
     const params = new URLSearchParams(location.search);
+    const hasCard = params.has("card");
     const fromUrl = Number(params.get("card"));
-    const stored = readState();
-    if (Number.isFinite(fromUrl) && fromUrl >= 0 && fromUrl < cards.length) {
+    const stored = readState() ?? (await idbGet<Stored>("state"));
+    if (hasCard && Number.isFinite(fromUrl) && fromUrl >= 0 && fromUrl < cards.length) {
       index.value = fromUrl;
       const step = Number(params.get("reveal"));
       if (Number.isFinite(step)) reveal.value = Math.min(2, Math.max(0, step));
@@ -208,7 +247,9 @@ export default component$(() => {
     const order = track(() => mode.value);
     const currentTopic = track(() => topic.value);
     if (!ready || typeof window === "undefined") return;
-    writeState({ index: card, reveal: step, lang, mode: order, topic: currentTopic });
+    const snapshot = { index: card, reveal: step, lang, mode: order, topic: currentTopic };
+    writeState(snapshot);
+    void idbPut("state", snapshot);
     if (!remote.value) {
       history.value = pushHistory(order, card);
       historyTotal.value = history.value.length;
