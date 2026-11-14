@@ -171,6 +171,7 @@ export default component$(() => {
   const mode = useSignal<Mode>("lesson");
   const topic = useSignal<string>(topicList[0]?.id ?? "");
   const detail = useSignal<KnowledgeEntry | undefined>(undefined);
+  const previewDetail = useSignal<KnowledgeEntry | undefined>(undefined);
   const dragX = useSignal(0);
   const dragging = useSignal(false);
   const fading = useSignal(false);
@@ -197,6 +198,10 @@ export default component$(() => {
     const chunk = await loadChunk(deckIndex(current));
     if (index.value !== current) return;
     detail.value = chunk?.[japanese];
+    const previewPosition = nextPosition(current, -1, mode.value, topic.value) ?? (current + 1) % cards.length;
+    const previewChunk = await loadChunk(deckIndex(previewPosition));
+    if (index.value !== current) return;
+    previewDetail.value = previewChunk?.[cards[previewPosition]];
     for (const offset of [1, 2, 3, 4, 5]) {
       const target =
         mode.value === "topic"
@@ -456,7 +461,27 @@ export default component$(() => {
             </span>
           </div>
           <div class="flex flex-1 flex-col items-center justify-center gap-2 px-6">
-            <p class={sentenceClass(loaded.value)} lang="ja">{nextCard}</p>
+            <p class={sentenceClass(loaded.value)} lang="ja">
+              {previewDetail.value
+                ? previewDetail.value.parts.flatMap((part, i) =>
+                    unitsFor(part.text, part.kana).map((unit, j) => (
+                      <span key={`${i}-${j}`} class="inline-flex max-w-full flex-col items-center rounded-[3px] px-0.5 align-bottom">
+                        <span
+                          class={
+                            (unit.whole ? "flex w-full justify-between whitespace-nowrap" : "whitespace-nowrap") +
+                            " font-sans text-[0.34em] leading-[1.25] text-[#6c8a76] opacity-0"
+                          }
+                        >
+                          {unit.whole && unit.reading
+                            ? [...unit.reading].map((c, k) => <span key={k}>{c}</span>)
+                            : unit.reading || "\u00a0"}
+                        </span>
+                        <span class="leading-[1.3]">{unit.text}</span>
+                      </span>
+                    )),
+                  )
+                : nextCard}
+            </p>
           </div>
           <div class="flex-1 px-6 pb-6 pt-4" />
         </div>
