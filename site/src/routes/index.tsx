@@ -106,6 +106,23 @@ const pushHistory = (mode: string, index: number): Visit[] => {
   return next;
 };
 
+const readToday = (): number => {
+  try {
+    const start = new Date();
+    start.setHours(0, 0, 0, 0);
+    const midnight = start.getTime();
+    const seen = new Set<number>();
+    for (const key of Object.keys(localStorage)) {
+      if (!key.startsWith("n1goi:history:")) continue;
+      const list = JSON.parse(localStorage.getItem(key) ?? "[]") as Visit[];
+      for (const visit of list) if (visit.at >= midnight) seen.add(visit.index);
+    }
+    return seen.size;
+  } catch {
+    return 0;
+  }
+};
+
 const PART_BG = ["bg-[#e0efe4]", "bg-[#f8e9d6]", "bg-[#e4e8f7]", "bg-[#f6e2e5]", "bg-[#e5eee7]"];
 const SWIPE = 80;
 const EASE = "transform 200ms ease-out, opacity 200ms ease-out";
@@ -130,6 +147,7 @@ export default component$(() => {
   const picker = useSignal<"view" | "lesson" | "topic" | "history" | null>(null);
   const history = useSignal<Visit[]>([]);
   const historyTotal = useSignal(0);
+  const todayCount = useSignal(0);
   const remote = useSignal(false);
   const backStack = useSignal<number[]>([]);
 
@@ -177,6 +195,7 @@ export default component$(() => {
     history.value = readHistory(mode.value);
     historyTotal.value = history.value.length;
     backStack.value = readBack();
+    todayCount.value = readToday();
     loaded.value = true;
   });
 
@@ -193,6 +212,7 @@ export default component$(() => {
     if (!remote.value) {
       history.value = pushHistory(order, card);
       historyTotal.value = history.value.length;
+      todayCount.value = readToday();
     }
     remote.value = false;
     const url = new URL(window.location.href);
@@ -402,6 +422,8 @@ export default component$(() => {
               {progress.done}/{progress.total}
             </span>
           )}
+          <span class="text-[10px] text-[#c3cbc0]">·</span>
+          <span class="text-[10px] tabular-nums text-[#a6b0a6]">{todayCount.value} today</span>
         </div>
       </div>
       <div class="relative mx-auto w-full max-w-[480px] flex-1 px-4 pb-2">
