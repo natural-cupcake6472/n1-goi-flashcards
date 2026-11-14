@@ -207,24 +207,11 @@ export default component$(() => {
     }
   });
 
-  // Local state only: read once on the client, URL wins when it carries a card.
+  // Local state only: localStorage first, IndexedDB as the fallback.
   useVisibleTask$(async () => {
     void navigator.storage?.persist?.().catch(() => undefined);
-    const params = new URLSearchParams(location.search);
-    const hasCard = params.has("card");
-    const fromUrl = Number(params.get("card"));
     const stored = readState() ?? (await idbGet<Stored>("state"));
-    if (hasCard && Number.isFinite(fromUrl) && fromUrl >= 0 && fromUrl < cards.length) {
-      index.value = fromUrl;
-      const step = Number(params.get("reveal"));
-      if (Number.isFinite(step)) reveal.value = Math.min(2, Math.max(0, step));
-      const lang = params.get("lang");
-      if (lang === "en" || lang === "vi" || lang === "ja") language.value = lang;
-      const m = params.get("mode");
-      if (m === "lesson" || m === "topic" || m === "group" || m === "random") mode.value = m;
-      const t = params.get("topic");
-      if (t && topicSequences[t]) topic.value = t;
-    } else if (stored) {
+    if (stored) {
       if (stored.index >= 0 && stored.index < cards.length) index.value = stored.index;
       reveal.value = Math.min(2, Math.max(0, stored.reveal ?? 0));
       if (stored.lang) language.value = stored.lang;
@@ -238,7 +225,7 @@ export default component$(() => {
     loaded.value = true;
   });
 
-  // Persist locally + reflect in the URL.
+  // Persist locally.
   useTask$(({ track }) => {
     const ready = track(() => loaded.value);
     const card = track(() => index.value);
@@ -256,14 +243,6 @@ export default component$(() => {
       todayCount.value = readToday();
     }
     remote.value = false;
-    const url = new URL(window.location.href);
-    url.searchParams.set("mode", order);
-    url.searchParams.set("card", String(card));
-    url.searchParams.set("reveal", String(step));
-    url.searchParams.set("lang", lang);
-    if (order === "topic") url.searchParams.set("topic", currentTopic);
-    else url.searchParams.delete("topic");
-    window.history.replaceState(null, "", url);
   });
 
   const finish = $((dx: number, dy: number) => {

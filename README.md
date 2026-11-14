@@ -11,7 +11,7 @@ A mobile-first Japanese study deck built from an N1 preparation kanji workbook (
 - **Kanji** — straight through the kanji order.
 - **Random** — any card.
 
-The admin sheet (ADMIN button) has arrow rows for View / Lesson-Topic and a History viewer. State and history live in the browser (localStorage) and the URL, so a reload resumes exactly where you were.
+The admin sheet (ADMIN button) has arrow rows for View / Lesson-Topic and a History viewer. State and history live in the browser (localStorage, mirrored to IndexedDB), so a reload or a browser restart resumes exactly where you were. The URL stays clean.
 
 ## Furigana
 
