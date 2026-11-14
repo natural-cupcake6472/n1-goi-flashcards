@@ -1,0 +1,22 @@
+[
+  {"japanese":"砂","kana":"すな","en":"sand","vi":"cát","ja":"岩石が細かく砕けた粒。","parts":[{"text":"砂","kana":"すな","en":"sand","vi":"cát","ja":"細かく砕けた岩石の粒。"}]},
+  {"japanese":"拒む","kana":"こばむ","en":"refuse; reject","vi":"từ chối; khước từ","ja":"相手の要求や申し出を受け入れない。","parts":[{"text":"拒む","kana":"こばむ","en":"refuse; reject","vi":"từ chối; khước từ","ja":"要求や申し出を受け入れない。"}]},
+  {"japanese":"拒否","kana":"きょひ","en":"refusal; rejection","vi":"sự từ chối","ja":"要求や提案などを受け入れないこと。","parts":[{"text":"拒否","kana":"きょひ","en":"refusal; rejection","vi":"sự từ chối","ja":"申し出や要求を受け入れないこと。"}]},
+  {"japanese":"否めない","kana":"いなめない","en":"cannot deny; undeniable","vi":"không thể phủ nhận","ja":"否定することができない。","parts":[{"text":"否めない","kana":"いなめない","en":"cannot deny; undeniable","vi":"không thể phủ nhận","ja":"否定できない。"}]},
+  {"japanese":"距離","kana":"きょり","en":"distance","vi":"khoảng cách","ja":"二つの場所や物の間の隔たり。","parts":[{"text":"距離","kana":"きょり","en":"distance","vi":"khoảng cách","ja":"二点の間の長さや隔たり。"}]},
+  {"japanese":"跡地","kana":"あとち","en":"former site; remains of a site","vi":"khu đất cũ; địa điểm trước đây","ja":"建物などが取り払われた後の土地。","parts":[{"text":"跡地","kana":"あとち","en":"former site; former grounds","vi":"khu đất cũ","ja":"建物や施設がなくなった後の土地。"}]},
+  {"japanese":"招く","kana":"まねく","en":"invite; cause; bring about","vi":"mời; gây ra","ja":"人を呼び寄せる。また、ある結果を引き起こす。","parts":[{"text":"招く","kana":"まねく","en":"invite; cause; bring about","vi":"mời; gây ra","ja":"人を呼ぶ。ある結果を生じさせる意味もある。"}]},
+  {"japanese":"招待","kana":"しょうたい","en":"invitation","vi":"lời mời; sự mời","ja":"客として来るよう人を招くこと。","parts":[{"text":"招待","kana":"しょうたい","en":"invitation","vi":"lời mời; sự mời","ja":"人を客として呼ぶこと。"}]},
+  {"japanese":"紹介","kana":"しょうかい","en":"introduction; referral","vi":"sự giới thiệu","ja":"知らない人同士を引き合わせたり、物事を知らせたりすること。","parts":[{"text":"紹介","kana":"しょうかい","en":"introduction; referral","vi":"sự giới thiệu","ja":"人や物事を他の人に知らせること。"}]},
+  {"japanese":"超える","kana":"こえる","en":"exceed; surpass; cross","vi":"vượt quá; vượt qua","ja":"基準や限度より上になる。また、境界を越えて進む。","parts":[{"text":"超える","kana":"こえる","en":"exceed; surpass; cross","vi":"vượt quá; vượt qua","ja":"基準や限界を上回る。境界の向こうへ進む意味もある。"}]},
+  {"japanese":"超過","kana":"ちょうか","en":"excess; exceeding","vi":"sự vượt quá","ja":"決められた数量や限度を超えること。","parts":[{"text":"超過","kana":"ちょうか","en":"excess; exceeding","vi":"sự vượt quá","ja":"定められた限度や数量を上回ること。"}]},
+  {"japanese":"越す","kana":"こす","en":"cross; go beyond; move","vi":"vượt qua; chuyển nhà","ja":"境界や障害を通り抜ける。また、ある場所へ移る。","parts":[{"text":"越す","kana":"こす","en":"cross; go beyond; move","vi":"vượt qua; chuyển nhà","ja":"境界を越える。引っ越す意味にもなる。"}]},
+  {"japanese":"日越","kana":"にちえつ","en":"Japan–Vietnam","vi":"Nhật–Việt","ja":"日本とベトナムに関することを表す略語。","parts":[{"text":"日越","kana":"にちえつ","en":"Japan–Vietnam","vi":"Nhật–Việt","ja":"日本とベトナムを合わせて表す語。"}]},
+  {"japanese":"趣き","kana":"おもむき","en":"charm; atmosphere; character","vi":"vẻ; nét; không khí","ja":"そのものに感じられる風情や特徴。","parts":[{"text":"趣き","kana":"おもむき","en":"charm; atmosphere; character","vi":"vẻ; nét; không khí","ja":"物事に感じられる味わいや様子。"}]},
+  {"japanese":"趣旨","kana":"しゅし","en":"main point; purpose","vi":"ý chính; mục đích","ja":"文章や話などで、中心となる考えや目的。","parts":[{"text":"趣旨","kana":"しゅし","en":"main point; purpose","vi":"ý chính; mục đích","ja":"話や文章の中心となる考え。"}]},
+  {"japanese":"厳しい","kana":"きびしい","en":"strict; severe; harsh","vi":"nghiêm khắc; khắc nghiệt","ja":"要求や条件がゆるくなく、簡単には許されない。","parts":[{"text":"厳しい","kana":"きびしい","en":"strict; severe; harsh","vi":"nghiêm khắc; khắc nghiệt","ja":"条件や態度が厳格で、容易ではない。"}]},
+  {"japanese":"厳正","kana":"げんせい","en":"strict and impartial","vi":"nghiêm minh; công bằng","ja":"規則に従い、公平で不正がないこと。","parts":[{"text":"厳正","kana":"げんせい","en":"strict and impartial","vi":"nghiêm minh; công bằng","ja":"厳しく正しく、公平であること。"}]},
+  {"japanese":"建てる","kana":"たてる","en":"build; erect","vi":"xây dựng","ja":"建物や構造物を作る。","parts":[{"text":"建てる","kana":"たてる","en":"build; erect","vi":"xây dựng","ja":"建物を作り上げる。"}]},
+  {"japanese":"建設","kana":"けんせつ","en":"construction; building","vi":"xây dựng","ja":"建物や道路などを新しく作ること。","parts":[{"text":"建設","kana":"けんせつ","en":"construction; building","vi":"sự xây dựng","ja":"建物や施設などを作ること。"}]},
+  {"japanese":"健康","kana":"けんこう","en":"health; healthy","vi":"sức khỏe; khỏe mạnh","ja":"体や心の調子がよい状態。","parts":[{"text":"健康","kana":"けんこう","en":"health; healthy","vi":"sức khỏe; khỏe mạnh","ja":"心身の状態が良好であること。"}]}
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "japanese": "ねずみが繁殖する",
+    "kana": "ねずみがはんしょくする",
+    "en": "Mice breed.",
+    "vi": "Chuột sinh sản.",
+    "ja": "ねずみが子を産んで数を増やす。",
+    "parts": [
+      {
+        "text": "ねずみ",
+        "kana": "ねずみ",
+        "en": "mice",
+        "vi": "chuột",
+        "ja": "小型の哺乳類"
+      },
+      {
+        "text": "が",
+        "kana": "が",
+        "en": "(subject marker)",
+        "vi": "(trợ từ chủ ngữ)",
+        "ja": "主語を表す助詞"
+      },
+      {
+        "text": "繁殖",
+        "kana": "はんしょく",
+        "en": "breed",
+        "vi": "sinh sản",
+        "ja": "子を産んで数を増やすこと"
+      },
+      {
+        "text": "する",
+        "kana": "する",
+        "en": "do",
+        "vi": "làm",
+        "ja": "行う"
+      }
+    ]
+  }
+]

@@ -1,0 +1,132 @@
+[
+  {
+    "japanese":"影響を及ぼす",
+    "kana":"えいきょうをおよぼす",
+    "en":"Have an effect; exert an influence.",
+    "vi":"Gây ảnh hưởng.",
+    "ja":"ある物事が他の物事に作用し、変化をもたらす。",
+    "parts":[
+      {"text":"影響","kana":"えいきょう","en":"effect; influence","vi":"ảnh hưởng","ja":"他の物事や人の考え・行動に作用すること。"},
+      {"text":"を","en":"marks what is affected","vi":"đánh dấu đối tượng chịu tác động","ja":"動作の対象を示す助詞。"},
+      {"text":"及ぼす","kana":"およぼす","en":"exert; bring about; extend to","vi":"gây ra; tạo ảnh hưởng","ja":"作用や影響を相手に与える。"}
+    ]
+  },
+  {
+    "japanese":"東京、大阪及び京都で学会が開催される",
+    "kana":"とうきょう、おおさかおよびきょうとでがっかいがかいさいされる",
+    "en":"The academic conference will be held in Tokyo, Osaka, and Kyoto.",
+    "vi":"Hội nghị học thuật sẽ được tổ chức tại Tokyo, Osaka và Kyoto.",
+    "ja":"東京・大阪・京都を会場として、学会が開かれる。",
+    "parts":[
+      {"text":"東京","kana":"とうきょう","en":"Tokyo","vi":"Tokyo","ja":"日本の首都。"},
+      {"text":"、","en":"Japanese comma","vi":"dấu phẩy tiếng Nhật","ja":"語句を区切る読点。"},
+      {"text":"大阪","kana":"おおさか","en":"Osaka","vi":"Osaka","ja":"日本の都市・府。"},
+      {"text":"及び","kana":"および","en":"and; as well as","vi":"và","ja":"複数の語句を並べる接続語。"},
+      {"text":"京都","kana":"きょうと","en":"Kyoto","vi":"Kyoto","ja":"日本の都市・府。"},
+      {"text":"で","en":"marks the place where it is held","vi":"đánh dấu địa điểm tổ chức","ja":"動作や出来事の行われる場所を示す助詞。"},
+      {"text":"学会","kana":"がっかい","en":"academic society; conference","vi":"hội học thuật; hội nghị học thuật","ja":"学術研究者の団体、またはその会合。"},
+      {"text":"が","en":"marks the subject","vi":"đánh dấu chủ thể","ja":"動作の主体を示す助詞。"},
+      {"text":"開催される","kana":"かいさいされる","en":"be held","vi":"được tổ chức","ja":"「開催する」の受身形で、会や催しが開かれること。"}
+    ]
+  },
+  {
+    "japanese":"インターネットが普及する",
+    "kana":"インターネットがふきゅうする",
+    "en":"The internet becomes widely used.",
+    "vi":"Internet trở nên phổ biến.",
+    "ja":"インターネットが広く一般に使われるようになる。",
+    "parts":[
+      {"text":"インターネット","kana":"インターネット","en":"internet","vi":"Internet","ja":"世界中のコンピューターをつなぐ通信網。"},
+      {"text":"が","en":"marks the subject","vi":"đánh dấu chủ thể","ja":"変化するものを示す助詞。"},
+      {"text":"普及する","kana":"ふきゅうする","en":"spread; become widespread","vi":"phổ biến; lan rộng","ja":"広く一般に行き渡る。"}
+    ]
+  },
+  {
+    "japanese":"責任を追及する",
+    "kana":"せきにんをついきゅうする",
+    "en":"Call someone to account; pursue responsibility.",
+    "vi":"Truy cứu trách nhiệm.",
+    "ja":"責任の所在を明らかにし、責めを問う。",
+    "parts":[
+      {"text":"責任","kana":"せきにん","en":"responsibility; accountability","vi":"trách nhiệm","ja":"自分の行為の結果を引き受ける義務。"},
+      {"text":"を","en":"marks what is pursued","vi":"đánh dấu điều bị truy cứu","ja":"動作の対象を示す助詞。"},
+      {"text":"追及する","kana":"ついきゅうする","en":"pursue; call to account","vi":"truy cứu; theo đuổi","ja":"責任や原因を明らかにするため厳しく問いただす。"}
+    ]
+  },
+  {
+    "japanese":"高価な商品を扱う店",
+    "kana":"こうかなしょうひんをあつかうみせ",
+    "en":"A shop that handles expensive goods.",
+    "vi":"Cửa hàng kinh doanh hàng hóa đắt tiền.",
+    "ja":"値段の高い品物を販売・取り扱いする店。",
+    "parts":[
+      {"text":"高価","kana":"こうか","en":"expensive; high-priced","vi":"đắt tiền","ja":"値段が高いこと。"},
+      {"text":"な","en":"na-adjective linker","vi":"liên kết tính từ な với danh từ","ja":"ナ形容詞が名詞を修飾するときに用いる形。"},
+      {"text":"商品","kana":"しょうひん","en":"goods; merchandise","vi":"hàng hóa","ja":"売買の対象となる品物。"},
+      {"text":"を","en":"marks the goods handled","vi":"đánh dấu hàng hóa được kinh doanh","ja":"動作の対象を示す助詞。"},
+      {"text":"扱う","kana":"あつかう","en":"handle; deal in","vi":"xử lý; kinh doanh","ja":"物事を取り扱う、または商品として売買する。"},
+      {"text":"店","kana":"みせ","en":"shop; store","vi":"cửa hàng","ja":"商品を売る場所。"}
+    ]
+  },
+  {
+    "japanese":"母は私を子供扱いする",
+    "kana":"はははわたしをこどもあつかいする",
+    "en":"My mother treats me like a child.",
+    "vi":"Mẹ đối xử với tôi như trẻ con.",
+    "ja":"母は私を子供であるかのように扱う。",
+    "parts":[
+      {"text":"母","kana":"はは","en":"mother (one's own)","vi":"mẹ (của mình)","ja":"自分の母親をへりくだって言う語。"},
+      {"text":"は","en":"marks the topic","vi":"đánh dấu chủ đề","ja":"文の話題を示す助詞。"},
+      {"text":"私","kana":"わたし","en":"I; me","vi":"tôi","ja":"話し手自身を指す語。"},
+      {"text":"を","en":"marks the person treated this way","vi":"đánh dấu người bị đối xử như vậy","ja":"動作の対象を示す助詞。"},
+      {"text":"子供扱いする","kana":"こどもあつかいする","en":"treat as a child","vi":"đối xử như trẻ con","ja":"相手を子供であるかのように扱う。"}
+    ]
+  },
+  {
+    "japanese":"丁寧に取り扱う",
+    "kana":"ていねいにとりあつかう",
+    "en":"Handle carefully.",
+    "vi":"Xử lý cẩn thận.",
+    "ja":"物を注意深く、粗末にしないように扱う。",
+    "parts":[
+      {"text":"丁寧に","kana":"ていねいに","en":"carefully; politely","vi":"cẩn thận; lịch sự","ja":"細かいところまで気を配って。"},
+      {"text":"取り扱う","kana":"とりあつかう","en":"handle; deal with","vi":"xử lý; đối xử","ja":"物や人、事柄を扱う。"}
+    ]
+  },
+  {
+    "japanese":"猛烈に勉強する",
+    "kana":"もうれつにべんきょうする",
+    "en":"Study intensely.",
+    "vi":"Học tập hết sức mãnh liệt.",
+    "ja":"非常に激しい勢いで勉強する。",
+    "parts":[
+      {"text":"猛烈に","kana":"もうれつに","en":"intensely; fiercely","vi":"mãnh liệt; hết sức","ja":"勢いや程度が非常に激しく。"},
+      {"text":"勉強する","kana":"べんきょうする","en":"study","vi":"học tập","ja":"知識や技能を身につけるために学ぶ。"}
+    ]
+  },
+  {
+    "japanese":"強烈な印象",
+    "kana":"きょうれつないんしょう",
+    "en":"a strong impression",
+    "vi":"ấn tượng mạnh mẽ",
+    "ja":"心に強く残る印象。",
+    "parts":[
+      {"text":"強烈","kana":"きょうれつ","en":"intense; powerful","vi":"mạnh mẽ; dữ dội","ja":"程度や作用が非常に強いこと。"},
+      {"text":"な","en":"na-adjective linker","vi":"liên kết tính từ な với danh từ","ja":"ナ形容詞が名詞を修飾するときに用いる形。"},
+      {"text":"印象","kana":"いんしょう","en":"impression","vi":"ấn tượng","ja":"見たり聞いたりしたときに心に残る感じ。"}
+    ]
+  },
+  {
+    "japanese":"烈火のごとく怒る",
+    "kana":"れっかのごとくおこる",
+    "en":"Become furious like a blazing fire.",
+    "vi":"Nổi giận dữ dội như lửa cháy.",
+    "ja":"燃え盛る火のように激しく怒る。",
+    "parts":[
+      {"text":"烈火","kana":"れっか","en":"raging fire","vi":"lửa dữ dội","ja":"激しく燃え盛る火。"},
+      {"text":"の","en":"links the comparison","vi":"nối thành phần so sánh","ja":"比喩表現を作る助詞。"},
+      {"text":"ごとく","kana":"ごとく","en":"like; as if","vi":"như; giống như","ja":"「…のように」を表すやや硬い語。"},
+      {"text":"怒る","kana":"おこる","en":"get angry; become furious","vi":"tức giận; nổi giận","ja":"不快なことに腹を立てる。"}
+    ]
+  }
+]

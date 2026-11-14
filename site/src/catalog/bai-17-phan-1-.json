@@ -1,0 +1,1502 @@
+[
+  {
+    "japanese": "希望を心/胸に秘める",
+    "order": 1607,
+    "sourceLines": [
+      2451
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-17-phan-1-.txt",
+        "line": 9,
+        "text": "希望を心／胸に秘める"
+      }
+    ]
+  },
+  {
+    "japanese": "社長の秘書",
+    "order": 1608,
+    "sourceLines": [
+      2452
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-17-phan-1-.txt",
+        "line": 10,
+        "text": "社長の秘書"
+      }
+    ]
+  },
+  {
+    "japanese": "大自然の神秘を探る",
+    "order": 1609,
+    "sourceLines": [
+      2453
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-17-phan-1-.txt",
+        "line": 11,
+        "text": "大自然の神秘を探る"
+      }
+    ]
+  },
+  {
+    "japanese": "黙秘権を行使する",
+    "order": 1610,
+    "sourceLines": [
+      2454
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-17-phan-1-.txt",
+        "line": 12,
+        "text": "黙秘権を行使する"
+      }
+    ]
+  },
+  {
+    "japanese": "極秘情報",
+    "order": 1611,
+    "sourceLines": [
+      2455
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-17-phan-1-.txt",
+        "line": 13,
+        "text": "極秘情報"
+      }
+    ]
+  },
+  {
+    "japanese": "秘密を漏らす",
+    "order": 1612,
+    "sourceLines": [
+      2458
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-17-phan-1-.txt",
+        "line": 18,
+        "text": "秘密を漏らす"
+      }
+    ]
+  },
+  {
+    "japanese": "住宅密集地域",
+    "order": 1613,
+    "sourceLines": [
+      2459
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-17-phan-1-.txt",
+        "line": 19,
+        "text": "住宅密集地域"
+      }
+    ]
+  },
+  {
+    "japanese": "人口密度が高い",
+    "order": 1614,
+    "sourceLines": [
+      2460
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-17-phan-1-.txt",
+        "line": 20,
+        "text": "人口密度が高い"
+      }
+    ]
+  },
+  {
+    "japanese": "両国の密接な関係",
+    "order": 1615,
+    "sourceLines": [
+      2461
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-17-phan-1-.txt",
+        "line": 21,
+        "text": "両国の密接な関係"
+      }
+    ]
+  },
+  {
+    "japanese": "麻薬の密輸",
+    "order": 1616,
+    "sourceLines": [
+      2462
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-17-phan-1-.txt",
+        "line": 22,
+        "text": "麻薬の密輸"
+      }
+    ]
+  },
+  {
+    "japanese": "精密検査",
+    "order": 1617,
+    "sourceLines": [
+      2463
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-17-phan-1-.txt",
+        "line": 23,
+        "text": "精密検査"
+      }
+    ]
+  },
+  {
+    "japanese": "厳密な審査",
+    "order": 1618,
+    "sourceLines": [
+      2464
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-17-phan-1-.txt",
+        "line": 24,
+        "text": "厳密な審査"
+      }
+    ]
+  },
+  {
+    "japanese": "ホルモンの分泌",
+    "order": 1619,
+    "sourceLines": [
+      2467
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-17-phan-1-.txt",
+        "line": 29,
+        "text": "ホルモンの分泌"
+      }
+    ]
+  },
+  {
+    "japanese": "泌尿器科",
+    "order": 1620,
+    "sourceLines": [
+      2468
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-17-phan-1-.txt",
+        "line": 30,
+        "text": "泌尿器科"
+      }
+    ]
+  },
+  {
+    "japanese": "胸部に疾患がある",
+    "order": 1621,
+    "sourceLines": [
+      2471
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-17-phan-1-.txt",
+        "line": 35,
+        "text": "胸部に疾患がある"
+      }
+    ]
+  },
+  {
+    "japanese": "全力疾走",
+    "order": 1622,
+    "sourceLines": [
+      2472
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-17-phan-1-.txt",
+        "line": 36,
+        "text": "全力疾走"
+      }
+    ]
+  },
+  {
+    "japanese": "車が疾走する",
+    "order": 1623,
+    "sourceLines": [
+      2473
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-17-phan-1-.txt",
+        "line": 37,
+        "text": "車が疾走する"
+      }
+    ]
+  },
+  {
+    "japanese": "疾風のごとく走った",
+    "order": 1624,
+    "sourceLines": [
+      2474
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-17-phan-1-.txt",
+        "line": 38,
+        "text": "疾風のごとく走った"
+      }
+    ]
+  },
+  {
+    "japanese": "疫病がはやる",
+    "order": 1625,
+    "sourceLines": [
+      2477
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-17-phan-1-.txt",
+        "line": 43,
+        "text": "疫病がはやる"
+      }
+    ]
+  },
+  {
+    "japanese": "あの人は疫病神だ",
+    "order": 1626,
+    "sourceLines": [
+      2478
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-17-phan-1-.txt",
+        "line": 44,
+        "text": "あの人は疫病神だ"
+      }
+    ]
+  },
+  {
+    "japanese": "適度な運動は免疫力を高める",
+    "order": 1627,
+    "sourceLines": [
+      2479
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-17-phan-1-.txt",
+        "line": 45,
+        "text": "適度な運動は免疫力を高める"
+      }
+    ]
+  },
+  {
+    "japanese": "上旬・中旬・下旬",
+    "order": 1628,
+    "sourceLines": [
+      2482
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-17-phan-1-.txt",
+        "line": 50,
+        "text": "上旬・中旬・下旬"
+      }
+    ]
+  },
+  {
+    "japanese": "初旬",
+    "order": 1629,
+    "sourceLines": [
+      2483
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-17-phan-1-.txt",
+        "line": 51,
+        "text": "初旬"
+      }
+    ]
+  },
+  {
+    "japanese": "旬の野菜",
+    "order": 1630,
+    "sourceLines": [
+      2484
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-17-phan-1-.txt",
+        "line": 52,
+        "text": "旬の野菜"
+      }
+    ]
+  },
+  {
+    "japanese": "身柄を拘束する",
+    "order": 1631,
+    "sourceLines": [
+      2487
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-17-phan-1-.txt",
+        "line": 57,
+        "text": "身柄を拘束する"
+      }
+    ]
+  },
+  {
+    "japanese": "拘置所",
+    "order": 1632,
+    "sourceLines": [
+      2488
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-17-phan-1-.txt",
+        "line": 58,
+        "text": "拘置所"
+      }
+    ]
+  },
+  {
+    "japanese": "拘束時間の長い仕事",
+    "order": 1633,
+    "sourceLines": [
+      2489
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-17-phan-1-.txt",
+        "line": 59,
+        "text": "拘束時間の長い仕事"
+      }
+    ]
+  },
+  {
+    "japanese": "家が揺れる",
+    "order": 1634,
+    "sourceLines": [
+      2492
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-17-phan-1-.txt",
+        "line": 67,
+        "text": "家が揺れる"
+      }
+    ]
+  },
+  {
+    "japanese": "揺りかご",
+    "order": 1635,
+    "sourceLines": [
+      2493
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-17-phan-1-.txt",
+        "line": 68,
+        "text": "揺りかご"
+      }
+    ]
+  },
+  {
+    "japanese": "風にススキが揺らぐ",
+    "order": 1636,
+    "sourceLines": [
+      2494
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-17-phan-1-.txt",
+        "line": 69,
+        "text": "風にススキが揺らぐ"
+      }
+    ]
+  },
+  {
+    "japanese": "揺るがない信念/心",
+    "order": 1637,
+    "sourceLines": [
+      2495
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-17-phan-1-.txt",
+        "line": 70,
+        "text": "揺るがない信念／心"
+      }
+    ]
+  },
+  {
+    "japanese": "貧乏揺すり",
+    "order": 1638,
+    "sourceLines": [
+      2496
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-17-phan-1-.txt",
+        "line": 71,
+        "text": "貧乏揺すり"
+      }
+    ]
+  },
+  {
+    "japanese": "赤ちゃんを揺さぶる",
+    "order": 1639,
+    "sourceLines": [
+      2497
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-17-phan-1-.txt",
+        "line": 72,
+        "text": "赤ちゃんを揺さぶる"
+      }
+    ]
+  },
+  {
+    "japanese": "事故の知らせに動揺する",
+    "order": 1640,
+    "sourceLines": [
+      2498
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-17-phan-1-.txt",
+        "line": 73,
+        "text": "事故の知らせに動揺する"
+      }
+    ]
+  },
+  {
+    "japanese": "陶器の花びんを買う",
+    "order": 1641,
+    "sourceLines": [
+      2501
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-17-phan-1-.txt",
+        "line": 78,
+        "text": "陶器の花びんを買う"
+      }
+    ]
+  },
+  {
+    "japanese": "アイドルに陶酔する",
+    "order": 1642,
+    "sourceLines": [
+      2502
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-17-phan-1-.txt",
+        "line": 79,
+        "text": "アイドルに陶酔する"
+      }
+    ]
+  },
+  {
+    "japanese": "自己陶酔",
+    "order": 1643,
+    "sourceLines": [
+      2503
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-17-phan-1-.txt",
+        "line": 80,
+        "text": "自己陶酔"
+      }
+    ]
+  },
+  {
+    "japanese": "憂鬱",
+    "order": 1644,
+    "sourceLines": [
+      2506
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-17-phan-1-.txt",
+        "line": 85,
+        "text": "憂鬱"
+      }
+    ]
+  },
+  {
+    "japanese": "鬱病",
+    "order": 1645,
+    "sourceLines": [
+      2507
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-17-phan-1-.txt",
+        "line": 86,
+        "text": "鬱病"
+      }
+    ]
+  },
+  {
+    "japanese": "あ〜あいつ、鬱陶しいなぁ",
+    "order": 1646,
+    "sourceLines": [
+      2508
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-17-phan-1-.txt",
+        "line": 87,
+        "text": "あ〜あいつ、鬱陶しいなぁ"
+      }
+    ]
+  },
+  {
+    "japanese": "鬱蒼とした森",
+    "order": 1647,
+    "sourceLines": [
+      2509
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-17-phan-1-.txt",
+        "line": 88,
+        "text": "鬱蒼とした森"
+      }
+    ]
+  },
+  {
+    "japanese": "該当する項目にチェックする",
+    "order": 1648,
+    "sourceLines": [
+      2512
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-17-phan-1-.txt",
+        "line": 95,
+        "text": "該当する項目にチェックする"
+      }
+    ]
+  },
+  {
+    "japanese": "条件に該当する人",
+    "order": 1649,
+    "sourceLines": [
+      2513
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-17-phan-1-.txt",
+        "line": 96,
+        "text": "条件に該当する人"
+      }
+    ]
+  },
+  {
+    "japanese": "該当する住所がありませんでした",
+    "order": 1650,
+    "sourceLines": [
+      2514
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-17-phan-1-.txt",
+        "line": 97,
+        "text": "該当する住所がありませんでした"
+      }
+    ]
+  },
+  {
+    "japanese": "大統領は弾劾された",
+    "order": 1651,
+    "sourceLines": [
+      2517
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-17-phan-1-.txt",
+        "line": 102,
+        "text": "大統領は弾劾された"
+      }
+    ]
+  },
+  {
+    "japanese": "弾劾裁判",
+    "order": 1652,
+    "sourceLines": [
+      2518
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-17-phan-1-.txt",
+        "line": 103,
+        "text": "弾劾裁判"
+      }
+    ]
+  },
+  {
+    "japanese": "移民を排斥する",
+    "order": 1653,
+    "sourceLines": [
+      2521
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-17-phan-1-.txt",
+        "line": 108,
+        "text": "移民を排斥する"
+      }
+    ]
+  },
+  {
+    "japanese": "彼を仲間内から排斥したい",
+    "order": 1654,
+    "sourceLines": [
+      2522
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-17-phan-1-.txt",
+        "line": 109,
+        "text": "彼を仲間内から排斥したい"
+      }
+    ]
+  },
+  {
+    "japanese": "騒音の被害を訴える",
+    "order": 1655,
+    "sourceLines": [
+      2525
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-17-phan-1-.txt",
+        "line": 115,
+        "text": "騒音の被害を訴える"
+      }
+    ]
+  },
+  {
+    "japanese": "訴訟費用は被告人の負担とする",
+    "order": 1656,
+    "sourceLines": [
+      2526
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-17-phan-1-.txt",
+        "line": 116,
+        "text": "訴訟費用は被告人の負担とする"
+      }
+    ]
+  },
+  {
+    "japanese": "プライバシーの侵害で告訴する",
+    "order": 1657,
+    "sourceLines": [
+      2527
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-17-phan-1-.txt",
+        "line": 117,
+        "text": "プライバシーの侵害で告訴する"
+      }
+    ]
+  },
+  {
+    "japanese": "容疑者を収賄罪で起訴する",
+    "order": 1658,
+    "sourceLines": [
+      2528
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-17-phan-1-.txt",
+        "line": 118,
+        "text": "容疑者を収賄罪で起訴する"
+      }
+    ]
+  },
+  {
+    "japanese": "暇を持て余す",
+    "order": 1659,
+    "sourceLines": [
+      2531
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-17-phan-1-.txt",
+        "line": 124,
+        "text": "暇を持て余す"
+      }
+    ]
+  },
+  {
+    "japanese": "休暇を満喫する",
+    "order": 1660,
+    "sourceLines": [
+      2532
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-17-phan-1-.txt",
+        "line": 125,
+        "text": "休暇を満喫する"
+      }
+    ]
+  },
+  {
+    "japanese": "余暇活動",
+    "order": 1661,
+    "sourceLines": [
+      2533
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-17-phan-1-.txt",
+        "line": 126,
+        "text": "余暇活動"
+      }
+    ]
+  },
+  {
+    "japanese": "曖昧な返事",
+    "order": 1662,
+    "sourceLines": [
+      2536
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-17-phan-1-.txt",
+        "line": 131,
+        "text": "曖昧な返事"
+      }
+    ]
+  },
+  {
+    "japanese": "食欲が旺盛だ",
+    "order": 1663,
+    "sourceLines": [
+      2539
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-17-phan-1-.txt",
+        "line": 136,
+        "text": "食欲が旺盛だ"
+      }
+    ]
+  },
+  {
+    "japanese": "好奇心旺盛な子供",
+    "order": 1664,
+    "sourceLines": [
+      2540
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-17-phan-1-.txt",
+        "line": 137,
+        "text": "好奇心旺盛な子供"
+      }
+    ]
+  },
+  {
+    "japanese": "簡潔明瞭なプレゼン",
+    "order": 1665,
+    "sourceLines": [
+      2543
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-17-phan-1-.txt",
+        "line": 142,
+        "text": "簡潔明瞭なプレゼン"
+      }
+    ]
+  },
+  {
+    "japanese": "違いは一目瞭然だ",
+    "order": 1666,
+    "sourceLines": [
+      2544
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-17-phan-1-.txt",
+        "line": 143,
+        "text": "違いは一目瞭然だ"
+      }
+    ]
+  },
+  {
+    "japanese": "親睦を深める",
+    "order": 1667,
+    "sourceLines": [
+      2547
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-17-phan-1-.txt",
+        "line": 148,
+        "text": "親睦を深める"
+      }
+    ]
+  },
+  {
+    "japanese": "親睦会",
+    "order": 1668,
+    "sourceLines": [
+      2548
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-17-phan-1-.txt",
+        "line": 149,
+        "text": "親睦会"
+      }
+    ]
+  },
+  {
+    "japanese": "仲睦まじい夫婦",
+    "order": 1669,
+    "sourceLines": [
+      2549
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-17-phan-1-.txt",
+        "line": 150,
+        "text": "仲睦まじい夫婦"
+      }
+    ]
+  },
+  {
+    "japanese": "睦月",
+    "order": 1670,
+    "sourceLines": [
+      2550
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-17-phan-1-.txt",
+        "line": 151,
+        "text": "睦月"
+      }
+    ]
+  },
+  {
+    "japanese": "冒険だ！！！",
+    "order": 1671,
+    "sourceLines": [
+      2553
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-17-phan-1-.txt",
+        "line": 157,
+        "text": "冒険だ！！！"
+      }
+    ]
+  },
+  {
+    "japanese": "会議が冒頭から荒れる",
+    "order": 1672,
+    "sourceLines": [
+      2554
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-17-phan-1-.txt",
+        "line": 158,
+        "text": "会議が冒頭から荒れる"
+      }
+    ]
+  },
+  {
+    "japanese": "危険を冒して株式投資をする",
+    "order": 1673,
+    "sourceLines": [
+      2555
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-17-phan-1-.txt",
+        "line": 159,
+        "text": "危険を冒して株式投資をする"
+      }
+    ]
+  },
+  {
+    "japanese": "病に冒される",
+    "order": 1674,
+    "sourceLines": [
+      2556
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-17-phan-1-.txt",
+        "line": 160,
+        "text": "病に冒される"
+      }
+    ]
+  },
+  {
+    "japanese": "玩具売り場",
+    "order": 1675,
+    "sourceLines": [
+      2559
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-17-phan-1-.txt",
+        "line": 167,
+        "text": "玩具売り場"
+      }
+    ]
+  },
+  {
+    "japanese": "愛玩動物",
+    "order": 1676,
+    "sourceLines": [
+      2560
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-17-phan-1-.txt",
+        "line": 168,
+        "text": "愛玩動物"
+      }
+    ]
+  },
+  {
+    "japanese": "真珠のネックレス",
+    "order": 1677,
+    "sourceLines": [
+      2563
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-17-phan-1-.txt",
+        "line": 173,
+        "text": "真珠のネックレス"
+      }
+    ]
+  },
+  {
+    "japanese": "念珠",
+    "order": 1678,
+    "sourceLines": [
+      2564
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-17-phan-1-.txt",
+        "line": 174,
+        "text": "念珠"
+      }
+    ]
+  },
+  {
+    "japanese": "死期を悟る",
+    "order": 1679,
+    "sourceLines": [
+      2567
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-17-phan-1-.txt",
+        "line": 180,
+        "text": "死期を悟る"
+      }
+    ]
+  },
+  {
+    "japanese": "悟りを開く",
+    "order": 1680,
+    "sourceLines": [
+      2568
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-17-phan-1-.txt",
+        "line": 181,
+        "text": "悟りを開く"
+      }
+    ]
+  },
+  {
+    "japanese": "覚悟はいいか！",
+    "order": 1681,
+    "sourceLines": [
+      2569
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-17-phan-1-.txt",
+        "line": 182,
+        "text": "覚悟はいいか！"
+      }
+    ]
+  },
+  {
+    "japanese": "覚悟を決める",
+    "order": 1682,
+    "sourceLines": [
+      2570
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-17-phan-1-.txt",
+        "line": 183,
+        "text": "覚悟を決める"
+      }
+    ]
+  },
+  {
+    "japanese": "喜悦の表情を浮かべる",
+    "order": 1683,
+    "sourceLines": [
+      2573
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-17-phan-1-.txt",
+        "line": 188,
+        "text": "喜悦の表情を浮かべる"
+      }
+    ]
+  },
+  {
+    "japanese": "ご満悦の表情",
+    "order": 1684,
+    "sourceLines": [
+      2574
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-17-phan-1-.txt",
+        "line": 189,
+        "text": "ご満悦の表情"
+      }
+    ]
+  },
+  {
+    "japanese": "自堕落で怠惰な生活を送る",
+    "order": 1685,
+    "sourceLines": [
+      2577
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-17-phan-1-.txt",
+        "line": 194,
+        "text": "自堕落で怠惰な生活を送る"
+      }
+    ]
+  },
+  {
+    "japanese": "上司から「惰性で仕事をせずに、業務の改善をしてほしい」と指導された",
+    "order": 1686,
+    "sourceLines": [
+      2578
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-17-phan-1-.txt",
+        "line": 195,
+        "text": "上司から「惰性で仕事をせずに、業務の改善をしてほしい」と指導された"
+      }
+    ]
+  },
+  {
+    "japanese": "惨めな生活を送る",
+    "order": 1687,
+    "sourceLines": [
+      2581
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-17-phan-1-.txt",
+        "line": 201,
+        "text": "惨めな生活を送る"
+      }
+    ]
+  },
+  {
+    "japanese": "悲惨な光景を目にする",
+    "order": 1688,
+    "sourceLines": [
+      2582
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-17-phan-1-.txt",
+        "line": 202,
+        "text": "悲惨な光景を目にする"
+      }
+    ]
+  },
+  {
+    "japanese": "大惨事",
+    "order": 1689,
+    "sourceLines": [
+      2583
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-17-phan-1-.txt",
+        "line": 203,
+        "text": "大惨事"
+      }
+    ]
+  },
+  {
+    "japanese": "試合で惨敗する",
+    "order": 1690,
+    "sourceLines": [
+      2584
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-17-phan-1-.txt",
+        "line": 204,
+        "text": "試合で惨敗する"
+      }
+    ]
+  },
+  {
+    "japanese": "無惨な最期",
+    "order": 1691,
+    "sourceLines": [
+      2585
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-17-phan-1-.txt",
+        "line": 205,
+        "text": "無惨な最期"
+      }
+    ]
+  },
+  {
+    "japanese": "凶悪犯に惨殺される",
+    "order": 1692,
+    "sourceLines": [
+      2586
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-17-phan-1-.txt",
+        "line": 206,
+        "text": "凶悪犯に惨殺される"
+      }
+    ]
+  },
+  {
+    "japanese": "親に懐かない",
+    "order": 1693,
+    "sourceLines": [
+      2589
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-17-phan-1-.txt",
+        "line": 214,
+        "text": "親に懐かない"
+      }
+    ]
+  },
+  {
+    "japanese": "飼い犬があなたに懐く方法",
+    "order": 1694,
+    "sourceLines": [
+      2590
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-17-phan-1-.txt",
+        "line": 215,
+        "text": "飼い犬があなたに懐く方法"
+      }
+    ]
+  },
+  {
+    "japanese": "子供の頃が懐かしい",
+    "order": 1695,
+    "sourceLines": [
+      2591
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-17-phan-1-.txt",
+        "line": 216,
+        "text": "子供の頃が懐かしい"
+      }
+    ]
+  },
+  {
+    "japanese": "懐に手を入れる",
+    "order": 1696,
+    "sourceLines": [
+      2592
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-17-phan-1-.txt",
+        "line": 217,
+        "text": "懐に手を入れる"
+      }
+    ]
+  },
+  {
+    "japanese": "懐疑心を持つ",
+    "order": 1697,
+    "sourceLines": [
+      2593
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-17-phan-1-.txt",
+        "line": 218,
+        "text": "懐疑心を持つ"
+      }
+    ]
+  },
+  {
+    "japanese": "懐中電灯",
+    "order": 1698,
+    "sourceLines": [
+      2594
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-17-phan-1-.txt",
+        "line": 219,
+        "text": "懐中電灯"
+      }
+    ]
+  },
+  {
+    "japanese": "高い理想を掲げる",
+    "order": 1699,
+    "sourceLines": [
+      2597
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-17-phan-1-.txt",
+        "line": 225,
+        "text": "高い理想を掲げる"
+      }
+    ]
+  },
+  {
+    "japanese": "看板を掲げる",
+    "order": 1700,
+    "sourceLines": [
+      2598
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-17-phan-1-.txt",
+        "line": 226,
+        "text": "看板を掲げる"
+      }
+    ]
+  },
+  {
+    "japanese": "新聞に記事を掲載する",
+    "order": 1701,
+    "sourceLines": [
+      2599
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-17-phan-1-.txt",
+        "line": 227,
+        "text": "新聞に記事を掲載する"
+      }
+    ]
+  },
+  {
+    "japanese": "掲示板",
+    "order": 1702,
+    "sourceLines": [
+      2600
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-17-phan-1-.txt",
+        "line": 228,
+        "text": "掲示板"
+      }
+    ]
+  },
+  {
+    "japanese": "騒がしい学生を一喝する",
+    "order": 1704,
+    "sourceLines": [
+      2604
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-17-phan-1-.txt",
+        "line": 234,
+        "text": "騒がしい学生を一喝する"
+      }
+    ]
+  },
+  {
+    "japanese": "恐喝に遭う",
+    "order": 1705,
+    "sourceLines": [
+      2605
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-17-phan-1-.txt",
+        "line": 235,
+        "text": "恐喝に遭う"
+      }
+    ]
+  },
+  {
+    "japanese": "拍手喝采を浴びる",
+    "order": 1706,
+    "sourceLines": [
+      2606
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-17-phan-1-.txt",
+        "line": 236,
+        "text": "拍手喝采を浴びる"
+      }
+    ]
+  },
+  {
+    "japanese": "拾った財布に二万円も入っている。警察に届けるべきかそうでないか葛藤した",
+    "order": 1707,
+    "sourceLines": [
+      2609
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-17-phan-1-.txt",
+        "line": 241,
+        "text": "拾った財布に二万円も入っている。警察に届けるべきかそうでないか葛藤した"
+      }
+    ]
+  }
+]

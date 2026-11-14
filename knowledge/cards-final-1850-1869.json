@@ -1,0 +1,705 @@
+[
+  {
+    "japanese": "医者が患者に禁煙を奨励する",
+    "kana": "いしゃがかんじゃにきんえんをしょうれいする",
+    "en": "The doctor encourages the patient to quit smoking.",
+    "vi": "Bác sĩ khuyến khích bệnh nhân bỏ thuốc lá.",
+    "ja": "医者が患者に、たばこを吸うのをやめるよう勧める。",
+    "parts": [
+      {
+        "text": "医者",
+        "kana": "いしゃ",
+        "en": "doctor",
+        "vi": "bác sĩ",
+        "ja": "病気を診察し、治療する人。"
+      },
+      {
+        "text": "が",
+        "en": "marks the subject",
+        "vi": "đánh dấu chủ thể",
+        "ja": "動作をする人を示す助詞。",
+        "kana": "が"
+      },
+      {
+        "text": "患者",
+        "kana": "かんじゃ",
+        "en": "patient",
+        "vi": "bệnh nhân",
+        "ja": "病気やけがの治療を受ける人。"
+      },
+      {
+        "text": "に",
+        "en": "to; toward",
+        "vi": "cho; đối với",
+        "ja": "動作の相手を示す助詞。",
+        "kana": "に"
+      },
+      {
+        "text": "禁煙",
+        "kana": "きんえん",
+        "en": "quitting smoking; no smoking",
+        "vi": "việc bỏ thuốc; cấm hút thuốc",
+        "ja": "たばこを吸うのをやめること。"
+      },
+      {
+        "text": "を",
+        "en": "marks what is encouraged",
+        "vi": "đánh dấu việc được khuyến khích",
+        "ja": "動作の対象を示す助詞。",
+        "kana": "を"
+      },
+      {
+        "text": "奨励する",
+        "kana": "しょうれいする",
+        "en": "encourage; recommend",
+        "vi": "khuyến khích; cổ vũ",
+        "ja": "ある行動をするよう勧め励ます。"
+      }
+    ]
+  },
+  {
+    "japanese": "書店推奨の本",
+    "kana": "しょてんすいしょうのほん",
+    "en": "a book recommended by a bookstore",
+    "vi": "cuốn sách do hiệu sách đề xuất",
+    "ja": "書店が読むように勧める本。",
+    "parts": [
+      {
+        "text": "書店",
+        "kana": "しょてん",
+        "en": "bookstore",
+        "vi": "hiệu sách",
+        "ja": "本を売る店。"
+      },
+      {
+        "text": "推奨",
+        "kana": "すいしょう",
+        "en": "recommendation",
+        "vi": "sự đề xuất; khuyến nghị",
+        "ja": "よいものとして人に勧めること。"
+      },
+      {
+        "text": "の",
+        "en": "links the recommendation to the book",
+        "vi": "nối sự đề xuất với cuốn sách",
+        "ja": "前の語句が後ろの名詞を修飾する助詞。",
+        "kana": "の"
+      },
+      {
+        "text": "本",
+        "kana": "ほん",
+        "en": "book",
+        "vi": "sách",
+        "ja": "文字や図を印刷してまとめたもの。"
+      }
+    ]
+  },
+  {
+    "japanese": "奨学金をもらう",
+    "kana": "しょうがくきんをもらう",
+    "en": "receive a scholarship",
+    "vi": "nhận học bổng",
+    "ja": "学費などに充てるための金を受け取る。",
+    "parts": [
+      {
+        "text": "奨学金",
+        "kana": "しょうがくきん",
+        "en": "scholarship; student grant",
+        "vi": "học bổng",
+        "ja": "学生の学費や生活費を助けるための金。"
+      },
+      {
+        "text": "を",
+        "en": "marks what is received",
+        "vi": "đánh dấu thứ được nhận",
+        "ja": "受け取る対象を示す助詞。",
+        "kana": "を"
+      },
+      {
+        "text": "もらう",
+        "kana": "もらう",
+        "en": "receive; get",
+        "vi": "nhận",
+        "ja": "人から物などを受け取る。"
+      }
+    ]
+  },
+  {
+    "japanese": "草を刈る",
+    "kana": "くさをかる",
+    "en": "cut the grass",
+    "vi": "cắt cỏ",
+    "ja": "草を鎌などで切り取る。",
+    "parts": [
+      {
+        "text": "草",
+        "kana": "くさ",
+        "en": "grass; weeds",
+        "vi": "cỏ; cỏ dại",
+        "ja": "地面に生える草本植物。"
+      },
+      {
+        "text": "を",
+        "en": "marks what is cut",
+        "vi": "đánh dấu thứ bị cắt",
+        "ja": "動作の対象を示す助詞。",
+        "kana": "を"
+      },
+      {
+        "text": "刈る",
+        "kana": "かる",
+        "en": "mow; cut (grass)",
+        "vi": "cắt; phát (cỏ)",
+        "ja": "草や稲などを根元から切り取る。"
+      }
+    ]
+  },
+  {
+    "japanese": "羊の毛を刈る",
+    "kana": "ひつじのけをかる",
+    "en": "shear a sheep",
+    "vi": "xén lông cừu",
+    "ja": "羊の体から毛を切り取る。",
+    "parts": [
+      {
+        "text": "羊",
+        "kana": "ひつじ",
+        "en": "sheep",
+        "vi": "cừu",
+        "ja": "毛を利用する家畜。"
+      },
+      {
+        "text": "の",
+        "en": "links the sheep to its wool",
+        "vi": "nối con cừu với bộ lông",
+        "ja": "前の名詞が後ろの名詞を限定する助詞。",
+        "kana": "の"
+      },
+      {
+        "text": "毛",
+        "kana": "け",
+        "en": "hair; wool",
+        "vi": "lông",
+        "ja": "動物の体に生える細いもの。"
+      },
+      {
+        "text": "を",
+        "en": "marks what is cut",
+        "vi": "đánh dấu thứ bị cắt",
+        "ja": "動作の対象を示す助詞。",
+        "kana": "を"
+      },
+      {
+        "text": "刈る",
+        "kana": "かる",
+        "en": "shear; clip",
+        "vi": "xén; cắt",
+        "ja": "動物の毛や草などを切り取る。"
+      }
+    ]
+  },
+  {
+    "japanese": "剣を振りかざす",
+    "kana": "けんをふりかざす",
+    "en": "brandish a sword",
+    "vi": "vung cao thanh kiếm",
+    "ja": "剣を高く振り上げて構える。",
+    "parts": [
+      {
+        "text": "剣",
+        "kana": "けん",
+        "en": "sword",
+        "vi": "kiếm",
+        "ja": "刃を持つ武器。"
+      },
+      {
+        "text": "を",
+        "en": "marks what is brandished",
+        "vi": "đánh dấu vật được vung lên",
+        "ja": "動作の対象を示す助詞。",
+        "kana": "を"
+      },
+      {
+        "text": "振りかざす",
+        "kana": "ふりかざす",
+        "en": "brandish; hold aloft",
+        "vi": "vung cao; giơ lên",
+        "ja": "武器などを高く振り上げて構える。"
+      }
+    ]
+  },
+  {
+    "japanese": "剣道の道場に通う",
+    "kana": "けんどうのどうじょうにかよう",
+    "en": "attend a kendo dojo",
+    "vi": "đi tập tại võ đường kiếm đạo",
+    "ja": "剣道を習うため、道場へ定期的に行く。",
+    "parts": [
+      {
+        "text": "剣道",
+        "kana": "けんどう",
+        "en": "kendo",
+        "vi": "kiếm đạo",
+        "ja": "竹刀を用いる日本の武道。"
+      },
+      {
+        "text": "の",
+        "en": "links kendo to the dojo",
+        "vi": "nối kiếm đạo với võ đường",
+        "ja": "前の名詞が後ろの名詞を限定する助詞。",
+        "kana": "の"
+      },
+      {
+        "text": "道場",
+        "kana": "どうじょう",
+        "en": "dojo; training hall",
+        "vi": "võ đường",
+        "ja": "武道などを練習する場所。"
+      },
+      {
+        "text": "に",
+        "en": "marks the destination",
+        "vi": "đánh dấu đích đến",
+        "ja": "移動の目的地を示す助詞。",
+        "kana": "に"
+      },
+      {
+        "text": "通う",
+        "kana": "かよう",
+        "en": "go regularly; attend",
+        "vi": "đi thường xuyên; theo học",
+        "ja": "同じ場所へ何度も行く。"
+      }
+    ]
+  },
+  {
+    "japanese": "真剣な表情で聞く",
+    "kana": "しんけんなひょうじょうできく",
+    "en": "listen with a serious expression",
+    "vi": "lắng nghe với vẻ mặt nghiêm túc",
+    "ja": "ふざけず、真面目な顔つきで話を聞く。",
+    "parts": [
+      {
+        "text": "真剣",
+        "kana": "しんけん",
+        "en": "serious; earnest",
+        "vi": "nghiêm túc; chăm chú",
+        "ja": "本気で物事に取り組むこと。"
+      },
+      {
+        "text": "な",
+        "en": "makes the adjective modify the noun",
+        "vi": "nối tính từ với danh từ",
+        "ja": "ナ形容詞を名詞に続ける形。",
+        "kana": "な"
+      },
+      {
+        "text": "表情",
+        "kana": "ひょうじょう",
+        "en": "facial expression",
+        "vi": "nét mặt",
+        "ja": "気持ちが表れた顔つき。"
+      },
+      {
+        "text": "で",
+        "en": "in; with",
+        "vi": "với; bằng",
+        "ja": "状態や方法を示す助詞。",
+        "kana": "で"
+      },
+      {
+        "text": "聞く",
+        "kana": "きく",
+        "en": "listen; hear",
+        "vi": "nghe; lắng nghe",
+        "ja": "音や話に注意を向ける。"
+      }
+    ]
+  },
+  {
+    "japanese": "包丁で果物を剥く",
+    "kana": "ほうちょうでくだものをむく",
+    "en": "peel fruit with a kitchen knife",
+    "vi": "gọt trái cây bằng dao làm bếp",
+    "ja": "包丁を使って果物の皮を取る。",
+    "parts": [
+      {
+        "text": "包丁",
+        "kana": "ほうちょう",
+        "en": "kitchen knife",
+        "vi": "dao làm bếp",
+        "ja": "料理に使う刃物。"
+      },
+      {
+        "text": "で",
+        "en": "with; using",
+        "vi": "bằng",
+        "ja": "道具を示す助詞。",
+        "kana": "で"
+      },
+      {
+        "text": "果物",
+        "kana": "くだもの",
+        "en": "fruit",
+        "vi": "trái cây",
+        "ja": "木などに実り、食用にするもの。"
+      },
+      {
+        "text": "を",
+        "en": "marks what is peeled",
+        "vi": "đánh dấu thứ được gọt",
+        "ja": "動作の対象を示す助詞。",
+        "kana": "を"
+      },
+      {
+        "text": "剥く",
+        "kana": "むく",
+        "en": "peel",
+        "vi": "gọt; bóc vỏ",
+        "ja": "皮や表面を取り去る。"
+      }
+    ]
+  },
+  {
+    "japanese": "ペンキが剥げる",
+    "kana": "ペンキがはげる",
+    "en": "The paint peels off.",
+    "vi": "Lớp sơn bị bong tróc.",
+    "ja": "塗ってあったペンキが表面から取れる。",
+    "parts": [
+      {
+        "text": "ペンキ",
+        "kana": "ペンキ",
+        "en": "paint",
+        "vi": "sơn",
+        "ja": "物の表面に塗る塗料。"
+      },
+      {
+        "text": "が",
+        "en": "marks the subject",
+        "vi": "đánh dấu chủ thể",
+        "ja": "状態の主体を示す助詞。",
+        "kana": "が"
+      },
+      {
+        "text": "剥げる",
+        "kana": "はげる",
+        "en": "peel off; come off",
+        "vi": "bong; tróc ra",
+        "ja": "表面に付いていたものが取れる。"
+      }
+    ]
+  },
+  {
+    "japanese": "剥がれたポスター",
+    "kana": "はがれたポスター",
+    "en": "a poster that has peeled off",
+    "vi": "tấm áp phích bị bong ra",
+    "ja": "貼られていた場所から取れたポスター。",
+    "parts": [
+      {
+        "text": "剥がれた",
+        "kana": "はがれた",
+        "en": "peeled off; came loose",
+        "vi": "đã bong ra",
+        "ja": "「剥がれる」の過去形で、名詞を修飾する。"
+      },
+      {
+        "text": "ポスター",
+        "kana": "ポスター",
+        "en": "poster",
+        "vi": "áp phích",
+        "ja": "広告や告知などを印刷した大きな紙。"
+      }
+    ]
+  },
+  {
+    "japanese": "ラベルを綺麗に剥がす",
+    "kana": "ラベルをきれいにはがす",
+    "en": "Remove the label cleanly.",
+    "vi": "Bóc nhãn thật sạch.",
+    "ja": "ラベルを跡が残らないように取り去る。",
+    "parts": [
+      {
+        "text": "ラベル",
+        "kana": "ラベル",
+        "en": "label",
+        "vi": "nhãn",
+        "ja": "品名などを記した貼り紙。"
+      },
+      {
+        "text": "を",
+        "en": "marks what is removed",
+        "vi": "đánh dấu thứ bị bóc",
+        "ja": "動作の対象を示す助詞。",
+        "kana": "を"
+      },
+      {
+        "text": "綺麗に",
+        "kana": "きれいに",
+        "en": "cleanly; neatly",
+        "vi": "một cách sạch sẽ",
+        "ja": "汚れや跡がない状態で。"
+      },
+      {
+        "text": "剥がす",
+        "kana": "はがす",
+        "en": "peel off; remove",
+        "vi": "bóc; gỡ",
+        "ja": "貼り付いたものを取る。"
+      }
+    ]
+  },
+  {
+    "japanese": "ライオンの剥製",
+    "kana": "ライオンのはくせい",
+    "en": "a taxidermied lion",
+    "vi": "mẫu thú nhồi bông sư tử",
+    "ja": "ライオンの姿を保つように皮を加工した標本。",
+    "parts": [
+      {
+        "text": "ライオン",
+        "kana": "ライオン",
+        "en": "lion",
+        "vi": "sư tử",
+        "ja": "たてがみを持つ大型のネコ科動物。"
+      },
+      {
+        "text": "の",
+        "en": "links the lion to the specimen",
+        "vi": "nối sư tử với mẫu vật",
+        "ja": "前の名詞が後ろの名詞を限定する助詞。",
+        "kana": "の"
+      },
+      {
+        "text": "剥製",
+        "kana": "はくせい",
+        "en": "taxidermy; mounted specimen",
+        "vi": "mẫu vật nhồi bông",
+        "ja": "動物の皮を加工し、生きていた姿に似せた標本。"
+      }
+    ]
+  },
+  {
+    "japanese": "医師免許を剥奪される",
+    "kana": "いしめんきょをはくだつされる",
+    "en": "have one's medical license revoked",
+    "vi": "bị tước giấy phép hành nghề y",
+    "ja": "医師として働く資格を取り上げられる。",
+    "parts": [
+      {
+        "text": "医師",
+        "kana": "いし",
+        "en": "physician; doctor",
+        "vi": "bác sĩ",
+        "ja": "医療を行う資格を持つ人。"
+      },
+      {
+        "text": "免許",
+        "kana": "めんきょ",
+        "en": "license; permit",
+        "vi": "giấy phép",
+        "ja": "特定の行為をする公的な資格。"
+      },
+      {
+        "text": "を",
+        "en": "marks what is revoked",
+        "vi": "đánh dấu thứ bị tước",
+        "ja": "動作の対象を示す助詞。",
+        "kana": "を"
+      },
+      {
+        "text": "剥奪される",
+        "kana": "はくだつされる",
+        "en": "have taken away; be deprived of",
+        "vi": "bị tước đoạt",
+        "ja": "権利や資格などを強制的に取り上げられる。"
+      }
+    ]
+  },
+  {
+    "japanese": "称賛に値する勇気ある行動",
+    "kana": "しょうさんにあたいするゆうきあるこうどう",
+    "en": "a courageous act worthy of praise",
+    "vi": "hành động dũng cảm đáng được khen ngợi",
+    "ja": "褒める価値のある、勇気を示した行い。",
+    "parts": [
+      {
+        "text": "称賛",
+        "kana": "しょうさん",
+        "en": "praise; admiration",
+        "vi": "sự khen ngợi; ngưỡng mộ",
+        "ja": "優れた点を褒めたたえること。"
+      },
+      {
+        "text": "に",
+        "en": "marks the standard",
+        "vi": "đánh dấu tiêu chuẩn",
+        "ja": "判断の基準を示す助詞。",
+        "kana": "に"
+      },
+      {
+        "text": "値する",
+        "kana": "あたいする",
+        "en": "be worthy of; deserve",
+        "vi": "xứng đáng với",
+        "ja": "それにふさわしい価値がある。"
+      },
+      {
+        "text": "勇気",
+        "kana": "ゆうき",
+        "en": "courage",
+        "vi": "lòng dũng cảm",
+        "ja": "恐れずに行動する力。"
+      },
+      {
+        "text": "ある",
+        "kana": "ある",
+        "en": "having; with",
+        "vi": "có",
+        "ja": "性質や特徴を備えていることを表す。"
+      },
+      {
+        "text": "行動",
+        "kana": "こうどう",
+        "en": "action; conduct",
+        "vi": "hành động",
+        "ja": "考えに基づいて実際に行うこと。"
+      }
+    ]
+  },
+  {
+    "japanese": "自然を崇拝する",
+    "kana": "しぜんをすうはいする",
+    "en": "worship nature",
+    "vi": "tôn thờ thiên nhiên",
+    "ja": "自然を神聖なものとして敬い、あがめる。",
+    "parts": [
+      {
+        "text": "自然",
+        "kana": "しぜん",
+        "en": "nature",
+        "vi": "thiên nhiên",
+        "ja": "人の手が加わらない、山や川などの環境。"
+      },
+      {
+        "text": "を",
+        "en": "marks what is worshipped",
+        "vi": "đánh dấu đối tượng được tôn thờ",
+        "ja": "動作の対象を示す助詞。",
+        "kana": "を"
+      },
+      {
+        "text": "崇拝する",
+        "kana": "すうはいする",
+        "en": "worship; revere",
+        "vi": "tôn thờ; sùng bái",
+        "ja": "神や尊いものとして深く敬う。"
+      }
+    ]
+  },
+  {
+    "japanese": "神を崇める",
+    "kana": "かみをあがめる",
+    "en": "revere a god",
+    "vi": "tôn kính thần linh",
+    "ja": "神を非常に尊いものとして敬う。",
+    "parts": [
+      {
+        "text": "神",
+        "kana": "かみ",
+        "en": "god; deity",
+        "vi": "thần; thần linh",
+        "ja": "人を超えた力を持つと信じられる存在。"
+      },
+      {
+        "text": "を",
+        "en": "marks whom one reveres",
+        "vi": "đánh dấu đối tượng được kính trọng",
+        "ja": "動作の対象を示す助詞。",
+        "kana": "を"
+      },
+      {
+        "text": "崇める",
+        "kana": "あがめる",
+        "en": "revere; worship",
+        "vi": "tôn thờ; kính ngưỡng",
+        "ja": "非常に尊いものとして敬う。"
+      }
+    ]
+  },
+  {
+    "japanese": "亡き母を慕う",
+    "kana": "なきははをしたう",
+    "en": "long for one's late mother",
+    "vi": "nhớ thương người mẹ đã khuất",
+    "ja": "亡くなった母を恋しく思い、心から敬愛する。",
+    "parts": [
+      {
+        "text": "亡き",
+        "kana": "なき",
+        "en": "late; deceased",
+        "vi": "đã khuất",
+        "ja": "亡くなった人を表す連体形。"
+      },
+      {
+        "text": "母",
+        "kana": "はは",
+        "en": "mother",
+        "vi": "mẹ",
+        "ja": "自分の母親を指す語。"
+      },
+      {
+        "text": "を",
+        "en": "marks the person longed for",
+        "vi": "đánh dấu người được nhớ thương",
+        "ja": "動作の対象を示す助詞。",
+        "kana": "を"
+      },
+      {
+        "text": "慕う",
+        "kana": "したう",
+        "en": "long for; yearn for",
+        "vi": "nhớ thương; mong nhớ",
+        "ja": "恋しく思い、心を寄せる。"
+      }
+    ]
+  },
+  {
+    "japanese": "遠い祖国を慕う",
+    "kana": "とおいそこくをしたう",
+    "en": "long for one's distant homeland",
+    "vi": "nhớ thương quê hương xa xôi",
+    "ja": "遠く離れた自分の国を恋しく思う。",
+    "parts": [
+      {
+        "text": "遠い",
+        "kana": "とおい",
+        "en": "distant; faraway",
+        "vi": "xa xôi",
+        "ja": "距離が離れている。"
+      },
+      {
+        "text": "祖国",
+        "kana": "そこく",
+        "en": "homeland; mother country",
+        "vi": "tổ quốc; quê hương",
+        "ja": "自分の生まれた国。"
+      },
+      {
+        "text": "を",
+        "en": "marks what is longed for",
+        "vi": "đánh dấu điều được mong nhớ",
+        "ja": "動作の対象を示す助詞。",
+        "kana": "を"
+      },
+      {
+        "text": "慕う",
+        "kana": "したう",
+        "en": "yearn for; long for",
+        "vi": "nhớ thương; mong nhớ",
+        "ja": "恋しく思い、心を寄せる。"
+      }
+    ]
+  }
+]

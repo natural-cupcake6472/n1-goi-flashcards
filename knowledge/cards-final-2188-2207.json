@@ -1,0 +1,22 @@
+[
+  {"japanese":"摘む","kana":"つむ","en":"pick; pluck; pinch","vi":"hái; ngắt; véo","ja":"指先や道具で、草花や実などを取り取る。","parts":[{"text":"摘む","kana":"つむ","en":"pick; pluck; pinch","vi":"hái; ngắt; véo","ja":"指などでつまんで取り取る。"}]},
+  {"japanese":"摘出","kana":"てきしゅつ","en":"removal; extraction","vi":"sự cắt bỏ; lấy ra","ja":"必要な部分を選び出して取り出すこと。","parts":[{"text":"摘出","kana":"てきしゅつ","en":"removal; extraction","vi":"sự lấy ra; cắt bỏ","ja":"対象の一部を選び出して取り出すこと。"}]},
+  {"japanese":"偶然","kana":"ぐうぜん","en":"by chance; coincidence","vi":"tình cờ; ngẫu nhiên","ja":"予想や計画をしていないのに、たまたま起こること。","parts":[{"text":"偶然","kana":"ぐうぜん","en":"by chance; coincidence","vi":"tình cờ; ngẫu nhiên","ja":"予測や計画なしに、たまたま起こること。"}]},
+  {"japanese":"隅","kana":"すみ","en":"corner; nook","vi":"góc","ja":"物の端や、囲まれた場所の角。","parts":[{"text":"隅","kana":"すみ","en":"corner; nook","vi":"góc","ja":"物や場所の端の部分。"}]},
+  {"japanese":"片隅","kana":"かたすみ","en":"corner; one small part","vi":"một góc; một nơi nhỏ","ja":"全体の中の、端に寄った一部分。","parts":[{"text":"片隅","kana":"かたすみ","en":"corner; one small part","vi":"một góc; một nơi nhỏ","ja":"全体の端にある一部分。"}]},
+  {"japanese":"乾燥","kana":"かんそう","en":"drying; dryness","vi":"sự khô; làm khô","ja":"水分や湿気がなくなること。","parts":[{"text":"乾燥","kana":"かんそう","en":"drying; dryness","vi":"sự khô; làm khô","ja":"水分が少なくなり、乾くこと。"}]},
+  {"japanese":"操る","kana":"あやつる","en":"操る; maneuver; manipulate","vi":"điều khiển; thao túng","ja":"道具や機械を思い通りに動かす。また、人を巧みに支配する。","parts":[{"text":"操る","kana":"あやつる","en":"maneuver; operate; manipulate","vi":"điều khiển; thao túng","ja":"機械などを動かす。人を意のままに動かす意味もある。"}]},
+  {"japanese":"操作","kana":"そうさ","en":"operation; manipulation","vi":"sự thao tác; vận hành","ja":"機械などを動かしたり、扱ったりすること。","parts":[{"text":"操作","kana":"そうさ","en":"operation; manipulation","vi":"sự thao tác; vận hành","ja":"機械や装置を動かし、扱うこと。"}]},
+  {"japanese":"繰る","kana":"くる","en":"reel; wind; turn through","vi":"cuộn; kéo; lật","ja":"糸や縄などを手元に引き寄せる。また、順にめくる。","parts":[{"text":"繰る","kana":"くる","en":"reel; wind; turn through","vi":"cuộn; kéo; lật","ja":"糸などを手元へ引き寄せる。ページをめくる意味もある。"}]},
+  {"japanese":"繰り返す","kana":"くりかえす","en":"repeat; do again","vi":"lặp lại","ja":"同じことをもう一度、また何度も行う。","parts":[{"text":"繰り返す","kana":"くりかえす","en":"repeat; do again","vi":"lặp lại","ja":"同じことをもう一度行う。"}]},
+  {"japanese":"農業","kana":"のうぎょう","en":"agriculture; farming","vi":"nông nghiệp","ja":"田畑を耕し、作物を育てる仕事。","parts":[{"text":"農業","kana":"のうぎょう","en":"agriculture; farming","vi":"nông nghiệp","ja":"作物を育てたり家畜を飼ったりする産業。"}]},
+  {"japanese":"濃い","kana":"こい","en":"strong; thick; deep","vi":"đậm; đặc; nồng","ja":"色や味、濃度などが強い。","parts":[{"text":"濃い","kana":"こい","en":"strong; thick; deep","vi":"đậm; đặc; nồng","ja":"色や味、成分の割合が強い。"}]},
+  {"japanese":"濃厚","kana":"のうこう","en":"rich; thick; strong","vi":"đậm đặc; nồng","ja":"味や色、成分などが濃いこと。","parts":[{"text":"濃厚","kana":"のうこう","en":"rich; thick; strong","vi":"đậm đặc; nồng","ja":"味や色などが非常に濃いこと。"}]},
+  {"japanese":"豊","kana":"ゆたか","en":"abundant; rich","vi":"phong phú; sung túc","ja":"量や内容が十分にあり、恵まれている。","parts":[{"text":"豊","kana":"ゆたか","en":"abundant; rich","vi":"phong phú; sung túc","ja":"量や内容が多く、満ち足りている。"}]},
+  {"japanese":"豊富","kana":"ほうふ","en":"abundant; plentiful","vi":"phong phú; dồi dào","ja":"量や種類が非常に多いこと。","parts":[{"text":"豊富","kana":"ほうふ","en":"abundant; plentiful","vi":"phong phú; dồi dào","ja":"量や種類がたくさんあること。"}]},
+  {"japanese":"捕まる","kana":"つかまる","en":"be caught; be arrested","vi":"bị bắt; bị tóm","ja":"逃げられないように取り押さえられる。","parts":[{"text":"捕まる","kana":"つかまる","en":"be caught; be arrested","vi":"bị bắt; bị tóm","ja":"人や動物が取り押さえられる。"}]},
+  {"japanese":"逮捕","kana":"たいほ","en":"arrest","vi":"sự bắt giữ","ja":"犯罪の疑いがある人の身柄を拘束すること。","parts":[{"text":"逮捕","kana":"たいほ","en":"arrest","vi":"sự bắt giữ","ja":"犯罪の疑いがある人を拘束すること。"}]},
+  {"japanese":"抽象","kana":"ちゅうしょう","en":"abstraction; abstract","vi":"sự trừu tượng; trừu tượng","ja":"具体的なものから共通の性質を取り出して考えること。","parts":[{"text":"抽象","kana":"ちゅうしょう","en":"abstraction; abstract","vi":"sự trừu tượng","ja":"具体的な事物から共通点を抜き出して考えること。"}]},
+  {"japanese":"抽選","kana":"ちゅうせん","en":"lottery; drawing lots","vi":"bốc thăm; xổ số","ja":"くじを引いて当選者や順番などを決めること。","parts":[{"text":"抽選","kana":"ちゅうせん","en":"lottery; drawing lots","vi":"bốc thăm; xổ số","ja":"くじによって当たりや順番を決めること。"}]},
+  {"japanese":"控える","kana":"ひかえる","en":"refrain; hold back; note down","vi":"kiêng; hạn chế; ghi lại","ja":"行動を抑える。また、後で使うために記録する。","parts":[{"text":"控える","kana":"ひかえる","en":"refrain; hold back; note down","vi":"kiêng; hạn chế; ghi lại","ja":"行動を抑える。記録する意味もある。"}]}
+]

@@ -1,0 +1,6822 @@
+[
+  {
+    "japanese": "彼は毎朝、書斎で本を読んでいる。",
+    "order": 163,
+    "sourceLines": [
+      192
+    ],
+    "status": "unmatched",
+    "evidence": []
+  },
+  {
+    "japanese": "俊敏な新聞記者",
+    "order": 300,
+    "sourceLines": [
+      331,
+      832
+    ],
+    "status": "ambiguous",
+    "evidence": [
+      {
+        "file": "bai-3-phan-1-.txt",
+        "line": 217,
+        "text": "俊敏な新聞記者"
+      },
+      {
+        "file": "bai-6-phan-1-.txt",
+        "line": 225,
+        "text": "俊敏な新聞記者"
+      }
+    ]
+  },
+  {
+    "japanese": "網を引く",
+    "order": 412,
+    "sourceLines": [
+      497
+    ],
+    "status": "unmatched",
+    "evidence": []
+  },
+  {
+    "japanese": "網渡り",
+    "order": 413,
+    "sourceLines": [
+      498
+    ],
+    "status": "unmatched",
+    "evidence": []
+  },
+  {
+    "japanese": "猛獣",
+    "order": 511,
+    "sourceLines": [
+      652,
+      1078
+    ],
+    "status": "ambiguous",
+    "evidence": [
+      {
+        "file": "bai-5-phan-1-.txt",
+        "line": 216,
+        "text": "猛獣"
+      },
+      {
+        "file": "bai-8-phan-1-.txt",
+        "line": 120,
+        "text": "猛獣"
+      }
+    ]
+  },
+  {
+    "japanese": "損害は一億円と推定される",
+    "order": 746,
+    "sourceLines": [
+      1030
+    ],
+    "status": "unmatched",
+    "evidence": []
+  },
+  {
+    "japanese": "売上は変わらないが、経費を下げたので利潤が倍になった",
+    "order": 964,
+    "sourceLines": [
+      1385
+    ],
+    "status": "unmatched",
+    "evidence": []
+  },
+  {
+    "japanese": "話が矛盾している",
+    "order": 1081,
+    "sourceLines": [
+      1586,
+      2643
+    ],
+    "status": "ambiguous",
+    "evidence": [
+      {
+        "file": "bai-11-phan-1-.txt",
+        "line": 179,
+        "text": "話が矛盾している"
+      },
+      {
+        "file": "bai-18-phan-1-.txt",
+        "line": 54,
+        "text": "話が矛盾している"
+      }
+    ]
+  },
+  {
+    "japanese": "奴隷",
+    "order": 1307,
+    "sourceLines": [
+      1966,
+      2352
+    ],
+    "status": "ambiguous",
+    "evidence": [
+      {
+        "file": "bai-14-phan-1-.txt",
+        "line": 75,
+        "text": "奴隷"
+      },
+      {
+        "file": "bai-16-phan-1-.txt",
+        "line": 90,
+        "text": "奴隷"
+      }
+    ]
+  },
+  {
+    "japanese": "国旗掲揚",
+    "order": 1703,
+    "sourceLines": [
+      2601,
+      2774
+    ],
+    "status": "ambiguous",
+    "evidence": [
+      {
+        "file": "bai-17-phan-1-.txt",
+        "line": 229,
+        "text": "国旗掲揚"
+      },
+      {
+        "file": "bai-19-phan-1-.txt",
+        "line": 28,
+        "text": "国旗掲揚"
+      }
+    ]
+  },
+  {
+    "japanese": "冠婚葬祭",
+    "order": 1841,
+    "sourceLines": [
+      2839,
+      3005
+    ],
+    "status": "ambiguous",
+    "evidence": [
+      {
+        "file": "bai-19-phan-1-.txt",
+        "line": 127,
+        "text": "冠婚葬祭"
+      },
+      {
+        "file": "bai-20-phan-1-.txt",
+        "line": 154,
+        "text": "冠婚葬祭"
+      }
+    ]
+  },
+  {
+    "japanese": "責める",
+    "order": 2024,
+    "sourceLines": [
+      3139
+    ],
+    "status": "ambiguous",
+    "evidence": [
+      {
+        "file": "on-tap-n2-phan-1.txt",
+        "line": 3,
+        "text": "責　　責める　　責任"
+      },
+      {
+        "file": "on-tap-n2-phan-2.txt",
+        "line": 3,
+        "text": "責　　責める　　責任"
+      },
+      {
+        "file": "on-tap-n2-phan-3.txt",
+        "line": 3,
+        "text": "責　　責める　　責任"
+      }
+    ]
+  },
+  {
+    "japanese": "責任",
+    "order": 2025,
+    "sourceLines": [
+      3140
+    ],
+    "status": "ambiguous",
+    "evidence": [
+      {
+        "file": "bai-1-phan-1-.txt",
+        "line": 92,
+        "text": "責任を追及する"
+      },
+      {
+        "file": "bai-1-phan-1-.txt",
+        "line": 231,
+        "text": "責任を免れる"
+      },
+      {
+        "file": "bai-12-phan-2-.txt",
+        "line": 154,
+        "text": "責任を回避する"
+      },
+      {
+        "file": "bai-16-phan-1-.txt",
+        "line": 122,
+        "text": "親としての責任を放棄する"
+      },
+      {
+        "file": "bai-2-phan-1-.txt",
+        "line": 50,
+        "text": "責任を転嫁する"
+      },
+      {
+        "file": "on-tap-n2-phan-1.txt",
+        "line": 3,
+        "text": "責　　責める　　責任"
+      },
+      {
+        "file": "on-tap-n2-phan-2.txt",
+        "line": 3,
+        "text": "責　　責める　　責任"
+      },
+      {
+        "file": "on-tap-n2-phan-3.txt",
+        "line": 3,
+        "text": "責　　責める　　責任"
+      }
+    ]
+  },
+  {
+    "japanese": "債務",
+    "order": 2026,
+    "sourceLines": [
+      3143
+    ],
+    "status": "ambiguous",
+    "evidence": [
+      {
+        "file": "on-tap-n2-phan-1.txt",
+        "line": 5,
+        "text": "債　　債務（12.2019）"
+      },
+      {
+        "file": "on-tap-n2-phan-2.txt",
+        "line": 5,
+        "text": "債　　債務（12.2019）"
+      },
+      {
+        "file": "on-tap-n2-phan-3.txt",
+        "line": 5,
+        "text": "債　　債務（12.2019）"
+      }
+    ]
+  },
+  {
+    "japanese": "積む",
+    "order": 2027,
+    "sourceLines": [
+      3146
+    ],
+    "status": "ambiguous",
+    "evidence": [
+      {
+        "file": "on-tap-n2-phan-1.txt",
+        "line": 7,
+        "text": "積　　積む　　面積"
+      },
+      {
+        "file": "on-tap-n2-phan-2.txt",
+        "line": 7,
+        "text": "積　　積む　　面積"
+      },
+      {
+        "file": "on-tap-n2-phan-3.txt",
+        "line": 7,
+        "text": "積　　積む　　面積"
+      }
+    ]
+  },
+  {
+    "japanese": "面積",
+    "order": 2028,
+    "sourceLines": [
+      3147
+    ],
+    "status": "ambiguous",
+    "evidence": [
+      {
+        "file": "on-tap-n2-phan-1.txt",
+        "line": 7,
+        "text": "積　　積む　　面積"
+      },
+      {
+        "file": "on-tap-n2-phan-2.txt",
+        "line": 7,
+        "text": "積　　積む　　面積"
+      },
+      {
+        "file": "on-tap-n2-phan-3.txt",
+        "line": 7,
+        "text": "積　　積む　　面積"
+      }
+    ]
+  },
+  {
+    "japanese": "成績",
+    "order": 2029,
+    "sourceLines": [
+      3150
+    ],
+    "status": "ambiguous",
+    "evidence": [
+      {
+        "file": "bai-13-phan-1-.txt",
+        "line": 21,
+        "text": "優秀な成績で卒業する"
+      },
+      {
+        "file": "bai-6-phan-1-.txt",
+        "line": 90,
+        "text": "成績/天気が芳しくない"
+      },
+      {
+        "file": "on-tap-n2-phan-1.txt",
+        "line": 9,
+        "text": "績　　成績"
+      },
+      {
+        "file": "on-tap-n2-phan-2.txt",
+        "line": 9,
+        "text": "績　　成績"
+      },
+      {
+        "file": "on-tap-n2-phan-3.txt",
+        "line": 9,
+        "text": "績　　成績"
+      }
+    ]
+  },
+  {
+    "japanese": "契る",
+    "order": 2030,
+    "sourceLines": [
+      3153
+    ],
+    "status": "ambiguous",
+    "evidence": [
+      {
+        "file": "on-tap-n2-phan-1.txt",
+        "line": 11,
+        "text": "契　　契る　　契約（7/2010）"
+      },
+      {
+        "file": "on-tap-n2-phan-2.txt",
+        "line": 11,
+        "text": "契　　契る　　契約（7/2010）"
+      },
+      {
+        "file": "on-tap-n2-phan-3.txt",
+        "line": 11,
+        "text": "契　　契る　　契約（7/2010）"
+      }
+    ]
+  },
+  {
+    "japanese": "契約",
+    "order": 2031,
+    "sourceLines": [
+      3154
+    ],
+    "status": "ambiguous",
+    "evidence": [
+      {
+        "file": "bai-1-phan-1-.txt",
+        "line": 265,
+        "text": "契約を履行する"
+      },
+      {
+        "file": "bai-14-phan-1-.txt",
+        "line": 69,
+        "text": "契約時に約款を熟読する"
+      },
+      {
+        "file": "bai-16-phan-1-.txt",
+        "line": 30,
+        "text": "契約更新と併せて住所変更も行う"
+      },
+      {
+        "file": "bai-16-phan-1-.txt",
+        "line": 123,
+        "text": "契約を破棄する"
+      },
+      {
+        "file": "bai-19-phan-1-.txt",
+        "line": 90,
+        "text": "この契約書は妥当性に欠ける"
+      },
+      {
+        "file": "on-tap-n2-phan-1.txt",
+        "line": 11,
+        "text": "契　　契る　　契約（7/2010）"
+      },
+      {
+        "file": "on-tap-n2-phan-2.txt",
+        "line": 11,
+        "text": "契　　契る　　契約（7/2010）"
+      },
+      {
+        "file": "on-tap-n2-phan-3.txt",
+        "line": 11,
+        "text": "契　　契る　　契約（7/2010）"
+      }
+    ]
+  },
+  {
+    "japanese": "喫煙",
+    "order": 2032,
+    "sourceLines": [
+      3157
+    ],
+    "status": "ambiguous",
+    "evidence": [
+      {
+        "file": "bai-13-phan-1-.txt",
+        "line": 35,
+        "text": "喫煙に関するルールが浸透する"
+      },
+      {
+        "file": "on-tap-n2-phan-1.txt",
+        "line": 13,
+        "text": "喫　　喫煙"
+      },
+      {
+        "file": "on-tap-n2-phan-2.txt",
+        "line": 13,
+        "text": "喫　　喫煙"
+      },
+      {
+        "file": "on-tap-n2-phan-3.txt",
+        "line": 13,
+        "text": "喫　　喫煙"
+      }
+    ]
+  },
+  {
+    "japanese": "潔い",
+    "order": 2033,
+    "sourceLines": [
+      3160
+    ],
+    "status": "ambiguous",
+    "evidence": [
+      {
+        "file": "on-tap-n2-phan-1.txt",
+        "line": 15,
+        "text": "潔　　潔い（12/2019）　　清潔"
+      },
+      {
+        "file": "on-tap-n2-phan-2.txt",
+        "line": 15,
+        "text": "潔　　潔い（12/2019）　　清潔"
+      },
+      {
+        "file": "on-tap-n2-phan-3.txt",
+        "line": 15,
+        "text": "潔　　潔い（12/2019）　　清潔"
+      }
+    ]
+  },
+  {
+    "japanese": "清潔",
+    "order": 2034,
+    "sourceLines": [
+      3161
+    ],
+    "status": "ambiguous",
+    "evidence": [
+      {
+        "file": "on-tap-n2-phan-1.txt",
+        "line": 15,
+        "text": "潔　　潔い（12/2019）　　清潔"
+      },
+      {
+        "file": "on-tap-n2-phan-2.txt",
+        "line": 15,
+        "text": "潔　　潔い（12/2019）　　清潔"
+      },
+      {
+        "file": "on-tap-n2-phan-3.txt",
+        "line": 15,
+        "text": "潔　　潔い（12/2019）　　清潔"
+      }
+    ]
+  },
+  {
+    "japanese": "添える",
+    "order": 2035,
+    "sourceLines": [
+      3164,
+      3584
+    ],
+    "status": "ambiguous",
+    "evidence": [
+      {
+        "file": "bai-15-phan-1-.txt",
+        "line": 9,
+        "text": "贈り物に手紙を添える"
+      },
+      {
+        "file": "on-tap-n2-phan-1.txt",
+        "line": 17,
+        "text": "添　　添える　　添付（7/2015）"
+      },
+      {
+        "file": "on-tap-n2-phan-1.txt",
+        "line": 237,
+        "text": "添　　添える　　添付"
+      },
+      {
+        "file": "on-tap-n2-phan-2.txt",
+        "line": 17,
+        "text": "添　　添える　　添付（7/2015）"
+      },
+      {
+        "file": "on-tap-n2-phan-2.txt",
+        "line": 237,
+        "text": "添　　添える　　添付"
+      },
+      {
+        "file": "on-tap-n2-phan-3.txt",
+        "line": 17,
+        "text": "添　　添える　　添付（7/2015）"
+      },
+      {
+        "file": "on-tap-n2-phan-3.txt",
+        "line": 237,
+        "text": "添　　添える　　添付"
+      }
+    ]
+  },
+  {
+    "japanese": "添付",
+    "order": 2036,
+    "sourceLines": [
+      3165,
+      3585
+    ],
+    "status": "ambiguous",
+    "evidence": [
+      {
+        "file": "bai-15-phan-1-.txt",
+        "line": 11,
+        "text": "メールに資料を添付する"
+      },
+      {
+        "file": "on-tap-n2-phan-1.txt",
+        "line": 17,
+        "text": "添　　添える　　添付（7/2015）"
+      },
+      {
+        "file": "on-tap-n2-phan-1.txt",
+        "line": 237,
+        "text": "添　　添える　　添付"
+      },
+      {
+        "file": "on-tap-n2-phan-2.txt",
+        "line": 17,
+        "text": "添　　添える　　添付（7/2015）"
+      },
+      {
+        "file": "on-tap-n2-phan-2.txt",
+        "line": 237,
+        "text": "添　　添える　　添付"
+      },
+      {
+        "file": "on-tap-n2-phan-3.txt",
+        "line": 17,
+        "text": "添　　添える　　添付（7/2015）"
+      },
+      {
+        "file": "on-tap-n2-phan-3.txt",
+        "line": 237,
+        "text": "添　　添える　　添付"
+      }
+    ]
+  },
+  {
+    "japanese": "利益",
+    "order": 2037,
+    "sourceLines": [
+      3168,
+      3412
+    ],
+    "status": "ambiguous",
+    "evidence": [
+      {
+        "file": "bai-3-phan-1-.txt",
+        "line": 91,
+        "text": "利益を搾取する"
+      },
+      {
+        "file": "on-tap-n2-phan-1.txt",
+        "line": 19,
+        "text": "益　　利益（7.2011）"
+      },
+      {
+        "file": "on-tap-n2-phan-1.txt",
+        "line": 147,
+        "text": "益　　利益（7.2011）"
+      },
+      {
+        "file": "on-tap-n2-phan-2.txt",
+        "line": 19,
+        "text": "益　　利益（7.2011）"
+      },
+      {
+        "file": "on-tap-n2-phan-2.txt",
+        "line": 147,
+        "text": "益　　利益（7.2011）"
+      },
+      {
+        "file": "on-tap-n2-phan-3.txt",
+        "line": 19,
+        "text": "益　　利益（7.2011）"
+      },
+      {
+        "file": "on-tap-n2-phan-3.txt",
+        "line": 147,
+        "text": "益　　利益（7.2011）"
+      }
+    ]
+  },
+  {
+    "japanese": "猛烈",
+    "order": 2038,
+    "sourceLines": [
+      3171
+    ],
+    "status": "ambiguous",
+    "evidence": [
+      {
+        "file": "bai-1-phan-1-.txt",
+        "line": 104,
+        "text": "猛烈に勉強する"
+      },
+      {
+        "file": "bai-8-phan-1-.txt",
+        "line": 122,
+        "text": "猛烈な風"
+      },
+      {
+        "file": "on-tap-n2-phan-1.txt",
+        "line": 21,
+        "text": "猛　　猛烈（7.2019）"
+      },
+      {
+        "file": "on-tap-n2-phan-2.txt",
+        "line": 21,
+        "text": "猛　　猛烈（7.2019）"
+      },
+      {
+        "file": "on-tap-n2-phan-3.txt",
+        "line": 21,
+        "text": "猛　　猛烈（7.2019）"
+      }
+    ]
+  },
+  {
+    "japanese": "崩れる",
+    "order": 2039,
+    "sourceLines": [
+      3174
+    ],
+    "status": "ambiguous",
+    "evidence": [
+      {
+        "file": "on-tap-n2-phan-1.txt",
+        "line": 23,
+        "text": "崩　　崩れる（7.2019）　　崩壊（壊す 7.2010）"
+      },
+      {
+        "file": "on-tap-n2-phan-2.txt",
+        "line": 23,
+        "text": "崩　　崩れる（7.2019）　　崩壊（壊す 7.2010）"
+      },
+      {
+        "file": "on-tap-n2-phan-3.txt",
+        "line": 23,
+        "text": "崩　　崩れる（7.2019）　　崩壊（壊す 7.2010）"
+      }
+    ]
+  },
+  {
+    "japanese": "崩壊",
+    "order": 2040,
+    "sourceLines": [
+      3175
+    ],
+    "status": "ambiguous",
+    "evidence": [
+      {
+        "file": "on-tap-n2-phan-1.txt",
+        "line": 23,
+        "text": "崩　　崩れる（7.2019）　　崩壊（壊す 7.2010）"
+      },
+      {
+        "file": "on-tap-n2-phan-2.txt",
+        "line": 23,
+        "text": "崩　　崩れる（7.2019）　　崩壊（壊す 7.2010）"
+      },
+      {
+        "file": "on-tap-n2-phan-3.txt",
+        "line": 23,
+        "text": "崩　　崩れる（7.2019）　　崩壊（壊す 7.2010）"
+      }
+    ]
+  },
+  {
+    "japanese": "人脈",
+    "order": 2041,
+    "sourceLines": [
+      3178
+    ],
+    "status": "ambiguous",
+    "evidence": [
+      {
+        "file": "on-tap-n2-phan-1.txt",
+        "line": 25,
+        "text": "脈　　人脈（12.2016）"
+      },
+      {
+        "file": "on-tap-n2-phan-2.txt",
+        "line": 25,
+        "text": "脈　　人脈（12.2016）"
+      },
+      {
+        "file": "on-tap-n2-phan-3.txt",
+        "line": 25,
+        "text": "脈　　人脈（12.2016）"
+      }
+    ]
+  },
+  {
+    "japanese": "腕",
+    "order": 2042,
+    "sourceLines": [
+      3181
+    ],
+    "status": "unmatched",
+    "evidence": []
+  },
+  {
+    "japanese": "手腕",
+    "order": 2043,
+    "sourceLines": [
+      3182
+    ],
+    "status": "ambiguous",
+    "evidence": [
+      {
+        "file": "on-tap-n2-phan-1.txt",
+        "line": 27,
+        "text": "腕　　腕　　手腕"
+      },
+      {
+        "file": "on-tap-n2-phan-2.txt",
+        "line": 27,
+        "text": "腕　　腕　　手腕"
+      },
+      {
+        "file": "on-tap-n2-phan-3.txt",
+        "line": 27,
+        "text": "腕　　腕　　手腕"
+      }
+    ]
+  },
+  {
+    "japanese": "複雑",
+    "order": 2044,
+    "sourceLines": [
+      3185
+    ],
+    "status": "ambiguous",
+    "evidence": [
+      {
+        "file": "on-tap-n2-phan-1.txt",
+        "line": 29,
+        "text": "複　　複雑"
+      },
+      {
+        "file": "on-tap-n2-phan-2.txt",
+        "line": 29,
+        "text": "複　　複雑"
+      },
+      {
+        "file": "on-tap-n2-phan-3.txt",
+        "line": 29,
+        "text": "複　　複雑"
+      }
+    ]
+  },
+  {
+    "japanese": "復習",
+    "order": 2045,
+    "sourceLines": [
+      3188
+    ],
+    "status": "ambiguous",
+    "evidence": [
+      {
+        "file": "on-tap-n2-phan-1.txt",
+        "line": 31,
+        "text": "復　　復習"
+      },
+      {
+        "file": "on-tap-n2-phan-2.txt",
+        "line": 31,
+        "text": "復　　復習"
+      },
+      {
+        "file": "on-tap-n2-phan-3.txt",
+        "line": 31,
+        "text": "復　　復習"
+      }
+    ]
+  },
+  {
+    "japanese": "履く",
+    "order": 2046,
+    "sourceLines": [
+      3191
+    ],
+    "status": "ambiguous",
+    "evidence": [
+      {
+        "file": "bai-1-phan-1-.txt",
+        "line": 262,
+        "text": "靴を履く"
+      },
+      {
+        "file": "on-tap-n2-phan-1.txt",
+        "line": 33,
+        "text": "履　　履く　　履歴（7.2019）"
+      },
+      {
+        "file": "on-tap-n2-phan-2.txt",
+        "line": 33,
+        "text": "履　　履く　　履歴（7.2019）"
+      },
+      {
+        "file": "on-tap-n2-phan-3.txt",
+        "line": 33,
+        "text": "履　　履く　　履歴（7.2019）"
+      }
+    ]
+  },
+  {
+    "japanese": "履歴",
+    "order": 2047,
+    "sourceLines": [
+      3192
+    ],
+    "status": "ambiguous",
+    "evidence": [
+      {
+        "file": "bai-1-phan-1-.txt",
+        "line": 264,
+        "text": "履歴書"
+      },
+      {
+        "file": "on-tap-n2-phan-1.txt",
+        "line": 33,
+        "text": "履　　履く　　履歴（7.2019）"
+      },
+      {
+        "file": "on-tap-n2-phan-2.txt",
+        "line": 33,
+        "text": "履　　履く　　履歴（7.2019）"
+      },
+      {
+        "file": "on-tap-n2-phan-3.txt",
+        "line": 33,
+        "text": "履　　履く　　履歴（7.2019）"
+      }
+    ]
+  },
+  {
+    "japanese": "兼ねる",
+    "order": 2048,
+    "sourceLines": [
+      3195
+    ],
+    "status": "ambiguous",
+    "evidence": [
+      {
+        "file": "on-tap-n2-phan-1.txt",
+        "line": 35,
+        "text": "兼　　兼ねる　　兼任"
+      },
+      {
+        "file": "on-tap-n2-phan-2.txt",
+        "line": 35,
+        "text": "兼　　兼ねる　　兼任"
+      },
+      {
+        "file": "on-tap-n2-phan-3.txt",
+        "line": 35,
+        "text": "兼　　兼ねる　　兼任"
+      }
+    ]
+  },
+  {
+    "japanese": "兼任",
+    "order": 2049,
+    "sourceLines": [
+      3196
+    ],
+    "status": "ambiguous",
+    "evidence": [
+      {
+        "file": "on-tap-n2-phan-1.txt",
+        "line": 35,
+        "text": "兼　　兼ねる　　兼任"
+      },
+      {
+        "file": "on-tap-n2-phan-2.txt",
+        "line": 35,
+        "text": "兼　　兼ねる　　兼任"
+      },
+      {
+        "file": "on-tap-n2-phan-3.txt",
+        "line": 35,
+        "text": "兼　　兼ねる　　兼任"
+      }
+    ]
+  },
+  {
+    "japanese": "嫌悪感",
+    "order": 2050,
+    "sourceLines": [
+      3199
+    ],
+    "status": "ambiguous",
+    "evidence": [
+      {
+        "file": "on-tap-n2-phan-1.txt",
+        "line": 37,
+        "text": "嫌　　嫌悪感（7.2018）"
+      },
+      {
+        "file": "on-tap-n2-phan-2.txt",
+        "line": 37,
+        "text": "嫌　　嫌悪感（7.2018）"
+      },
+      {
+        "file": "on-tap-n2-phan-3.txt",
+        "line": 37,
+        "text": "嫌　　嫌悪感（7.2018）"
+      }
+    ]
+  },
+  {
+    "japanese": "為に",
+    "order": 2051,
+    "sourceLines": [
+      3202
+    ],
+    "status": "ambiguous",
+    "evidence": [
+      {
+        "file": "bai-1-phan-1-.txt",
+        "line": 128,
+        "text": "データを無作為に抽出する"
+      },
+      {
+        "file": "on-tap-n2-phan-1.txt",
+        "line": 39,
+        "text": "為　　為に　　行為"
+      },
+      {
+        "file": "on-tap-n2-phan-2.txt",
+        "line": 39,
+        "text": "為　　為に　　行為"
+      },
+      {
+        "file": "on-tap-n2-phan-3.txt",
+        "line": 39,
+        "text": "為　　為に　　行為"
+      }
+    ]
+  },
+  {
+    "japanese": "行為",
+    "order": 2052,
+    "sourceLines": [
+      3203
+    ],
+    "status": "ambiguous",
+    "evidence": [
+      {
+        "file": "bai-1-phan-1-.txt",
+        "line": 125,
+        "text": "勇敢な行為"
+      },
+      {
+        "file": "bai-1-phan-1-.txt",
+        "line": 126,
+        "text": "不正行為"
+      },
+      {
+        "file": "bai-11-phan-1-.txt",
+        "line": 201,
+        "text": "卑しむべき行為"
+      },
+      {
+        "file": "bai-16-phan-1-.txt",
+        "line": 36,
+        "text": "倫理に反する行為"
+      },
+      {
+        "file": "bai-5-phan-1-.txt",
+        "line": 116,
+        "text": "不貞行為が発覚し、離婚に至った"
+      },
+      {
+        "file": "on-tap-n2-phan-1.txt",
+        "line": 39,
+        "text": "為　　為に　　行為"
+      },
+      {
+        "file": "on-tap-n2-phan-2.txt",
+        "line": 39,
+        "text": "為　　為に　　行為"
+      },
+      {
+        "file": "on-tap-n2-phan-3.txt",
+        "line": 39,
+        "text": "為　　為に　　行為"
+      }
+    ]
+  },
+  {
+    "japanese": "偽る",
+    "order": 2053,
+    "sourceLines": [
+      3206
+    ],
+    "status": "ambiguous",
+    "evidence": [
+      {
+        "file": "bai-1-phan-1-.txt",
+        "line": 134,
+        "text": "年齢を偽る"
+      },
+      {
+        "file": "on-tap-n2-phan-1.txt",
+        "line": 41,
+        "text": "偽　　偽る（12.2018）　　偽物　　偽造"
+      },
+      {
+        "file": "on-tap-n2-phan-2.txt",
+        "line": 41,
+        "text": "偽　　偽る（12.2018）　　偽物　　偽造"
+      },
+      {
+        "file": "on-tap-n2-phan-3.txt",
+        "line": 41,
+        "text": "偽　　偽る（12.2018）　　偽物　　偽造"
+      }
+    ]
+  },
+  {
+    "japanese": "偽造",
+    "order": 2054,
+    "sourceLines": [
+      3208
+    ],
+    "status": "ambiguous",
+    "evidence": [
+      {
+        "file": "bai-1-phan-1-.txt",
+        "line": 136,
+        "text": "お札を偽造する"
+      },
+      {
+        "file": "on-tap-n2-phan-1.txt",
+        "line": 41,
+        "text": "偽　　偽る（12.2018）　　偽物　　偽造"
+      },
+      {
+        "file": "on-tap-n2-phan-2.txt",
+        "line": 41,
+        "text": "偽　　偽る（12.2018）　　偽物　　偽造"
+      },
+      {
+        "file": "on-tap-n2-phan-3.txt",
+        "line": 41,
+        "text": "偽　　偽る（12.2018）　　偽物　　偽造"
+      }
+    ]
+  },
+  {
+    "japanese": "決める",
+    "order": 2055,
+    "sourceLines": [
+      3211
+    ],
+    "status": "ambiguous",
+    "evidence": [
+      {
+        "file": "bai-15-phan-1-.txt",
+        "line": 233,
+        "text": "志望校を決める"
+      },
+      {
+        "file": "bai-17-phan-1-.txt",
+        "line": 183,
+        "text": "覚悟を決める"
+      },
+      {
+        "file": "bai-2-phan-1-.txt",
+        "line": 198,
+        "text": "抽選で決める"
+      },
+      {
+        "file": "on-tap-n2-phan-1.txt",
+        "line": 43,
+        "text": "決　　決める　　解決"
+      },
+      {
+        "file": "on-tap-n2-phan-2.txt",
+        "line": 43,
+        "text": "決　　決める　　解決"
+      },
+      {
+        "file": "on-tap-n2-phan-3.txt",
+        "line": 43,
+        "text": "決　　決める　　解決"
+      }
+    ]
+  },
+  {
+    "japanese": "解決",
+    "order": 2056,
+    "sourceLines": [
+      3212
+    ],
+    "status": "ambiguous",
+    "evidence": [
+      {
+        "file": "bai-10-phan-1-.txt",
+        "line": 140,
+        "text": "問題解決のために奮闘する"
+      },
+      {
+        "file": "bai-3-phan-1-.txt",
+        "line": 76,
+        "text": "未解決の誘拐事件"
+      },
+      {
+        "file": "bai-4-phan-1-.txt",
+        "line": 168,
+        "text": "解決方法を模索する"
+      },
+      {
+        "file": "on-tap-n2-phan-1.txt",
+        "line": 43,
+        "text": "決　　決める　　解決"
+      },
+      {
+        "file": "on-tap-n2-phan-2.txt",
+        "line": 43,
+        "text": "決　　決める　　解決"
+      },
+      {
+        "file": "on-tap-n2-phan-3.txt",
+        "line": 43,
+        "text": "決　　決める　　解決"
+      }
+    ]
+  },
+  {
+    "japanese": "快い",
+    "order": 2057,
+    "sourceLines": [
+      3215
+    ],
+    "status": "ambiguous",
+    "evidence": [
+      {
+        "file": "on-tap-n2-phan-1.txt",
+        "line": 45,
+        "text": "快　　快い　　豪快（12/2018）"
+      },
+      {
+        "file": "on-tap-n2-phan-2.txt",
+        "line": 45,
+        "text": "快　　快い　　豪快（12/2018）"
+      },
+      {
+        "file": "on-tap-n2-phan-3.txt",
+        "line": 45,
+        "text": "快　　快い　　豪快（12/2018）"
+      }
+    ]
+  },
+  {
+    "japanese": "豪快",
+    "order": 2058,
+    "sourceLines": [
+      3216
+    ],
+    "status": "ambiguous",
+    "evidence": [
+      {
+        "file": "bai-2-phan-1-.txt",
+        "line": 67,
+        "text": "豪快に笑う"
+      },
+      {
+        "file": "on-tap-n2-phan-1.txt",
+        "line": 45,
+        "text": "快　　快い　　豪快（12/2018）"
+      },
+      {
+        "file": "on-tap-n2-phan-2.txt",
+        "line": 45,
+        "text": "快　　快い　　豪快（12/2018）"
+      },
+      {
+        "file": "on-tap-n2-phan-3.txt",
+        "line": 45,
+        "text": "快　　快い　　豪快（12/2018）"
+      }
+    ]
+  },
+  {
+    "japanese": "募集",
+    "order": 2059,
+    "sourceLines": [
+      3219
+    ],
+    "status": "ambiguous",
+    "evidence": [
+      {
+        "file": "bai-6-phan-1-.txt",
+        "line": 50,
+        "text": "経験者優遇（募集要項で）"
+      },
+      {
+        "file": "bai-7-phan-2-.txt",
+        "line": 77,
+        "text": "募集要項"
+      },
+      {
+        "file": "on-tap-n2-phan-1.txt",
+        "line": 47,
+        "text": "募　　募集　　募る（12.2018）"
+      },
+      {
+        "file": "on-tap-n2-phan-2.txt",
+        "line": 47,
+        "text": "募　　募集　　募る（12.2018）"
+      },
+      {
+        "file": "on-tap-n2-phan-3.txt",
+        "line": 47,
+        "text": "募　　募集　　募る（12.2018）"
+      }
+    ]
+  },
+  {
+    "japanese": "募る",
+    "order": 2060,
+    "sourceLines": [
+      3220
+    ],
+    "status": "ambiguous",
+    "evidence": [
+      {
+        "file": "on-tap-n2-phan-1.txt",
+        "line": 47,
+        "text": "募　　募集　　募る（12.2018）"
+      },
+      {
+        "file": "on-tap-n2-phan-2.txt",
+        "line": 47,
+        "text": "募　　募集　　募る（12.2018）"
+      },
+      {
+        "file": "on-tap-n2-phan-3.txt",
+        "line": 47,
+        "text": "募　　募集　　募る（12.2018）"
+      }
+    ]
+  },
+  {
+    "japanese": "墓",
+    "order": 2061,
+    "sourceLines": [
+      3223
+    ],
+    "status": "unmatched",
+    "evidence": []
+  },
+  {
+    "japanese": "暮れる",
+    "order": 2062,
+    "sourceLines": [
+      3226
+    ],
+    "status": "ambiguous",
+    "evidence": [
+      {
+        "file": "on-tap-n2-phan-1.txt",
+        "line": 51,
+        "text": "暮　　暮れる　　暮らす"
+      },
+      {
+        "file": "on-tap-n2-phan-2.txt",
+        "line": 51,
+        "text": "暮　　暮れる　　暮らす"
+      },
+      {
+        "file": "on-tap-n2-phan-3.txt",
+        "line": 51,
+        "text": "暮　　暮れる　　暮らす"
+      }
+    ]
+  },
+  {
+    "japanese": "暮らす",
+    "order": 2063,
+    "sourceLines": [
+      3227
+    ],
+    "status": "ambiguous",
+    "evidence": [
+      {
+        "file": "bai-9-phan-1-.txt",
+        "line": 109,
+        "text": "高級マンションで優雅に暮らす"
+      },
+      {
+        "file": "on-tap-n2-phan-1.txt",
+        "line": 51,
+        "text": "暮　　暮れる　　暮らす"
+      },
+      {
+        "file": "on-tap-n2-phan-2.txt",
+        "line": 51,
+        "text": "暮　　暮れる　　暮らす"
+      },
+      {
+        "file": "on-tap-n2-phan-3.txt",
+        "line": 51,
+        "text": "暮　　暮れる　　暮らす"
+      }
+    ]
+  },
+  {
+    "japanese": "帯",
+    "order": 2064,
+    "sourceLines": [
+      3230
+    ],
+    "status": "unmatched",
+    "evidence": []
+  },
+  {
+    "japanese": "世帯",
+    "order": 2065,
+    "sourceLines": [
+      3231
+    ],
+    "status": "ambiguous",
+    "evidence": [
+      {
+        "file": "on-tap-n2-phan-1.txt",
+        "line": 53,
+        "text": "帯　　帯　　世帯"
+      },
+      {
+        "file": "on-tap-n2-phan-2.txt",
+        "line": 53,
+        "text": "帯　　帯　　世帯"
+      },
+      {
+        "file": "on-tap-n2-phan-3.txt",
+        "line": 53,
+        "text": "帯　　帯　　世帯"
+      }
+    ]
+  },
+  {
+    "japanese": "渋滞",
+    "order": 2066,
+    "sourceLines": [
+      3234
+    ],
+    "status": "ambiguous",
+    "evidence": [
+      {
+        "file": "bai-20-phan-1-.txt",
+        "line": 346,
+        "text": "人口の著しい増加が渋滞の原因である"
+      },
+      {
+        "file": "on-tap-n2-phan-1.txt",
+        "line": 55,
+        "text": "滞　　渋滞　　滞る（12.2018）"
+      },
+      {
+        "file": "on-tap-n2-phan-2.txt",
+        "line": 55,
+        "text": "滞　　渋滞　　滞る（12.2018）"
+      },
+      {
+        "file": "on-tap-n2-phan-3.txt",
+        "line": 55,
+        "text": "滞　　渋滞　　滞る（12.2018）"
+      }
+    ]
+  },
+  {
+    "japanese": "滞る",
+    "order": 2067,
+    "sourceLines": [
+      3235
+    ],
+    "status": "ambiguous",
+    "evidence": [
+      {
+        "file": "on-tap-n2-phan-1.txt",
+        "line": 55,
+        "text": "滞　　渋滞　　滞る（12.2018）"
+      },
+      {
+        "file": "on-tap-n2-phan-2.txt",
+        "line": 55,
+        "text": "滞　　渋滞　　滞る（12.2018）"
+      },
+      {
+        "file": "on-tap-n2-phan-3.txt",
+        "line": 55,
+        "text": "滞　　渋滞　　滞る（12.2018）"
+      }
+    ]
+  },
+  {
+    "japanese": "殺す",
+    "order": 2068,
+    "sourceLines": [
+      3238
+    ],
+    "status": "ambiguous",
+    "evidence": [
+      {
+        "file": "bai-2-phan-1-.txt",
+        "line": 233,
+        "text": "事実を抹殺する。"
+      },
+      {
+        "file": "on-tap-n2-phan-1.txt",
+        "line": 57,
+        "text": "殺　　殺す　　殺菌（7/2017）"
+      },
+      {
+        "file": "on-tap-n2-phan-2.txt",
+        "line": 57,
+        "text": "殺　　殺す　　殺菌（7/2017）"
+      },
+      {
+        "file": "on-tap-n2-phan-3.txt",
+        "line": 57,
+        "text": "殺　　殺す　　殺菌（7/2017）"
+      }
+    ]
+  },
+  {
+    "japanese": "殺菌",
+    "order": 2069,
+    "sourceLines": [
+      3239
+    ],
+    "status": "ambiguous",
+    "evidence": [
+      {
+        "file": "on-tap-n2-phan-1.txt",
+        "line": 57,
+        "text": "殺　　殺す　　殺菌（7/2017）"
+      },
+      {
+        "file": "on-tap-n2-phan-2.txt",
+        "line": 57,
+        "text": "殺　　殺す　　殺菌（7/2017）"
+      },
+      {
+        "file": "on-tap-n2-phan-3.txt",
+        "line": 57,
+        "text": "殺　　殺す　　殺菌（7/2017）"
+      }
+    ]
+  },
+  {
+    "japanese": "沈没",
+    "order": 2070,
+    "sourceLines": [
+      3242,
+      3577
+    ],
+    "status": "ambiguous",
+    "evidence": [
+      {
+        "file": "bai-6-phan-1-.txt",
+        "line": 204,
+        "text": "船が沈没する"
+      },
+      {
+        "file": "on-tap-n2-phan-1.txt",
+        "line": 59,
+        "text": "没　　沈没"
+      },
+      {
+        "file": "on-tap-n2-phan-1.txt",
+        "line": 233,
+        "text": "沈　　沈む　　沈没"
+      },
+      {
+        "file": "on-tap-n2-phan-2.txt",
+        "line": 59,
+        "text": "没　　沈没"
+      },
+      {
+        "file": "on-tap-n2-phan-2.txt",
+        "line": 233,
+        "text": "沈　　沈む　　沈没"
+      },
+      {
+        "file": "on-tap-n2-phan-3.txt",
+        "line": 59,
+        "text": "没　　沈没"
+      },
+      {
+        "file": "on-tap-n2-phan-3.txt",
+        "line": 233,
+        "text": "沈　　沈む　　沈没"
+      }
+    ]
+  },
+  {
+    "japanese": "暴力",
+    "order": 2071,
+    "sourceLines": [
+      3245
+    ],
+    "status": "ambiguous",
+    "evidence": [
+      {
+        "file": "on-tap-n2-phan-1.txt",
+        "line": 61,
+        "text": "暴　　暴力　　暴露（7/2017）　　暴れる"
+      },
+      {
+        "file": "on-tap-n2-phan-2.txt",
+        "line": 61,
+        "text": "暴　　暴力　　暴露（7/2017）　　暴れる"
+      },
+      {
+        "file": "on-tap-n2-phan-3.txt",
+        "line": 61,
+        "text": "暴　　暴力　　暴露（7/2017）　　暴れる"
+      }
+    ]
+  },
+  {
+    "japanese": "暴露",
+    "order": 2072,
+    "sourceLines": [
+      3246
+    ],
+    "status": "ambiguous",
+    "evidence": [
+      {
+        "file": "bai-9-phan-1-.txt",
+        "line": 194,
+        "text": "悪事を暴露する"
+      },
+      {
+        "file": "on-tap-n2-phan-1.txt",
+        "line": 61,
+        "text": "暴　　暴力　　暴露（7/2017）　　暴れる"
+      },
+      {
+        "file": "on-tap-n2-phan-2.txt",
+        "line": 61,
+        "text": "暴　　暴力　　暴露（7/2017）　　暴れる"
+      },
+      {
+        "file": "on-tap-n2-phan-3.txt",
+        "line": 61,
+        "text": "暴　　暴力　　暴露（7/2017）　　暴れる"
+      }
+    ]
+  },
+  {
+    "japanese": "暴れる",
+    "order": 2073,
+    "sourceLines": [
+      3247
+    ],
+    "status": "ambiguous",
+    "evidence": [
+      {
+        "file": "on-tap-n2-phan-1.txt",
+        "line": 61,
+        "text": "暴　　暴力　　暴露（7/2017）　　暴れる"
+      },
+      {
+        "file": "on-tap-n2-phan-2.txt",
+        "line": 61,
+        "text": "暴　　暴力　　暴露（7/2017）　　暴れる"
+      },
+      {
+        "file": "on-tap-n2-phan-3.txt",
+        "line": 61,
+        "text": "暴　　暴力　　暴露（7/2017）　　暴れる"
+      }
+    ]
+  },
+  {
+    "japanese": "爆発",
+    "order": 2074,
+    "sourceLines": [
+      3250
+    ],
+    "status": "ambiguous",
+    "evidence": [
+      {
+        "file": "bai-12-phan-2-.txt",
+        "line": 61,
+        "text": "爆発の衝撃で建物が壊れた"
+      },
+      {
+        "file": "on-tap-n2-phan-1.txt",
+        "line": 63,
+        "text": "爆　　爆発　　爆弾"
+      },
+      {
+        "file": "on-tap-n2-phan-2.txt",
+        "line": 63,
+        "text": "爆　　爆発　　爆弾"
+      },
+      {
+        "file": "on-tap-n2-phan-3.txt",
+        "line": 63,
+        "text": "爆　　爆発　　爆弾"
+      }
+    ]
+  },
+  {
+    "japanese": "爆弾",
+    "order": 2075,
+    "sourceLines": [
+      3251
+    ],
+    "status": "ambiguous",
+    "evidence": [
+      {
+        "file": "bai-11-phan-1-.txt",
+        "line": 170,
+        "text": "核爆弾"
+      },
+      {
+        "file": "on-tap-n2-phan-1.txt",
+        "line": 63,
+        "text": "爆　　爆発　　爆弾"
+      },
+      {
+        "file": "on-tap-n2-phan-2.txt",
+        "line": 63,
+        "text": "爆　　爆発　　爆弾"
+      },
+      {
+        "file": "on-tap-n2-phan-3.txt",
+        "line": 63,
+        "text": "爆　　爆発　　爆弾"
+      }
+    ]
+  },
+  {
+    "japanese": "その頃",
+    "order": 2076,
+    "sourceLines": [
+      3254
+    ],
+    "status": "ambiguous",
+    "evidence": [
+      {
+        "file": "on-tap-n2-phan-1.txt",
+        "line": 65,
+        "text": "頃　　その頃　　日頃　　手頃"
+      },
+      {
+        "file": "on-tap-n2-phan-2.txt",
+        "line": 65,
+        "text": "頃　　その頃　　日頃　　手頃"
+      },
+      {
+        "file": "on-tap-n2-phan-3.txt",
+        "line": 65,
+        "text": "頃　　その頃　　日頃　　手頃"
+      }
+    ]
+  },
+  {
+    "japanese": "日頃",
+    "order": 2077,
+    "sourceLines": [
+      3255
+    ],
+    "status": "ambiguous",
+    "evidence": [
+      {
+        "file": "bai-7-phan-2-.txt",
+        "line": 42,
+        "text": "日頃の行いがよい人には必ずチャンスが来る"
+      },
+      {
+        "file": "on-tap-n2-phan-1.txt",
+        "line": 65,
+        "text": "頃　　その頃　　日頃　　手頃"
+      },
+      {
+        "file": "on-tap-n2-phan-2.txt",
+        "line": 65,
+        "text": "頃　　その頃　　日頃　　手頃"
+      },
+      {
+        "file": "on-tap-n2-phan-3.txt",
+        "line": 65,
+        "text": "頃　　その頃　　日頃　　手頃"
+      }
+    ]
+  },
+  {
+    "japanese": "手頃",
+    "order": 2078,
+    "sourceLines": [
+      3256
+    ],
+    "status": "ambiguous",
+    "evidence": [
+      {
+        "file": "bai-7-phan-2-.txt",
+        "line": 43,
+        "text": "手頃な値段"
+      },
+      {
+        "file": "on-tap-n2-phan-1.txt",
+        "line": 65,
+        "text": "頃　　その頃　　日頃　　手頃"
+      },
+      {
+        "file": "on-tap-n2-phan-2.txt",
+        "line": 65,
+        "text": "頃　　その頃　　日頃　　手頃"
+      },
+      {
+        "file": "on-tap-n2-phan-3.txt",
+        "line": 65,
+        "text": "頃　　その頃　　日頃　　手頃"
+      }
+    ]
+  },
+  {
+    "japanese": "傾ける",
+    "order": 2079,
+    "sourceLines": [
+      3259
+    ],
+    "status": "ambiguous",
+    "evidence": [
+      {
+        "file": "bai-15-phan-1-.txt",
+        "line": 222,
+        "text": "先生の忠告に耳を傾ける"
+      },
+      {
+        "file": "on-tap-n2-phan-1.txt",
+        "line": 67,
+        "text": "傾　　傾ける　　傾斜（7.2017）"
+      },
+      {
+        "file": "on-tap-n2-phan-2.txt",
+        "line": 67,
+        "text": "傾　　傾ける　　傾斜（7.2017）"
+      },
+      {
+        "file": "on-tap-n2-phan-3.txt",
+        "line": 67,
+        "text": "傾　　傾ける　　傾斜（7.2017）"
+      }
+    ]
+  },
+  {
+    "japanese": "傾斜",
+    "order": 2080,
+    "sourceLines": [
+      3260,
+      3550
+    ],
+    "status": "ambiguous",
+    "evidence": [
+      {
+        "file": "on-tap-n2-phan-1.txt",
+        "line": 67,
+        "text": "傾　　傾ける　　傾斜（7.2017）"
+      },
+      {
+        "file": "on-tap-n2-phan-1.txt",
+        "line": 219,
+        "text": "斜　　斜め　　傾斜"
+      },
+      {
+        "file": "on-tap-n2-phan-2.txt",
+        "line": 67,
+        "text": "傾　　傾ける　　傾斜（7.2017）"
+      },
+      {
+        "file": "on-tap-n2-phan-2.txt",
+        "line": 219,
+        "text": "斜　　斜め　　傾斜"
+      },
+      {
+        "file": "on-tap-n2-phan-3.txt",
+        "line": 67,
+        "text": "傾　　傾ける　　傾斜（7.2017）"
+      },
+      {
+        "file": "on-tap-n2-phan-3.txt",
+        "line": 219,
+        "text": "斜　　斜め　　傾斜"
+      }
+    ]
+  },
+  {
+    "japanese": "開拓",
+    "order": 2081,
+    "sourceLines": [
+      3263
+    ],
+    "status": "ambiguous",
+    "evidence": [
+      {
+        "file": "bai-2-phan-1-.txt",
+        "line": 240,
+        "text": "荒れ地を開拓する。"
+      },
+      {
+        "file": "bai-2-phan-1-.txt",
+        "line": 241,
+        "text": "市場を開拓する。"
+      },
+      {
+        "file": "on-tap-n2-phan-1.txt",
+        "line": 69,
+        "text": "拓　　開拓（12.2017）"
+      },
+      {
+        "file": "on-tap-n2-phan-2.txt",
+        "line": 69,
+        "text": "拓　　開拓（12.2017）"
+      },
+      {
+        "file": "on-tap-n2-phan-3.txt",
+        "line": 69,
+        "text": "拓　　開拓（12.2017）"
+      }
+    ]
+  },
+  {
+    "japanese": "指",
+    "order": 2082,
+    "sourceLines": [
+      3266
+    ],
+    "status": "unmatched",
+    "evidence": []
+  },
+  {
+    "japanese": "指図",
+    "order": 2083,
+    "sourceLines": [
+      3267
+    ],
+    "status": "ambiguous",
+    "evidence": [
+      {
+        "file": "on-tap-n2-phan-1.txt",
+        "line": 71,
+        "text": "指　　指　　指図（12.2017）"
+      },
+      {
+        "file": "on-tap-n2-phan-2.txt",
+        "line": 71,
+        "text": "指　　指　　指図（12.2017）"
+      },
+      {
+        "file": "on-tap-n2-phan-3.txt",
+        "line": 71,
+        "text": "指　　指　　指図（12.2017）"
+      }
+    ]
+  },
+  {
+    "japanese": "堅い",
+    "order": 2084,
+    "sourceLines": [
+      3270
+    ],
+    "status": "ambiguous",
+    "evidence": [
+      {
+        "file": "on-tap-n2-phan-1.txt",
+        "line": 73,
+        "text": "堅　　堅い　　堅実"
+      },
+      {
+        "file": "on-tap-n2-phan-2.txt",
+        "line": 73,
+        "text": "堅　　堅い　　堅実"
+      },
+      {
+        "file": "on-tap-n2-phan-3.txt",
+        "line": 73,
+        "text": "堅　　堅い　　堅実"
+      }
+    ]
+  },
+  {
+    "japanese": "堅実",
+    "order": 2085,
+    "sourceLines": [
+      3271
+    ],
+    "status": "ambiguous",
+    "evidence": [
+      {
+        "file": "on-tap-n2-phan-1.txt",
+        "line": 73,
+        "text": "堅　　堅い　　堅実"
+      },
+      {
+        "file": "on-tap-n2-phan-2.txt",
+        "line": 73,
+        "text": "堅　　堅い　　堅実"
+      },
+      {
+        "file": "on-tap-n2-phan-3.txt",
+        "line": 73,
+        "text": "堅　　堅い　　堅実"
+      }
+    ]
+  },
+  {
+    "japanese": "緊急",
+    "order": 2086,
+    "sourceLines": [
+      3274
+    ],
+    "status": "ambiguous",
+    "evidence": [
+      {
+        "file": "on-tap-n2-phan-1.txt",
+        "line": 75,
+        "text": "緊　　緊急　　緊張"
+      },
+      {
+        "file": "on-tap-n2-phan-2.txt",
+        "line": 75,
+        "text": "緊　　緊急　　緊張"
+      },
+      {
+        "file": "on-tap-n2-phan-3.txt",
+        "line": 75,
+        "text": "緊　　緊急　　緊張"
+      }
+    ]
+  },
+  {
+    "japanese": "緊張",
+    "order": 2087,
+    "sourceLines": [
+      3275
+    ],
+    "status": "ambiguous",
+    "evidence": [
+      {
+        "file": "on-tap-n2-phan-1.txt",
+        "line": 75,
+        "text": "緊　　緊急　　緊張"
+      },
+      {
+        "file": "on-tap-n2-phan-2.txt",
+        "line": 75,
+        "text": "緊　　緊急　　緊張"
+      },
+      {
+        "file": "on-tap-n2-phan-3.txt",
+        "line": 75,
+        "text": "緊　　緊急　　緊張"
+      }
+    ]
+  },
+  {
+    "japanese": "賢い",
+    "order": 2088,
+    "sourceLines": [
+      3278
+    ],
+    "status": "ambiguous",
+    "evidence": [
+      {
+        "file": "on-tap-n2-phan-1.txt",
+        "line": 77,
+        "text": "賢　　賢い（12.2016）　　賢人"
+      },
+      {
+        "file": "on-tap-n2-phan-2.txt",
+        "line": 77,
+        "text": "賢　　賢い（12.2016）　　賢人"
+      },
+      {
+        "file": "on-tap-n2-phan-3.txt",
+        "line": 77,
+        "text": "賢　　賢い（12.2016）　　賢人"
+      }
+    ]
+  },
+  {
+    "japanese": "賢人",
+    "order": 2089,
+    "sourceLines": [
+      3279
+    ],
+    "status": "ambiguous",
+    "evidence": [
+      {
+        "file": "on-tap-n2-phan-1.txt",
+        "line": 77,
+        "text": "賢　　賢い（12.2016）　　賢人"
+      },
+      {
+        "file": "on-tap-n2-phan-2.txt",
+        "line": 77,
+        "text": "賢　　賢い（12.2016）　　賢人"
+      },
+      {
+        "file": "on-tap-n2-phan-3.txt",
+        "line": 77,
+        "text": "賢　　賢い（12.2016）　　賢人"
+      }
+    ]
+  },
+  {
+    "japanese": "中華料理",
+    "order": 2090,
+    "sourceLines": [
+      3282
+    ],
+    "status": "ambiguous",
+    "evidence": [
+      {
+        "file": "on-tap-n2-phan-1.txt",
+        "line": 79,
+        "text": "華　　中華料理　　華やか（7/2016）　　華々しい（7/2010）"
+      },
+      {
+        "file": "on-tap-n2-phan-2.txt",
+        "line": 79,
+        "text": "華　　中華料理　　華やか（7/2016）　　華々しい（7/2010）"
+      },
+      {
+        "file": "on-tap-n2-phan-3.txt",
+        "line": 79,
+        "text": "華　　中華料理　　華やか（7/2016）　　華々しい（7/2010）"
+      }
+    ]
+  },
+  {
+    "japanese": "華やか",
+    "order": 2091,
+    "sourceLines": [
+      3283
+    ],
+    "status": "ambiguous",
+    "evidence": [
+      {
+        "file": "on-tap-n2-phan-1.txt",
+        "line": 79,
+        "text": "華　　中華料理　　華やか（7/2016）　　華々しい（7/2010）"
+      },
+      {
+        "file": "on-tap-n2-phan-2.txt",
+        "line": 79,
+        "text": "華　　中華料理　　華やか（7/2016）　　華々しい（7/2010）"
+      },
+      {
+        "file": "on-tap-n2-phan-3.txt",
+        "line": 79,
+        "text": "華　　中華料理　　華やか（7/2016）　　華々しい（7/2010）"
+      }
+    ]
+  },
+  {
+    "japanese": "華々しい",
+    "order": 2092,
+    "sourceLines": [
+      3284
+    ],
+    "status": "ambiguous",
+    "evidence": [
+      {
+        "file": "on-tap-n2-phan-1.txt",
+        "line": 79,
+        "text": "華　　中華料理　　華やか（7/2016）　　華々しい（7/2010）"
+      },
+      {
+        "file": "on-tap-n2-phan-2.txt",
+        "line": 79,
+        "text": "華　　中華料理　　華やか（7/2016）　　華々しい（7/2010）"
+      },
+      {
+        "file": "on-tap-n2-phan-3.txt",
+        "line": 79,
+        "text": "華　　中華料理　　華やか（7/2016）　　華々しい（7/2010）"
+      }
+    ]
+  },
+  {
+    "japanese": "喧嘩",
+    "order": 2093,
+    "sourceLines": [
+      3287
+    ],
+    "status": "ambiguous",
+    "evidence": [
+      {
+        "file": "bai-18-phan-1-.txt",
+        "line": 53,
+        "text": "両親が喧嘩をしていたので仲裁をしようとしたが、母親が矛先を向けてきた"
+      },
+      {
+        "file": "on-tap-n2-phan-1.txt",
+        "line": 81,
+        "text": "嘩　　喧嘩"
+      },
+      {
+        "file": "on-tap-n2-phan-2.txt",
+        "line": 81,
+        "text": "嘩　　喧嘩"
+      },
+      {
+        "file": "on-tap-n2-phan-3.txt",
+        "line": 81,
+        "text": "嘩　　喧嘩"
+      }
+    ]
+  },
+  {
+    "japanese": "偏る",
+    "order": 2094,
+    "sourceLines": [
+      3290
+    ],
+    "status": "ambiguous",
+    "evidence": [
+      {
+        "file": "on-tap-n2-phan-1.txt",
+        "line": 83,
+        "text": "偏　　偏る（7/2016）　　偏見"
+      },
+      {
+        "file": "on-tap-n2-phan-2.txt",
+        "line": 83,
+        "text": "偏　　偏る（7/2016）　　偏見"
+      },
+      {
+        "file": "on-tap-n2-phan-3.txt",
+        "line": 83,
+        "text": "偏　　偏る（7/2016）　　偏見"
+      }
+    ]
+  },
+  {
+    "japanese": "偏見",
+    "order": 2095,
+    "sourceLines": [
+      3291
+    ],
+    "status": "ambiguous",
+    "evidence": [
+      {
+        "file": "bai-19-phan-1-.txt",
+        "line": 68,
+        "text": "偏見を持つ"
+      },
+      {
+        "file": "on-tap-n2-phan-1.txt",
+        "line": 83,
+        "text": "偏　　偏る（7/2016）　　偏見"
+      },
+      {
+        "file": "on-tap-n2-phan-2.txt",
+        "line": 83,
+        "text": "偏　　偏る（7/2016）　　偏見"
+      },
+      {
+        "file": "on-tap-n2-phan-3.txt",
+        "line": 83,
+        "text": "偏　　偏る（7/2016）　　偏見"
+      }
+    ]
+  },
+  {
+    "japanese": "編む",
+    "order": 2096,
+    "sourceLines": [
+      3294
+    ],
+    "status": "ambiguous",
+    "evidence": [
+      {
+        "file": "on-tap-n2-phan-1.txt",
+        "line": 85,
+        "text": "編　　編む　　編集"
+      },
+      {
+        "file": "on-tap-n2-phan-2.txt",
+        "line": 85,
+        "text": "編　　編む　　編集"
+      },
+      {
+        "file": "on-tap-n2-phan-3.txt",
+        "line": 85,
+        "text": "編　　編む　　編集"
+      }
+    ]
+  },
+  {
+    "japanese": "編集",
+    "order": 2097,
+    "sourceLines": [
+      3295
+    ],
+    "status": "ambiguous",
+    "evidence": [
+      {
+        "file": "bai-14-phan-1-.txt",
+        "line": 8,
+        "text": "二十歳以上、且つ、ビデオ編集の経験がある人のみ応募可能"
+      },
+      {
+        "file": "on-tap-n2-phan-1.txt",
+        "line": 85,
+        "text": "編　　編む　　編集"
+      },
+      {
+        "file": "on-tap-n2-phan-2.txt",
+        "line": 85,
+        "text": "編　　編む　　編集"
+      },
+      {
+        "file": "on-tap-n2-phan-3.txt",
+        "line": 85,
+        "text": "編　　編む　　編集"
+      }
+    ]
+  },
+  {
+    "japanese": "値段",
+    "order": 2098,
+    "sourceLines": [
+      3298
+    ],
+    "status": "ambiguous",
+    "evidence": [
+      {
+        "file": "bai-7-phan-2-.txt",
+        "line": 43,
+        "text": "手頃な値段"
+      },
+      {
+        "file": "on-tap-n2-phan-1.txt",
+        "line": 87,
+        "text": "値　　値段　　値する（12/2015）"
+      },
+      {
+        "file": "on-tap-n2-phan-2.txt",
+        "line": 87,
+        "text": "値　　値段　　値する（12/2015）"
+      },
+      {
+        "file": "on-tap-n2-phan-3.txt",
+        "line": 87,
+        "text": "値　　値段　　値する（12/2015）"
+      }
+    ]
+  },
+  {
+    "japanese": "値する",
+    "order": 2099,
+    "sourceLines": [
+      3299
+    ],
+    "status": "ambiguous",
+    "evidence": [
+      {
+        "file": "bai-19-phan-1-.txt",
+        "line": 183,
+        "text": "称賛に値する勇気ある行動"
+      },
+      {
+        "file": "on-tap-n2-phan-1.txt",
+        "line": 87,
+        "text": "値　　値段　　値する（12/2015）"
+      },
+      {
+        "file": "on-tap-n2-phan-2.txt",
+        "line": 87,
+        "text": "値　　値段　　値する（12/2015）"
+      },
+      {
+        "file": "on-tap-n2-phan-3.txt",
+        "line": 87,
+        "text": "値　　値段　　値する（12/2015）"
+      }
+    ]
+  },
+  {
+    "japanese": "植える",
+    "order": 2100,
+    "sourceLines": [
+      3302
+    ],
+    "status": "ambiguous",
+    "evidence": [
+      {
+        "file": "bai-7-phan-2-.txt",
+        "line": 105,
+        "text": "街路樹を植える"
+      },
+      {
+        "file": "bai-9-phan-1-.txt",
+        "line": 162,
+        "text": "庭に芝を植える"
+      },
+      {
+        "file": "on-tap-n2-phan-1.txt",
+        "line": 89,
+        "text": "植　　植える　　植物"
+      },
+      {
+        "file": "on-tap-n2-phan-2.txt",
+        "line": 89,
+        "text": "植　　植える　　植物"
+      },
+      {
+        "file": "on-tap-n2-phan-3.txt",
+        "line": 89,
+        "text": "植　　植える　　植物"
+      }
+    ]
+  },
+  {
+    "japanese": "植物",
+    "order": 2101,
+    "sourceLines": [
+      3303
+    ],
+    "status": "ambiguous",
+    "evidence": [
+      {
+        "file": "bai-7-phan-2-.txt",
+        "line": 243,
+        "text": "植物の茎"
+      },
+      {
+        "file": "on-tap-n2-phan-1.txt",
+        "line": 89,
+        "text": "植　　植える　　植物"
+      },
+      {
+        "file": "on-tap-n2-phan-2.txt",
+        "line": 89,
+        "text": "植　　植える　　植物"
+      },
+      {
+        "file": "on-tap-n2-phan-3.txt",
+        "line": 89,
+        "text": "植　　植える　　植物"
+      }
+    ]
+  },
+  {
+    "japanese": "励む",
+    "order": 2102,
+    "sourceLines": [
+      3306
+    ],
+    "status": "ambiguous",
+    "evidence": [
+      {
+        "file": "bai-14-phan-1-.txt",
+        "line": 85,
+        "text": "貯蓄に励む"
+      },
+      {
+        "file": "on-tap-n2-phan-1.txt",
+        "line": 91,
+        "text": "励　　励む（12.2015）　　奨励"
+      },
+      {
+        "file": "on-tap-n2-phan-2.txt",
+        "line": 91,
+        "text": "励　　励む（12.2015）　　奨励"
+      },
+      {
+        "file": "on-tap-n2-phan-3.txt",
+        "line": 91,
+        "text": "励　　励む（12.2015）　　奨励"
+      }
+    ]
+  },
+  {
+    "japanese": "奨励",
+    "order": 2103,
+    "sourceLines": [
+      3307
+    ],
+    "status": "ambiguous",
+    "evidence": [
+      {
+        "file": "bai-19-phan-1-.txt",
+        "line": 148,
+        "text": "医者が患者に禁煙を奨励する"
+      },
+      {
+        "file": "on-tap-n2-phan-1.txt",
+        "line": 91,
+        "text": "励　　励む（12.2015）　　奨励"
+      },
+      {
+        "file": "on-tap-n2-phan-2.txt",
+        "line": 91,
+        "text": "励　　励む（12.2015）　　奨励"
+      },
+      {
+        "file": "on-tap-n2-phan-3.txt",
+        "line": 91,
+        "text": "励　　励む（12.2015）　　奨励"
+      }
+    ]
+  },
+  {
+    "japanese": "破る",
+    "order": 2104,
+    "sourceLines": [
+      3310
+    ],
+    "status": "ambiguous",
+    "evidence": [
+      {
+        "file": "on-tap-n2-phan-1.txt",
+        "line": 93,
+        "text": "破　　破る　　破損（7/2015）"
+      },
+      {
+        "file": "on-tap-n2-phan-2.txt",
+        "line": 93,
+        "text": "破　　破る　　破損（7/2015）"
+      },
+      {
+        "file": "on-tap-n2-phan-3.txt",
+        "line": 93,
+        "text": "破　　破る　　破損（7/2015）"
+      }
+    ]
+  },
+  {
+    "japanese": "破損",
+    "order": 2105,
+    "sourceLines": [
+      3311
+    ],
+    "status": "ambiguous",
+    "evidence": [
+      {
+        "file": "on-tap-n2-phan-1.txt",
+        "line": 93,
+        "text": "破　　破る　　破損（7/2015）"
+      },
+      {
+        "file": "on-tap-n2-phan-2.txt",
+        "line": 93,
+        "text": "破　　破る　　破損（7/2015）"
+      },
+      {
+        "file": "on-tap-n2-phan-3.txt",
+        "line": 93,
+        "text": "破　　破る　　破損（7/2015）"
+      }
+    ]
+  },
+  {
+    "japanese": "砂",
+    "order": 2106,
+    "sourceLines": [
+      3314
+    ],
+    "status": "unmatched",
+    "evidence": []
+  },
+  {
+    "japanese": "拒む",
+    "order": 2107,
+    "sourceLines": [
+      3317
+    ],
+    "status": "ambiguous",
+    "evidence": [
+      {
+        "file": "on-tap-n2-phan-1.txt",
+        "line": 97,
+        "text": "拒　　拒む（12.2014）　　拒否（否めない 7.2014）"
+      },
+      {
+        "file": "on-tap-n2-phan-2.txt",
+        "line": 97,
+        "text": "拒　　拒む（12.2014）　　拒否（否めない 7.2014）"
+      },
+      {
+        "file": "on-tap-n2-phan-3.txt",
+        "line": 97,
+        "text": "拒　　拒む（12.2014）　　拒否（否めない 7.2014）"
+      }
+    ]
+  },
+  {
+    "japanese": "拒否",
+    "order": 2108,
+    "sourceLines": [
+      3318
+    ],
+    "status": "ambiguous",
+    "evidence": [
+      {
+        "file": "on-tap-n2-phan-1.txt",
+        "line": 97,
+        "text": "拒　　拒む（12.2014）　　拒否（否めない 7.2014）"
+      },
+      {
+        "file": "on-tap-n2-phan-2.txt",
+        "line": 97,
+        "text": "拒　　拒む（12.2014）　　拒否（否めない 7.2014）"
+      },
+      {
+        "file": "on-tap-n2-phan-3.txt",
+        "line": 97,
+        "text": "拒　　拒む（12.2014）　　拒否（否めない 7.2014）"
+      }
+    ]
+  },
+  {
+    "japanese": "否めない",
+    "order": 2109,
+    "sourceLines": [
+      3319
+    ],
+    "status": "ambiguous",
+    "evidence": [
+      {
+        "file": "on-tap-n2-phan-1.txt",
+        "line": 97,
+        "text": "拒　　拒む（12.2014）　　拒否（否めない 7.2014）"
+      },
+      {
+        "file": "on-tap-n2-phan-2.txt",
+        "line": 97,
+        "text": "拒　　拒む（12.2014）　　拒否（否めない 7.2014）"
+      },
+      {
+        "file": "on-tap-n2-phan-3.txt",
+        "line": 97,
+        "text": "拒　　拒む（12.2014）　　拒否（否めない 7.2014）"
+      }
+    ]
+  },
+  {
+    "japanese": "距離",
+    "order": 2110,
+    "sourceLines": [
+      3322
+    ],
+    "status": "ambiguous",
+    "evidence": [
+      {
+        "file": "on-tap-n2-phan-1.txt",
+        "line": 99,
+        "text": "距　　距離"
+      },
+      {
+        "file": "on-tap-n2-phan-2.txt",
+        "line": 99,
+        "text": "距　　距離"
+      },
+      {
+        "file": "on-tap-n2-phan-3.txt",
+        "line": 99,
+        "text": "距　　距離"
+      }
+    ]
+  },
+  {
+    "japanese": "跡地",
+    "order": 2111,
+    "sourceLines": [
+      3325
+    ],
+    "status": "ambiguous",
+    "evidence": [
+      {
+        "file": "on-tap-n2-phan-1.txt",
+        "line": 101,
+        "text": "跡　　跡地（7.2013）"
+      },
+      {
+        "file": "on-tap-n2-phan-2.txt",
+        "line": 101,
+        "text": "跡　　跡地（7.2013）"
+      },
+      {
+        "file": "on-tap-n2-phan-3.txt",
+        "line": 101,
+        "text": "跡　　跡地（7.2013）"
+      }
+    ]
+  },
+  {
+    "japanese": "招く",
+    "order": 2112,
+    "sourceLines": [
+      3328
+    ],
+    "status": "ambiguous",
+    "evidence": [
+      {
+        "file": "on-tap-n2-phan-1.txt",
+        "line": 103,
+        "text": "招　　招く　　招待"
+      },
+      {
+        "file": "on-tap-n2-phan-2.txt",
+        "line": 103,
+        "text": "招　　招く　　招待"
+      },
+      {
+        "file": "on-tap-n2-phan-3.txt",
+        "line": 103,
+        "text": "招　　招く　　招待"
+      }
+    ]
+  },
+  {
+    "japanese": "招待",
+    "order": 2113,
+    "sourceLines": [
+      3329
+    ],
+    "status": "ambiguous",
+    "evidence": [
+      {
+        "file": "on-tap-n2-phan-1.txt",
+        "line": 103,
+        "text": "招　　招く　　招待"
+      },
+      {
+        "file": "on-tap-n2-phan-2.txt",
+        "line": 103,
+        "text": "招　　招く　　招待"
+      },
+      {
+        "file": "on-tap-n2-phan-3.txt",
+        "line": 103,
+        "text": "招　　招く　　招待"
+      }
+    ]
+  },
+  {
+    "japanese": "紹介",
+    "order": 2114,
+    "sourceLines": [
+      3332
+    ],
+    "status": "ambiguous",
+    "evidence": [
+      {
+        "file": "bai-19-phan-1-.txt",
+        "line": 74,
+        "text": "日本車、輸入車の区別をあまりせず、満遍なく紹介する"
+      },
+      {
+        "file": "on-tap-n2-phan-1.txt",
+        "line": 105,
+        "text": "紹　　紹介"
+      },
+      {
+        "file": "on-tap-n2-phan-2.txt",
+        "line": 105,
+        "text": "紹　　紹介"
+      },
+      {
+        "file": "on-tap-n2-phan-3.txt",
+        "line": 105,
+        "text": "紹　　紹介"
+      }
+    ]
+  },
+  {
+    "japanese": "超える",
+    "order": 2115,
+    "sourceLines": [
+      3335
+    ],
+    "status": "ambiguous",
+    "evidence": [
+      {
+        "file": "on-tap-n2-phan-1.txt",
+        "line": 107,
+        "text": "超　　超える　　超過"
+      },
+      {
+        "file": "on-tap-n2-phan-2.txt",
+        "line": 107,
+        "text": "超　　超える　　超過"
+      },
+      {
+        "file": "on-tap-n2-phan-3.txt",
+        "line": 107,
+        "text": "超　　超える　　超過"
+      }
+    ]
+  },
+  {
+    "japanese": "超過",
+    "order": 2116,
+    "sourceLines": [
+      3336
+    ],
+    "status": "ambiguous",
+    "evidence": [
+      {
+        "file": "on-tap-n2-phan-1.txt",
+        "line": 107,
+        "text": "超　　超える　　超過"
+      },
+      {
+        "file": "on-tap-n2-phan-2.txt",
+        "line": 107,
+        "text": "超　　超える　　超過"
+      },
+      {
+        "file": "on-tap-n2-phan-3.txt",
+        "line": 107,
+        "text": "超　　超える　　超過"
+      }
+    ]
+  },
+  {
+    "japanese": "越す",
+    "order": 2117,
+    "sourceLines": [
+      3339
+    ],
+    "status": "ambiguous",
+    "evidence": [
+      {
+        "file": "bai-14-phan-1-.txt",
+        "line": 248,
+        "text": "東京近郊に引っ越す"
+      },
+      {
+        "file": "bai-5-phan-1-.txt",
+        "line": 88,
+        "text": "残りのデータを来月分に繰り越す"
+      },
+      {
+        "file": "on-tap-n2-phan-1.txt",
+        "line": 109,
+        "text": "越　　越す　　日越"
+      },
+      {
+        "file": "on-tap-n2-phan-2.txt",
+        "line": 109,
+        "text": "越　　越す　　日越"
+      },
+      {
+        "file": "on-tap-n2-phan-3.txt",
+        "line": 109,
+        "text": "越　　越す　　日越"
+      }
+    ]
+  },
+  {
+    "japanese": "日越",
+    "order": 2118,
+    "sourceLines": [
+      3340
+    ],
+    "status": "ambiguous",
+    "evidence": [
+      {
+        "file": "on-tap-n2-phan-1.txt",
+        "line": 109,
+        "text": "越　　越す　　日越"
+      },
+      {
+        "file": "on-tap-n2-phan-2.txt",
+        "line": 109,
+        "text": "越　　越す　　日越"
+      },
+      {
+        "file": "on-tap-n2-phan-3.txt",
+        "line": 109,
+        "text": "越　　越す　　日越"
+      }
+    ]
+  },
+  {
+    "japanese": "趣き",
+    "order": 2119,
+    "sourceLines": [
+      3343
+    ],
+    "status": "ambiguous",
+    "evidence": [
+      {
+        "file": "on-tap-n2-phan-1.txt",
+        "line": 111,
+        "text": "趣　　趣き　　趣旨（12.2013）"
+      },
+      {
+        "file": "on-tap-n2-phan-2.txt",
+        "line": 111,
+        "text": "趣　　趣き　　趣旨（12.2013）"
+      },
+      {
+        "file": "on-tap-n2-phan-3.txt",
+        "line": 111,
+        "text": "趣　　趣き　　趣旨（12.2013）"
+      }
+    ]
+  },
+  {
+    "japanese": "趣旨",
+    "order": 2120,
+    "sourceLines": [
+      3344
+    ],
+    "status": "ambiguous",
+    "evidence": [
+      {
+        "file": "bai-16-phan-1-.txt",
+        "line": 143,
+        "text": "募金の趣旨に賛同する"
+      },
+      {
+        "file": "on-tap-n2-phan-1.txt",
+        "line": 111,
+        "text": "趣　　趣き　　趣旨（12.2013）"
+      },
+      {
+        "file": "on-tap-n2-phan-2.txt",
+        "line": 111,
+        "text": "趣　　趣き　　趣旨（12.2013）"
+      },
+      {
+        "file": "on-tap-n2-phan-3.txt",
+        "line": 111,
+        "text": "趣　　趣き　　趣旨（12.2013）"
+      }
+    ]
+  },
+  {
+    "japanese": "厳しい",
+    "order": 2121,
+    "sourceLines": [
+      3347
+    ],
+    "status": "ambiguous",
+    "evidence": [
+      {
+        "file": "bai-7-phan-2-.txt",
+        "line": 226,
+        "text": "軽微な犯罪にも厳しい措置をとる"
+      },
+      {
+        "file": "on-tap-n2-phan-1.txt",
+        "line": 113,
+        "text": "厳　　厳しい　　厳正（12.2014）"
+      },
+      {
+        "file": "on-tap-n2-phan-2.txt",
+        "line": 113,
+        "text": "厳　　厳しい　　厳正（12.2014）"
+      },
+      {
+        "file": "on-tap-n2-phan-3.txt",
+        "line": 113,
+        "text": "厳　　厳しい　　厳正（12.2014）"
+      }
+    ]
+  },
+  {
+    "japanese": "厳正",
+    "order": 2122,
+    "sourceLines": [
+      3348
+    ],
+    "status": "ambiguous",
+    "evidence": [
+      {
+        "file": "on-tap-n2-phan-1.txt",
+        "line": 113,
+        "text": "厳　　厳しい　　厳正（12.2014）"
+      },
+      {
+        "file": "on-tap-n2-phan-2.txt",
+        "line": 113,
+        "text": "厳　　厳しい　　厳正（12.2014）"
+      },
+      {
+        "file": "on-tap-n2-phan-3.txt",
+        "line": 113,
+        "text": "厳　　厳しい　　厳正（12.2014）"
+      }
+    ]
+  },
+  {
+    "japanese": "建てる",
+    "order": 2123,
+    "sourceLines": [
+      3351
+    ],
+    "status": "ambiguous",
+    "evidence": [
+      {
+        "file": "bai-11-phan-1-.txt",
+        "line": 218,
+        "text": "記念碑を建てる"
+      },
+      {
+        "file": "on-tap-n2-phan-1.txt",
+        "line": 115,
+        "text": "建　　建てる　　建設"
+      },
+      {
+        "file": "on-tap-n2-phan-2.txt",
+        "line": 115,
+        "text": "建　　建てる　　建設"
+      },
+      {
+        "file": "on-tap-n2-phan-3.txt",
+        "line": 115,
+        "text": "建　　建てる　　建設"
+      }
+    ]
+  },
+  {
+    "japanese": "建設",
+    "order": 2124,
+    "sourceLines": [
+      3352
+    ],
+    "status": "ambiguous",
+    "evidence": [
+      {
+        "file": "bai-14-phan-1-.txt",
+        "line": 40,
+        "text": "マンションの建設を阻止する"
+      },
+      {
+        "file": "bai-16-phan-1-.txt",
+        "line": 150,
+        "text": "建設現場に赴く"
+      },
+      {
+        "file": "on-tap-n2-phan-1.txt",
+        "line": 115,
+        "text": "建　　建てる　　建設"
+      },
+      {
+        "file": "on-tap-n2-phan-2.txt",
+        "line": 115,
+        "text": "建　　建てる　　建設"
+      },
+      {
+        "file": "on-tap-n2-phan-3.txt",
+        "line": 115,
+        "text": "建　　建てる　　建設"
+      }
+    ]
+  },
+  {
+    "japanese": "健康",
+    "order": 2125,
+    "sourceLines": [
+      3355
+    ],
+    "status": "ambiguous",
+    "evidence": [
+      {
+        "file": "bai-3-phan-1-.txt",
+        "line": 35,
+        "text": "健康のために摂生を心がける"
+      },
+      {
+        "file": "on-tap-n2-phan-1.txt",
+        "line": 117,
+        "text": "健　　健康　　健やか（7/2014）"
+      },
+      {
+        "file": "on-tap-n2-phan-2.txt",
+        "line": 117,
+        "text": "健　　健康　　健やか（7/2014）"
+      },
+      {
+        "file": "on-tap-n2-phan-3.txt",
+        "line": 117,
+        "text": "健　　健康　　健やか（7/2014）"
+      }
+    ]
+  },
+  {
+    "japanese": "健やか",
+    "order": 2126,
+    "sourceLines": [
+      3356
+    ],
+    "status": "ambiguous",
+    "evidence": [
+      {
+        "file": "on-tap-n2-phan-1.txt",
+        "line": 117,
+        "text": "健　　健康　　健やか（7/2014）"
+      },
+      {
+        "file": "on-tap-n2-phan-2.txt",
+        "line": 117,
+        "text": "健　　健康　　健やか（7/2014）"
+      },
+      {
+        "file": "on-tap-n2-phan-3.txt",
+        "line": 117,
+        "text": "健　　健康　　健やか（7/2014）"
+      }
+    ]
+  },
+  {
+    "japanese": "震う",
+    "order": 2127,
+    "sourceLines": [
+      3359
+    ],
+    "status": "ambiguous",
+    "evidence": [
+      {
+        "file": "on-tap-n2-phan-1.txt",
+        "line": 119,
+        "text": "震　　震う　　地震"
+      },
+      {
+        "file": "on-tap-n2-phan-2.txt",
+        "line": 119,
+        "text": "震　　震う　　地震"
+      },
+      {
+        "file": "on-tap-n2-phan-3.txt",
+        "line": 119,
+        "text": "震　　震う　　地震"
+      }
+    ]
+  },
+  {
+    "japanese": "地震",
+    "order": 2128,
+    "sourceLines": [
+      3360
+    ],
+    "status": "ambiguous",
+    "evidence": [
+      {
+        "file": "bai-11-phan-1-.txt",
+        "line": 26,
+        "text": "地震の範囲"
+      },
+      {
+        "file": "bai-19-phan-1-.txt",
+        "line": 45,
+        "text": "今回の地震は甚大な被害をもたらした"
+      },
+      {
+        "file": "bai-8-phan-1-.txt",
+        "line": 70,
+        "text": "地震で崖が崩れた"
+      },
+      {
+        "file": "on-tap-n2-phan-1.txt",
+        "line": 119,
+        "text": "震　　震う　　地震"
+      },
+      {
+        "file": "on-tap-n2-phan-2.txt",
+        "line": 119,
+        "text": "震　　震う　　地震"
+      },
+      {
+        "file": "on-tap-n2-phan-3.txt",
+        "line": 119,
+        "text": "震　　震う　　地震"
+      }
+    ]
+  },
+  {
+    "japanese": "需要",
+    "order": 2129,
+    "sourceLines": [
+      3363
+    ],
+    "status": "ambiguous",
+    "evidence": [
+      {
+        "file": "on-tap-n2-phan-1.txt",
+        "line": 121,
+        "text": "需　　需要（7.2013）"
+      },
+      {
+        "file": "on-tap-n2-phan-2.txt",
+        "line": 121,
+        "text": "需　　需要（7.2013）"
+      },
+      {
+        "file": "on-tap-n2-phan-3.txt",
+        "line": 121,
+        "text": "需　　需要（7.2013）"
+      }
+    ]
+  },
+  {
+    "japanese": "第一課",
+    "order": 2130,
+    "sourceLines": [
+      3366
+    ],
+    "status": "ambiguous",
+    "evidence": [
+      {
+        "file": "on-tap-n2-phan-1.txt",
+        "line": 123,
+        "text": "第　　第一課"
+      },
+      {
+        "file": "on-tap-n2-phan-2.txt",
+        "line": 123,
+        "text": "第　　第一課"
+      },
+      {
+        "file": "on-tap-n2-phan-3.txt",
+        "line": 123,
+        "text": "第　　第一課"
+      }
+    ]
+  },
+  {
+    "japanese": "費やす",
+    "order": 2131,
+    "sourceLines": [
+      3369
+    ],
+    "status": "ambiguous",
+    "evidence": [
+      {
+        "file": "on-tap-n2-phan-1.txt",
+        "line": 125,
+        "text": "費　　費やす（12.2012）　　交通費"
+      },
+      {
+        "file": "on-tap-n2-phan-2.txt",
+        "line": 125,
+        "text": "費　　費やす（12.2012）　　交通費"
+      },
+      {
+        "file": "on-tap-n2-phan-3.txt",
+        "line": 125,
+        "text": "費　　費やす（12.2012）　　交通費"
+      }
+    ]
+  },
+  {
+    "japanese": "交通費",
+    "order": 2132,
+    "sourceLines": [
+      3370
+    ],
+    "status": "ambiguous",
+    "evidence": [
+      {
+        "file": "on-tap-n2-phan-1.txt",
+        "line": 125,
+        "text": "費　　費やす（12.2012）　　交通費"
+      },
+      {
+        "file": "on-tap-n2-phan-2.txt",
+        "line": 125,
+        "text": "費　　費やす（12.2012）　　交通費"
+      },
+      {
+        "file": "on-tap-n2-phan-3.txt",
+        "line": 125,
+        "text": "費　　費やす（12.2012）　　交通費"
+      }
+    ]
+  },
+  {
+    "japanese": "お祭り",
+    "order": 2133,
+    "sourceLines": [
+      3373
+    ],
+    "status": "ambiguous",
+    "evidence": [
+      {
+        "file": "on-tap-n2-phan-1.txt",
+        "line": 127,
+        "text": "祭　　お祭り　　文化祭"
+      },
+      {
+        "file": "on-tap-n2-phan-2.txt",
+        "line": 127,
+        "text": "祭　　お祭り　　文化祭"
+      },
+      {
+        "file": "on-tap-n2-phan-3.txt",
+        "line": 127,
+        "text": "祭　　お祭り　　文化祭"
+      }
+    ]
+  },
+  {
+    "japanese": "文化祭",
+    "order": 2134,
+    "sourceLines": [
+      3374
+    ],
+    "status": "ambiguous",
+    "evidence": [
+      {
+        "file": "on-tap-n2-phan-1.txt",
+        "line": 127,
+        "text": "祭　　お祭り　　文化祭"
+      },
+      {
+        "file": "on-tap-n2-phan-2.txt",
+        "line": 127,
+        "text": "祭　　お祭り　　文化祭"
+      },
+      {
+        "file": "on-tap-n2-phan-3.txt",
+        "line": 127,
+        "text": "祭　　お祭り　　文化祭"
+      }
+    ]
+  },
+  {
+    "japanese": "察する",
+    "order": 2135,
+    "sourceLines": [
+      3377
+    ],
+    "status": "ambiguous",
+    "evidence": [
+      {
+        "file": "bai-14-phan-1-.txt",
+        "line": 134,
+        "text": "昆虫を観察する"
+      },
+      {
+        "file": "bai-5-phan-1-.txt",
+        "line": 129,
+        "text": "敵地を偵察する"
+      },
+      {
+        "file": "bai-7-phan-2-.txt",
+        "line": 85,
+        "text": "顕微鏡で観察する"
+      },
+      {
+        "file": "on-tap-n2-phan-1.txt",
+        "line": 129,
+        "text": "察　　察する　　警察"
+      },
+      {
+        "file": "on-tap-n2-phan-2.txt",
+        "line": 129,
+        "text": "察　　察する　　警察"
+      },
+      {
+        "file": "on-tap-n2-phan-3.txt",
+        "line": 129,
+        "text": "察　　察する　　警察"
+      }
+    ]
+  },
+  {
+    "japanese": "警察",
+    "order": 2136,
+    "sourceLines": [
+      3378
+    ],
+    "status": "ambiguous",
+    "evidence": [
+      {
+        "file": "bai-17-phan-1-.txt",
+        "line": 241,
+        "text": "拾った財布に二万円も入っている。警察に届けるべきかそうでないか葛藤した"
+      },
+      {
+        "file": "bai-2-phan-1-.txt",
+        "line": 84,
+        "text": "彼は殺人未遂の疑いで警察の調査を受けた"
+      },
+      {
+        "file": "on-tap-n2-phan-1.txt",
+        "line": 129,
+        "text": "察　　察する　　警察"
+      },
+      {
+        "file": "on-tap-n2-phan-2.txt",
+        "line": 129,
+        "text": "察　　察する　　警察"
+      },
+      {
+        "file": "on-tap-n2-phan-3.txt",
+        "line": 129,
+        "text": "察　　察する　　警察"
+      }
+    ]
+  },
+  {
+    "japanese": "国際",
+    "order": 2137,
+    "sourceLines": [
+      3381
+    ],
+    "status": "ambiguous",
+    "evidence": [
+      {
+        "file": "on-tap-n2-phan-1.txt",
+        "line": 131,
+        "text": "際　　国際　　手際（12.2012）"
+      },
+      {
+        "file": "on-tap-n2-phan-2.txt",
+        "line": 131,
+        "text": "際　　国際　　手際（12.2012）"
+      },
+      {
+        "file": "on-tap-n2-phan-3.txt",
+        "line": 131,
+        "text": "際　　国際　　手際（12.2012）"
+      }
+    ]
+  },
+  {
+    "japanese": "手際",
+    "order": 2138,
+    "sourceLines": [
+      3382
+    ],
+    "status": "ambiguous",
+    "evidence": [
+      {
+        "file": "on-tap-n2-phan-1.txt",
+        "line": 131,
+        "text": "際　　国際　　手際（12.2012）"
+      },
+      {
+        "file": "on-tap-n2-phan-2.txt",
+        "line": 131,
+        "text": "際　　国際　　手際（12.2012）"
+      },
+      {
+        "file": "on-tap-n2-phan-3.txt",
+        "line": 131,
+        "text": "際　　国際　　手際（12.2012）"
+      }
+    ]
+  },
+  {
+    "japanese": "擦る",
+    "order": 2139,
+    "sourceLines": [
+      3385
+    ],
+    "status": "ambiguous",
+    "evidence": [
+      {
+        "file": "bai-3-phan-1-.txt",
+        "line": 41,
+        "text": "マッチを擦る"
+      },
+      {
+        "file": "bai-3-phan-1-.txt",
+        "line": 42,
+        "text": "賭け事でお金を擦る"
+      },
+      {
+        "file": "on-tap-n2-phan-1.txt",
+        "line": 133,
+        "text": "擦　　擦る　　摩擦"
+      },
+      {
+        "file": "on-tap-n2-phan-2.txt",
+        "line": 133,
+        "text": "擦　　擦る　　摩擦"
+      },
+      {
+        "file": "on-tap-n2-phan-3.txt",
+        "line": 133,
+        "text": "擦　　擦る　　摩擦"
+      }
+    ]
+  },
+  {
+    "japanese": "摩擦",
+    "order": 2140,
+    "sourceLines": [
+      3386
+    ],
+    "status": "ambiguous",
+    "evidence": [
+      {
+        "file": "bai-3-phan-1-.txt",
+        "line": 45,
+        "text": "摩擦で火をおこす"
+      },
+      {
+        "file": "bai-9-phan-1-.txt",
+        "line": 25,
+        "text": "摩擦で靴底がすり減る"
+      },
+      {
+        "file": "bai-9-phan-1-.txt",
+        "line": 26,
+        "text": "米中貿易摩擦"
+      },
+      {
+        "file": "on-tap-n2-phan-1.txt",
+        "line": 133,
+        "text": "擦　　擦る　　摩擦"
+      },
+      {
+        "file": "on-tap-n2-phan-2.txt",
+        "line": 133,
+        "text": "擦　　擦る　　摩擦"
+      },
+      {
+        "file": "on-tap-n2-phan-3.txt",
+        "line": 133,
+        "text": "擦　　擦る　　摩擦"
+      }
+    ]
+  },
+  {
+    "japanese": "極める",
+    "order": 2141,
+    "sourceLines": [
+      3389
+    ],
+    "status": "ambiguous",
+    "evidence": [
+      {
+        "file": "on-tap-n2-phan-1.txt",
+        "line": 135,
+        "text": "極　　極める（12.2010）　　積極"
+      },
+      {
+        "file": "on-tap-n2-phan-2.txt",
+        "line": 135,
+        "text": "極　　極める（12.2010）　　積極"
+      },
+      {
+        "file": "on-tap-n2-phan-3.txt",
+        "line": 135,
+        "text": "極　　極める（12.2010）　　積極"
+      }
+    ]
+  },
+  {
+    "japanese": "積極",
+    "order": 2142,
+    "sourceLines": [
+      3390
+    ],
+    "status": "ambiguous",
+    "evidence": [
+      {
+        "file": "on-tap-n2-phan-1.txt",
+        "line": 135,
+        "text": "極　　極める（12.2010）　　積極"
+      },
+      {
+        "file": "on-tap-n2-phan-2.txt",
+        "line": 135,
+        "text": "極　　極める（12.2010）　　積極"
+      },
+      {
+        "file": "on-tap-n2-phan-3.txt",
+        "line": 135,
+        "text": "極　　極める（12.2010）　　積極"
+      }
+    ]
+  },
+  {
+    "japanese": "株",
+    "order": 2143,
+    "sourceLines": [
+      3393
+    ],
+    "status": "unmatched",
+    "evidence": []
+  },
+  {
+    "japanese": "株式",
+    "order": 2144,
+    "sourceLines": [
+      3394
+    ],
+    "status": "ambiguous",
+    "evidence": [
+      {
+        "file": "bai-17-phan-1-.txt",
+        "line": 159,
+        "text": "危険を冒して株式投資をする"
+      },
+      {
+        "file": "on-tap-n2-phan-1.txt",
+        "line": 137,
+        "text": "株　　株　　株式"
+      },
+      {
+        "file": "on-tap-n2-phan-2.txt",
+        "line": 137,
+        "text": "株　　株　　株式"
+      },
+      {
+        "file": "on-tap-n2-phan-3.txt",
+        "line": 137,
+        "text": "株　　株　　株式"
+      }
+    ]
+  },
+  {
+    "japanese": "柔らかい",
+    "order": 2145,
+    "sourceLines": [
+      3397
+    ],
+    "status": "ambiguous",
+    "evidence": [
+      {
+        "file": "on-tap-n2-phan-1.txt",
+        "line": 139,
+        "text": "柔　　柔らかい　　柔軟"
+      },
+      {
+        "file": "on-tap-n2-phan-2.txt",
+        "line": 139,
+        "text": "柔　　柔らかい　　柔軟"
+      },
+      {
+        "file": "on-tap-n2-phan-3.txt",
+        "line": 139,
+        "text": "柔　　柔らかい　　柔軟"
+      }
+    ]
+  },
+  {
+    "japanese": "柔軟",
+    "order": 2146,
+    "sourceLines": [
+      3398
+    ],
+    "status": "ambiguous",
+    "evidence": [
+      {
+        "file": "on-tap-n2-phan-1.txt",
+        "line": 139,
+        "text": "柔　　柔らかい　　柔軟"
+      },
+      {
+        "file": "on-tap-n2-phan-2.txt",
+        "line": 139,
+        "text": "柔　　柔らかい　　柔軟"
+      },
+      {
+        "file": "on-tap-n2-phan-3.txt",
+        "line": 139,
+        "text": "柔　　柔らかい　　柔軟"
+      }
+    ]
+  },
+  {
+    "japanese": "枠",
+    "order": 2147,
+    "sourceLines": [
+      3401
+    ],
+    "status": "unmatched",
+    "evidence": []
+  },
+  {
+    "japanese": "鋭い",
+    "order": 2148,
+    "sourceLines": [
+      3404
+    ],
+    "status": "ambiguous",
+    "evidence": [
+      {
+        "file": "bai-1-phan-1-.txt",
+        "line": 145,
+        "text": "聴覚が鋭い"
+      },
+      {
+        "file": "bai-19-phan-1-.txt",
+        "line": 50,
+        "text": "勘が鋭い"
+      },
+      {
+        "file": "bai-6-phan-1-.txt",
+        "line": 97,
+        "text": "刃が鋭い"
+      },
+      {
+        "file": "bai-8-phan-1-.txt",
+        "line": 227,
+        "text": "鋭い痛みが全身を貫く"
+      },
+      {
+        "file": "on-tap-n2-phan-1.txt",
+        "line": 143,
+        "text": "鋭　　鋭い　　鋭角"
+      },
+      {
+        "file": "on-tap-n2-phan-2.txt",
+        "line": 143,
+        "text": "鋭　　鋭い　　鋭角"
+      },
+      {
+        "file": "on-tap-n2-phan-3.txt",
+        "line": 143,
+        "text": "鋭　　鋭い　　鋭角"
+      }
+    ]
+  },
+  {
+    "japanese": "鋭角",
+    "order": 2149,
+    "sourceLines": [
+      3405
+    ],
+    "status": "ambiguous",
+    "evidence": [
+      {
+        "file": "on-tap-n2-phan-1.txt",
+        "line": 143,
+        "text": "鋭　　鋭い　　鋭角"
+      },
+      {
+        "file": "on-tap-n2-phan-2.txt",
+        "line": 143,
+        "text": "鋭　　鋭い　　鋭角"
+      },
+      {
+        "file": "on-tap-n2-phan-3.txt",
+        "line": 143,
+        "text": "鋭　　鋭い　　鋭角"
+      }
+    ]
+  },
+  {
+    "japanese": "鈍る",
+    "order": 2150,
+    "sourceLines": [
+      3408
+    ],
+    "status": "ambiguous",
+    "evidence": [
+      {
+        "file": "on-tap-n2-phan-1.txt",
+        "line": 145,
+        "text": "鈍　　鈍る（12.2011）　　鈍感"
+      },
+      {
+        "file": "on-tap-n2-phan-2.txt",
+        "line": 145,
+        "text": "鈍　　鈍る（12.2011）　　鈍感"
+      },
+      {
+        "file": "on-tap-n2-phan-3.txt",
+        "line": 145,
+        "text": "鈍　　鈍る（12.2011）　　鈍感"
+      }
+    ]
+  },
+  {
+    "japanese": "鈍感",
+    "order": 2151,
+    "sourceLines": [
+      3409
+    ],
+    "status": "ambiguous",
+    "evidence": [
+      {
+        "file": "on-tap-n2-phan-1.txt",
+        "line": 145,
+        "text": "鈍　　鈍る（12.2011）　　鈍感"
+      },
+      {
+        "file": "on-tap-n2-phan-2.txt",
+        "line": 145,
+        "text": "鈍　　鈍る（12.2011）　　鈍感"
+      },
+      {
+        "file": "on-tap-n2-phan-3.txt",
+        "line": 145,
+        "text": "鈍　　鈍る（12.2011）　　鈍感"
+      }
+    ]
+  },
+  {
+    "japanese": "兆",
+    "order": 2152,
+    "sourceLines": [
+      3415
+    ],
+    "status": "unmatched",
+    "evidence": []
+  },
+  {
+    "japanese": "兆し",
+    "order": 2153,
+    "sourceLines": [
+      3416
+    ],
+    "status": "ambiguous",
+    "evidence": [
+      {
+        "file": "on-tap-n2-phan-1.txt",
+        "line": 149,
+        "text": "兆　　兆　　兆し"
+      },
+      {
+        "file": "on-tap-n2-phan-2.txt",
+        "line": 149,
+        "text": "兆　　兆　　兆し"
+      },
+      {
+        "file": "on-tap-n2-phan-3.txt",
+        "line": 149,
+        "text": "兆　　兆　　兆し"
+      }
+    ]
+  },
+  {
+    "japanese": "逃れる",
+    "order": 2154,
+    "sourceLines": [
+      3419
+    ],
+    "status": "ambiguous",
+    "evidence": [
+      {
+        "file": "on-tap-n2-phan-1.txt",
+        "line": 151,
+        "text": "逃　　逃れる（7.2011）　　逃げる　　逃走"
+      },
+      {
+        "file": "on-tap-n2-phan-2.txt",
+        "line": 151,
+        "text": "逃　　逃れる（7.2011）　　逃げる　　逃走"
+      },
+      {
+        "file": "on-tap-n2-phan-3.txt",
+        "line": 151,
+        "text": "逃　　逃れる（7.2011）　　逃げる　　逃走"
+      }
+    ]
+  },
+  {
+    "japanese": "逃げる",
+    "order": 2155,
+    "sourceLines": [
+      3420
+    ],
+    "status": "ambiguous",
+    "evidence": [
+      {
+        "file": "bai-11-phan-1-.txt",
+        "line": 206,
+        "text": "逃げるな！卑怯者！"
+      },
+      {
+        "file": "on-tap-n2-phan-1.txt",
+        "line": 151,
+        "text": "逃　　逃れる（7.2011）　　逃げる　　逃走"
+      },
+      {
+        "file": "on-tap-n2-phan-2.txt",
+        "line": 151,
+        "text": "逃　　逃れる（7.2011）　　逃げる　　逃走"
+      },
+      {
+        "file": "on-tap-n2-phan-3.txt",
+        "line": 151,
+        "text": "逃　　逃れる（7.2011）　　逃げる　　逃走"
+      }
+    ]
+  },
+  {
+    "japanese": "逃走",
+    "order": 2156,
+    "sourceLines": [
+      3421
+    ],
+    "status": "ambiguous",
+    "evidence": [
+      {
+        "file": "on-tap-n2-phan-1.txt",
+        "line": 151,
+        "text": "逃　　逃れる（7.2011）　　逃げる　　逃走"
+      },
+      {
+        "file": "on-tap-n2-phan-2.txt",
+        "line": 151,
+        "text": "逃　　逃れる（7.2011）　　逃げる　　逃走"
+      },
+      {
+        "file": "on-tap-n2-phan-3.txt",
+        "line": 151,
+        "text": "逃　　逃れる（7.2011）　　逃げる　　逃走"
+      }
+    ]
+  },
+  {
+    "japanese": "観る",
+    "order": 2157,
+    "sourceLines": [
+      3424
+    ],
+    "status": "ambiguous",
+    "evidence": [
+      {
+        "file": "on-tap-n2-phan-1.txt",
+        "line": 153,
+        "text": "観　　観る　　観察"
+      },
+      {
+        "file": "on-tap-n2-phan-2.txt",
+        "line": 153,
+        "text": "観　　観る　　観察"
+      },
+      {
+        "file": "on-tap-n2-phan-3.txt",
+        "line": 153,
+        "text": "観　　観る　　観察"
+      }
+    ]
+  },
+  {
+    "japanese": "観察",
+    "order": 2158,
+    "sourceLines": [
+      3425
+    ],
+    "status": "ambiguous",
+    "evidence": [
+      {
+        "file": "bai-14-phan-1-.txt",
+        "line": 134,
+        "text": "昆虫を観察する"
+      },
+      {
+        "file": "bai-7-phan-2-.txt",
+        "line": 85,
+        "text": "顕微鏡で観察する"
+      },
+      {
+        "file": "on-tap-n2-phan-1.txt",
+        "line": 153,
+        "text": "観　　観る　　観察"
+      },
+      {
+        "file": "on-tap-n2-phan-2.txt",
+        "line": 153,
+        "text": "観　　観る　　観察"
+      },
+      {
+        "file": "on-tap-n2-phan-3.txt",
+        "line": 153,
+        "text": "観　　観る　　観察"
+      }
+    ]
+  },
+  {
+    "japanese": "歓迎",
+    "order": 2159,
+    "sourceLines": [
+      3428
+    ],
+    "status": "ambiguous",
+    "evidence": [
+      {
+        "file": "bai-1-phan-1-.txt",
+        "line": 107,
+        "text": "熱烈に歓迎する"
+      },
+      {
+        "file": "on-tap-n2-phan-1.txt",
+        "line": 155,
+        "text": "歓　　歓迎"
+      },
+      {
+        "file": "on-tap-n2-phan-2.txt",
+        "line": 155,
+        "text": "歓　　歓迎"
+      },
+      {
+        "file": "on-tap-n2-phan-3.txt",
+        "line": 155,
+        "text": "歓　　歓迎"
+      }
+    ]
+  },
+  {
+    "japanese": "権利",
+    "order": 2160,
+    "sourceLines": [
+      3431
+    ],
+    "status": "ambiguous",
+    "evidence": [
+      {
+        "file": "bai-15-phan-1-.txt",
+        "line": 33,
+        "text": "相続の権利が消滅する"
+      },
+      {
+        "file": "on-tap-n2-phan-1.txt",
+        "line": 157,
+        "text": "権　　権利　　権力"
+      },
+      {
+        "file": "on-tap-n2-phan-2.txt",
+        "line": 157,
+        "text": "権　　権利　　権力"
+      },
+      {
+        "file": "on-tap-n2-phan-3.txt",
+        "line": 157,
+        "text": "権　　権利　　権力"
+      }
+    ]
+  },
+  {
+    "japanese": "権力",
+    "order": 2161,
+    "sourceLines": [
+      3432
+    ],
+    "status": "ambiguous",
+    "evidence": [
+      {
+        "file": "bai-2-phan-1-.txt",
+        "line": 178,
+        "text": "権力に抵抗する"
+      },
+      {
+        "file": "on-tap-n2-phan-1.txt",
+        "line": 157,
+        "text": "権　　権利　　権力"
+      },
+      {
+        "file": "on-tap-n2-phan-2.txt",
+        "line": 157,
+        "text": "権　　権利　　権力"
+      },
+      {
+        "file": "on-tap-n2-phan-3.txt",
+        "line": 157,
+        "text": "権　　権利　　権力"
+      }
+    ]
+  },
+  {
+    "japanese": "勧める",
+    "order": 2162,
+    "sourceLines": [
+      3435
+    ],
+    "status": "ambiguous",
+    "evidence": [
+      {
+        "file": "on-tap-n2-phan-1.txt",
+        "line": 159,
+        "text": "勧　　勧める　　勧賞"
+      },
+      {
+        "file": "on-tap-n2-phan-2.txt",
+        "line": 159,
+        "text": "勧　　勧める　　勧賞"
+      },
+      {
+        "file": "on-tap-n2-phan-3.txt",
+        "line": 159,
+        "text": "勧　　勧める　　勧賞"
+      }
+    ]
+  },
+  {
+    "japanese": "勧賞",
+    "order": 2163,
+    "sourceLines": [
+      3436
+    ],
+    "status": "ambiguous",
+    "evidence": [
+      {
+        "file": "on-tap-n2-phan-1.txt",
+        "line": 159,
+        "text": "勧　　勧める　　勧賞"
+      },
+      {
+        "file": "on-tap-n2-phan-2.txt",
+        "line": 159,
+        "text": "勧　　勧める　　勧賞"
+      },
+      {
+        "file": "on-tap-n2-phan-3.txt",
+        "line": 159,
+        "text": "勧　　勧める　　勧賞"
+      }
+    ]
+  },
+  {
+    "japanese": "推す",
+    "order": 2164,
+    "sourceLines": [
+      3439
+    ],
+    "status": "ambiguous",
+    "evidence": [
+      {
+        "file": "bai-8-phan-1-.txt",
+        "line": 42,
+        "text": "佐藤氏を次期社長に推す"
+      },
+      {
+        "file": "on-tap-n2-phan-1.txt",
+        "line": 161,
+        "text": "推　　推す　　推理（12/2010）"
+      },
+      {
+        "file": "on-tap-n2-phan-2.txt",
+        "line": 161,
+        "text": "推　　推す　　推理（12/2010）"
+      },
+      {
+        "file": "on-tap-n2-phan-3.txt",
+        "line": 161,
+        "text": "推　　推す　　推理（12/2010）"
+      }
+    ]
+  },
+  {
+    "japanese": "推理",
+    "order": 2165,
+    "sourceLines": [
+      3440
+    ],
+    "status": "ambiguous",
+    "evidence": [
+      {
+        "file": "bai-8-phan-1-.txt",
+        "line": 45,
+        "text": "犯人は誰？→ 推理する"
+      },
+      {
+        "file": "on-tap-n2-phan-1.txt",
+        "line": 161,
+        "text": "推　　推す　　推理（12/2010）"
+      },
+      {
+        "file": "on-tap-n2-phan-2.txt",
+        "line": 161,
+        "text": "推　　推す　　推理（12/2010）"
+      },
+      {
+        "file": "on-tap-n2-phan-3.txt",
+        "line": 161,
+        "text": "推　　推す　　推理（12/2010）"
+      }
+    ]
+  },
+  {
+    "japanese": "練る",
+    "order": 2166,
+    "sourceLines": [
+      3443
+    ],
+    "status": "ambiguous",
+    "evidence": [
+      {
+        "file": "on-tap-n2-phan-1.txt",
+        "line": 163,
+        "text": "練　　練る（12.2010）　　訓練"
+      },
+      {
+        "file": "on-tap-n2-phan-2.txt",
+        "line": 163,
+        "text": "練　　練る（12.2010）　　訓練"
+      },
+      {
+        "file": "on-tap-n2-phan-3.txt",
+        "line": 163,
+        "text": "練　　練る（12.2010）　　訓練"
+      }
+    ]
+  },
+  {
+    "japanese": "訓練",
+    "order": 2167,
+    "sourceLines": [
+      3444
+    ],
+    "status": "ambiguous",
+    "evidence": [
+      {
+        "file": "bai-3-phan-1-.txt",
+        "line": 219,
+        "text": "敏捷性を鍛える訓練"
+      },
+      {
+        "file": "on-tap-n2-phan-1.txt",
+        "line": 163,
+        "text": "練　　練る（12.2010）　　訓練"
+      },
+      {
+        "file": "on-tap-n2-phan-2.txt",
+        "line": 163,
+        "text": "練　　練る（12.2010）　　訓練"
+      },
+      {
+        "file": "on-tap-n2-phan-3.txt",
+        "line": 163,
+        "text": "練　　練る（12.2010）　　訓練"
+      }
+    ]
+  },
+  {
+    "japanese": "結ぶ",
+    "order": 2168,
+    "sourceLines": [
+      3447
+    ],
+    "status": "ambiguous",
+    "evidence": [
+      {
+        "file": "bai-10-phan-1-.txt",
+        "line": 19,
+        "text": "A 社と B 社が業務提携を結ぶ。"
+      },
+      {
+        "file": "on-tap-n2-phan-1.txt",
+        "line": 165,
+        "text": "結　　結ぶ　　結論"
+      },
+      {
+        "file": "on-tap-n2-phan-2.txt",
+        "line": 165,
+        "text": "結　　結ぶ　　結論"
+      },
+      {
+        "file": "on-tap-n2-phan-3.txt",
+        "line": 165,
+        "text": "結　　結ぶ　　結論"
+      }
+    ]
+  },
+  {
+    "japanese": "結論",
+    "order": 2169,
+    "sourceLines": [
+      3448
+    ],
+    "status": "ambiguous",
+    "evidence": [
+      {
+        "file": "bai-20-phan-1-.txt",
+        "line": 235,
+        "text": "結論を出すには時期尚早だ"
+      },
+      {
+        "file": "on-tap-n2-phan-1.txt",
+        "line": 165,
+        "text": "結　　結ぶ　　結論"
+      },
+      {
+        "file": "on-tap-n2-phan-2.txt",
+        "line": 165,
+        "text": "結　　結ぶ　　結論"
+      },
+      {
+        "file": "on-tap-n2-phan-3.txt",
+        "line": 165,
+        "text": "結　　結ぶ　　結論"
+      }
+    ]
+  },
+  {
+    "japanese": "経つ",
+    "order": 2170,
+    "sourceLines": [
+      3451
+    ],
+    "status": "ambiguous",
+    "evidence": [
+      {
+        "file": "on-tap-n2-phan-1.txt",
+        "line": 167,
+        "text": "経　　経つ　　経済"
+      },
+      {
+        "file": "on-tap-n2-phan-2.txt",
+        "line": 167,
+        "text": "経　　経つ　　経済"
+      },
+      {
+        "file": "on-tap-n2-phan-3.txt",
+        "line": 167,
+        "text": "経　　経つ　　経済"
+      }
+    ]
+  },
+  {
+    "japanese": "経済",
+    "order": 2171,
+    "sourceLines": [
+      3452
+    ],
+    "status": "ambiguous",
+    "evidence": [
+      {
+        "file": "on-tap-n2-phan-1.txt",
+        "line": 167,
+        "text": "経　　経つ　　経済"
+      },
+      {
+        "file": "on-tap-n2-phan-2.txt",
+        "line": 167,
+        "text": "経　　経つ　　経済"
+      },
+      {
+        "file": "on-tap-n2-phan-3.txt",
+        "line": 167,
+        "text": "経　　経つ　　経済"
+      }
+    ]
+  },
+  {
+    "japanese": "鏡",
+    "order": 2172,
+    "sourceLines": [
+      3455
+    ],
+    "status": "unmatched",
+    "evidence": []
+  },
+  {
+    "japanese": "眼鏡",
+    "order": 2173,
+    "sourceLines": [
+      3456
+    ],
+    "status": "ambiguous",
+    "evidence": [
+      {
+        "file": "bai-2-phan-1-.txt",
+        "line": 57,
+        "text": "黒縁の眼鏡をかける"
+      },
+      {
+        "file": "on-tap-n2-phan-1.txt",
+        "line": 169,
+        "text": "鏡　　鏡　　眼鏡"
+      },
+      {
+        "file": "on-tap-n2-phan-2.txt",
+        "line": 169,
+        "text": "鏡　　鏡　　眼鏡"
+      },
+      {
+        "file": "on-tap-n2-phan-3.txt",
+        "line": 169,
+        "text": "鏡　　鏡　　眼鏡"
+      }
+    ]
+  },
+  {
+    "japanese": "境",
+    "order": 2174,
+    "sourceLines": [
+      3459
+    ],
+    "status": "unmatched",
+    "evidence": []
+  },
+  {
+    "japanese": "国境",
+    "order": 2175,
+    "sourceLines": [
+      3460
+    ],
+    "status": "ambiguous",
+    "evidence": [
+      {
+        "file": "on-tap-n2-phan-1.txt",
+        "line": 171,
+        "text": "境　　境　　国境"
+      },
+      {
+        "file": "on-tap-n2-phan-2.txt",
+        "line": 171,
+        "text": "境　　境　　国境"
+      },
+      {
+        "file": "on-tap-n2-phan-3.txt",
+        "line": 171,
+        "text": "境　　境　　国境"
+      }
+    ]
+  },
+  {
+    "japanese": "晴れる",
+    "order": 2176,
+    "sourceLines": [
+      3463
+    ],
+    "status": "ambiguous",
+    "evidence": [
+      {
+        "file": "on-tap-n2-phan-1.txt",
+        "line": 173,
+        "text": "晴　　晴れる　　素晴らしい"
+      },
+      {
+        "file": "on-tap-n2-phan-2.txt",
+        "line": 173,
+        "text": "晴　　晴れる　　素晴らしい"
+      },
+      {
+        "file": "on-tap-n2-phan-3.txt",
+        "line": 173,
+        "text": "晴　　晴れる　　素晴らしい"
+      }
+    ]
+  },
+  {
+    "japanese": "素晴らしい",
+    "order": 2177,
+    "sourceLines": [
+      3464
+    ],
+    "status": "ambiguous",
+    "evidence": [
+      {
+        "file": "bai-1-phan-1-.txt",
+        "line": 39,
+        "text": "窓からの眺望が素晴らしい"
+      },
+      {
+        "file": "bai-9-phan-1-.txt",
+        "line": 235,
+        "text": "この景色は素晴らしいが、殊に夕暮れがいい"
+      },
+      {
+        "file": "on-tap-n2-phan-1.txt",
+        "line": 173,
+        "text": "晴　　晴れる　　素晴らしい"
+      },
+      {
+        "file": "on-tap-n2-phan-2.txt",
+        "line": 173,
+        "text": "晴　　晴れる　　素晴らしい"
+      },
+      {
+        "file": "on-tap-n2-phan-3.txt",
+        "line": 173,
+        "text": "晴　　晴れる　　素晴らしい"
+      }
+    ]
+  },
+  {
+    "japanese": "清い",
+    "order": 2178,
+    "sourceLines": [
+      3467
+    ],
+    "status": "ambiguous",
+    "evidence": [
+      {
+        "file": "on-tap-n2-phan-1.txt",
+        "line": 175,
+        "text": "清　　清い　　清掃"
+      },
+      {
+        "file": "on-tap-n2-phan-2.txt",
+        "line": 175,
+        "text": "清　　清い　　清掃"
+      },
+      {
+        "file": "on-tap-n2-phan-3.txt",
+        "line": 175,
+        "text": "清　　清い　　清掃"
+      }
+    ]
+  },
+  {
+    "japanese": "清掃",
+    "order": 2179,
+    "sourceLines": [
+      3468
+    ],
+    "status": "ambiguous",
+    "evidence": [
+      {
+        "file": "on-tap-n2-phan-1.txt",
+        "line": 175,
+        "text": "清　　清い　　清掃"
+      },
+      {
+        "file": "on-tap-n2-phan-2.txt",
+        "line": 175,
+        "text": "清　　清い　　清掃"
+      },
+      {
+        "file": "on-tap-n2-phan-3.txt",
+        "line": 175,
+        "text": "清　　清い　　清掃"
+      }
+    ]
+  },
+  {
+    "japanese": "精一杯",
+    "order": 2180,
+    "sourceLines": [
+      3471
+    ],
+    "status": "ambiguous",
+    "evidence": [
+      {
+        "file": "bai-16-phan-1-.txt",
+        "line": 216,
+        "text": "微力ながら精一杯務める"
+      },
+      {
+        "file": "on-tap-n2-phan-1.txt",
+        "line": 177,
+        "text": "精　　精一杯"
+      },
+      {
+        "file": "on-tap-n2-phan-2.txt",
+        "line": 177,
+        "text": "精　　精一杯"
+      },
+      {
+        "file": "on-tap-n2-phan-3.txt",
+        "line": 177,
+        "text": "精　　精一杯"
+      }
+    ]
+  },
+  {
+    "japanese": "情け",
+    "order": 2181,
+    "sourceLines": [
+      3474
+    ],
+    "status": "ambiguous",
+    "evidence": [
+      {
+        "file": "on-tap-n2-phan-1.txt",
+        "line": 179,
+        "text": "情　　情け　　事情"
+      },
+      {
+        "file": "on-tap-n2-phan-2.txt",
+        "line": 179,
+        "text": "情　　情け　　事情"
+      },
+      {
+        "file": "on-tap-n2-phan-3.txt",
+        "line": 179,
+        "text": "情　　情け　　事情"
+      }
+    ]
+  },
+  {
+    "japanese": "事情",
+    "order": 2182,
+    "sourceLines": [
+      3475
+    ],
+    "status": "ambiguous",
+    "evidence": [
+      {
+        "file": "bai-13-phan-1-.txt",
+        "line": 139,
+        "text": "会社の内部事情が露呈する"
+      },
+      {
+        "file": "on-tap-n2-phan-1.txt",
+        "line": 179,
+        "text": "情　　情け　　事情"
+      },
+      {
+        "file": "on-tap-n2-phan-2.txt",
+        "line": 179,
+        "text": "情　　情け　　事情"
+      },
+      {
+        "file": "on-tap-n2-phan-3.txt",
+        "line": 179,
+        "text": "情　　情け　　事情"
+      }
+    ]
+  },
+  {
+    "japanese": "商う",
+    "order": 2183,
+    "sourceLines": [
+      3478
+    ],
+    "status": "ambiguous",
+    "evidence": [
+      {
+        "file": "on-tap-n2-phan-1.txt",
+        "line": 181,
+        "text": "商　　商う　　商売"
+      },
+      {
+        "file": "on-tap-n2-phan-2.txt",
+        "line": 181,
+        "text": "商　　商う　　商売"
+      },
+      {
+        "file": "on-tap-n2-phan-3.txt",
+        "line": 181,
+        "text": "商　　商う　　商売"
+      }
+    ]
+  },
+  {
+    "japanese": "商売",
+    "order": 2184,
+    "sourceLines": [
+      3479
+    ],
+    "status": "ambiguous",
+    "evidence": [
+      {
+        "file": "on-tap-n2-phan-1.txt",
+        "line": 181,
+        "text": "商　　商う　　商売"
+      },
+      {
+        "file": "on-tap-n2-phan-2.txt",
+        "line": 181,
+        "text": "商　　商う　　商売"
+      },
+      {
+        "file": "on-tap-n2-phan-3.txt",
+        "line": 181,
+        "text": "商　　商う　　商売"
+      }
+    ]
+  },
+  {
+    "japanese": "適う",
+    "order": 2185,
+    "sourceLines": [
+      3482
+    ],
+    "status": "ambiguous",
+    "evidence": [
+      {
+        "file": "on-tap-n2-phan-1.txt",
+        "line": 183,
+        "text": "適　　適う　　適切"
+      },
+      {
+        "file": "on-tap-n2-phan-2.txt",
+        "line": 183,
+        "text": "適　　適う　　適切"
+      },
+      {
+        "file": "on-tap-n2-phan-3.txt",
+        "line": 183,
+        "text": "適　　適う　　適切"
+      }
+    ]
+  },
+  {
+    "japanese": "適切",
+    "order": 2186,
+    "sourceLines": [
+      3483
+    ],
+    "status": "ambiguous",
+    "evidence": [
+      {
+        "file": "bai-14-phan-1-.txt",
+        "line": 205,
+        "text": "彼を元気付ける適切な言葉が見つからない"
+      },
+      {
+        "file": "bai-14-phan-1-.txt",
+        "line": 206,
+        "text": "不適切な販売"
+      },
+      {
+        "file": "bai-7-phan-2-.txt",
+        "line": 225,
+        "text": "（問題が起きたあと）適切な措置を講じる"
+      },
+      {
+        "file": "on-tap-n2-phan-1.txt",
+        "line": 183,
+        "text": "適　　適う　　適切"
+      },
+      {
+        "file": "on-tap-n2-phan-2.txt",
+        "line": 183,
+        "text": "適　　適う　　適切"
+      },
+      {
+        "file": "on-tap-n2-phan-3.txt",
+        "line": 183,
+        "text": "適　　適う　　適切"
+      }
+    ]
+  },
+  {
+    "japanese": "摘む",
+    "order": 2187,
+    "sourceLines": [
+      3489
+    ],
+    "status": "ambiguous",
+    "evidence": [
+      {
+        "file": "bai-14-phan-1-.txt",
+        "line": 196,
+        "text": "花を摘む"
+      },
+      {
+        "file": "on-tap-n2-phan-1.txt",
+        "line": 187,
+        "text": "摘　　摘む　　摘出"
+      },
+      {
+        "file": "on-tap-n2-phan-2.txt",
+        "line": 187,
+        "text": "摘　　摘む　　摘出"
+      },
+      {
+        "file": "on-tap-n2-phan-3.txt",
+        "line": 187,
+        "text": "摘　　摘む　　摘出"
+      }
+    ]
+  },
+  {
+    "japanese": "摘出",
+    "order": 2188,
+    "sourceLines": [
+      3490
+    ],
+    "status": "ambiguous",
+    "evidence": [
+      {
+        "file": "bai-14-phan-1-.txt",
+        "line": 199,
+        "text": "ガンの摘出手術を受ける"
+      },
+      {
+        "file": "on-tap-n2-phan-1.txt",
+        "line": 187,
+        "text": "摘　　摘む　　摘出"
+      },
+      {
+        "file": "on-tap-n2-phan-2.txt",
+        "line": 187,
+        "text": "摘　　摘む　　摘出"
+      },
+      {
+        "file": "on-tap-n2-phan-3.txt",
+        "line": 187,
+        "text": "摘　　摘む　　摘出"
+      }
+    ]
+  },
+  {
+    "japanese": "偶然",
+    "order": 2189,
+    "sourceLines": [
+      3493
+    ],
+    "status": "ambiguous",
+    "evidence": [
+      {
+        "file": "on-tap-n2-phan-1.txt",
+        "line": 189,
+        "text": "偶　　偶然"
+      },
+      {
+        "file": "on-tap-n2-phan-2.txt",
+        "line": 189,
+        "text": "偶　　偶然"
+      },
+      {
+        "file": "on-tap-n2-phan-3.txt",
+        "line": 189,
+        "text": "偶　　偶然"
+      }
+    ]
+  },
+  {
+    "japanese": "隅",
+    "order": 2190,
+    "sourceLines": [
+      3496
+    ],
+    "status": "unmatched",
+    "evidence": []
+  },
+  {
+    "japanese": "片隅",
+    "order": 2191,
+    "sourceLines": [
+      3497
+    ],
+    "status": "ambiguous",
+    "evidence": [
+      {
+        "file": "on-tap-n2-phan-1.txt",
+        "line": 191,
+        "text": "隅　　隅　　片隅"
+      },
+      {
+        "file": "on-tap-n2-phan-2.txt",
+        "line": 191,
+        "text": "隅　　隅　　片隅"
+      },
+      {
+        "file": "on-tap-n2-phan-3.txt",
+        "line": 191,
+        "text": "隅　　隅　　片隅"
+      }
+    ]
+  },
+  {
+    "japanese": "乾燥",
+    "order": 2192,
+    "sourceLines": [
+      3500
+    ],
+    "status": "ambiguous",
+    "evidence": [
+      {
+        "file": "bai-3-phan-1-.txt",
+        "line": 220,
+        "text": "乾燥に敏感な肌"
+      },
+      {
+        "file": "on-tap-n2-phan-1.txt",
+        "line": 193,
+        "text": "燥　　乾燥"
+      },
+      {
+        "file": "on-tap-n2-phan-2.txt",
+        "line": 193,
+        "text": "燥　　乾燥"
+      },
+      {
+        "file": "on-tap-n2-phan-3.txt",
+        "line": 193,
+        "text": "燥　　乾燥"
+      }
+    ]
+  },
+  {
+    "japanese": "操る",
+    "order": 2193,
+    "sourceLines": [
+      3503
+    ],
+    "status": "ambiguous",
+    "evidence": [
+      {
+        "file": "bai-5-phan-1-.txt",
+        "line": 70,
+        "text": "人形を操る"
+      },
+      {
+        "file": "bai-5-phan-1-.txt",
+        "line": 71,
+        "text": "三か国語を操る"
+      },
+      {
+        "file": "on-tap-n2-phan-1.txt",
+        "line": 195,
+        "text": "操　　操る　　操作"
+      },
+      {
+        "file": "on-tap-n2-phan-2.txt",
+        "line": 195,
+        "text": "操　　操る　　操作"
+      },
+      {
+        "file": "on-tap-n2-phan-3.txt",
+        "line": 195,
+        "text": "操　　操る　　操作"
+      }
+    ]
+  },
+  {
+    "japanese": "操作",
+    "order": 2194,
+    "sourceLines": [
+      3504
+    ],
+    "status": "ambiguous",
+    "evidence": [
+      {
+        "file": "bai-5-phan-1-.txt",
+        "line": 73,
+        "text": "パソコンの操作"
+      },
+      {
+        "file": "on-tap-n2-phan-1.txt",
+        "line": 195,
+        "text": "操　　操る　　操作"
+      },
+      {
+        "file": "on-tap-n2-phan-2.txt",
+        "line": 195,
+        "text": "操　　操る　　操作"
+      },
+      {
+        "file": "on-tap-n2-phan-3.txt",
+        "line": 195,
+        "text": "操　　操る　　操作"
+      }
+    ]
+  },
+  {
+    "japanese": "繰る",
+    "order": 2195,
+    "sourceLines": [
+      3507
+    ],
+    "status": "ambiguous",
+    "evidence": [
+      {
+        "file": "bai-5-phan-1-.txt",
+        "line": 86,
+        "text": "毛糸を繰る"
+      },
+      {
+        "file": "on-tap-n2-phan-1.txt",
+        "line": 197,
+        "text": "繰　　繰る　　繰り返す"
+      },
+      {
+        "file": "on-tap-n2-phan-2.txt",
+        "line": 197,
+        "text": "繰　　繰る　　繰り返す"
+      },
+      {
+        "file": "on-tap-n2-phan-3.txt",
+        "line": 197,
+        "text": "繰　　繰る　　繰り返す"
+      }
+    ]
+  },
+  {
+    "japanese": "繰り返す",
+    "order": 2196,
+    "sourceLines": [
+      3508
+    ],
+    "status": "ambiguous",
+    "evidence": [
+      {
+        "file": "bai-2-phan-1-.txt",
+        "line": 182,
+        "text": "抗争を繰り返す"
+      },
+      {
+        "file": "bai-5-phan-1-.txt",
+        "line": 87,
+        "text": "同じ過ちを繰り返す"
+      },
+      {
+        "file": "bai-7-phan-2-.txt",
+        "line": 218,
+        "text": "試行錯誤を繰り返す"
+      },
+      {
+        "file": "on-tap-n2-phan-1.txt",
+        "line": 197,
+        "text": "繰　　繰る　　繰り返す"
+      },
+      {
+        "file": "on-tap-n2-phan-2.txt",
+        "line": 197,
+        "text": "繰　　繰る　　繰り返す"
+      },
+      {
+        "file": "on-tap-n2-phan-3.txt",
+        "line": 197,
+        "text": "繰　　繰る　　繰り返す"
+      }
+    ]
+  },
+  {
+    "japanese": "農業",
+    "order": 2197,
+    "sourceLines": [
+      3511
+    ],
+    "status": "ambiguous",
+    "evidence": [
+      {
+        "file": "on-tap-n2-phan-1.txt",
+        "line": 199,
+        "text": "農　　農業"
+      },
+      {
+        "file": "on-tap-n2-phan-2.txt",
+        "line": 199,
+        "text": "農　　農業"
+      },
+      {
+        "file": "on-tap-n2-phan-3.txt",
+        "line": 199,
+        "text": "農　　農業"
+      }
+    ]
+  },
+  {
+    "japanese": "濃い",
+    "order": 2198,
+    "sourceLines": [
+      3514
+    ],
+    "status": "ambiguous",
+    "evidence": [
+      {
+        "file": "bai-11-phan-1-.txt",
+        "line": 193,
+        "text": "濃い眉毛"
+      },
+      {
+        "file": "bai-9-phan-1-.txt",
+        "line": 178,
+        "text": "霧が濃い"
+      },
+      {
+        "file": "on-tap-n2-phan-1.txt",
+        "line": 201,
+        "text": "濃　　濃い　　濃厚"
+      },
+      {
+        "file": "on-tap-n2-phan-2.txt",
+        "line": 201,
+        "text": "濃　　濃い　　濃厚"
+      },
+      {
+        "file": "on-tap-n2-phan-3.txt",
+        "line": 201,
+        "text": "濃　　濃い　　濃厚"
+      }
+    ]
+  },
+  {
+    "japanese": "濃厚",
+    "order": 2199,
+    "sourceLines": [
+      3515
+    ],
+    "status": "ambiguous",
+    "evidence": [
+      {
+        "file": "on-tap-n2-phan-1.txt",
+        "line": 201,
+        "text": "濃　　濃い　　濃厚"
+      },
+      {
+        "file": "on-tap-n2-phan-2.txt",
+        "line": 201,
+        "text": "濃　　濃い　　濃厚"
+      },
+      {
+        "file": "on-tap-n2-phan-3.txt",
+        "line": 201,
+        "text": "濃　　濃い　　濃厚"
+      }
+    ]
+  },
+  {
+    "japanese": "豊",
+    "order": 2200,
+    "sourceLines": [
+      3518
+    ],
+    "status": "unmatched",
+    "evidence": []
+  },
+  {
+    "japanese": "豊富",
+    "order": 2201,
+    "sourceLines": [
+      3519
+    ],
+    "status": "ambiguous",
+    "evidence": [
+      {
+        "file": "bai-4-phan-1-.txt",
+        "line": 211,
+        "text": "豆は食物繊維が豊富だ"
+      },
+      {
+        "file": "on-tap-n2-phan-1.txt",
+        "line": 203,
+        "text": "豊　　豊　　豊富"
+      },
+      {
+        "file": "on-tap-n2-phan-2.txt",
+        "line": 203,
+        "text": "豊　　豊　　豊富"
+      },
+      {
+        "file": "on-tap-n2-phan-3.txt",
+        "line": 203,
+        "text": "豊　　豊　　豊富"
+      }
+    ]
+  },
+  {
+    "japanese": "捕まる",
+    "order": 2202,
+    "sourceLines": [
+      3522
+    ],
+    "status": "ambiguous",
+    "evidence": [
+      {
+        "file": "on-tap-n2-phan-1.txt",
+        "line": 205,
+        "text": "捕　　捕まる　　逮捕"
+      },
+      {
+        "file": "on-tap-n2-phan-2.txt",
+        "line": 205,
+        "text": "捕　　捕まる　　逮捕"
+      },
+      {
+        "file": "on-tap-n2-phan-3.txt",
+        "line": 205,
+        "text": "捕　　捕まる　　逮捕"
+      }
+    ]
+  },
+  {
+    "japanese": "逮捕",
+    "order": 2203,
+    "sourceLines": [
+      3523
+    ],
+    "status": "ambiguous",
+    "evidence": [
+      {
+        "file": "bai-12-phan-2-.txt",
+        "line": 66,
+        "text": "犯人を逮捕する"
+      },
+      {
+        "file": "bai-12-phan-2-.txt",
+        "line": 67,
+        "text": "逮捕状"
+      },
+      {
+        "file": "on-tap-n2-phan-1.txt",
+        "line": 205,
+        "text": "捕　　捕まる　　逮捕"
+      },
+      {
+        "file": "on-tap-n2-phan-2.txt",
+        "line": 205,
+        "text": "捕　　捕まる　　逮捕"
+      },
+      {
+        "file": "on-tap-n2-phan-3.txt",
+        "line": 205,
+        "text": "捕　　捕まる　　逮捕"
+      }
+    ]
+  },
+  {
+    "japanese": "抽象",
+    "order": 2204,
+    "sourceLines": [
+      3526
+    ],
+    "status": "ambiguous",
+    "evidence": [
+      {
+        "file": "bai-2-phan-1-.txt",
+        "line": 197,
+        "text": "抽象的な表現"
+      },
+      {
+        "file": "on-tap-n2-phan-1.txt",
+        "line": 207,
+        "text": "抽　　抽象　　抽選"
+      },
+      {
+        "file": "on-tap-n2-phan-2.txt",
+        "line": 207,
+        "text": "抽　　抽象　　抽選"
+      },
+      {
+        "file": "on-tap-n2-phan-3.txt",
+        "line": 207,
+        "text": "抽　　抽象　　抽選"
+      }
+    ]
+  },
+  {
+    "japanese": "抽選",
+    "order": 2205,
+    "sourceLines": [
+      3527
+    ],
+    "status": "ambiguous",
+    "evidence": [
+      {
+        "file": "bai-2-phan-1-.txt",
+        "line": 198,
+        "text": "抽選で決める"
+      },
+      {
+        "file": "on-tap-n2-phan-1.txt",
+        "line": 207,
+        "text": "抽　　抽象　　抽選"
+      },
+      {
+        "file": "on-tap-n2-phan-2.txt",
+        "line": 207,
+        "text": "抽　　抽象　　抽選"
+      },
+      {
+        "file": "on-tap-n2-phan-3.txt",
+        "line": 207,
+        "text": "抽　　抽象　　抽選"
+      }
+    ]
+  },
+  {
+    "japanese": "控える",
+    "order": 2206,
+    "sourceLines": [
+      3530
+    ],
+    "status": "ambiguous",
+    "evidence": [
+      {
+        "file": "bai-2-phan-1-.txt",
+        "line": 215,
+        "text": "塩分を控える。"
+      },
+      {
+        "file": "bai-2-phan-1-.txt",
+        "line": 217,
+        "text": "ノートに控える。"
+      },
+      {
+        "file": "bai-2-phan-1-.txt",
+        "line": 218,
+        "text": "舞台裏に控える。"
+      },
+      {
+        "file": "bai-20-phan-1-.txt",
+        "line": 159,
+        "text": "喪中のため祝い事を控える"
+      },
+      {
+        "file": "on-tap-n2-phan-1.txt",
+        "line": 209,
+        "text": "控　　控える　　控除"
+      },
+      {
+        "file": "on-tap-n2-phan-2.txt",
+        "line": 209,
+        "text": "控　　控える　　控除"
+      },
+      {
+        "file": "on-tap-n2-phan-3.txt",
+        "line": 209,
+        "text": "控　　控える　　控除"
+      }
+    ]
+  },
+  {
+    "japanese": "控除",
+    "order": 2207,
+    "sourceLines": [
+      3531,
+      3543
+    ],
+    "status": "ambiguous",
+    "evidence": [
+      {
+        "file": "bai-2-phan-1-.txt",
+        "line": 219,
+        "text": "医療費の控除。"
+      },
+      {
+        "file": "bai-3-phan-1-.txt",
+        "line": 62,
+        "text": "扶養控除が減額される"
+      },
+      {
+        "file": "on-tap-n2-phan-1.txt",
+        "line": 209,
+        "text": "控　　控える　　控除"
+      },
+      {
+        "file": "on-tap-n2-phan-1.txt",
+        "line": 215,
+        "text": "除　　除く　　控除"
+      },
+      {
+        "file": "on-tap-n2-phan-2.txt",
+        "line": 209,
+        "text": "控　　控える　　控除"
+      },
+      {
+        "file": "on-tap-n2-phan-2.txt",
+        "line": 215,
+        "text": "除　　除く　　控除"
+      },
+      {
+        "file": "on-tap-n2-phan-3.txt",
+        "line": 209,
+        "text": "控　　控える　　控除"
+      },
+      {
+        "file": "on-tap-n2-phan-3.txt",
+        "line": 215,
+        "text": "除　　除く　　控除"
+      }
+    ]
+  },
+  {
+    "japanese": "拝む",
+    "order": 2208,
+    "sourceLines": [
+      3534
+    ],
+    "status": "ambiguous",
+    "evidence": [
+      {
+        "file": "on-tap-n2-phan-1.txt",
+        "line": 211,
+        "text": "拝　　拝む　　拝啓"
+      },
+      {
+        "file": "on-tap-n2-phan-2.txt",
+        "line": 211,
+        "text": "拝　　拝む　　拝啓"
+      },
+      {
+        "file": "on-tap-n2-phan-3.txt",
+        "line": 211,
+        "text": "拝　　拝む　　拝啓"
+      }
+    ]
+  },
+  {
+    "japanese": "拝啓",
+    "order": 2209,
+    "sourceLines": [
+      3535
+    ],
+    "status": "ambiguous",
+    "evidence": [
+      {
+        "file": "bai-20-phan-1-.txt",
+        "line": 57,
+        "text": "「拝啓」は手紙の冒頭に使う挨拶"
+      },
+      {
+        "file": "on-tap-n2-phan-1.txt",
+        "line": 211,
+        "text": "拝　　拝む　　拝啓"
+      },
+      {
+        "file": "on-tap-n2-phan-2.txt",
+        "line": 211,
+        "text": "拝　　拝む　　拝啓"
+      },
+      {
+        "file": "on-tap-n2-phan-3.txt",
+        "line": 211,
+        "text": "拝　　拝む　　拝啓"
+      }
+    ]
+  },
+  {
+    "japanese": "余る",
+    "order": 2210,
+    "sourceLines": [
+      3538
+    ],
+    "status": "ambiguous",
+    "evidence": [
+      {
+        "file": "on-tap-n2-phan-1.txt",
+        "line": 213,
+        "text": "余　　余る　　余裕"
+      },
+      {
+        "file": "on-tap-n2-phan-2.txt",
+        "line": 213,
+        "text": "余　　余る　　余裕"
+      },
+      {
+        "file": "on-tap-n2-phan-3.txt",
+        "line": 213,
+        "text": "余　　余る　　余裕"
+      }
+    ]
+  },
+  {
+    "japanese": "余裕",
+    "order": 2211,
+    "sourceLines": [
+      3539
+    ],
+    "status": "ambiguous",
+    "evidence": [
+      {
+        "file": "bai-6-phan-1-.txt",
+        "line": 171,
+        "text": "余裕がない"
+      },
+      {
+        "file": "on-tap-n2-phan-1.txt",
+        "line": 213,
+        "text": "余　　余る　　余裕"
+      },
+      {
+        "file": "on-tap-n2-phan-2.txt",
+        "line": 213,
+        "text": "余　　余る　　余裕"
+      },
+      {
+        "file": "on-tap-n2-phan-3.txt",
+        "line": 213,
+        "text": "余　　余る　　余裕"
+      }
+    ]
+  },
+  {
+    "japanese": "除く",
+    "order": 2212,
+    "sourceLines": [
+      3542
+    ],
+    "status": "ambiguous",
+    "evidence": [
+      {
+        "file": "on-tap-n2-phan-1.txt",
+        "line": 215,
+        "text": "除　　除く　　控除"
+      },
+      {
+        "file": "on-tap-n2-phan-2.txt",
+        "line": 215,
+        "text": "除　　除く　　控除"
+      },
+      {
+        "file": "on-tap-n2-phan-3.txt",
+        "line": 215,
+        "text": "除　　除く　　控除"
+      }
+    ]
+  },
+  {
+    "japanese": "途中",
+    "order": 2213,
+    "sourceLines": [
+      3546
+    ],
+    "status": "ambiguous",
+    "evidence": [
+      {
+        "file": "on-tap-n2-phan-1.txt",
+        "line": 217,
+        "text": "途　　途中"
+      },
+      {
+        "file": "on-tap-n2-phan-2.txt",
+        "line": 217,
+        "text": "途　　途中"
+      },
+      {
+        "file": "on-tap-n2-phan-3.txt",
+        "line": 217,
+        "text": "途　　途中"
+      }
+    ]
+  },
+  {
+    "japanese": "斜め",
+    "order": 2214,
+    "sourceLines": [
+      3549
+    ],
+    "status": "ambiguous",
+    "evidence": [
+      {
+        "file": "on-tap-n2-phan-1.txt",
+        "line": 219,
+        "text": "斜　　斜め　　傾斜"
+      },
+      {
+        "file": "on-tap-n2-phan-2.txt",
+        "line": 219,
+        "text": "斜　　斜め　　傾斜"
+      },
+      {
+        "file": "on-tap-n2-phan-3.txt",
+        "line": 219,
+        "text": "斜　　斜め　　傾斜"
+      }
+    ]
+  },
+  {
+    "japanese": "塗る",
+    "order": 2215,
+    "sourceLines": [
+      3553
+    ],
+    "status": "ambiguous",
+    "evidence": [
+      {
+        "file": "bai-20-phan-1-.txt",
+        "line": 265,
+        "text": "壁にペンキを塗る"
+      },
+      {
+        "file": "bai-20-phan-1-.txt",
+        "line": 266,
+        "text": "人の顔に泥を塗る"
+      },
+      {
+        "file": "bai-5-phan-1-.txt",
+        "line": 22,
+        "text": "下唇中央から口紅を塗る"
+      },
+      {
+        "file": "on-tap-n2-phan-1.txt",
+        "line": 221,
+        "text": "塗　　塗る　　塗油"
+      },
+      {
+        "file": "on-tap-n2-phan-2.txt",
+        "line": 221,
+        "text": "塗　　塗る　　塗油"
+      },
+      {
+        "file": "on-tap-n2-phan-3.txt",
+        "line": 221,
+        "text": "塗　　塗る　　塗油"
+      }
+    ]
+  },
+  {
+    "japanese": "塗油",
+    "order": 2216,
+    "sourceLines": [
+      3554
+    ],
+    "status": "ambiguous",
+    "evidence": [
+      {
+        "file": "on-tap-n2-phan-1.txt",
+        "line": 221,
+        "text": "塗　　塗る　　塗油"
+      },
+      {
+        "file": "on-tap-n2-phan-2.txt",
+        "line": 221,
+        "text": "塗　　塗る　　塗油"
+      },
+      {
+        "file": "on-tap-n2-phan-3.txt",
+        "line": 221,
+        "text": "塗　　塗る　　塗油"
+      }
+    ]
+  },
+  {
+    "japanese": "侵す",
+    "order": 2217,
+    "sourceLines": [
+      3557
+    ],
+    "status": "ambiguous",
+    "evidence": [
+      {
+        "file": "on-tap-n2-phan-1.txt",
+        "line": 223,
+        "text": "侵　　侵す　　侵略"
+      },
+      {
+        "file": "on-tap-n2-phan-2.txt",
+        "line": 223,
+        "text": "侵　　侵す　　侵略"
+      },
+      {
+        "file": "on-tap-n2-phan-3.txt",
+        "line": 223,
+        "text": "侵　　侵す　　侵略"
+      }
+    ]
+  },
+  {
+    "japanese": "侵略",
+    "order": 2218,
+    "sourceLines": [
+      3558
+    ],
+    "status": "ambiguous",
+    "evidence": [
+      {
+        "file": "on-tap-n2-phan-1.txt",
+        "line": 223,
+        "text": "侵　　侵す　　侵略"
+      },
+      {
+        "file": "on-tap-n2-phan-2.txt",
+        "line": 223,
+        "text": "侵　　侵す　　侵略"
+      },
+      {
+        "file": "on-tap-n2-phan-3.txt",
+        "line": 223,
+        "text": "侵　　侵す　　侵略"
+      }
+    ]
+  },
+  {
+    "japanese": "浸る",
+    "order": 2219,
+    "sourceLines": [
+      3561
+    ],
+    "status": "ambiguous",
+    "evidence": [
+      {
+        "file": "bai-15-phan-1-.txt",
+        "line": 121,
+        "text": "肩まで湯に浸る"
+      },
+      {
+        "file": "bai-15-phan-1-.txt",
+        "line": 122,
+        "text": "同窓会で昔の思い出に浸る"
+      },
+      {
+        "file": "on-tap-n2-phan-1.txt",
+        "line": 225,
+        "text": "浸　　浸る　　浸食"
+      },
+      {
+        "file": "on-tap-n2-phan-2.txt",
+        "line": 225,
+        "text": "浸　　浸る　　浸食"
+      },
+      {
+        "file": "on-tap-n2-phan-3.txt",
+        "line": 225,
+        "text": "浸　　浸る　　浸食"
+      }
+    ]
+  },
+  {
+    "japanese": "浸食",
+    "order": 2220,
+    "sourceLines": [
+      3562
+    ],
+    "status": "ambiguous",
+    "evidence": [
+      {
+        "file": "on-tap-n2-phan-1.txt",
+        "line": 225,
+        "text": "浸　　浸る　　浸食"
+      },
+      {
+        "file": "on-tap-n2-phan-2.txt",
+        "line": 225,
+        "text": "浸　　浸る　　浸食"
+      },
+      {
+        "file": "on-tap-n2-phan-3.txt",
+        "line": 225,
+        "text": "浸　　浸る　　浸食"
+      }
+    ]
+  },
+  {
+    "japanese": "自然",
+    "order": 2221,
+    "sourceLines": [
+      3565
+    ],
+    "status": "ambiguous",
+    "evidence": [
+      {
+        "file": "bai-17-phan-1-.txt",
+        "line": 11,
+        "text": "大自然の神秘を探る"
+      },
+      {
+        "file": "bai-19-phan-1-.txt",
+        "line": 188,
+        "text": "自然を崇拝する"
+      },
+      {
+        "file": "bai-5-phan-1-.txt",
+        "line": 232,
+        "text": "環境不適の生物は自然淘汰される"
+      },
+      {
+        "file": "on-tap-n2-phan-1.txt",
+        "line": 227,
+        "text": "然　　自然"
+      },
+      {
+        "file": "on-tap-n2-phan-2.txt",
+        "line": 227,
+        "text": "然　　自然"
+      },
+      {
+        "file": "on-tap-n2-phan-3.txt",
+        "line": 227,
+        "text": "然　　自然"
+      }
+    ]
+  },
+  {
+    "japanese": "燃やす",
+    "order": 2222,
+    "sourceLines": [
+      3568
+    ],
+    "status": "ambiguous",
+    "evidence": [
+      {
+        "file": "bai-15-phan-1-.txt",
+        "line": 235,
+        "text": "ライバルに闘志を燃やす"
+      },
+      {
+        "file": "on-tap-n2-phan-1.txt",
+        "line": 229,
+        "text": "燃　　燃やす　　燃料"
+      },
+      {
+        "file": "on-tap-n2-phan-2.txt",
+        "line": 229,
+        "text": "燃　　燃やす　　燃料"
+      },
+      {
+        "file": "on-tap-n2-phan-3.txt",
+        "line": 229,
+        "text": "燃　　燃やす　　燃料"
+      }
+    ]
+  },
+  {
+    "japanese": "燃料",
+    "order": 2223,
+    "sourceLines": [
+      3569
+    ],
+    "status": "ambiguous",
+    "evidence": [
+      {
+        "file": "on-tap-n2-phan-1.txt",
+        "line": 229,
+        "text": "燃　　燃やす　　燃料"
+      },
+      {
+        "file": "on-tap-n2-phan-2.txt",
+        "line": 229,
+        "text": "燃　　燃やす　　燃料"
+      },
+      {
+        "file": "on-tap-n2-phan-3.txt",
+        "line": 229,
+        "text": "燃　　燃やす　　燃料"
+      }
+    ]
+  },
+  {
+    "japanese": "焼く",
+    "order": 2224,
+    "sourceLines": [
+      3572
+    ],
+    "status": "ambiguous",
+    "evidence": [
+      {
+        "file": "on-tap-n2-phan-1.txt",
+        "line": 231,
+        "text": "焼　　焼く　　焼却"
+      },
+      {
+        "file": "on-tap-n2-phan-2.txt",
+        "line": 231,
+        "text": "焼　　焼く　　焼却"
+      },
+      {
+        "file": "on-tap-n2-phan-3.txt",
+        "line": 231,
+        "text": "焼　　焼く　　焼却"
+      }
+    ]
+  },
+  {
+    "japanese": "焼却",
+    "order": 2225,
+    "sourceLines": [
+      3573
+    ],
+    "status": "ambiguous",
+    "evidence": [
+      {
+        "file": "bai-10-phan-1-.txt",
+        "line": 158,
+        "text": "ごみの焼却施設"
+      },
+      {
+        "file": "on-tap-n2-phan-1.txt",
+        "line": 231,
+        "text": "焼　　焼く　　焼却"
+      },
+      {
+        "file": "on-tap-n2-phan-2.txt",
+        "line": 231,
+        "text": "焼　　焼く　　焼却"
+      },
+      {
+        "file": "on-tap-n2-phan-3.txt",
+        "line": 231,
+        "text": "焼　　焼く　　焼却"
+      }
+    ]
+  },
+  {
+    "japanese": "沈む",
+    "order": 2226,
+    "sourceLines": [
+      3576
+    ],
+    "status": "ambiguous",
+    "evidence": [
+      {
+        "file": "on-tap-n2-phan-1.txt",
+        "line": 233,
+        "text": "沈　　沈む　　沈没"
+      },
+      {
+        "file": "on-tap-n2-phan-2.txt",
+        "line": 233,
+        "text": "沈　　沈む　　沈没"
+      },
+      {
+        "file": "on-tap-n2-phan-3.txt",
+        "line": 233,
+        "text": "沈　　沈む　　沈没"
+      }
+    ]
+  },
+  {
+    "japanese": "浮ぶ",
+    "order": 2227,
+    "sourceLines": [
+      3580
+    ],
+    "status": "ambiguous",
+    "evidence": [
+      {
+        "file": "on-tap-n2-phan-1.txt",
+        "line": 235,
+        "text": "浮　　浮ぶ　　浮気"
+      },
+      {
+        "file": "on-tap-n2-phan-2.txt",
+        "line": 235,
+        "text": "浮　　浮ぶ　　浮気"
+      },
+      {
+        "file": "on-tap-n2-phan-3.txt",
+        "line": 235,
+        "text": "浮　　浮ぶ　　浮気"
+      }
+    ]
+  },
+  {
+    "japanese": "浮気",
+    "order": 2228,
+    "sourceLines": [
+      3581
+    ],
+    "status": "ambiguous",
+    "evidence": [
+      {
+        "file": "bai-12-phan-2-.txt",
+        "line": 18,
+        "text": "浮気相手が憎くてしょうがない"
+      },
+      {
+        "file": "bai-15-phan-1-.txt",
+        "line": 303,
+        "text": "離婚問題や浮気・不倫の慰謝料のことは弁護士にご相談ください"
+      },
+      {
+        "file": "on-tap-n2-phan-1.txt",
+        "line": 235,
+        "text": "浮　　浮ぶ　　浮気"
+      },
+      {
+        "file": "on-tap-n2-phan-2.txt",
+        "line": 235,
+        "text": "浮　　浮ぶ　　浮気"
+      },
+      {
+        "file": "on-tap-n2-phan-3.txt",
+        "line": 235,
+        "text": "浮　　浮ぶ　　浮気"
+      }
+    ]
+  },
+  {
+    "japanese": "渇く",
+    "order": 2229,
+    "sourceLines": [
+      3588
+    ],
+    "status": "ambiguous",
+    "evidence": [
+      {
+        "file": "bai-20-phan-1-.txt",
+        "line": 64,
+        "text": "喉が渇く"
+      },
+      {
+        "file": "on-tap-n2-phan-1.txt",
+        "line": 239,
+        "text": "渇　　渇く　　渇望"
+      },
+      {
+        "file": "on-tap-n2-phan-2.txt",
+        "line": 239,
+        "text": "渇　　渇く　　渇望"
+      },
+      {
+        "file": "on-tap-n2-phan-3.txt",
+        "line": 239,
+        "text": "渇　　渇く　　渇望"
+      }
+    ]
+  },
+  {
+    "japanese": "渇望",
+    "order": 2230,
+    "sourceLines": [
+      3589
+    ],
+    "status": "ambiguous",
+    "evidence": [
+      {
+        "file": "on-tap-n2-phan-1.txt",
+        "line": 239,
+        "text": "渇　　渇く　　渇望"
+      },
+      {
+        "file": "on-tap-n2-phan-2.txt",
+        "line": 239,
+        "text": "渇　　渇く　　渇望"
+      },
+      {
+        "file": "on-tap-n2-phan-3.txt",
+        "line": 239,
+        "text": "渇　　渇く　　渇望"
+      }
+    ]
+  },
+  {
+    "japanese": "騒ぐ",
+    "order": 2231,
+    "sourceLines": [
+      3592
+    ],
+    "status": "ambiguous",
+    "evidence": [
+      {
+        "file": "on-tap-n2-phan-1.txt",
+        "line": 241,
+        "text": "騒　　騒ぐ"
+      },
+      {
+        "file": "on-tap-n2-phan-2.txt",
+        "line": 241,
+        "text": "騒　　騒ぐ"
+      },
+      {
+        "file": "on-tap-n2-phan-3.txt",
+        "line": 241,
+        "text": "騒　　騒ぐ"
+      }
+    ]
+  },
+  {
+    "japanese": "金融",
+    "order": 2232,
+    "sourceLines": [
+      3595
+    ],
+    "status": "ambiguous",
+    "evidence": [
+      {
+        "file": "on-tap-n2-phan-1.txt",
+        "line": 243,
+        "text": "融　　金融　　融資"
+      },
+      {
+        "file": "on-tap-n2-phan-2.txt",
+        "line": 243,
+        "text": "融　　金融　　融資"
+      },
+      {
+        "file": "on-tap-n2-phan-3.txt",
+        "line": 243,
+        "text": "融　　金融　　融資"
+      }
+    ]
+  },
+  {
+    "japanese": "融資",
+    "order": 2233,
+    "sourceLines": [
+      3596
+    ],
+    "status": "ambiguous",
+    "evidence": [
+      {
+        "file": "on-tap-n2-phan-1.txt",
+        "line": 243,
+        "text": "融　　金融　　融資"
+      },
+      {
+        "file": "on-tap-n2-phan-2.txt",
+        "line": 243,
+        "text": "融　　金融　　融資"
+      },
+      {
+        "file": "on-tap-n2-phan-3.txt",
+        "line": 243,
+        "text": "融　　金融　　融資"
+      }
+    ]
+  },
+  {
+    "japanese": "預かる",
+    "order": 2234,
+    "sourceLines": [
+      3599
+    ],
+    "status": "ambiguous",
+    "evidence": [
+      {
+        "file": "on-tap-n2-phan-1.txt",
+        "line": 245,
+        "text": "預　　預かる　　預金"
+      },
+      {
+        "file": "on-tap-n2-phan-2.txt",
+        "line": 245,
+        "text": "預　　預かる　　預金"
+      },
+      {
+        "file": "on-tap-n2-phan-3.txt",
+        "line": 245,
+        "text": "預　　預かる　　預金"
+      }
+    ]
+  },
+  {
+    "japanese": "預金",
+    "order": 2235,
+    "sourceLines": [
+      3600
+    ],
+    "status": "ambiguous",
+    "evidence": [
+      {
+        "file": "on-tap-n2-phan-1.txt",
+        "line": 245,
+        "text": "預　　預かる　　預金"
+      },
+      {
+        "file": "on-tap-n2-phan-2.txt",
+        "line": 245,
+        "text": "預　　預かる　　預金"
+      },
+      {
+        "file": "on-tap-n2-phan-3.txt",
+        "line": 245,
+        "text": "預　　預かる　　預金"
+      }
+    ]
+  },
+  {
+    "japanese": "額",
+    "order": 2236,
+    "sourceLines": [
+      3603
+    ],
+    "status": "unmatched",
+    "evidence": []
+  },
+  {
+    "japanese": "金額",
+    "order": 2237,
+    "sourceLines": [
+      3604
+    ],
+    "status": "ambiguous",
+    "evidence": [
+      {
+        "file": "on-tap-n2-phan-1.txt",
+        "line": 247,
+        "text": "額　　額　　金額"
+      },
+      {
+        "file": "on-tap-n2-phan-2.txt",
+        "line": 247,
+        "text": "額　　額　　金額"
+      },
+      {
+        "file": "on-tap-n2-phan-3.txt",
+        "line": 247,
+        "text": "額　　額　　金額"
+      }
+    ]
+  },
+  {
+    "japanese": "頼る",
+    "order": 2238,
+    "sourceLines": [
+      3607
+    ],
+    "status": "ambiguous",
+    "evidence": [
+      {
+        "file": "on-tap-n2-phan-1.txt",
+        "line": 249,
+        "text": "頼　　頼る　　信頼"
+      },
+      {
+        "file": "on-tap-n2-phan-2.txt",
+        "line": 249,
+        "text": "頼　　頼る　　信頼"
+      },
+      {
+        "file": "on-tap-n2-phan-3.txt",
+        "line": 249,
+        "text": "頼　　頼る　　信頼"
+      }
+    ]
+  },
+  {
+    "japanese": "信頼",
+    "order": 2239,
+    "sourceLines": [
+      3608
+    ],
+    "status": "ambiguous",
+    "evidence": [
+      {
+        "file": "bai-9-phan-1-.txt",
+        "line": 61,
+        "text": "実績のある君の推薦ですから、きっと信頼できる人ですね。"
+      },
+      {
+        "file": "on-tap-n2-phan-1.txt",
+        "line": 249,
+        "text": "頼　　頼る　　信頼"
+      },
+      {
+        "file": "on-tap-n2-phan-2.txt",
+        "line": 249,
+        "text": "頼　　頼る　　信頼"
+      },
+      {
+        "file": "on-tap-n2-phan-3.txt",
+        "line": 249,
+        "text": "頼　　頼る　　信頼"
+      }
+    ]
+  },
+  {
+    "japanese": "頑張る",
+    "order": 2240,
+    "sourceLines": [
+      3611
+    ],
+    "status": "ambiguous",
+    "evidence": [
+      {
+        "file": "on-tap-n2-phan-1.txt",
+        "line": 251,
+        "text": "頑　　頑張る　　頑固"
+      },
+      {
+        "file": "on-tap-n2-phan-2.txt",
+        "line": 251,
+        "text": "頑　　頑張る　　頑固"
+      },
+      {
+        "file": "on-tap-n2-phan-3.txt",
+        "line": 251,
+        "text": "頑　　頑張る　　頑固"
+      }
+    ]
+  },
+  {
+    "japanese": "頑固",
+    "order": 2241,
+    "sourceLines": [
+      3612
+    ],
+    "status": "ambiguous",
+    "evidence": [
+      {
+        "file": "on-tap-n2-phan-1.txt",
+        "line": 251,
+        "text": "頑　　頑張る　　頑固"
+      },
+      {
+        "file": "on-tap-n2-phan-2.txt",
+        "line": 251,
+        "text": "頑　　頑張る　　頑固"
+      },
+      {
+        "file": "on-tap-n2-phan-3.txt",
+        "line": 251,
+        "text": "頑　　頑張る　　頑固"
+      }
+    ]
+  },
+  {
+    "japanese": "恐れる",
+    "order": 2242,
+    "sourceLines": [
+      3615,
+      3628
+    ],
+    "status": "ambiguous",
+    "evidence": [
+      {
+        "file": "on-tap-n2-phan-1.txt",
+        "line": 253,
+        "text": "恐　　恐れる　　恐怖"
+      },
+      {
+        "file": "on-tap-n2-phan-1.txt",
+        "line": 259,
+        "text": "傷　　恐れる　　恐怖"
+      },
+      {
+        "file": "on-tap-n2-phan-2.txt",
+        "line": 253,
+        "text": "恐　　恐れる　　恐怖"
+      },
+      {
+        "file": "on-tap-n2-phan-2.txt",
+        "line": 259,
+        "text": "傷　　恐れる　　恐怖"
+      },
+      {
+        "file": "on-tap-n2-phan-3.txt",
+        "line": 253,
+        "text": "恐　　恐れる　　恐怖"
+      }
+    ]
+  },
+  {
+    "japanese": "恐怖",
+    "order": 2243,
+    "sourceLines": [
+      3616,
+      3629
+    ],
+    "status": "ambiguous",
+    "evidence": [
+      {
+        "file": "on-tap-n2-phan-1.txt",
+        "line": 253,
+        "text": "恐　　恐れる　　恐怖"
+      },
+      {
+        "file": "on-tap-n2-phan-1.txt",
+        "line": 259,
+        "text": "傷　　恐れる　　恐怖"
+      },
+      {
+        "file": "on-tap-n2-phan-2.txt",
+        "line": 253,
+        "text": "恐　　恐れる　　恐怖"
+      },
+      {
+        "file": "on-tap-n2-phan-2.txt",
+        "line": 259,
+        "text": "傷　　恐れる　　恐怖"
+      },
+      {
+        "file": "on-tap-n2-phan-3.txt",
+        "line": 253,
+        "text": "恐　　恐れる　　恐怖"
+      }
+    ]
+  },
+  {
+    "japanese": "患う",
+    "order": 2244,
+    "sourceLines": [
+      3619,
+      3632
+    ],
+    "status": "ambiguous",
+    "evidence": [
+      {
+        "file": "bai-18-phan-1-.txt",
+        "line": 230,
+        "text": "恋患う"
+      },
+      {
+        "file": "on-tap-n2-phan-1.txt",
+        "line": 255,
+        "text": "患　　患う　　患者"
+      },
+      {
+        "file": "on-tap-n2-phan-1.txt",
+        "line": 261,
+        "text": "優　　患う　　患者"
+      },
+      {
+        "file": "on-tap-n2-phan-2.txt",
+        "line": 255,
+        "text": "患　　患う　　患者"
+      },
+      {
+        "file": "on-tap-n2-phan-2.txt",
+        "line": 261,
+        "text": "優　　患う　　患者"
+      },
+      {
+        "file": "on-tap-n2-phan-3.txt",
+        "line": 255,
+        "text": "患　　患う　　患者"
+      }
+    ]
+  },
+  {
+    "japanese": "怠る",
+    "order": 2245,
+    "sourceLines": [
+      3623
+    ],
+    "status": "ambiguous",
+    "evidence": [
+      {
+        "file": "on-tap-n2-phan-1.txt",
+        "line": 257,
+        "text": "怠　　怠る　　怠け者　　勤怠"
+      },
+      {
+        "file": "on-tap-n2-phan-2.txt",
+        "line": 257,
+        "text": "怠　　怠る　　怠け者　　勤怠"
+      },
+      {
+        "file": "on-tap-n2-phan-3.txt",
+        "line": 257,
+        "text": "怠　　怠る　　怠け者　　勤怠"
+      }
+    ]
+  },
+  {
+    "japanese": "勤怠",
+    "order": 2246,
+    "sourceLines": [
+      3625
+    ],
+    "status": "ambiguous",
+    "evidence": [
+      {
+        "file": "bai-15-phan-1-.txt",
+        "line": 245,
+        "text": "勤怠管理"
+      },
+      {
+        "file": "on-tap-n2-phan-1.txt",
+        "line": 257,
+        "text": "怠　　怠る　　怠け者　　勤怠"
+      },
+      {
+        "file": "on-tap-n2-phan-2.txt",
+        "line": 257,
+        "text": "怠　　怠る　　怠け者　　勤怠"
+      },
+      {
+        "file": "on-tap-n2-phan-3.txt",
+        "line": 257,
+        "text": "怠　　怠る　　怠け者　　勤怠"
+      }
+    ]
+  },
+  {
+    "japanese": "詳しい",
+    "order": 2247,
+    "sourceLines": [
+      3636
+    ],
+    "status": "ambiguous",
+    "evidence": [
+      {
+        "file": "on-tap-n2-phan-1.txt",
+        "line": 263,
+        "text": "詳　　詳しい　　詳細"
+      },
+      {
+        "file": "on-tap-n2-phan-2.txt",
+        "line": 263,
+        "text": "詳　　詳しい　　詳細"
+      },
+      {
+        "file": "on-tap-n2-phan-3.txt",
+        "line": 263,
+        "text": "詳　　詳しい　　詳細"
+      }
+    ]
+  },
+  {
+    "japanese": "詳細",
+    "order": 2248,
+    "sourceLines": [
+      3637
+    ],
+    "status": "ambiguous",
+    "evidence": [
+      {
+        "file": "on-tap-n2-phan-1.txt",
+        "line": 263,
+        "text": "詳　　詳しい　　詳細"
+      },
+      {
+        "file": "on-tap-n2-phan-2.txt",
+        "line": 263,
+        "text": "詳　　詳しい　　詳細"
+      },
+      {
+        "file": "on-tap-n2-phan-3.txt",
+        "line": 263,
+        "text": "詳　　詳しい　　詳細"
+      }
+    ]
+  },
+  {
+    "japanese": "誘う",
+    "order": 2249,
+    "sourceLines": [
+      3640
+    ],
+    "status": "ambiguous",
+    "evidence": [
+      {
+        "file": "on-tap-n2-phan-1.txt",
+        "line": 265,
+        "text": "誘　　誘う　　勧誘"
+      },
+      {
+        "file": "on-tap-n2-phan-2.txt",
+        "line": 265,
+        "text": "誘　　誘う　　勧誘"
+      },
+      {
+        "file": "on-tap-n2-phan-3.txt",
+        "line": 265,
+        "text": "誘　　誘う　　勧誘"
+      }
+    ]
+  },
+  {
+    "japanese": "勧誘",
+    "order": 2250,
+    "sourceLines": [
+      3641
+    ],
+    "status": "ambiguous",
+    "evidence": [
+      {
+        "file": "on-tap-n2-phan-1.txt",
+        "line": 265,
+        "text": "誘　　誘う　　勧誘"
+      },
+      {
+        "file": "on-tap-n2-phan-2.txt",
+        "line": 265,
+        "text": "誘　　誘う　　勧誘"
+      },
+      {
+        "file": "on-tap-n2-phan-3.txt",
+        "line": 265,
+        "text": "誘　　誘う　　勧誘"
+      }
+    ]
+  },
+  {
+    "japanese": "訴える",
+    "order": 2251,
+    "sourceLines": [
+      3644
+    ],
+    "status": "ambiguous",
+    "evidence": [
+      {
+        "file": "bai-17-phan-1-.txt",
+        "line": 115,
+        "text": "騒音の被害を訴える"
+      },
+      {
+        "file": "on-tap-n2-phan-1.txt",
+        "line": 267,
+        "text": "訴　　訴える　　起訴"
+      },
+      {
+        "file": "on-tap-n2-phan-2.txt",
+        "line": 267,
+        "text": "訴　　訴える　　起訴"
+      },
+      {
+        "file": "on-tap-n2-phan-3.txt",
+        "line": 267,
+        "text": "訴　　訴える　　起訴"
+      }
+    ]
+  },
+  {
+    "japanese": "起訴",
+    "order": 2252,
+    "sourceLines": [
+      3645
+    ],
+    "status": "ambiguous",
+    "evidence": [
+      {
+        "file": "bai-17-phan-1-.txt",
+        "line": 118,
+        "text": "容疑者を収賄罪で起訴する"
+      },
+      {
+        "file": "on-tap-n2-phan-1.txt",
+        "line": 267,
+        "text": "訴　　訴える　　起訴"
+      },
+      {
+        "file": "on-tap-n2-phan-2.txt",
+        "line": 267,
+        "text": "訴　　訴える　　起訴"
+      },
+      {
+        "file": "on-tap-n2-phan-3.txt",
+        "line": 267,
+        "text": "訴　　訴える　　起訴"
+      }
+    ]
+  },
+  {
+    "japanese": "名誉",
+    "order": 2253,
+    "sourceLines": [
+      3648
+    ],
+    "status": "ambiguous",
+    "evidence": [
+      {
+        "file": "on-tap-n2-phan-1.txt",
+        "line": 269,
+        "text": "誉　　名誉"
+      },
+      {
+        "file": "on-tap-n2-phan-2.txt",
+        "line": 269,
+        "text": "誉　　名誉"
+      },
+      {
+        "file": "on-tap-n2-phan-3.txt",
+        "line": 269,
+        "text": "誉　　名誉"
+      }
+    ]
+  },
+  {
+    "japanese": "詰まる",
+    "order": 2254,
+    "sourceLines": [
+      3651
+    ],
+    "status": "ambiguous",
+    "evidence": [
+      {
+        "file": "on-tap-n2-phan-1.txt",
+        "line": 271,
+        "text": "詰　　詰まる　　缶詰"
+      },
+      {
+        "file": "on-tap-n2-phan-2.txt",
+        "line": 271,
+        "text": "詰　　詰まる　　缶詰"
+      },
+      {
+        "file": "on-tap-n2-phan-3.txt",
+        "line": 271,
+        "text": "詰　　詰まる　　缶詰"
+      }
+    ]
+  },
+  {
+    "japanese": "缶詰",
+    "order": 2255,
+    "sourceLines": [
+      3652
+    ],
+    "status": "ambiguous",
+    "evidence": [
+      {
+        "file": "on-tap-n2-phan-1.txt",
+        "line": 271,
+        "text": "詰　　詰まる　　缶詰"
+      },
+      {
+        "file": "on-tap-n2-phan-2.txt",
+        "line": 271,
+        "text": "詰　　詰まる　　缶詰"
+      },
+      {
+        "file": "on-tap-n2-phan-3.txt",
+        "line": 271,
+        "text": "詰　　詰まる　　缶詰"
+      }
+    ]
+  },
+  {
+    "japanese": "証",
+    "order": 2256,
+    "sourceLines": [
+      3655
+    ],
+    "status": "unmatched",
+    "evidence": []
+  },
+  {
+    "japanese": "証拠",
+    "order": 2257,
+    "sourceLines": [
+      3656
+    ],
+    "status": "ambiguous",
+    "evidence": [
+      {
+        "file": "bai-3-phan-1-.txt",
+        "line": 11,
+        "text": "犯人だという証拠を示す"
+      },
+      {
+        "file": "on-tap-n2-phan-1.txt",
+        "line": 273,
+        "text": "証　　証　　証拠"
+      },
+      {
+        "file": "on-tap-n2-phan-2.txt",
+        "line": 273,
+        "text": "証　　証　　証拠"
+      },
+      {
+        "file": "on-tap-n2-phan-3.txt",
+        "line": 273,
+        "text": "証　　証　　証拠"
+      }
+    ]
+  },
+  {
+    "japanese": "訳する",
+    "order": 2258,
+    "sourceLines": [
+      3659
+    ],
+    "status": "ambiguous",
+    "evidence": [
+      {
+        "file": "bai-12-phan-2-.txt",
+        "line": 27,
+        "text": "英語を日本語に翻訳する"
+      },
+      {
+        "file": "on-tap-n2-phan-1.txt",
+        "line": 275,
+        "text": "訳　　訳する　　通訳"
+      },
+      {
+        "file": "on-tap-n2-phan-2.txt",
+        "line": 275,
+        "text": "訳　　訳する　　通訳"
+      },
+      {
+        "file": "on-tap-n2-phan-3.txt",
+        "line": 275,
+        "text": "訳　　訳する　　通訳"
+      }
+    ]
+  },
+  {
+    "japanese": "通訳",
+    "order": 2259,
+    "sourceLines": [
+      3660
+    ],
+    "status": "ambiguous",
+    "evidence": [
+      {
+        "file": "on-tap-n2-phan-1.txt",
+        "line": 275,
+        "text": "訳　　訳する　　通訳"
+      },
+      {
+        "file": "on-tap-n2-phan-2.txt",
+        "line": 275,
+        "text": "訳　　訳する　　通訳"
+      },
+      {
+        "file": "on-tap-n2-phan-3.txt",
+        "line": 275,
+        "text": "訳　　訳する　　通訳"
+      }
+    ]
+  },
+  {
+    "japanese": "諸々",
+    "order": 2260,
+    "sourceLines": [
+      3663
+    ],
+    "status": "ambiguous",
+    "evidence": [
+      {
+        "file": "bai-13-phan-1-.txt",
+        "line": 188,
+        "text": "諸々の費用を含めると、キャンプの費用は３万円になりそうだ。"
+      },
+      {
+        "file": "on-tap-n2-phan-1.txt",
+        "line": 277,
+        "text": "諸　　諸々　　諸国"
+      },
+      {
+        "file": "on-tap-n2-phan-2.txt",
+        "line": 277,
+        "text": "諸　　諸々　　諸国"
+      },
+      {
+        "file": "on-tap-n2-phan-3.txt",
+        "line": 277,
+        "text": "諸　　諸々　　諸国"
+      }
+    ]
+  },
+  {
+    "japanese": "諸国",
+    "order": 2261,
+    "sourceLines": [
+      3664
+    ],
+    "status": "ambiguous",
+    "evidence": [
+      {
+        "file": "bai-13-phan-1-.txt",
+        "line": 185,
+        "text": "ASEAN＝東南アジア諸国連合"
+      },
+      {
+        "file": "on-tap-n2-phan-1.txt",
+        "line": 277,
+        "text": "諸　　諸々　　諸国"
+      },
+      {
+        "file": "on-tap-n2-phan-2.txt",
+        "line": 277,
+        "text": "諸　　諸々　　諸国"
+      },
+      {
+        "file": "on-tap-n2-phan-3.txt",
+        "line": 277,
+        "text": "諸　　諸々　　諸国"
+      }
+    ]
+  },
+  {
+    "japanese": "傷",
+    "order": 2262,
+    "sourceLines": [
+      3669
+    ],
+    "status": "unmatched",
+    "evidence": []
+  },
+  {
+    "japanese": "優秀",
+    "order": 2265,
+    "sourceLines": [
+      3674
+    ],
+    "status": "ambiguous",
+    "evidence": [
+      {
+        "file": "bai-13-phan-1-.txt",
+        "line": 21,
+        "text": "優秀な成績で卒業する"
+      },
+      {
+        "file": "bai-4-phan-1-.txt",
+        "line": 147,
+        "text": "優秀な家系"
+      },
+      {
+        "file": "on-tap-n2-phan-3.txt",
+        "line": 261,
+        "text": "優　　優れる　　優秀"
+      }
+    ]
+  }
+]

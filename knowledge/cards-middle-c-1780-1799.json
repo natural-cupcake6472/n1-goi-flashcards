@@ -1,0 +1,777 @@
+[
+  {
+    "japanese": "被災者に医療を施す",
+    "kana": "ひさいしゃにいりょうをほどこす",
+    "en": "Provide medical care to disaster victims.",
+    "vi": "Cung cấp dịch vụ y tế cho nạn nhân thiên tai.",
+    "ja": "被災者に医療を与える。",
+    "parts": [
+      {
+        "text": "被災者",
+        "kana": "ひさいしゃ",
+        "en": "disaster victims",
+        "vi": "nạn nhân thiên tai",
+        "ja": "災害に遭った人"
+      },
+      {
+        "text": "に",
+        "kana": "に",
+        "en": "to",
+        "vi": "cho",
+        "ja": "対象を表す助詞"
+      },
+      {
+        "text": "医療",
+        "kana": "いりょう",
+        "en": "medical care",
+        "vi": "dịch vụ y tế",
+        "ja": "病気やけがを治すこと"
+      },
+      {
+        "text": "を",
+        "kana": "を",
+        "en": "(object marker)",
+        "vi": "(trợ từ tân ngữ)",
+        "ja": "動作の対象を表す助詞"
+      },
+      {
+        "text": "施す",
+        "kana": "ほどこす",
+        "en": "provide",
+        "vi": "cung cấp",
+        "ja": "必要なものを与える"
+      }
+    ]
+  },
+  {
+    "japanese": "公共施設",
+    "kana": "こうきょうしせつ",
+    "en": "Public facility.",
+    "vi": "Cơ sở công cộng.",
+    "ja": "多くの人が利用する施設。",
+    "parts": [
+      {
+        "text": "公共",
+        "kana": "こうきょう",
+        "en": "public",
+        "vi": "công cộng",
+        "ja": "社会全体に関わること"
+      },
+      {
+        "text": "施設",
+        "kana": "しせつ",
+        "en": "facility",
+        "vi": "cơ sở",
+        "ja": "建物や設備"
+      }
+    ]
+  },
+  {
+    "japanese": "新しい税法が施行される",
+    "kana": "あたらしいぜいほうがしこうされる",
+    "en": "A new tax law comes into effect.",
+    "vi": "Luật thuế mới được thi hành.",
+    "ja": "新しい税法の効力が発生する。",
+    "parts": [
+      {
+        "text": "新しい",
+        "kana": "あたらしい",
+        "en": "new",
+        "vi": "mới",
+        "ja": "今までになかった"
+      },
+      {
+        "text": "税法",
+        "kana": "ぜいほう",
+        "en": "tax law",
+        "vi": "luật thuế",
+        "ja": "税に関する法律"
+      },
+      {
+        "text": "が",
+        "kana": "が",
+        "en": "(subject marker)",
+        "vi": "(trợ từ chủ ngữ)",
+        "ja": "主語を表す助詞"
+      },
+      {
+        "text": "施行",
+        "kana": "しこう",
+        "en": "come into effect",
+        "vi": "có hiệu lực",
+        "ja": "法律などの効力が生じること"
+      },
+      {
+        "text": "される",
+        "kana": "される",
+        "en": "(passive)",
+        "vi": "(bị động)",
+        "ja": "受け身を表す助動詞"
+      }
+    ]
+  },
+  {
+    "japanese": "試験を実施する",
+    "kana": "しけんをじっしする",
+    "en": "Conduct an examination.",
+    "vi": "Tổ chức kỳ thi.",
+    "ja": "試験を実際に行う。",
+    "parts": [
+      {
+        "text": "試験",
+        "kana": "しけん",
+        "en": "examination",
+        "vi": "kỳ thi",
+        "ja": "知識や能力を調べること"
+      },
+      {
+        "text": "を",
+        "kana": "を",
+        "en": "(object marker)",
+        "vi": "(trợ từ tân ngữ)",
+        "ja": "動作の対象を表す助詞"
+      },
+      {
+        "text": "実施",
+        "kana": "じっし",
+        "en": "conduct",
+        "vi": "tổ chức",
+        "ja": "実際に行うこと"
+      },
+      {
+        "text": "する",
+        "kana": "する",
+        "en": "do",
+        "vi": "làm",
+        "ja": "行う"
+      }
+    ]
+  },
+  {
+    "japanese": "ビルの施工",
+    "kana": "ビルのせこう",
+    "en": "Construction work on a building.",
+    "vi": "Việc thi công tòa nhà.",
+    "ja": "ビルを建てる工事を行うこと。",
+    "parts": [
+      {
+        "text": "ビル",
+        "kana": "ビル",
+        "en": "building",
+        "vi": "tòa nhà",
+        "ja": "高層の建物"
+      },
+      {
+        "text": "の",
+        "kana": "の",
+        "en": "of",
+        "vi": "của",
+        "ja": "名詞をつなぐ助詞"
+      },
+      {
+        "text": "施工",
+        "kana": "せこう",
+        "en": "construction",
+        "vi": "thi công",
+        "ja": "工事を実際に行うこと"
+      }
+    ]
+  },
+  {
+    "japanese": "飛行機が上空を旋回する",
+    "kana": "ひこうきがじょうくうをせんかいする",
+    "en": "An airplane circles overhead.",
+    "vi": "Máy bay bay vòng trên cao.",
+    "ja": "飛行機が上空をぐるぐる回る。",
+    "parts": [
+      {
+        "text": "飛行機",
+        "kana": "ひこうき",
+        "en": "airplane",
+        "vi": "máy bay",
+        "ja": "空を飛ぶ乗り物"
+      },
+      {
+        "text": "が",
+        "kana": "が",
+        "en": "(subject marker)",
+        "vi": "(trợ từ chủ ngữ)",
+        "ja": "主語を表す助詞"
+      },
+      {
+        "text": "上空",
+        "kana": "じょうくう",
+        "en": "overhead",
+        "vi": "trên cao",
+        "ja": "空の高い所"
+      },
+      {
+        "text": "を",
+        "kana": "を",
+        "en": "(route marker)",
+        "vi": "(trợ từ chỉ đường đi)",
+        "ja": "移動する場所を表す助詞"
+      },
+      {
+        "text": "旋回",
+        "kana": "せんかい",
+        "en": "circle",
+        "vi": "bay vòng",
+        "ja": "円を描くように回ること"
+      },
+      {
+        "text": "する",
+        "kana": "する",
+        "en": "do",
+        "vi": "làm",
+        "ja": "行う"
+      }
+    ]
+  },
+  {
+    "japanese": "美しい旋律",
+    "kana": "うつくしいせんりつ",
+    "en": "A beautiful melody.",
+    "vi": "Giai điệu đẹp.",
+    "ja": "美しく調和した音の連なり。",
+    "parts": [
+      {
+        "text": "美しい",
+        "kana": "うつくしい",
+        "en": "beautiful",
+        "vi": "đẹp",
+        "ja": "見た目や音がきれいだ"
+      },
+      {
+        "text": "旋律",
+        "kana": "せんりつ",
+        "en": "melody",
+        "vi": "giai điệu",
+        "ja": "音楽の音の連なり"
+      }
+    ]
+  },
+  {
+    "japanese": "仕事/留学を斡旋する",
+    "kana": "しごと／りゅうがくをあっせんする",
+    "en": "Arrange a job or study-abroad placement.",
+    "vi": "Môi giới công việc hoặc việc du học.",
+    "ja": "仕事や留学先を紹介し、間を取り持つ。",
+    "parts": [
+      {
+        "text": "仕事",
+        "kana": "しごと",
+        "en": "job",
+        "vi": "công việc",
+        "ja": "職業や業務"
+      },
+      {
+        "text": "/",
+        "kana": "／",
+        "en": "or",
+        "vi": "hoặc",
+        "ja": "区切り記号"
+      },
+      {
+        "text": "留学",
+        "kana": "りゅうがく",
+        "en": "study abroad",
+        "vi": "du học",
+        "ja": "外国などで学ぶこと"
+      },
+      {
+        "text": "を",
+        "kana": "を",
+        "en": "(object marker)",
+        "vi": "(trợ từ tân ngữ)",
+        "ja": "動作の対象を表す助詞"
+      },
+      {
+        "text": "斡旋",
+        "kana": "あっせん",
+        "en": "arrangement",
+        "vi": "môi giới",
+        "ja": "人や仕事を紹介して仲立ちすること"
+      },
+      {
+        "text": "する",
+        "kana": "する",
+        "en": "do",
+        "vi": "làm",
+        "ja": "行う"
+      }
+    ]
+  },
+  {
+    "japanese": "戦争の犠牲になる",
+    "kana": "せんそうのぎせいになる",
+    "en": "Become a victim of war.",
+    "vi": "Trở thành nạn nhân chiến tranh.",
+    "ja": "戦争によって被害を受ける。",
+    "parts": [
+      {
+        "text": "戦争",
+        "kana": "せんそう",
+        "en": "war",
+        "vi": "chiến tranh",
+        "ja": "国や集団の武力での争い"
+      },
+      {
+        "text": "の",
+        "kana": "の",
+        "en": "of",
+        "vi": "của",
+        "ja": "名詞同士の関係を表す助詞"
+      },
+      {
+        "text": "犠牲",
+        "kana": "ぎせい",
+        "en": "victim",
+        "vi": "nạn nhân",
+        "ja": "大きな損害や苦しみ"
+      },
+      {
+        "text": "に",
+        "kana": "に",
+        "en": "(result marker)",
+        "vi": "(trợ từ kết quả)",
+        "ja": "変化の結果を表す助詞"
+      },
+      {
+        "text": "なる",
+        "kana": "なる",
+        "en": "become",
+        "vi": "trở thành",
+        "ja": "ある状態に変わる"
+      }
+    ]
+  },
+  {
+    "japanese": "交通事故の犠牲者",
+    "kana": "こうつうじこのぎせいしゃ",
+    "en": "A victim of a traffic accident.",
+    "vi": "Nạn nhân tai nạn giao thông.",
+    "ja": "交通事故によって被害を受けた人。",
+    "parts": [
+      {
+        "text": "交通事故",
+        "kana": "こうつうじこ",
+        "en": "traffic accident",
+        "vi": "tai nạn giao thông",
+        "ja": "道路上で起きる事故"
+      },
+      {
+        "text": "の",
+        "kana": "の",
+        "en": "of",
+        "vi": "của",
+        "ja": "名詞同士の関係を表す助詞"
+      },
+      {
+        "text": "犠牲者",
+        "kana": "ぎせいしゃ",
+        "en": "victim",
+        "vi": "nạn nhân",
+        "ja": "被害を受けた人"
+      }
+    ]
+  },
+  {
+    "japanese": "大きな犠牲を払って、私たちは勝利を手にした",
+    "kana": "おおきなぎせいをはらって、わたしたちはしょうりをてにした",
+    "en": "We won at a great cost.",
+    "vi": "Chúng tôi giành chiến thắng sau những tổn thất lớn.",
+    "ja": "大きな損失を受けながら、私たちは勝利を得た。",
+    "parts": [
+      {
+        "text": "大きな",
+        "kana": "おおきな",
+        "en": "great",
+        "vi": "lớn",
+        "ja": "程度や規模が大きい"
+      },
+      {
+        "text": "犠牲",
+        "kana": "ぎせい",
+        "en": "sacrifice",
+        "vi": "tổn thất",
+        "ja": "大切なものを失うこと"
+      },
+      {
+        "text": "を",
+        "kana": "を",
+        "en": "(object marker)",
+        "vi": "(trợ từ tân ngữ)",
+        "ja": "動作の対象を表す助詞"
+      },
+      {
+        "text": "払って",
+        "kana": "はらって",
+        "en": "at the cost of",
+        "vi": "đánh đổi",
+        "ja": "代価として差し出す"
+      },
+      {
+        "text": "、",
+        "kana": "、",
+        "en": "comma",
+        "vi": "dấu phẩy",
+        "ja": "読点"
+      },
+      {
+        "text": "私たち",
+        "kana": "わたしたち",
+        "en": "we",
+        "vi": "chúng tôi",
+        "ja": "話し手を含む人々"
+      },
+      {
+        "text": "は",
+        "kana": "は",
+        "en": "(topic marker)",
+        "vi": "(trợ từ chủ đề)",
+        "ja": "話題を示す助詞"
+      },
+      {
+        "text": "勝利",
+        "kana": "しょうり",
+        "en": "victory",
+        "vi": "chiến thắng",
+        "ja": "戦いなどに勝つこと"
+      },
+      {
+        "text": "を",
+        "kana": "を",
+        "en": "(object marker)",
+        "vi": "(trợ từ tân ngữ)",
+        "ja": "動作の対象を表す助詞"
+      },
+      {
+        "text": "手にした",
+        "kana": "てにした",
+        "en": "won",
+        "vi": "giành được",
+        "ja": "自分のものにする"
+      }
+    ]
+  },
+  {
+    "japanese": "鶏肉を串に刺す",
+    "kana": "とりにくをくしにさす",
+    "en": "Skewer chicken.",
+    "vi": "Xiên thịt gà.",
+    "ja": "鶏肉を串に突き通す。",
+    "parts": [
+      {
+        "text": "鶏肉",
+        "kana": "とりにく",
+        "en": "chicken",
+        "vi": "thịt gà",
+        "ja": "鶏の肉"
+      },
+      {
+        "text": "を",
+        "kana": "を",
+        "en": "(object marker)",
+        "vi": "(trợ từ tân ngữ)",
+        "ja": "動作の対象を表す助詞"
+      },
+      {
+        "text": "串",
+        "kana": "くし",
+        "en": "skewer",
+        "vi": "xiên",
+        "ja": "食材を刺して焼く細い棒"
+      },
+      {
+        "text": "に",
+        "kana": "に",
+        "en": "onto",
+        "vi": "lên",
+        "ja": "到達点を表す助詞"
+      },
+      {
+        "text": "刺す",
+        "kana": "さす",
+        "en": "skewer",
+        "vi": "xiên",
+        "ja": "先のとがった物を突き入れる"
+      }
+    ]
+  },
+  {
+    "japanese": "串焼き",
+    "kana": "くしやき",
+    "en": "Grilled skewers.",
+    "vi": "Món nướng xiên.",
+    "ja": "肉などを串に刺して焼いた料理。",
+    "parts": [
+      {
+        "text": "串焼き",
+        "kana": "くしやき",
+        "en": "grilled skewers",
+        "vi": "món nướng xiên",
+        "ja": "串に刺して焼いた料理"
+      }
+    ]
+  },
+  {
+    "japanese": "あの子はまだ小さいのに重い病気を患っているらしい",
+    "kana": "あのこはまだちいさいのにおもいびょうきをわずらっているらしい",
+    "en": "That child seems to have a serious illness despite being so young.",
+    "vi": "Đứa trẻ ấy dường như mắc bệnh nặng dù còn nhỏ.",
+    "ja": "あの子は幼いが、重い病気にかかっているようだ。",
+    "parts": [
+      {
+        "text": "あの",
+        "kana": "あの",
+        "en": "that",
+        "vi": "đó",
+        "ja": "話し手から離れたものを指す"
+      },
+      {
+        "text": "子",
+        "kana": "こ",
+        "en": "child",
+        "vi": "đứa trẻ",
+        "ja": "幼い人"
+      },
+      {
+        "text": "は",
+        "kana": "は",
+        "en": "(topic marker)",
+        "vi": "(trợ từ chủ đề)",
+        "ja": "話題を示す助詞"
+      },
+      {
+        "text": "まだ",
+        "kana": "まだ",
+        "en": "still",
+        "vi": "vẫn còn",
+        "ja": "今もその状態である"
+      },
+      {
+        "text": "小さい",
+        "kana": "ちいさい",
+        "en": "young",
+        "vi": "nhỏ",
+        "ja": "年齢が低い"
+      },
+      {
+        "text": "のに",
+        "kana": "のに",
+        "en": "despite",
+        "vi": "dù",
+        "ja": "予想に反することを表す"
+      },
+      {
+        "text": "重い",
+        "kana": "おもい",
+        "en": "serious",
+        "vi": "nặng",
+        "ja": "程度が大きい"
+      },
+      {
+        "text": "病気",
+        "kana": "びょうき",
+        "en": "illness",
+        "vi": "bệnh",
+        "ja": "健康を損なう状態"
+      },
+      {
+        "text": "を",
+        "kana": "を",
+        "en": "(object marker)",
+        "vi": "(trợ từ tân ngữ)",
+        "ja": "動作の対象を表す助詞"
+      },
+      {
+        "text": "患っている",
+        "kana": "わずらっている",
+        "en": "suffer from",
+        "vi": "mắc",
+        "ja": "病気にかかっている"
+      },
+      {
+        "text": "らしい",
+        "kana": "らしい",
+        "en": "seems",
+        "vi": "dường như",
+        "ja": "推量を表す"
+      }
+    ]
+  },
+  {
+    "japanese": "恋患う",
+    "kana": "こいわずらう",
+    "en": "Pine for someone; be lovesick.",
+    "vi": "Tương tư.",
+    "ja": "恋愛の悩みで苦しむ。",
+    "parts": [
+      {
+        "text": "恋患う",
+        "kana": "こいわずらう",
+        "en": "be lovesick",
+        "vi": "tương tư",
+        "ja": "恋愛の悩みで苦しむ"
+      }
+    ]
+  },
+  {
+    "japanese": "患者",
+    "kana": "かんじゃ",
+    "en": "Patient.",
+    "vi": "Bệnh nhân.",
+    "ja": "病気やけがの治療を受ける人。",
+    "parts": [
+      {
+        "text": "患者",
+        "kana": "かんじゃ",
+        "en": "patient",
+        "vi": "bệnh nhân",
+        "ja": "病気やけがの治療を受ける人"
+      }
+    ]
+  },
+  {
+    "japanese": "勇敢な少年",
+    "kana": "ゆうかんなしょうねん",
+    "en": "A brave boy.",
+    "vi": "Cậu bé dũng cảm.",
+    "ja": "勇気のある少年。",
+    "parts": [
+      {
+        "text": "勇敢",
+        "kana": "ゆうかん",
+        "en": "brave",
+        "vi": "dũng cảm",
+        "ja": "危険を恐れず行動する"
+      },
+      {
+        "text": "な",
+        "kana": "な",
+        "en": "(adjective linker)",
+        "vi": "(đuôi tính từ)",
+        "ja": "形容動詞を名詞につなぐ"
+      },
+      {
+        "text": "少年",
+        "kana": "しょうねん",
+        "en": "boy",
+        "vi": "cậu bé",
+        "ja": "年少の男性"
+      }
+    ]
+  },
+  {
+    "japanese": "果敢に挑戦する",
+    "kana": "かかんにちょうせんする",
+    "en": "Take on a challenge boldly.",
+    "vi": "Can đảm thử thách.",
+    "ja": "恐れず思い切って挑戦する。",
+    "parts": [
+      {
+        "text": "果敢",
+        "kana": "かかん",
+        "en": "boldly",
+        "vi": "quả cảm",
+        "ja": "思い切って物事を行う"
+      },
+      {
+        "text": "に",
+        "kana": "に",
+        "en": "(adverbial marker)",
+        "vi": "(trợ từ trạng từ)",
+        "ja": "様子や状態を表す助詞"
+      },
+      {
+        "text": "挑戦",
+        "kana": "ちょうせん",
+        "en": "challenge",
+        "vi": "thử thách",
+        "ja": "難しいことに立ち向かうこと"
+      },
+      {
+        "text": "する",
+        "kana": "する",
+        "en": "do",
+        "vi": "làm",
+        "ja": "行う"
+      }
+    ]
+  },
+  {
+    "japanese": "言いにくいことを敢えて言う",
+    "kana": "いいにくいことをあえていう",
+    "en": "Dare to say something difficult to say.",
+    "vi": "Dám nói điều khó nói.",
+    "ja": "言いにくいことを思い切って言う。",
+    "parts": [
+      {
+        "text": "言いにくい",
+        "kana": "いいにくい",
+        "en": "difficult to say",
+        "vi": "khó nói",
+        "ja": "口に出すのが難しい"
+      },
+      {
+        "text": "こと",
+        "kana": "こと",
+        "en": "thing",
+        "vi": "điều",
+        "ja": "事柄"
+      },
+      {
+        "text": "を",
+        "kana": "を",
+        "en": "(object marker)",
+        "vi": "(trợ từ tân ngữ)",
+        "ja": "動作の対象を表す助詞"
+      },
+      {
+        "text": "敢えて",
+        "kana": "あえて",
+        "en": "dare to",
+        "vi": "dám",
+        "ja": "困難を承知で思い切って"
+      },
+      {
+        "text": "言う",
+        "kana": "いう",
+        "en": "say",
+        "vi": "nói",
+        "ja": "言葉で表す"
+      }
+    ]
+  },
+  {
+    "japanese": "貯金が殖える",
+    "kana": "ちょきんがふえる",
+    "en": "One's savings increase.",
+    "vi": "Tiền tiết kiệm tăng lên.",
+    "ja": "貯金の額が増す。",
+    "parts": [
+      {
+        "text": "貯金",
+        "kana": "ちょきん",
+        "en": "savings",
+        "vi": "tiền tiết kiệm",
+        "ja": "将来のために蓄えた金"
+      },
+      {
+        "text": "が",
+        "kana": "が",
+        "en": "(subject marker)",
+        "vi": "(trợ từ chủ ngữ)",
+        "ja": "主語を表す助詞"
+      },
+      {
+        "text": "殖える",
+        "kana": "ふえる",
+        "en": "increase",
+        "vi": "tăng lên",
+        "ja": "数量や程度が大きくなる"
+      }
+    ]
+  }
+]

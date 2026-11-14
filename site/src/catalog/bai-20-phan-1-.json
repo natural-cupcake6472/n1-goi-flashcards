@@ -1,0 +1,2102 @@
+[
+  {
+    "japanese": "粘るまでよくこねる",
+    "order": 1884,
+    "sourceLines": [
+      2910
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-20-phan-1-.txt",
+        "line": 9,
+        "text": "粘るまでよくこねる"
+      }
+    ]
+  },
+  {
+    "japanese": "彼は非常に粘り強い",
+    "order": 1885,
+    "sourceLines": [
+      2911
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-20-phan-1-.txt",
+        "line": 10,
+        "text": "彼は非常に粘り強い"
+      }
+    ]
+  },
+  {
+    "japanese": "粘りのあるチーム",
+    "order": 1886,
+    "sourceLines": [
+      2912
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-20-phan-1-.txt",
+        "line": 11,
+        "text": "粘りのあるチーム"
+      }
+    ]
+  },
+  {
+    "japanese": "粘土",
+    "order": 1887,
+    "sourceLines": [
+      2913
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-20-phan-1-.txt",
+        "line": 12,
+        "text": "粘土"
+      }
+    ]
+  },
+  {
+    "japanese": "貧乏故に味わう苦労",
+    "order": 1888,
+    "sourceLines": [
+      2916
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-20-phan-1-.txt",
+        "line": 18,
+        "text": "貧乏故に味わう苦労"
+      }
+    ]
+  },
+  {
+    "japanese": "故郷を懐かしむ",
+    "order": 1889,
+    "sourceLines": [
+      2917
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-20-phan-1-.txt",
+        "line": 19,
+        "text": "故郷を懐かしむ"
+      }
+    ]
+  },
+  {
+    "japanese": "写真を見ながら故人を慕う",
+    "order": 1890,
+    "sourceLines": [
+      2918
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-20-phan-1-.txt",
+        "line": 20,
+        "text": "写真を見ながら故人を慕う"
+      }
+    ]
+  },
+  {
+    "japanese": "エアコンが故障する",
+    "order": 1891,
+    "sourceLines": [
+      2919
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-20-phan-1-.txt",
+        "line": 21,
+        "text": "エアコンが故障する"
+      }
+    ]
+  },
+  {
+    "japanese": "故意に足を踏む",
+    "order": 1892,
+    "sourceLines": [
+      2920
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-20-phan-1-.txt",
+        "line": 22,
+        "text": "故意に足を踏む"
+      }
+    ]
+  },
+  {
+    "japanese": "おみくじをひいたら吉が出た",
+    "order": 1893,
+    "sourceLines": [
+      2923
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-20-phan-1-.txt",
+        "line": 27,
+        "text": "おみくじをひいたら吉が出た"
+      }
+    ]
+  },
+  {
+    "japanese": "大学合格、姉の結婚と吉事が続く",
+    "order": 1894,
+    "sourceLines": [
+      2924
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-20-phan-1-.txt",
+        "line": 28,
+        "text": "大学合格、姉の結婚と吉事が続く"
+      }
+    ]
+  },
+  {
+    "japanese": "不吉な予感がする",
+    "order": 1895,
+    "sourceLines": [
+      2925
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-20-phan-1-.txt",
+        "line": 29,
+        "text": "不吉な予感がする"
+      }
+    ]
+  },
+  {
+    "japanese": "合格の吉報が届く",
+    "order": 1896,
+    "sourceLines": [
+      2926
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-20-phan-1-.txt",
+        "line": 30,
+        "text": "合格の吉報が届く"
+      }
+    ]
+  },
+  {
+    "japanese": "小学校の校舎",
+    "order": 1897,
+    "sourceLines": [
+      2929
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-20-phan-1-.txt",
+        "line": 35,
+        "text": "小学校の校舎"
+      }
+    ]
+  },
+  {
+    "japanese": "公務員宿舎",
+    "order": 1898,
+    "sourceLines": [
+      2930
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-20-phan-1-.txt",
+        "line": 36,
+        "text": "公務員宿舎"
+      }
+    ]
+  },
+  {
+    "japanese": "道路を舗装する",
+    "order": 1899,
+    "sourceLines": [
+      2933
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-20-phan-1-.txt",
+        "line": 41,
+        "text": "道路を舗装する"
+      }
+    ]
+  },
+  {
+    "japanese": "店舗を構える",
+    "order": 1900,
+    "sourceLines": [
+      2934
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-20-phan-1-.txt",
+        "line": 42,
+        "text": "店舗を構える"
+      }
+    ]
+  },
+  {
+    "japanese": "五代続く老舗の和菓子屋",
+    "order": 1901,
+    "sourceLines": [
+      2935
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-20-phan-1-.txt",
+        "line": 43,
+        "text": "五代続く老舗の和菓子屋"
+      }
+    ]
+  },
+  {
+    "japanese": "いたずらをした子供を叱る",
+    "order": 1902,
+    "sourceLines": [
+      2938
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-20-phan-1-.txt",
+        "line": 49,
+        "text": "いたずらをした子供を叱る"
+      }
+    ]
+  },
+  {
+    "japanese": "部下を叱責する",
+    "order": 1903,
+    "sourceLines": [
+      2939
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-20-phan-1-.txt",
+        "line": 50,
+        "text": "部下を叱責する"
+      }
+    ]
+  },
+  {
+    "japanese": "専門家の意見に啓発される",
+    "order": 1904,
+    "sourceLines": [
+      2942
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-20-phan-1-.txt",
+        "line": 55,
+        "text": "専門家の意見に啓発される"
+      }
+    ]
+  },
+  {
+    "japanese": "自己啓発本",
+    "order": 1905,
+    "sourceLines": [
+      2943
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-20-phan-1-.txt",
+        "line": 56,
+        "text": "自己啓発本"
+      }
+    ]
+  },
+  {
+    "japanese": "「拝啓」は手紙の冒頭に使う挨拶",
+    "order": 1906,
+    "sourceLines": [
+      2944
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-20-phan-1-.txt",
+        "line": 57,
+        "text": "「拝啓」は手紙の冒頭に使う挨拶"
+      }
+    ]
+  },
+  {
+    "japanese": "啓蒙書を読む",
+    "order": 1907,
+    "sourceLines": [
+      2945
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-20-phan-1-.txt",
+        "line": 58,
+        "text": "啓蒙書を読む"
+      }
+    ]
+  },
+  {
+    "japanese": "喉が渇く",
+    "order": 1908,
+    "sourceLines": [
+      2948
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-20-phan-1-.txt",
+        "line": 64,
+        "text": "喉が渇く"
+      }
+    ]
+  },
+  {
+    "japanese": "喉頭ガン",
+    "order": 1909,
+    "sourceLines": [
+      2949
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-20-phan-1-.txt",
+        "line": 65,
+        "text": "喉頭ガン"
+      }
+    ]
+  },
+  {
+    "japanese": "喉元すぎれば熱さを忘れる",
+    "order": 1910,
+    "sourceLines": [
+      2950
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-20-phan-1-.txt",
+        "line": 66,
+        "text": "喉元すぎれば熱さを忘れる"
+      }
+    ]
+  },
+  {
+    "japanese": "病を克服する",
+    "order": 1911,
+    "sourceLines": [
+      2953
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-20-phan-1-.txt",
+        "line": 71,
+        "text": "病を克服する"
+      }
+    ]
+  },
+  {
+    "japanese": "事件の様子を克明に書き記す",
+    "order": 1912,
+    "sourceLines": [
+      2954
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-20-phan-1-.txt",
+        "line": 72,
+        "text": "事件の様子を克明に書き記す"
+      }
+    ]
+  },
+  {
+    "japanese": "人を呪う",
+    "order": 1913,
+    "sourceLines": [
+      2957
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-20-phan-1-.txt",
+        "line": 78,
+        "text": "人を呪う"
+      }
+    ]
+  },
+  {
+    "japanese": "呪われた運命",
+    "order": 1914,
+    "sourceLines": [
+      2958
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-20-phan-1-.txt",
+        "line": 79,
+        "text": "呪われた運命"
+      }
+    ]
+  },
+  {
+    "japanese": "呪文を唱える",
+    "order": 1915,
+    "sourceLines": [
+      2959
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-20-phan-1-.txt",
+        "line": 80,
+        "text": "呪文を唱える"
+      }
+    ]
+  },
+  {
+    "japanese": "呪縛から解き放される",
+    "order": 1916,
+    "sourceLines": [
+      2960
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-20-phan-1-.txt",
+        "line": 81,
+        "text": "呪縛から解き放される"
+      }
+    ]
+  },
+  {
+    "japanese": "目的地に至る",
+    "order": 1917,
+    "sourceLines": [
+      2963
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-20-phan-1-.txt",
+        "line": 89,
+        "text": "目的地に至る"
+      }
+    ]
+  },
+  {
+    "japanese": "死に至る病気",
+    "order": 1918,
+    "sourceLines": [
+      2964
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-20-phan-1-.txt",
+        "line": 90,
+        "text": "死に至る病気"
+      }
+    ]
+  },
+  {
+    "japanese": "至る所に防犯カメラがある",
+    "order": 1919,
+    "sourceLines": [
+      2965
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-20-phan-1-.txt",
+        "line": 91,
+        "text": "至る所に防犯カメラがある"
+      }
+    ]
+  },
+  {
+    "japanese": "至って簡単だ",
+    "order": 1920,
+    "sourceLines": [
+      2966
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-20-phan-1-.txt",
+        "line": 92,
+        "text": "至って簡単だ"
+      }
+    ]
+  },
+  {
+    "japanese": "大至急来てください",
+    "order": 1921,
+    "sourceLines": [
+      2967
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-20-phan-1-.txt",
+        "line": 93,
+        "text": "大至急来てください"
+      }
+    ]
+  },
+  {
+    "japanese": "窒息死する",
+    "order": 1922,
+    "sourceLines": [
+      2970
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-20-phan-1-.txt",
+        "line": 98,
+        "text": "窒息死する"
+      }
+    ]
+  },
+  {
+    "japanese": "筆と墨を使って名前を書く",
+    "order": 1923,
+    "sourceLines": [
+      2973
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-20-phan-1-.txt",
+        "line": 104,
+        "text": "筆と墨を使って名前を書く"
+      }
+    ]
+  },
+  {
+    "japanese": "水墨画",
+    "order": 1924,
+    "sourceLines": [
+      2974
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-20-phan-1-.txt",
+        "line": 105,
+        "text": "水墨画"
+      }
+    ]
+  },
+  {
+    "japanese": "栓抜きを使わず瓶の蓋を開ける",
+    "order": 1925,
+    "sourceLines": [
+      2977
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-20-phan-1-.txt",
+        "line": 110,
+        "text": "栓抜きを使わず瓶の蓋を開ける"
+      }
+    ]
+  },
+  {
+    "japanese": "棚に本を戻す",
+    "order": 1926,
+    "sourceLines": [
+      2980
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-20-phan-1-.txt",
+        "line": 115,
+        "text": "棚に本を戻す"
+      }
+    ]
+  },
+  {
+    "japanese": "食器棚",
+    "order": 1927,
+    "sourceLines": [
+      2981
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-20-phan-1-.txt",
+        "line": 116,
+        "text": "食器棚"
+      }
+    ]
+  },
+  {
+    "japanese": "彼は自分のミスを棚に上げ、部員のミスを指摘した",
+    "order": 1928,
+    "sourceLines": [
+      2982
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-20-phan-1-.txt",
+        "line": 117,
+        "text": "彼は自分のミスを棚に上げ、部員のミスを指摘した"
+      }
+    ]
+  },
+  {
+    "japanese": "原因を分析する",
+    "order": 1929,
+    "sourceLines": [
+      2985
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-20-phan-1-.txt",
+        "line": 122,
+        "text": "原因を分析する"
+      }
+    ]
+  },
+  {
+    "japanese": "データを解析する",
+    "order": 1930,
+    "sourceLines": [
+      2986
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-20-phan-1-.txt",
+        "line": 123,
+        "text": "データを解析する"
+      }
+    ]
+  },
+  {
+    "japanese": "三桁の計算をする",
+    "order": 1931,
+    "sourceLines": [
+      2989
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-20-phan-1-.txt",
+        "line": 128,
+        "text": "三桁の計算をする"
+      }
+    ]
+  },
+  {
+    "japanese": "桁違いの安さ",
+    "order": 1932,
+    "sourceLines": [
+      2990
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-20-phan-1-.txt",
+        "line": 129,
+        "text": "桁違いの安さ"
+      }
+    ]
+  },
+  {
+    "japanese": "桁外れの結果を出す人",
+    "order": 1933,
+    "sourceLines": [
+      2991
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-20-phan-1-.txt",
+        "line": 130,
+        "text": "桁外れの結果を出す人"
+      }
+    ]
+  },
+  {
+    "japanese": "潮が満ちる",
+    "order": 1934,
+    "sourceLines": [
+      2994
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-20-phan-1-.txt",
+        "line": 136,
+        "text": "潮が満ちる"
+      }
+    ]
+  },
+  {
+    "japanese": "感染者を非難するような社会の風潮は慎むべきだ",
+    "order": 1935,
+    "sourceLines": [
+      2995
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-20-phan-1-.txt",
+        "line": 137,
+        "text": "感染者を非難するような社会の風潮は慎むべきだ"
+      }
+    ]
+  },
+  {
+    "japanese": "目指せ！日本１！全国制覇！",
+    "order": 1936,
+    "sourceLines": [
+      2998
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-20-phan-1-.txt",
+        "line": 142,
+        "text": "目指せ！日本１！全国制覇！"
+      }
+    ]
+  },
+  {
+    "japanese": "オリンピック二連覇達成！",
+    "order": 1937,
+    "sourceLines": [
+      2999
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-20-phan-1-.txt",
+        "line": 143,
+        "text": "オリンピック二連覇達成！"
+      }
+    ]
+  },
+  {
+    "japanese": "国王の冠",
+    "order": 1938,
+    "sourceLines": [
+      3002
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-20-phan-1-.txt",
+        "line": 151,
+        "text": "国王の冠"
+      }
+    ]
+  },
+  {
+    "japanese": "王冠を頭に戴く",
+    "order": 1939,
+    "sourceLines": [
+      3003
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-20-phan-1-.txt",
+        "line": 152,
+        "text": "王冠を頭に戴く"
+      }
+    ]
+  },
+  {
+    "japanese": "大会３冠王",
+    "order": 1940,
+    "sourceLines": [
+      3004
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-20-phan-1-.txt",
+        "line": 153,
+        "text": "大会３冠王"
+      }
+    ]
+  },
+  {
+    "japanese": "喪中のため祝い事を控える",
+    "order": 1941,
+    "sourceLines": [
+      3008
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-20-phan-1-.txt",
+        "line": 159,
+        "text": "喪中のため祝い事を控える"
+      }
+    ]
+  },
+  {
+    "japanese": "喪服を着る",
+    "order": 1942,
+    "sourceLines": [
+      3009
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-20-phan-1-.txt",
+        "line": 160,
+        "text": "喪服を着る"
+      }
+    ]
+  },
+  {
+    "japanese": "記憶喪失",
+    "order": 1943,
+    "sourceLines": [
+      3010
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-20-phan-1-.txt",
+        "line": 161,
+        "text": "記憶喪失"
+      }
+    ]
+  },
+  {
+    "japanese": "自信を喪失する",
+    "order": 1944,
+    "sourceLines": [
+      3011
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-20-phan-1-.txt",
+        "line": 162,
+        "text": "自信を喪失する"
+      }
+    ]
+  },
+  {
+    "japanese": "大きな仕事を任されたため、「全力で臨む」覚悟をした",
+    "order": 1945,
+    "sourceLines": [
+      3014
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-20-phan-1-.txt",
+        "line": 168,
+        "text": "大きな仕事を任されたため、「全力で臨む」覚悟をした"
+      }
+    ]
+  },
+  {
+    "japanese": "臨場感あふれる映画",
+    "order": 1946,
+    "sourceLines": [
+      3015
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-20-phan-1-.txt",
+        "line": 169,
+        "text": "臨場感あふれる映画"
+      }
+    ]
+  },
+  {
+    "japanese": "臨時休業",
+    "order": 1947,
+    "sourceLines": [
+      3016
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-20-phan-1-.txt",
+        "line": 170,
+        "text": "臨時休業"
+      }
+    ]
+  },
+  {
+    "japanese": "飲食店ではお客様の要望に合わせて臨機応変な対応が望まれる",
+    "order": 1948,
+    "sourceLines": [
+      3017
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-20-phan-1-.txt",
+        "line": 171,
+        "text": "飲食店ではお客様の要望に合わせて臨機応変な対応が望まれる"
+      }
+    ]
+  },
+  {
+    "japanese": "父の臨終に立ち会う",
+    "order": 1949,
+    "sourceLines": [
+      3018
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-20-phan-1-.txt",
+        "line": 172,
+        "text": "父の臨終に立ち会う"
+      }
+    ]
+  },
+  {
+    "japanese": "子供を褒める",
+    "order": 1950,
+    "sourceLines": [
+      3021
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-20-phan-1-.txt",
+        "line": 178,
+        "text": "子供を褒める"
+      }
+    ]
+  },
+  {
+    "japanese": "手伝いをしてご褒美をもらった",
+    "order": 1951,
+    "sourceLines": [
+      3022
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-20-phan-1-.txt",
+        "line": 179,
+        "text": "手伝いをしてご褒美をもらった"
+      }
+    ]
+  },
+  {
+    "japanese": "人々が羨むような美人な女性と付き合っている",
+    "order": 1952,
+    "sourceLines": [
+      3025
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-20-phan-1-.txt",
+        "line": 185,
+        "text": "人々が羨むような美人な女性と付き合っている"
+      }
+    ]
+  },
+  {
+    "japanese": "羨望の的となる",
+    "order": 1953,
+    "sourceLines": [
+      3026
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-20-phan-1-.txt",
+        "line": 186,
+        "text": "羨望の的となる"
+      }
+    ]
+  },
+  {
+    "japanese": "釜で米を炊く",
+    "order": 1954,
+    "sourceLines": [
+      3029
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-20-phan-1-.txt",
+        "line": 191,
+        "text": "釜で米を炊く"
+      }
+    ]
+  },
+  {
+    "japanese": "釜飯",
+    "order": 1955,
+    "sourceLines": [
+      3030
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-20-phan-1-.txt",
+        "line": 192,
+        "text": "釜飯"
+      }
+    ]
+  },
+  {
+    "japanese": "メロディーを奏でる",
+    "order": 1956,
+    "sourceLines": [
+      3033
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-20-phan-1-.txt",
+        "line": 198,
+        "text": "メロディーを奏でる"
+      }
+    ]
+  },
+  {
+    "japanese": "ショパンの曲を演奏する",
+    "order": 1957,
+    "sourceLines": [
+      3034
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-20-phan-1-.txt",
+        "line": 199,
+        "text": "ショパンの曲を演奏する"
+      }
+    ]
+  },
+  {
+    "japanese": "バイオリンの演奏会",
+    "order": 1958,
+    "sourceLines": [
+      3035
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-20-phan-1-.txt",
+        "line": 200,
+        "text": "バイオリンの演奏会"
+      }
+    ]
+  },
+  {
+    "japanese": "吹奏楽",
+    "order": 1959,
+    "sourceLines": [
+      3036
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-20-phan-1-.txt",
+        "line": 201,
+        "text": "吹奏楽"
+      }
+    ]
+  },
+  {
+    "japanese": "宣伝が功を奏し収益が伸びた",
+    "order": 1960,
+    "sourceLines": [
+      3037
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-20-phan-1-.txt",
+        "line": 202,
+        "text": "宣伝が功を奏し収益が伸びた"
+      }
+    ]
+  },
+  {
+    "japanese": "医療の発達により、平均寿命が延びる",
+    "order": 1961,
+    "sourceLines": [
+      3040
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-20-phan-1-.txt",
+        "line": 207,
+        "text": "医療の発達により、平均寿命が延びる"
+      }
+    ]
+  },
+  {
+    "japanese": "長寿番組が終わる",
+    "order": 1962,
+    "sourceLines": [
+      3041
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-20-phan-1-.txt",
+        "line": 208,
+        "text": "長寿番組が終わる"
+      }
+    ]
+  },
+  {
+    "japanese": "寿司",
+    "order": 1963,
+    "sourceLines": [
+      3042
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-20-phan-1-.txt",
+        "line": 209,
+        "text": "寿司"
+      }
+    ]
+  },
+  {
+    "japanese": "新規で事業を興す",
+    "order": 1964,
+    "sourceLines": [
+      3045
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-20-phan-1-.txt",
+        "line": 215,
+        "text": "新規で事業を興す"
+      }
+    ]
+  },
+  {
+    "japanese": "災害から復興する",
+    "order": 1965,
+    "sourceLines": [
+      3046
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-20-phan-1-.txt",
+        "line": 216,
+        "text": "災害から復興する"
+      }
+    ]
+  },
+  {
+    "japanese": "日本語教育の振興",
+    "order": 1966,
+    "sourceLines": [
+      3047
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-20-phan-1-.txt",
+        "line": 217,
+        "text": "日本語教育の振興"
+      }
+    ]
+  },
+  {
+    "japanese": "白熱した試合に興奮する",
+    "order": 1967,
+    "sourceLines": [
+      3048
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-20-phan-1-.txt",
+        "line": 218,
+        "text": "白熱した試合に興奮する"
+      }
+    ]
+  },
+  {
+    "japanese": "国語辞典で調べる",
+    "order": 1968,
+    "sourceLines": [
+      3051
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-20-phan-1-.txt",
+        "line": 223,
+        "text": "国語辞典で調べる"
+      }
+    ]
+  },
+  {
+    "japanese": "古典の授業",
+    "order": 1969,
+    "sourceLines": [
+      3052
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-20-phan-1-.txt",
+        "line": 224,
+        "text": "古典の授業"
+      }
+    ]
+  },
+  {
+    "japanese": "出典を探す",
+    "order": 1970,
+    "sourceLines": [
+      3053
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-20-phan-1-.txt",
+        "line": 225,
+        "text": "出典を探す"
+      }
+    ]
+  },
+  {
+    "japanese": "会員だけの特典",
+    "order": 1971,
+    "sourceLines": [
+      3054
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-20-phan-1-.txt",
+        "line": 226,
+        "text": "会員だけの特典"
+      }
+    ]
+  },
+  {
+    "japanese": "お通夜に香典を持参する",
+    "order": 1972,
+    "sourceLines": [
+      3055
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-20-phan-1-.txt",
+        "line": 227,
+        "text": "お通夜に香典を持参する"
+      }
+    ]
+  },
+  {
+    "japanese": "典型的な風邪の症状",
+    "order": 1973,
+    "sourceLines": [
+      3056
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-20-phan-1-.txt",
+        "line": 228,
+        "text": "典型的な風邪の症状"
+      }
+    ]
+  },
+  {
+    "japanese": "和尚",
+    "order": 1974,
+    "sourceLines": [
+      3059
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-20-phan-1-.txt",
+        "line": 233,
+        "text": "和尚"
+      }
+    ]
+  },
+  {
+    "japanese": "高尚な趣味を持つ",
+    "order": 1975,
+    "sourceLines": [
+      3060
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-20-phan-1-.txt",
+        "line": 234,
+        "text": "高尚な趣味を持つ"
+      }
+    ]
+  },
+  {
+    "japanese": "結論を出すには時期尚早だ",
+    "order": 1976,
+    "sourceLines": [
+      3061
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-20-phan-1-.txt",
+        "line": 235,
+        "text": "結論を出すには時期尚早だ"
+      }
+    ]
+  },
+  {
+    "japanese": "髪に艶がある",
+    "order": 1977,
+    "sourceLines": [
+      3064
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-20-phan-1-.txt",
+        "line": 241,
+        "text": "髪に艶がある"
+      }
+    ]
+  },
+  {
+    "japanese": "艶やかな肌",
+    "order": 1978,
+    "sourceLines": [
+      3065
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-20-phan-1-.txt",
+        "line": 242,
+        "text": "艶やかな肌"
+      }
+    ]
+  },
+  {
+    "japanese": "妖艶な女性",
+    "order": 1979,
+    "sourceLines": [
+      3066
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-20-phan-1-.txt",
+        "line": 243,
+        "text": "妖艶な女性"
+      }
+    ]
+  },
+  {
+    "japanese": "囚人",
+    "order": 1980,
+    "sourceLines": [
+      3069
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-20-phan-1-.txt",
+        "line": 250,
+        "text": "囚人"
+      }
+    ]
+  },
+  {
+    "japanese": "死刑囚",
+    "order": 1981,
+    "sourceLines": [
+      3070
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-20-phan-1-.txt",
+        "line": 251,
+        "text": "死刑囚"
+      }
+    ]
+  },
+  {
+    "japanese": "首都圏",
+    "order": 1982,
+    "sourceLines": [
+      3073
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-20-phan-1-.txt",
+        "line": 256,
+        "text": "首都圏"
+      }
+    ]
+  },
+  {
+    "japanese": "優勝圏外に入る",
+    "order": 1983,
+    "sourceLines": [
+      3074
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-20-phan-1-.txt",
+        "line": 257,
+        "text": "優勝圏外に入る"
+      }
+    ]
+  },
+  {
+    "japanese": "大気圏",
+    "order": 1984,
+    "sourceLines": [
+      3075
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-20-phan-1-.txt",
+        "line": 258,
+        "text": "大気圏"
+      }
+    ]
+  },
+  {
+    "japanese": "地下鉄で携帯電話が圏外になった",
+    "order": 1985,
+    "sourceLines": [
+      3076
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-20-phan-1-.txt",
+        "line": 259,
+        "text": "地下鉄で携帯電話が圏外になった"
+      }
+    ]
+  },
+  {
+    "japanese": "壁にペンキを塗る",
+    "order": 1986,
+    "sourceLines": [
+      3079
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-20-phan-1-.txt",
+        "line": 265,
+        "text": "壁にペンキを塗る"
+      }
+    ]
+  },
+  {
+    "japanese": "人の顔に泥を塗る",
+    "order": 1987,
+    "sourceLines": [
+      3080
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-20-phan-1-.txt",
+        "line": 266,
+        "text": "人の顔に泥を塗る"
+      }
+    ]
+  },
+  {
+    "japanese": "塗り薬",
+    "order": 1988,
+    "sourceLines": [
+      3081
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-20-phan-1-.txt",
+        "line": 267,
+        "text": "塗り薬"
+      }
+    ]
+  },
+  {
+    "japanese": "壁の塗装が剥げる",
+    "order": 1989,
+    "sourceLines": [
+      3082
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-20-phan-1-.txt",
+        "line": 268,
+        "text": "壁の塗装が剥げる"
+      }
+    ]
+  },
+  {
+    "japanese": "徐々に上達する",
+    "order": 1990,
+    "sourceLines": [
+      3085
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-20-phan-1-.txt",
+        "line": 273,
+        "text": "徐々に上達する"
+      }
+    ]
+  },
+  {
+    "japanese": "徐行運転",
+    "order": 1991,
+    "sourceLines": [
+      3086
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-20-phan-1-.txt",
+        "line": 274,
+        "text": "徐行運転"
+      }
+    ]
+  },
+  {
+    "japanese": "試合で外国へ遠征する",
+    "order": 1992,
+    "sourceLines": [
+      3089
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-20-phan-1-.txt",
+        "line": 279,
+        "text": "試合で外国へ遠征する"
+      }
+    ]
+  },
+  {
+    "japanese": "隣国を征服する",
+    "order": 1993,
+    "sourceLines": [
+      3090
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-20-phan-1-.txt",
+        "line": 280,
+        "text": "隣国を征服する"
+      }
+    ]
+  },
+  {
+    "japanese": "割り箸",
+    "order": 1994,
+    "sourceLines": [
+      3093
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-20-phan-1-.txt",
+        "line": 285,
+        "text": "割り箸"
+      }
+    ]
+  },
+  {
+    "japanese": "菜箸",
+    "order": 1995,
+    "sourceLines": [
+      3094
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-20-phan-1-.txt",
+        "line": 286,
+        "text": "菜箸"
+      }
+    ]
+  },
+  {
+    "japanese": "最近彼とは疎遠だ",
+    "order": 1996,
+    "sourceLines": [
+      3097
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-20-phan-1-.txt",
+        "line": 293,
+        "text": "最近彼とは疎遠だ"
+      }
+    ]
+  },
+  {
+    "japanese": "疎外感を持つ",
+    "order": 1997,
+    "sourceLines": [
+      3098
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-20-phan-1-.txt",
+        "line": 294,
+        "text": "疎外感を持つ"
+      }
+    ]
+  },
+  {
+    "japanese": "地方の過疎化が止まらない",
+    "order": 1998,
+    "sourceLines": [
+      3099
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-20-phan-1-.txt",
+        "line": 295,
+        "text": "地方の過疎化が止まらない"
+      }
+    ]
+  },
+  {
+    "japanese": "部下に疎まれる",
+    "order": 1999,
+    "sourceLines": [
+      3100
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-20-phan-1-.txt",
+        "line": 296,
+        "text": "部下に疎まれる"
+      }
+    ]
+  },
+  {
+    "japanese": "顔を見るのも疎ましい",
+    "order": 2000,
+    "sourceLines": [
+      3101
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-20-phan-1-.txt",
+        "line": 297,
+        "text": "顔を見るのも疎ましい"
+      }
+    ]
+  },
+  {
+    "japanese": "お金の計算に疎い",
+    "order": 2001,
+    "sourceLines": [
+      3102
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-20-phan-1-.txt",
+        "line": 298,
+        "text": "お金の計算に疎い"
+      }
+    ]
+  },
+  {
+    "japanese": "遊びに夢中で勉強が疎かになる",
+    "order": 2002,
+    "sourceLines": [
+      3103
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-20-phan-1-.txt",
+        "line": 299,
+        "text": "遊びに夢中で勉強が疎かになる"
+      }
+    ]
+  },
+  {
+    "japanese": "現場の指揮を執る",
+    "order": 2003,
+    "sourceLines": [
+      3106
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-20-phan-1-.txt",
+        "line": 305,
+        "text": "現場の指揮を執る"
+      }
+    ]
+  },
+  {
+    "japanese": "中立の立場を執る",
+    "order": 2004,
+    "sourceLines": [
+      3107
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-20-phan-1-.txt",
+        "line": 306,
+        "text": "中立の立場を執る"
+      }
+    ]
+  },
+  {
+    "japanese": "刑を執行する",
+    "order": 2005,
+    "sourceLines": [
+      3108
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-20-phan-1-.txt",
+        "line": 307,
+        "text": "刑を執行する"
+      }
+    ]
+  },
+  {
+    "japanese": "執筆を依頼する",
+    "order": 2006,
+    "sourceLines": [
+      3109
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-20-phan-1-.txt",
+        "line": 308,
+        "text": "執筆を依頼する"
+      }
+    ]
+  },
+  {
+    "japanese": "親子の確執",
+    "order": 2007,
+    "sourceLines": [
+      3110
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-20-phan-1-.txt",
+        "line": 309,
+        "text": "親子の確執"
+      }
+    ]
+  },
+  {
+    "japanese": "執念深い性格",
+    "order": 2008,
+    "sourceLines": [
+      3111
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-20-phan-1-.txt",
+        "line": 310,
+        "text": "執念深い性格"
+      }
+    ]
+  },
+  {
+    "japanese": "別れた恋人を執拗につきまとう",
+    "order": 2009,
+    "sourceLines": [
+      3112
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-20-phan-1-.txt",
+        "line": 311,
+        "text": "別れた恋人を執拗につきまとう"
+      }
+    ]
+  },
+  {
+    "japanese": "お盆休み",
+    "order": 2010,
+    "sourceLines": [
+      3115
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-20-phan-1-.txt",
+        "line": 316,
+        "text": "お盆休み"
+      }
+    ]
+  },
+  {
+    "japanese": "盆踊り",
+    "order": 2011,
+    "sourceLines": [
+      3116
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-20-phan-1-.txt",
+        "line": 317,
+        "text": "盆踊り"
+      }
+    ]
+  },
+  {
+    "japanese": "お茶をお盆に乗せる",
+    "order": 2012,
+    "sourceLines": [
+      3117
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-20-phan-1-.txt",
+        "line": 318,
+        "text": "お茶をお盆に乗せる"
+      }
+    ]
+  },
+  {
+    "japanese": "盆地",
+    "order": 2013,
+    "sourceLines": [
+      3118
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-20-phan-1-.txt",
+        "line": 319,
+        "text": "盆地"
+      }
+    ]
+  },
+  {
+    "japanese": "仏像を彫る",
+    "order": 2014,
+    "sourceLines": [
+      3121
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-20-phan-1-.txt",
+        "line": 325,
+        "text": "仏像を彫る"
+      }
+    ]
+  },
+  {
+    "japanese": "木に彫刻された像",
+    "order": 2015,
+    "sourceLines": [
+      3122
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-20-phan-1-.txt",
+        "line": 326,
+        "text": "木に彫刻された像"
+      }
+    ]
+  },
+  {
+    "japanese": "彫刻のように美しい女性",
+    "order": 2016,
+    "sourceLines": [
+      3123
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-20-phan-1-.txt",
+        "line": 327,
+        "text": "彫刻のように美しい女性"
+      }
+    ]
+  },
+  {
+    "japanese": "料亭で接待を受ける",
+    "order": 2017,
+    "sourceLines": [
+      3126
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-20-phan-1-.txt",
+        "line": 332,
+        "text": "料亭で接待を受ける"
+      }
+    ]
+  },
+  {
+    "japanese": "亭主関白",
+    "order": 2018,
+    "sourceLines": [
+      3127
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-20-phan-1-.txt",
+        "line": 333,
+        "text": "亭主関白"
+      }
+    ]
+  },
+  {
+    "japanese": "法廷で白黒を争う",
+    "order": 2019,
+    "sourceLines": [
+      3130
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-20-phan-1-.txt",
+        "line": 338,
+        "text": "法廷で白黒を争う"
+      }
+    ]
+  },
+  {
+    "japanese": "証人として出廷を求められる",
+    "order": 2020,
+    "sourceLines": [
+      3131
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-20-phan-1-.txt",
+        "line": 339,
+        "text": "証人として出廷を求められる"
+      }
+    ]
+  },
+  {
+    "japanese": "フエの宮廷料理",
+    "order": 2021,
+    "sourceLines": [
+      3132
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-20-phan-1-.txt",
+        "line": 340,
+        "text": "フエの宮廷料理"
+      }
+    ]
+  },
+  {
+    "japanese": "人口の著しい増加が渋滞の原因である",
+    "order": 2022,
+    "sourceLines": [
+      3135
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-20-phan-1-.txt",
+        "line": 346,
+        "text": "人口の著しい増加が渋滞の原因である"
+      }
+    ]
+  },
+  {
+    "japanese": "著名な科学者",
+    "order": 2023,
+    "sourceLines": [
+      3136
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-20-phan-1-.txt",
+        "line": 347,
+        "text": "著名な科学者"
+      }
+    ]
+  }
+]

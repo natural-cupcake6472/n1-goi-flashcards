@@ -1,0 +1,1547 @@
+[
+  {
+    "japanese": "星が瞬いている",
+    "order": 632,
+    "sourceLines": [
+      848
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-7-phan-2-.txt",
+        "line": 9,
+        "text": "星が瞬いている"
+      }
+    ]
+  },
+  {
+    "japanese": "瞬く間に時間が経った",
+    "order": 633,
+    "sourceLines": [
+      849
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-7-phan-2-.txt",
+        "line": 10,
+        "text": "瞬く間に時間が経った"
+      }
+    ]
+  },
+  {
+    "japanese": "一瞬のできごと",
+    "order": 634,
+    "sourceLines": [
+      850
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-7-phan-2-.txt",
+        "line": 11,
+        "text": "一瞬のできごと"
+      }
+    ]
+  },
+  {
+    "japanese": "立った瞬間めまいがした",
+    "order": 635,
+    "sourceLines": [
+      851
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-7-phan-2-.txt",
+        "line": 12,
+        "text": "立った瞬間めまいがした"
+      }
+    ]
+  },
+  {
+    "japanese": "決定的瞬間をカメラに収める",
+    "order": 636,
+    "sourceLines": [
+      852
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-7-phan-2-.txt",
+        "line": 13,
+        "text": "決定的瞬間をカメラに収める"
+      }
+    ]
+  },
+  {
+    "japanese": "政界で傑出した人物",
+    "order": 637,
+    "sourceLines": [
+      855
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-7-phan-2-.txt",
+        "line": 18,
+        "text": "政界で傑出した人物"
+      }
+    ]
+  },
+  {
+    "japanese": "デザインを極めた最高傑作",
+    "order": 638,
+    "sourceLines": [
+      856
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-7-phan-2-.txt",
+        "line": 19,
+        "text": "デザインを極めた最高傑作"
+      }
+    ]
+  },
+  {
+    "japanese": "ランボルギーニ",
+    "order": 639,
+    "sourceLines": [
+      857
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-7-phan-2-.txt",
+        "line": 20,
+        "text": "ランボルギーニ"
+      }
+    ]
+  },
+  {
+    "japanese": "メコンデルタは、東南アジア一で最も有名な穀倉地帯である",
+    "order": 640,
+    "sourceLines": [
+      860
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-7-phan-2-.txt",
+        "line": 26,
+        "text": "メコンデルタは、東南アジア一で最も有名な穀倉地帯である"
+      }
+    ]
+  },
+  {
+    "japanese": "倉庫にしまう",
+    "order": 641,
+    "sourceLines": [
+      861
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-7-phan-2-.txt",
+        "line": 27,
+        "text": "倉庫にしまう"
+      }
+    ]
+  },
+  {
+    "japanese": "創作意欲が湧く",
+    "order": 642,
+    "sourceLines": [
+      864
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-7-phan-2-.txt",
+        "line": 33,
+        "text": "創作意欲が湧く"
+      }
+    ]
+  },
+  {
+    "japanese": "創造性富んだ作品",
+    "order": 643,
+    "sourceLines": [
+      865
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-7-phan-2-.txt",
+        "line": 34,
+        "text": "創造性富んだ作品"
+      }
+    ]
+  },
+  {
+    "japanese": "独創的な発想",
+    "order": 644,
+    "sourceLines": [
+      866
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-7-phan-2-.txt",
+        "line": 35,
+        "text": "独創的な発想"
+      }
+    ]
+  },
+  {
+    "japanese": "絆創膏",
+    "order": 645,
+    "sourceLines": [
+      867
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-7-phan-2-.txt",
+        "line": 36,
+        "text": "絆創膏"
+      }
+    ]
+  },
+  {
+    "japanese": "近頃の若者は。。。",
+    "order": 646,
+    "sourceLines": [
+      870
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-7-phan-2-.txt",
+        "line": 41,
+        "text": "近頃の若者は。。。"
+      }
+    ]
+  },
+  {
+    "japanese": "日頃の行いがよい人には必ずチャンスが来る",
+    "order": 647,
+    "sourceLines": [
+      871
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-7-phan-2-.txt",
+        "line": 42,
+        "text": "日頃の行いがよい人には必ずチャンスが来る"
+      }
+    ]
+  },
+  {
+    "japanese": "手頃な値段",
+    "order": 648,
+    "sourceLines": [
+      872
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-7-phan-2-.txt",
+        "line": 43,
+        "text": "手頃な値段"
+      }
+    ]
+  },
+  {
+    "japanese": "店の顧客",
+    "order": 649,
+    "sourceLines": [
+      875
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-7-phan-2-.txt",
+        "line": 49,
+        "text": "店の顧客"
+      }
+    ]
+  },
+  {
+    "japanese": "会社の顧問",
+    "order": 650,
+    "sourceLines": [
+      876
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-7-phan-2-.txt",
+        "line": 50,
+        "text": "会社の顧問"
+      }
+    ]
+  },
+  {
+    "japanese": "学生時代を回顧する",
+    "order": 651,
+    "sourceLines": [
+      877
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-7-phan-2-.txt",
+        "line": 51,
+        "text": "学生時代を回顧する"
+      }
+    ]
+  },
+  {
+    "japanese": "幼い頃のことを顧みる",
+    "order": 652,
+    "sourceLines": [
+      878
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-7-phan-2-.txt",
+        "line": 52,
+        "text": "幼い頃のことを顧みる"
+      }
+    ]
+  },
+  {
+    "japanese": "将来を思い煩う",
+    "order": 653,
+    "sourceLines": [
+      881
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-7-phan-2-.txt",
+        "line": 59,
+        "text": "将来を思い煩う"
+      }
+    ]
+  },
+  {
+    "japanese": "子供のことで色々心を煩わす",
+    "order": 654,
+    "sourceLines": [
+      882
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-7-phan-2-.txt",
+        "line": 60,
+        "text": "子供のことで色々心を煩わす"
+      }
+    ]
+  },
+  {
+    "japanese": "職場の人間関係が煩わしい",
+    "order": 655,
+    "sourceLines": [
+      883
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-7-phan-2-.txt",
+        "line": 61,
+        "text": "職場の人間関係が煩わしい"
+      }
+    ]
+  },
+  {
+    "japanese": "煩雑な手続き",
+    "order": 656,
+    "sourceLines": [
+      884
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-7-phan-2-.txt",
+        "line": 62,
+        "text": "煩雑な手続き"
+      }
+    ]
+  },
+  {
+    "japanese": "友人を頻繁に訪ねる",
+    "order": 657,
+    "sourceLines": [
+      887
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-7-phan-2-.txt",
+        "line": 67,
+        "text": "友人を頻繁に訪ねる"
+      }
+    ]
+  },
+  {
+    "japanese": "頻度が高い",
+    "order": 658,
+    "sourceLines": [
+      888
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-7-phan-2-.txt",
+        "line": 68,
+        "text": "頻度が高い"
+      }
+    ]
+  },
+  {
+    "japanese": "事件が頻発する",
+    "order": 659,
+    "sourceLines": [
+      889
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-7-phan-2-.txt",
+        "line": 69,
+        "text": "事件が頻発する"
+      }
+    ]
+  },
+  {
+    "japanese": "問題点を３つの項目に分類する",
+    "order": 660,
+    "sourceLines": [
+      892
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-7-phan-2-.txt",
+        "line": 74,
+        "text": "問題点を３つの項目に分類する"
+      }
+    ]
+  },
+  {
+    "japanese": "検討事項を上げる",
+    "order": 661,
+    "sourceLines": [
+      893
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-7-phan-2-.txt",
+        "line": 75,
+        "text": "検討事項を上げる"
+      }
+    ]
+  },
+  {
+    "japanese": "注意事項を述べる",
+    "order": 662,
+    "sourceLines": [
+      894
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-7-phan-2-.txt",
+        "line": 76,
+        "text": "注意事項を述べる"
+      }
+    ]
+  },
+  {
+    "japanese": "募集要項",
+    "order": 663,
+    "sourceLines": [
+      895
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-7-phan-2-.txt",
+        "line": 77,
+        "text": "募集要項"
+      }
+    ]
+  },
+  {
+    "japanese": "努力の跡が顕著に見られる",
+    "order": 664,
+    "sourceLines": [
+      898
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-7-phan-2-.txt",
+        "line": 82,
+        "text": "努力の跡が顕著に見られる"
+      }
+    ]
+  },
+  {
+    "japanese": "問題点が顕在化する",
+    "order": 665,
+    "sourceLines": [
+      899
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-7-phan-2-.txt",
+        "line": 83,
+        "text": "問題点が顕在化する"
+      }
+    ]
+  },
+  {
+    "japanese": "自己顕示欲が強い",
+    "order": 666,
+    "sourceLines": [
+      900
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-7-phan-2-.txt",
+        "line": 84,
+        "text": "自己顕示欲が強い"
+      }
+    ]
+  },
+  {
+    "japanese": "顕微鏡で観察する",
+    "order": 667,
+    "sourceLines": [
+      901
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-7-phan-2-.txt",
+        "line": 85,
+        "text": "顕微鏡で観察する"
+      }
+    ]
+  },
+  {
+    "japanese": "つぼみが膨らむ",
+    "order": 668,
+    "sourceLines": [
+      904
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-7-phan-2-.txt",
+        "line": 94,
+        "text": "つぼみが膨らむ"
+      }
+    ]
+  },
+  {
+    "japanese": "希望に胸を膨らませる",
+    "order": 669,
+    "sourceLines": [
+      905
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-7-phan-2-.txt",
+        "line": 95,
+        "text": "希望に胸を膨らませる"
+      }
+    ]
+  },
+  {
+    "japanese": "妊娠してお腹が膨れる",
+    "order": 670,
+    "sourceLines": [
+      906
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-7-phan-2-.txt",
+        "line": 96,
+        "text": "妊娠してお腹が膨れる"
+      }
+    ]
+  },
+  {
+    "japanese": "借金が膨れ上がる",
+    "order": 671,
+    "sourceLines": [
+      907
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-7-phan-2-.txt",
+        "line": 97,
+        "text": "借金が膨れ上がる"
+      }
+    ]
+  },
+  {
+    "japanese": "人件費が膨大になる",
+    "order": 672,
+    "sourceLines": [
+      908
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-7-phan-2-.txt",
+        "line": 98,
+        "text": "人件費が膨大になる"
+      }
+    ]
+  },
+  {
+    "japanese": "宇宙は膨張している",
+    "order": 673,
+    "sourceLines": [
+      909
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-7-phan-2-.txt",
+        "line": 99,
+        "text": "宇宙は膨張している"
+      }
+    ]
+  },
+  {
+    "japanese": "樹木がない高地",
+    "order": 674,
+    "sourceLines": [
+      912
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-7-phan-2-.txt",
+        "line": 104,
+        "text": "樹木がない高地"
+      }
+    ]
+  },
+  {
+    "japanese": "街路樹を植える",
+    "order": 675,
+    "sourceLines": [
+      913
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-7-phan-2-.txt",
+        "line": 105,
+        "text": "街路樹を植える"
+      }
+    ]
+  },
+  {
+    "japanese": "果樹園",
+    "order": 676,
+    "sourceLines": [
+      914
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-7-phan-2-.txt",
+        "line": 106,
+        "text": "果樹園"
+      }
+    ]
+  },
+  {
+    "japanese": "新（記録/政権）を樹立する",
+    "order": 677,
+    "sourceLines": [
+      915
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-7-phan-2-.txt",
+        "line": 107,
+        "text": "新（記録/政権)を樹立する"
+      }
+    ]
+  },
+  {
+    "japanese": "太鼓をたたく",
+    "order": 678,
+    "sourceLines": [
+      918
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-7-phan-2-.txt",
+        "line": 112,
+        "text": "太鼓をたたく"
+      }
+    ]
+  },
+  {
+    "japanese": "心臓の鼓動",
+    "order": 679,
+    "sourceLines": [
+      919
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-7-phan-2-.txt",
+        "line": 113,
+        "text": "心臓の鼓動"
+      }
+    ]
+  },
+  {
+    "japanese": "部門間の垣根を越えて、このプロジェクトを成功させましょう",
+    "order": 680,
+    "sourceLines": [
+      922
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-7-phan-2-.txt",
+        "line": 118,
+        "text": "部門間の垣根を越えて、このプロジェクトを成功させましょう"
+      }
+    ]
+  },
+  {
+    "japanese": "垣根のある家",
+    "order": 681,
+    "sourceLines": [
+      923
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-7-phan-2-.txt",
+        "line": 119,
+        "text": "垣根のある家"
+      }
+    ]
+  },
+  {
+    "japanese": "石垣",
+    "order": 682,
+    "sourceLines": [
+      924
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-7-phan-2-.txt",
+        "line": 120,
+        "text": "石垣"
+      }
+    ]
+  },
+  {
+    "japanese": "恒例の行事",
+    "order": 683,
+    "sourceLines": [
+      927
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-7-phan-2-.txt",
+        "line": 125,
+        "text": "恒例の行事"
+      }
+    ]
+  },
+  {
+    "japanese": "恒久の平和を祈る",
+    "order": 684,
+    "sourceLines": [
+      928
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-7-phan-2-.txt",
+        "line": 126,
+        "text": "恒久の平和を祈る"
+      }
+    ]
+  },
+  {
+    "japanese": "１年の計は元旦にあり",
+    "order": 685,
+    "sourceLines": [
+      931
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-7-phan-2-.txt",
+        "line": 132,
+        "text": "1 年の計は元旦にあり"
+      }
+    ]
+  },
+  {
+    "japanese": "作業を一旦中止する",
+    "order": 686,
+    "sourceLines": [
+      932
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-7-phan-2-.txt",
+        "line": 133,
+        "text": "作業を一旦中止する"
+      }
+    ]
+  },
+  {
+    "japanese": "きっといい旦那さんですね？",
+    "order": 687,
+    "sourceLines": [
+      933
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-7-phan-2-.txt",
+        "line": 134,
+        "text": "きっといい旦那さんですね？"
+      }
+    ]
+  },
+  {
+    "japanese": "寂れた商店街",
+    "order": 688,
+    "sourceLines": [
+      936
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-7-phan-2-.txt",
+        "line": 143,
+        "text": "寂れた商店街"
+      }
+    ]
+  },
+  {
+    "japanese": "人の通らない寂しい道",
+    "order": 689,
+    "sourceLines": [
+      937
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-7-phan-2-.txt",
+        "line": 144,
+        "text": "人の通らない寂しい道"
+      }
+    ]
+  },
+  {
+    "japanese": "恋人と別れて寂しい",
+    "order": 690,
+    "sourceLines": [
+      938
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-7-phan-2-.txt",
+        "line": 145,
+        "text": "恋人と別れて寂しい"
+      }
+    ]
+  },
+  {
+    "japanese": "物音一つない夜の静寂は、考え事をするには最適だ",
+    "order": 691,
+    "sourceLines": [
+      939
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-7-phan-2-.txt",
+        "line": 146,
+        "text": "物音一つない夜の静寂は、考え事をするには最適だ"
+      }
+    ]
+  },
+  {
+    "japanese": "眺める人もいない寂然とした庭",
+    "order": 692,
+    "sourceLines": [
+      940
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-7-phan-2-.txt",
+        "line": 147,
+        "text": "眺める人もいない寂然とした庭"
+      }
+    ]
+  },
+  {
+    "japanese": "現場を監督する",
+    "order": 693,
+    "sourceLines": [
+      943
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-7-phan-2-.txt",
+        "line": 152,
+        "text": "現場を監督する"
+      }
+    ]
+  },
+  {
+    "japanese": "野球チームの監督になる",
+    "order": 694,
+    "sourceLines": [
+      944
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-7-phan-2-.txt",
+        "line": 153,
+        "text": "野球チームの監督になる"
+      }
+    ]
+  },
+  {
+    "japanese": "映画監督",
+    "order": 695,
+    "sourceLines": [
+      945
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-7-phan-2-.txt",
+        "line": 154,
+        "text": "映画監督"
+      }
+    ]
+  },
+  {
+    "japanese": "滞納した家賃を督促される",
+    "order": 696,
+    "sourceLines": [
+      946
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-7-phan-2-.txt",
+        "line": 155,
+        "text": "滞納した家賃を督促される"
+      }
+    ]
+  },
+  {
+    "japanese": "連日の肉料理に飽きる",
+    "order": 697,
+    "sourceLines": [
+      949
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-7-phan-2-.txt",
+        "line": 162,
+        "text": "連日の肉料理に飽きる"
+      }
+    ]
+  },
+  {
+    "japanese": "飽きっぽい性格",
+    "order": 698,
+    "sourceLines": [
+      950
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-7-phan-2-.txt",
+        "line": 163,
+        "text": "飽きっぽい性格"
+      }
+    ]
+  },
+  {
+    "japanese": "この歌は聞き飽きた",
+    "order": 699,
+    "sourceLines": [
+      951
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-7-phan-2-.txt",
+        "line": 164,
+        "text": "この歌は聞き飽きた"
+      }
+    ]
+  },
+  {
+    "japanese": "都市の人口が飽和状態になる",
+    "order": 700,
+    "sourceLines": [
+      952
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-7-phan-2-.txt",
+        "line": 165,
+        "text": "都市の人口が飽和状態になる"
+      }
+    ]
+  },
+  {
+    "japanese": "きのこ胞子",
+    "order": 701,
+    "sourceLines": [
+      955
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-7-phan-2-.txt",
+        "line": 170,
+        "text": "きのこ胞子"
+      }
+    ]
+  },
+  {
+    "japanese": "同胞同士の争い",
+    "order": 702,
+    "sourceLines": [
+      956
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-7-phan-2-.txt",
+        "line": 171,
+        "text": "同胞同士の争い"
+      }
+    ]
+  },
+  {
+    "japanese": "ガン細胞の研究をする",
+    "order": 703,
+    "sourceLines": [
+      957
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-7-phan-2-.txt",
+        "line": 172,
+        "text": "ガン細胞の研究をする"
+      }
+    ]
+  },
+  {
+    "japanese": "墓参りをする",
+    "order": 704,
+    "sourceLines": [
+      960
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-7-phan-2-.txt",
+        "line": 180,
+        "text": "墓参りをする"
+      }
+    ]
+  },
+  {
+    "japanese": "墓地",
+    "order": 705,
+    "sourceLines": [
+      961
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-7-phan-2-.txt",
+        "line": 181,
+        "text": "墓地"
+      }
+    ]
+  },
+  {
+    "japanese": "墓穴を掘る",
+    "order": 706,
+    "sourceLines": [
+      962
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-7-phan-2-.txt",
+        "line": 182,
+        "text": "墓穴を掘る"
+      }
+    ]
+  },
+  {
+    "japanese": "砂漠の緑化を進める",
+    "order": 707,
+    "sourceLines": [
+      965
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-7-phan-2-.txt",
+        "line": 187,
+        "text": "砂漠の緑化を進める"
+      }
+    ]
+  },
+  {
+    "japanese": "将来のことを漠然と考える",
+    "order": 708,
+    "sourceLines": [
+      966
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-7-phan-2-.txt",
+        "line": 188,
+        "text": "将来のことを漠然と考える"
+      }
+    ]
+  },
+  {
+    "japanese": "規模の大きい会社",
+    "order": 709,
+    "sourceLines": [
+      969
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-7-phan-2-.txt",
+        "line": 193,
+        "text": "規模の大きい会社"
+      }
+    ]
+  },
+  {
+    "japanese": "飛行機の模型を作る",
+    "order": 710,
+    "sourceLines": [
+      970
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-7-phan-2-.txt",
+        "line": 194,
+        "text": "飛行機の模型を作る"
+      }
+    ]
+  },
+  {
+    "japanese": "水玉模様の服",
+    "order": 711,
+    "sourceLines": [
+      971
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-7-phan-2-.txt",
+        "line": 195,
+        "text": "水玉模様の服"
+      }
+    ]
+  },
+  {
+    "japanese": "模倣品",
+    "order": 712,
+    "sourceLines": [
+      972
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-7-phan-2-.txt",
+        "line": 196,
+        "text": "模倣品"
+      }
+    ]
+  },
+  {
+    "japanese": "方法を模索する",
+    "order": 713,
+    "sourceLines": [
+      973
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-7-phan-2-.txt",
+        "line": 197,
+        "text": "方法を模索する"
+      }
+    ]
+  },
+  {
+    "japanese": "空模様を確認する",
+    "order": 714,
+    "sourceLines": [
+      974
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-7-phan-2-.txt",
+        "line": 198,
+        "text": "空模様を確認する"
+      }
+    ]
+  },
+  {
+    "japanese": "舞台の幕が上がる",
+    "order": 715,
+    "sourceLines": [
+      977
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-7-phan-2-.txt",
+        "line": 204,
+        "text": "舞台の幕が上がる"
+      }
+    ]
+  },
+  {
+    "japanese": "プロ野球が開幕する",
+    "order": 716,
+    "sourceLines": [
+      978
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-7-phan-2-.txt",
+        "line": 205,
+        "text": "プロ野球が開幕する"
+      }
+    ]
+  },
+  {
+    "japanese": "事件はあっけない幕切れを迎えた",
+    "order": 717,
+    "sourceLines": [
+      979
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-7-phan-2-.txt",
+        "line": 206,
+        "text": "事件はあっけない幕切れを迎えた"
+      }
+    ]
+  },
+  {
+    "japanese": "時間を惜しんで働く",
+    "order": 718,
+    "sourceLines": [
+      982
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-7-phan-2-.txt",
+        "line": 212,
+        "text": "時間を惜しんで働く"
+      }
+    ]
+  },
+  {
+    "japanese": "名残惜しい",
+    "order": 719,
+    "sourceLines": [
+      983
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-7-phan-2-.txt",
+        "line": 213,
+        "text": "名残惜しい"
+      }
+    ]
+  },
+  {
+    "japanese": "試行錯誤を繰り返す",
+    "order": 720,
+    "sourceLines": [
+      986
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-7-phan-2-.txt",
+        "line": 218,
+        "text": "試行錯誤を繰り返す"
+      }
+    ]
+  },
+  {
+    "japanese": "目の錯覚",
+    "order": 721,
+    "sourceLines": [
+      987
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-7-phan-2-.txt",
+        "line": 219,
+        "text": "目の錯覚"
+      }
+    ]
+  },
+  {
+    "japanese": "期待と不安が交錯する",
+    "order": 722,
+    "sourceLines": [
+      988
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-7-phan-2-.txt",
+        "line": 220,
+        "text": "期待と不安が交錯する"
+      }
+    ]
+  },
+  {
+    "japanese": "（問題が起きたあと）適切な措置を講じる",
+    "order": 723,
+    "sourceLines": [
+      991
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-7-phan-2-.txt",
+        "line": 225,
+        "text": "（問題が起きたあと）適切な措置を講じる"
+      }
+    ]
+  },
+  {
+    "japanese": "軽微な犯罪にも厳しい措置をとる",
+    "order": 724,
+    "sourceLines": [
+      992
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-7-phan-2-.txt",
+        "line": 226,
+        "text": "軽微な犯罪にも厳しい措置をとる"
+      }
+    ]
+  },
+  {
+    "japanese": "警官に怪しまれる",
+    "order": 725,
+    "sourceLines": [
+      995
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-7-phan-2-.txt",
+        "line": 233,
+        "text": "警官に怪しまれる"
+      }
+    ]
+  },
+  {
+    "japanese": "怪しい物音が聞こえた",
+    "order": 726,
+    "sourceLines": [
+      996
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-7-phan-2-.txt",
+        "line": 234,
+        "text": "怪しい物音が聞こえた"
+      }
+    ]
+  },
+  {
+    "japanese": "怪奇現象",
+    "order": 727,
+    "sourceLines": [
+      997
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-7-phan-2-.txt",
+        "line": 235,
+        "text": "怪奇現象"
+      }
+    ]
+  },
+  {
+    "japanese": "怪我をする",
+    "order": 728,
+    "sourceLines": [
+      998
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-7-phan-2-.txt",
+        "line": 236,
+        "text": "怪我をする"
+      }
+    ]
+  },
+  {
+    "japanese": "怪物・妖怪",
+    "order": 729,
+    "sourceLines": [
+      999
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-7-phan-2-.txt",
+        "line": 237,
+        "text": "怪物・妖怪"
+      }
+    ]
+  },
+  {
+    "japanese": "植物の茎",
+    "order": 730,
+    "sourceLines": [
+      1002
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-7-phan-2-.txt",
+        "line": 243,
+        "text": "植物の茎"
+      }
+    ]
+  },
+  {
+    "japanese": "歯茎が腫れる",
+    "order": 731,
+    "sourceLines": [
+      1003
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-7-phan-2-.txt",
+        "line": 244,
+        "text": "歯茎が腫れる"
+      }
+    ]
+  },
+  {
+    "japanese": "円の直径を測る",
+    "order": 732,
+    "sourceLines": [
+      1006
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-7-phan-2-.txt",
+        "line": 249,
+        "text": "円の直径を測る"
+      }
+    ]
+  },
+  {
+    "japanese": "半径10メートル",
+    "order": 733,
+    "sourceLines": [
+      1007
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-7-phan-2-.txt",
+        "line": 250,
+        "text": "半径 10 メートル"
+      }
+    ]
+  },
+  {
+    "japanese": "穴を掘る",
+    "order": 1762,
+    "sourceLines": [
+      2707
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-7-phan-2-.txt",
+        "line": 182,
+        "text": "墓穴を掘る"
+      }
+    ]
+  }
+]

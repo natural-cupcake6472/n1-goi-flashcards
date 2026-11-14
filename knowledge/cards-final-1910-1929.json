@@ -1,0 +1,700 @@
+[
+  {
+    "japanese": "喉が渇く",
+    "kana": "のどがかわく",
+    "en": "be thirsty",
+    "vi": "khát nước",
+    "ja": "喉に水分が欲しいと感じる。",
+    "parts": [
+      {
+        "text": "喉",
+        "kana": "のど",
+        "en": "throat",
+        "vi": "cổ họng",
+        "ja": "口と食道をつなぐ首の内側の部分。"
+      },
+      {
+        "text": "が",
+        "en": "marks what feels thirsty",
+        "vi": "đánh dấu bộ phận có cảm giác",
+        "ja": "状態の主体を示す助詞。",
+        "kana": "が"
+      },
+      {
+        "text": "渇く",
+        "kana": "かわく",
+        "en": "become dry; be thirsty",
+        "vi": "khô; khát",
+        "ja": "水分がなくなって乾いた状態になる。"
+      }
+    ]
+  },
+  {
+    "japanese": "喉頭ガン",
+    "kana": "こうとうガン",
+    "en": "laryngeal cancer",
+    "vi": "ung thư thanh quản",
+    "ja": "喉頭にできる悪性腫瘍。",
+    "parts": [
+      {
+        "text": "喉頭",
+        "kana": "こうとう",
+        "en": "larynx",
+        "vi": "thanh quản",
+        "ja": "喉の奥にあり、声を出す器官。"
+      },
+      {
+        "text": "ガン",
+        "kana": "ガン",
+        "en": "cancer",
+        "vi": "ung thư",
+        "ja": "悪性腫瘍ができる病気。"
+      }
+    ]
+  },
+  {
+    "japanese": "喉元すぎれば熱さを忘れる",
+    "kana": "のどもとすぎればあつさをわすれる",
+    "en": "Once the danger has passed, people forget the pain.",
+    "vi": "Qua cơn nguy khốn thì người ta quên nỗi khổ.",
+    "ja": "苦しいことも過ぎてしまえば、その苦しさを忘れる。",
+    "parts": [
+      {
+        "text": "喉元",
+        "kana": "のどもと",
+        "en": "throat; throat area",
+        "vi": "vùng cổ họng",
+        "ja": "喉のあたり。"
+      },
+      {
+        "text": "すぎれば",
+        "kana": "すぎれば",
+        "en": "once it passes",
+        "vi": "một khi đã qua",
+        "ja": "「過ぎる」の仮定形。"
+      },
+      {
+        "text": "熱さ",
+        "kana": "あつさ",
+        "en": "heat; hotness",
+        "vi": "độ nóng",
+        "ja": "熱いこと、またその程度。"
+      },
+      {
+        "text": "を",
+        "en": "marks what is forgotten",
+        "vi": "đánh dấu điều bị quên",
+        "ja": "動作の対象を示す助詞。",
+        "kana": "を"
+      },
+      {
+        "text": "忘れる",
+        "kana": "わすれる",
+        "en": "forget",
+        "vi": "quên",
+        "ja": "覚えていたことを思い出せなくなる。"
+      }
+    ]
+  },
+  {
+    "japanese": "病を克服する",
+    "kana": "やまいをこくふくする",
+    "en": "overcome an illness",
+    "vi": "chiến thắng bệnh tật",
+    "ja": "病気を乗り越えて治す。",
+    "parts": [
+      {
+        "text": "病",
+        "kana": "やまい",
+        "en": "illness; disease",
+        "vi": "bệnh tật",
+        "ja": "健康でない状態。"
+      },
+      {
+        "text": "を",
+        "en": "marks what is overcome",
+        "vi": "đánh dấu thứ được vượt qua",
+        "ja": "動作の対象を示す助詞。",
+        "kana": "を"
+      },
+      {
+        "text": "克服する",
+        "kana": "こくふくする",
+        "en": "overcome; conquer",
+        "vi": "khắc phục; vượt qua",
+        "ja": "困難に打ち勝つ。"
+      }
+    ]
+  },
+  {
+    "japanese": "事件の様子を克明に書き記す",
+    "kana": "じけんのようすをこくめいにかきしるす",
+    "en": "record the details of the incident precisely",
+    "vi": "ghi chép tỉ mỉ diễn biến vụ việc",
+    "ja": "事件がどのようだったかを細かく正確に書く。",
+    "parts": [
+      {
+        "text": "事件",
+        "kana": "じけん",
+        "en": "incident; case",
+        "vi": "vụ việc; sự kiện",
+        "ja": "世間の注目を集める出来事。"
+      },
+      {
+        "text": "の",
+        "en": "links the incident to its details",
+        "vi": "nối vụ việc với diễn biến",
+        "ja": "前の名詞が後ろの名詞を限定する助詞。",
+        "kana": "の"
+      },
+      {
+        "text": "様子",
+        "kana": "ようす",
+        "en": "state; situation",
+        "vi": "tình hình; diễn biến",
+        "ja": "物事のありさま。"
+      },
+      {
+        "text": "を",
+        "en": "marks what is recorded",
+        "vi": "đánh dấu điều được ghi lại",
+        "ja": "動作の対象を示す助詞。",
+        "kana": "を"
+      },
+      {
+        "text": "克明に",
+        "kana": "こくめいに",
+        "en": "precisely; in detail",
+        "vi": "một cách tỉ mỉ",
+        "ja": "細かいところまで正確に。"
+      },
+      {
+        "text": "書き記す",
+        "kana": "かきしるす",
+        "en": "write down; record",
+        "vi": "ghi lại; ghi chép",
+        "ja": "文章にして記録する。"
+      }
+    ]
+  },
+  {
+    "japanese": "人を呪う",
+    "kana": "ひとをのろう",
+    "en": "curse someone",
+    "vi": "nguyền rủa ai đó",
+    "ja": "人に災いが起きるよう願う。",
+    "parts": [
+      {
+        "text": "人",
+        "kana": "ひと",
+        "en": "person",
+        "vi": "người",
+        "ja": "人間。"
+      },
+      {
+        "text": "を",
+        "en": "marks whom one curses",
+        "vi": "đánh dấu người bị nguyền rủa",
+        "ja": "動作の対象を示す助詞。",
+        "kana": "を"
+      },
+      {
+        "text": "呪う",
+        "kana": "のろう",
+        "en": "curse",
+        "vi": "nguyền rủa",
+        "ja": "相手に災いが起きるよう願う。"
+      }
+    ]
+  },
+  {
+    "japanese": "呪われた運命",
+    "kana": "のろわれたうんめい",
+    "en": "a cursed fate",
+    "vi": "số phận bị nguyền rủa",
+    "ja": "呪いを受けたような、逃れにくい運命。",
+    "parts": [
+      {
+        "text": "呪われた",
+        "kana": "のろわれた",
+        "en": "cursed",
+        "vi": "bị nguyền rủa",
+        "ja": "「呪う」の受身形で、呪いを受けた状態。"
+      },
+      {
+        "text": "運命",
+        "kana": "うんめい",
+        "en": "fate; destiny",
+        "vi": "số phận; định mệnh",
+        "ja": "人の力では変えにくいとされる巡り合わせ。"
+      }
+    ]
+  },
+  {
+    "japanese": "呪文を唱える",
+    "kana": "じゅもんをとなえる",
+    "en": "chant a spell",
+    "vi": "đọc thần chú",
+    "ja": "不思議な力があるとされる言葉を声に出す。",
+    "parts": [
+      {
+        "text": "呪文",
+        "kana": "じゅもん",
+        "en": "spell; incantation",
+        "vi": "thần chú",
+        "ja": "不思議な力を起こすとされる言葉。"
+      },
+      {
+        "text": "を",
+        "en": "marks what is chanted",
+        "vi": "đánh dấu điều được đọc",
+        "ja": "動作の対象を示す助詞。",
+        "kana": "を"
+      },
+      {
+        "text": "唱える",
+        "kana": "となえる",
+        "en": "chant; recite",
+        "vi": "đọc; tụng",
+        "ja": "決まった言葉を声に出して言う。"
+      }
+    ]
+  },
+  {
+    "japanese": "呪縛から解き放される",
+    "kana": "じゅばくからときはなされる",
+    "en": "be freed from a spell's hold",
+    "vi": "được giải thoát khỏi sự trói buộc",
+    "ja": "強い束縛や思い込みから自由になる。",
+    "parts": [
+      {
+        "text": "呪縛",
+        "kana": "じゅばく",
+        "en": "spell; binding",
+        "vi": "bùa chú; sự trói buộc",
+        "ja": "呪いなどで自由を奪われた状態。"
+      },
+      {
+        "text": "から",
+        "en": "from",
+        "vi": "khỏi; từ",
+        "ja": "起点や離れる対象を示す助詞。",
+        "kana": "から"
+      },
+      {
+        "text": "解き放される",
+        "kana": "ときはなされる",
+        "en": "be released; be freed",
+        "vi": "được giải phóng",
+        "ja": "束縛を解かれて自由になる。"
+      }
+    ]
+  },
+  {
+    "japanese": "目的地に至る",
+    "kana": "もくてきちにいたる",
+    "en": "reach one's destination",
+    "vi": "đến đích",
+    "ja": "目指していた場所に到着する。",
+    "parts": [
+      {
+        "text": "目的地",
+        "kana": "もくてきち",
+        "en": "destination",
+        "vi": "đích đến",
+        "ja": "目指して向かう場所。"
+      },
+      {
+        "text": "に",
+        "en": "to",
+        "vi": "đến",
+        "ja": "到達点を示す助詞。",
+        "kana": "に"
+      },
+      {
+        "text": "至る",
+        "kana": "いたる",
+        "en": "reach; arrive at",
+        "vi": "đến; đạt tới",
+        "ja": "ある場所や状態に届く。"
+      }
+    ]
+  },
+  {
+    "japanese": "死に至る病気",
+    "kana": "しにいたるびょうき",
+    "en": "a fatal disease",
+    "vi": "căn bệnh dẫn đến tử vong",
+    "ja": "死を招くほど重い病気。",
+    "parts": [
+      {
+        "text": "死",
+        "kana": "し",
+        "en": "death",
+        "vi": "cái chết",
+        "ja": "命がなくなること。"
+      },
+      {
+        "text": "に",
+        "en": "to; resulting in",
+        "vi": "dẫn đến",
+        "ja": "結果や到達点を示す助詞。",
+        "kana": "に"
+      },
+      {
+        "text": "至る",
+        "kana": "いたる",
+        "en": "lead to; result in",
+        "vi": "dẫn đến",
+        "ja": "ある結果に届く。"
+      },
+      {
+        "text": "病気",
+        "kana": "びょうき",
+        "en": "illness; disease",
+        "vi": "bệnh",
+        "ja": "体や心の調子が悪い状態。"
+      }
+    ]
+  },
+  {
+    "japanese": "至る所に防犯カメラがある",
+    "kana": "いたるところにぼうはんカメラがある",
+    "en": "There are security cameras everywhere.",
+    "vi": "Có camera an ninh ở khắp mọi nơi.",
+    "ja": "あらゆる場所に防犯用のカメラが設置されている。",
+    "parts": [
+      {
+        "text": "至る所",
+        "kana": "いたるところ",
+        "en": "everywhere; all over",
+        "vi": "khắp mọi nơi",
+        "ja": "行けるあらゆる場所。"
+      },
+      {
+        "text": "に",
+        "en": "in; at",
+        "vi": "ở; tại",
+        "ja": "存在する場所を示す助詞。",
+        "kana": "に"
+      },
+      {
+        "text": "防犯カメラ",
+        "kana": "ぼうはんカメラ",
+        "en": "security camera",
+        "vi": "camera an ninh",
+        "ja": "犯罪を防いだり記録したりするカメラ。"
+      },
+      {
+        "text": "が",
+        "en": "marks the subject",
+        "vi": "đánh dấu chủ thể",
+        "ja": "存在するものを示す助詞。",
+        "kana": "が"
+      },
+      {
+        "text": "ある",
+        "kana": "ある",
+        "en": "there is; exist",
+        "vi": "có; tồn tại",
+        "ja": "物が存在する。"
+      }
+    ]
+  },
+  {
+    "japanese": "至って簡単だ",
+    "kana": "いたってかんたんだ",
+    "en": "It is extremely simple.",
+    "vi": "Cực kỳ đơn giản.",
+    "ja": "非常に簡単である。",
+    "parts": [
+      {
+        "text": "至って",
+        "kana": "いたって",
+        "en": "extremely; exceedingly",
+        "vi": "cực kỳ; vô cùng",
+        "ja": "程度が非常に高い様子。"
+      },
+      {
+        "text": "簡単",
+        "kana": "かんたん",
+        "en": "simple; easy",
+        "vi": "đơn giản; dễ dàng",
+        "ja": "複雑でなく、やさしいこと。"
+      },
+      {
+        "text": "だ",
+        "kana": "だ",
+        "en": "is (plain assertion)",
+        "vi": "là (khẳng định thông thường)",
+        "ja": "断定を表す助動詞。"
+      }
+    ]
+  },
+  {
+    "japanese": "大至急来てください",
+    "kana": "だいしきゅうきてください",
+    "en": "Please come as soon as possible.",
+    "vi": "Xin hãy đến gấp nhất có thể.",
+    "ja": "できる限り急いで来てください。",
+    "parts": [
+      {
+        "text": "大至急",
+        "kana": "だいしきゅう",
+        "en": "as urgently as possible",
+        "vi": "khẩn cấp nhất có thể",
+        "ja": "非常に急いで行うこと。"
+      },
+      {
+        "text": "来て",
+        "kana": "きて",
+        "en": "come",
+        "vi": "đến",
+        "ja": "「来る」のて形。"
+      },
+      {
+        "text": "ください",
+        "kana": "ください",
+        "en": "please",
+        "vi": "xin hãy",
+        "ja": "丁寧に依頼する表現。"
+      }
+    ]
+  },
+  {
+    "japanese": "窒息死する",
+    "kana": "ちっそくしする",
+    "en": "die of suffocation",
+    "vi": "chết vì ngạt thở",
+    "ja": "呼吸ができなくなり、死亡する。",
+    "parts": [
+      {
+        "text": "窒息",
+        "kana": "ちっそく",
+        "en": "suffocation",
+        "vi": "ngạt thở",
+        "ja": "呼吸ができなくなること。"
+      },
+      {
+        "text": "死する",
+        "kana": "しする",
+        "en": "die",
+        "vi": "chết",
+        "ja": "命を失う。"
+      }
+    ]
+  },
+  {
+    "japanese": "筆と墨を使って名前を書く",
+    "kana": "ふでとすみをつかってなまえをかく",
+    "en": "Write a name using a brush and ink.",
+    "vi": "Viết tên bằng bút lông và mực.",
+    "ja": "筆と墨を用いて名前を記す。",
+    "parts": [
+      {
+        "text": "筆",
+        "kana": "ふで",
+        "en": "brush",
+        "vi": "bút lông",
+        "ja": "毛先に墨や絵の具をつけて書く道具。"
+      },
+      {
+        "text": "と",
+        "en": "and",
+        "vi": "và",
+        "ja": "名詞を並べる助詞。",
+        "kana": "と"
+      },
+      {
+        "text": "墨",
+        "kana": "すみ",
+        "en": "ink; sumi",
+        "vi": "mực tàu",
+        "ja": "筆で文字を書くための黒い液や固形の材料。"
+      },
+      {
+        "text": "を",
+        "en": "marks what is used",
+        "vi": "đánh dấu thứ được sử dụng",
+        "ja": "動作の対象を示す助詞。",
+        "kana": "を"
+      },
+      {
+        "text": "使って",
+        "kana": "つかって",
+        "en": "using",
+        "vi": "bằng cách sử dụng",
+        "ja": "「使う」のて形。"
+      },
+      {
+        "text": "名前",
+        "kana": "なまえ",
+        "en": "name",
+        "vi": "tên",
+        "ja": "人や物を呼ぶための言葉。"
+      },
+      {
+        "text": "を",
+        "en": "marks what is written",
+        "vi": "đánh dấu thứ được viết",
+        "ja": "動作の対象を示す助詞。",
+        "kana": "を"
+      },
+      {
+        "text": "書く",
+        "kana": "かく",
+        "en": "write",
+        "vi": "viết",
+        "ja": "文字や記号を紙などに記す。"
+      }
+    ]
+  },
+  {
+    "japanese": "水墨画",
+    "kana": "すいぼくが",
+    "en": "ink wash painting",
+    "vi": "tranh thủy mặc",
+    "ja": "墨の濃淡を使って描く絵画。",
+    "parts": [
+      {
+        "text": "水墨画",
+        "kana": "すいぼくが",
+        "en": "ink wash painting",
+        "vi": "tranh thủy mặc",
+        "ja": "墨と水を使い、濃淡で表現する絵。"
+      }
+    ]
+  },
+  {
+    "japanese": "栓抜きを使わず瓶の蓋を開ける",
+    "kana": "せんぬきをつかわずびんのふたをあける",
+    "en": "Open a bottle without using a bottle opener.",
+    "vi": "Mở nắp chai mà không dùng đồ khui.",
+    "ja": "栓抜きを使わないで、瓶の蓋を開ける。",
+    "parts": [
+      {
+        "text": "栓抜き",
+        "kana": "せんぬき",
+        "en": "bottle opener",
+        "vi": "đồ khui chai",
+        "ja": "瓶の栓を抜く道具。"
+      },
+      {
+        "text": "を",
+        "en": "marks what is not used",
+        "vi": "đánh dấu thứ không được dùng",
+        "ja": "動作の対象を示す助詞。",
+        "kana": "を"
+      },
+      {
+        "text": "使わず",
+        "kana": "つかわず",
+        "en": "without using",
+        "vi": "mà không dùng",
+        "ja": "「使う」の否定を表す連用形。"
+      },
+      {
+        "text": "瓶",
+        "kana": "びん",
+        "en": "bottle",
+        "vi": "chai; lọ",
+        "ja": "ガラスなどで作られた容器。"
+      },
+      {
+        "text": "の",
+        "en": "links the bottle to its lid",
+        "vi": "nối chai với nắp",
+        "ja": "前の名詞が後ろの名詞を限定する助詞。",
+        "kana": "の"
+      },
+      {
+        "text": "蓋",
+        "kana": "ふた",
+        "en": "lid; cap",
+        "vi": "nắp",
+        "ja": "容器の口を閉じるもの。"
+      },
+      {
+        "text": "を",
+        "en": "marks what is opened",
+        "vi": "đánh dấu thứ được mở",
+        "ja": "動作の対象を示す助詞。",
+        "kana": "を"
+      },
+      {
+        "text": "開ける",
+        "kana": "あける",
+        "en": "open",
+        "vi": "mở",
+        "ja": "閉じているものを開いた状態にする。"
+      }
+    ]
+  },
+  {
+    "japanese": "棚に本を戻す",
+    "kana": "たなにほんをもどす",
+    "en": "Put the book back on the shelf.",
+    "vi": "Đặt sách trở lại lên kệ.",
+    "ja": "本を元の棚に返す。",
+    "parts": [
+      {
+        "text": "棚",
+        "kana": "たな",
+        "en": "shelf",
+        "vi": "kệ",
+        "ja": "物を載せるための板。"
+      },
+      {
+        "text": "に",
+        "en": "onto; to",
+        "vi": "lên; vào",
+        "ja": "動作の到達点を示す助詞。",
+        "kana": "に"
+      },
+      {
+        "text": "本",
+        "kana": "ほん",
+        "en": "book",
+        "vi": "sách",
+        "ja": "文字や図を印刷してまとめたもの。"
+      },
+      {
+        "text": "を",
+        "en": "marks what is returned",
+        "vi": "đánh dấu thứ được đặt lại",
+        "ja": "動作の対象を示す助詞。",
+        "kana": "を"
+      },
+      {
+        "text": "戻す",
+        "kana": "もどす",
+        "en": "return; put back",
+        "vi": "đặt lại; trả lại",
+        "ja": "元の場所や状態に返す。"
+      }
+    ]
+  },
+  {
+    "japanese": "食器棚",
+    "kana": "しょっきだな",
+    "en": "cupboard; dish cabinet",
+    "vi": "tủ đựng bát đĩa",
+    "ja": "食器を収納する棚や戸棚。",
+    "parts": [
+      {
+        "text": "食器",
+        "kana": "しょっき",
+        "en": "tableware; dishes",
+        "vi": "bát đĩa; đồ dùng ăn uống",
+        "ja": "食事に使う皿や茶碗など。"
+      },
+      {
+        "text": "棚",
+        "kana": "だな",
+        "en": "shelf; cupboard",
+        "vi": "kệ; tủ",
+        "ja": "物を載せたり収納したりする設備。"
+      }
+    ]
+  }
+]

@@ -1,0 +1,2736 @@
+[
+  {
+    "japanese": "川の水が澄んでいる",
+    "kana": "かわのみずがすんでいる",
+    "en": "The river water is clear.",
+    "vi": "Nước sông trong veo.",
+    "ja": "川の水に濁りがない。",
+    "parts": [
+      {
+        "text": "川",
+        "kana": "かわ",
+        "en": "river",
+        "vi": "sông",
+        "ja": "川"
+      },
+      {
+        "text": "の",
+        "kana": "の",
+        "en": "of; linking particle",
+        "vi": "trợ từ sở hữu/liên kết",
+        "ja": "名詞をつなぐ助詞"
+      },
+      {
+        "text": "水",
+        "kana": "みず",
+        "en": "water",
+        "vi": "nước",
+        "ja": "水"
+      },
+      {
+        "text": "が",
+        "kana": "が",
+        "en": "subject particle",
+        "vi": "trợ từ chủ ngữ",
+        "ja": "主語を示す助詞"
+      },
+      {
+        "text": "澄んでいる",
+        "kana": "すんでいる",
+        "en": "is clear",
+        "vi": "trong",
+        "ja": "濁りがない状態である"
+      }
+    ]
+  },
+  {
+    "japanese": "澄んだ空気",
+    "kana": "すんだくうき",
+    "en": "clear, clean air",
+    "vi": "không khí trong lành",
+    "ja": "濁りや汚れのない空気。",
+    "parts": [
+      {
+        "text": "澄んだ",
+        "kana": "すんだ",
+        "en": "clear",
+        "vi": "trong lành",
+        "ja": "濁りや汚れがない"
+      },
+      {
+        "text": "空気",
+        "kana": "くうき",
+        "en": "air",
+        "vi": "không khí",
+        "ja": "空気"
+      }
+    ]
+  },
+  {
+    "japanese": "耳を澄まして聞く",
+    "kana": "みみをすましてきく",
+    "en": "Listen attentively.",
+    "vi": "Lắng tai nghe.",
+    "ja": "注意を集中させてよく聞く。",
+    "parts": [
+      {
+        "text": "耳",
+        "kana": "みみ",
+        "en": "ear",
+        "vi": "tai",
+        "ja": "耳"
+      },
+      {
+        "text": "を",
+        "kana": "を",
+        "en": "object particle",
+        "vi": "trợ từ chỉ tân ngữ",
+        "ja": "目的語を示す助詞"
+      },
+      {
+        "text": "澄まして",
+        "kana": "すまして",
+        "en": "attentively; (by) tuning in",
+        "vi": "lắng tai",
+        "ja": "感覚を研ぎ澄ませて"
+      },
+      {
+        "text": "聞く",
+        "kana": "きく",
+        "en": "listen",
+        "vi": "nghe",
+        "ja": "音や話を耳で受け取る"
+      }
+    ]
+  },
+  {
+    "japanese": "澄ました顔で冗談を言う",
+    "kana": "すましたかおでじょうだんをいう",
+    "en": "Tell a joke with a straight face.",
+    "vi": "Nói đùa với vẻ mặt tỉnh bơ.",
+    "ja": "何事もないような落ち着いた顔で冗談を言う。",
+    "parts": [
+      {
+        "text": "澄ました",
+        "kana": "すました",
+        "en": "straight-faced",
+        "vi": "tỉnh bơ",
+        "ja": "何事もないような落ち着いた様子の"
+      },
+      {
+        "text": "顔",
+        "kana": "かお",
+        "en": "face",
+        "vi": "khuôn mặt",
+        "ja": "顔"
+      },
+      {
+        "text": "で",
+        "kana": "で",
+        "en": "in; with (particle)",
+        "vi": "trợ từ chỉ trạng thái/cách thức",
+        "ja": "状態や手段を示す助詞"
+      },
+      {
+        "text": "冗談",
+        "kana": "じょうだん",
+        "en": "joke",
+        "vi": "lời nói đùa",
+        "ja": "冗談"
+      },
+      {
+        "text": "を",
+        "kana": "を",
+        "en": "object particle",
+        "vi": "trợ từ chỉ tân ngữ",
+        "ja": "目的語を示す助詞"
+      },
+      {
+        "text": "言う",
+        "kana": "いう",
+        "en": "tell; say",
+        "vi": "nói",
+        "ja": "言葉に出す"
+      }
+    ]
+  },
+  {
+    "japanese": "高原の清澄な空気",
+    "kana": "こうげんのせいちょうなくうき",
+    "en": "the clear air of the highlands",
+    "vi": "không khí trong lành ở cao nguyên",
+    "ja": "高原の澄みきったきれいな空気。",
+    "parts": [
+      {
+        "text": "高原",
+        "kana": "こうげん",
+        "en": "highlands",
+        "vi": "cao nguyên",
+        "ja": "高原"
+      },
+      {
+        "text": "の",
+        "kana": "の",
+        "en": "of; linking particle",
+        "vi": "trợ từ liên kết",
+        "ja": "名詞をつなぐ助詞"
+      },
+      {
+        "text": "清澄な",
+        "kana": "せいちょうな",
+        "en": "clear; pure",
+        "vi": "trong sạch",
+        "ja": "澄みきって濁りのない"
+      },
+      {
+        "text": "空気",
+        "kana": "くうき",
+        "en": "air",
+        "vi": "không khí",
+        "ja": "空気"
+      }
+    ]
+  },
+  {
+    "japanese": "海面に漂う小舟",
+    "kana": "かいめんにただようこぶね",
+    "en": "a small boat drifting on the sea",
+    "vi": "chiếc thuyền nhỏ trôi trên mặt biển",
+    "ja": "海面をあてもなく流れている小さな舟。",
+    "parts": [
+      {
+        "text": "海面",
+        "kana": "かいめん",
+        "en": "sea surface",
+        "vi": "mặt biển",
+        "ja": "海の表面"
+      },
+      {
+        "text": "に",
+        "kana": "に",
+        "en": "on; location particle",
+        "vi": "trợ từ chỉ vị trí",
+        "ja": "場所を示す助詞"
+      },
+      {
+        "text": "漂う",
+        "kana": "ただよう",
+        "en": "drift; float",
+        "vi": "trôi dạt",
+        "ja": "水面や空中を定まらず動く"
+      },
+      {
+        "text": "小舟",
+        "kana": "こぶね",
+        "en": "small boat",
+        "vi": "thuyền nhỏ",
+        "ja": "小さな舟"
+      }
+    ]
+  },
+  {
+    "japanese": "和やかな雰囲気が漂う",
+    "kana": "なごやかなふんいきがただよう",
+    "en": "A gentle, friendly atmosphere prevails.",
+    "vi": "Bầu không khí hòa nhã lan tỏa.",
+    "ja": "穏やかで親しみやすい雰囲気が感じられる。",
+    "parts": [
+      {
+        "text": "和やかな",
+        "kana": "なごやかな",
+        "en": "gentle; friendly",
+        "vi": "hòa nhã",
+        "ja": "穏やかで親しみやすい"
+      },
+      {
+        "text": "雰囲気",
+        "kana": "ふんいき",
+        "en": "atmosphere",
+        "vi": "bầu không khí",
+        "ja": "その場を包む感じ"
+      },
+      {
+        "text": "が",
+        "kana": "が",
+        "en": "subject particle",
+        "vi": "trợ từ chủ ngữ",
+        "ja": "主語を示す助詞"
+      },
+      {
+        "text": "漂う",
+        "kana": "ただよう",
+        "en": "prevail; pervade",
+        "vi": "lan tỏa",
+        "ja": "雰囲気などがその場に感じられる"
+      }
+    ]
+  },
+  {
+    "japanese": "船が岸に漂着する",
+    "kana": "ふねがきしにひょうちゃくする",
+    "en": "A boat drifts ashore.",
+    "vi": "Con thuyền trôi dạt vào bờ.",
+    "ja": "船が流されて岸にたどり着く。",
+    "parts": [
+      {
+        "text": "船",
+        "kana": "ふね",
+        "en": "boat; ship",
+        "vi": "thuyền",
+        "ja": "船"
+      },
+      {
+        "text": "が",
+        "kana": "が",
+        "en": "subject particle",
+        "vi": "trợ từ chủ ngữ",
+        "ja": "主語を示す助詞"
+      },
+      {
+        "text": "岸",
+        "kana": "きし",
+        "en": "shore",
+        "vi": "bờ",
+        "ja": "陸地と水との境"
+      },
+      {
+        "text": "に",
+        "kana": "に",
+        "en": "to; destination particle",
+        "vi": "trợ từ chỉ điểm đến",
+        "ja": "到着点を示す助詞"
+      },
+      {
+        "text": "漂着する",
+        "kana": "ひょうちゃくする",
+        "en": "drift ashore",
+        "vi": "trôi dạt vào bờ",
+        "ja": "流されて岸にたどり着く"
+      }
+    ]
+  },
+  {
+    "japanese": "漂流船",
+    "kana": "ひょうりゅうせん",
+    "en": "drifting ship; adrift vessel",
+    "vi": "tàu trôi dạt",
+    "ja": "海上を漂い続けている船。",
+    "parts": [
+      {
+        "text": "漂流船",
+        "kana": "ひょうりゅうせん",
+        "en": "drifting ship; adrift vessel",
+        "vi": "tàu trôi dạt",
+        "ja": "海上を漂い続けている船。"
+      }
+    ]
+  },
+  {
+    "japanese": "シャツを漂白する",
+    "kana": "シャツをひょうはくする",
+    "en": "Bleach a shirt.",
+    "vi": "Tẩy trắng áo sơ mi.",
+    "ja": "シャツの汚れや色を漂白剤などで落とす。",
+    "parts": [
+      {
+        "text": "シャツ",
+        "kana": "シャツ",
+        "en": "shirt",
+        "vi": "áo sơ mi",
+        "ja": "シャツ"
+      },
+      {
+        "text": "を",
+        "kana": "を",
+        "en": "object particle",
+        "vi": "trợ từ chỉ tân ngữ",
+        "ja": "目的語を示す助詞"
+      },
+      {
+        "text": "漂白する",
+        "kana": "ひょうはくする",
+        "en": "bleach",
+        "vi": "tẩy trắng",
+        "ja": "漂白剤などで色や汚れを落とす"
+      }
+    ]
+  },
+  {
+    "japanese": "溝を掘る",
+    "kana": "みぞをほる",
+    "en": "Dig a ditch.",
+    "vi": "Đào rãnh.",
+    "ja": "地面に細長いくぼみを作る。",
+    "parts": [
+      {
+        "text": "溝",
+        "kana": "みぞ",
+        "en": "ditch; groove",
+        "vi": "rãnh",
+        "ja": "細長いくぼみ"
+      },
+      {
+        "text": "を",
+        "kana": "を",
+        "en": "object particle",
+        "vi": "trợ từ chỉ tân ngữ",
+        "ja": "目的語を示す助詞"
+      },
+      {
+        "text": "掘る",
+        "kana": "ほる",
+        "en": "dig",
+        "vi": "đào",
+        "ja": "地面などを掘り下げる"
+      }
+    ]
+  },
+  {
+    "japanese": "両国間の溝が深まる",
+    "kana": "りょうこくかんのみぞがふかまる",
+    "en": "The divide between the two countries deepens.",
+    "vi": "Khoảng cách giữa hai nước ngày càng sâu sắc.",
+    "ja": "両国の対立や隔たりが大きくなる。",
+    "parts": [
+      {
+        "text": "両国",
+        "kana": "りょうこく",
+        "en": "the two countries",
+        "vi": "hai nước",
+        "ja": "二つの国"
+      },
+      {
+        "text": "間",
+        "kana": "かん",
+        "en": "between; interval",
+        "vi": "giữa; khoảng cách",
+        "ja": "二つのもののあいだ"
+      },
+      {
+        "text": "の",
+        "kana": "の",
+        "en": "linking particle",
+        "vi": "trợ từ liên kết",
+        "ja": "名詞をつなぐ助詞"
+      },
+      {
+        "text": "溝",
+        "kana": "みぞ",
+        "en": "divide; rift",
+        "vi": "chia rẽ; khoảng cách",
+        "ja": "意見などの隔たり"
+      },
+      {
+        "text": "が",
+        "kana": "が",
+        "en": "subject particle",
+        "vi": "trợ từ chủ ngữ",
+        "ja": "主語を示す助詞"
+      },
+      {
+        "text": "深まる",
+        "kana": "ふかまる",
+        "en": "deepen",
+        "vi": "sâu sắc thêm",
+        "ja": "程度が大きくなる"
+      }
+    ]
+  },
+  {
+    "japanese": "排水溝から水が溢れる",
+    "kana": "はいすいこうからみずがあふれる",
+    "en": "Water overflows from the drain.",
+    "vi": "Nước tràn ra từ cống thoát nước.",
+    "ja": "排水用の溝から水が外へこぼれ出る。",
+    "parts": [
+      {
+        "text": "排水溝",
+        "kana": "はいすいこう",
+        "en": "drain",
+        "vi": "cống thoát nước",
+        "ja": "排水のための溝"
+      },
+      {
+        "text": "から",
+        "kana": "から",
+        "en": "from; source particle",
+        "vi": "trợ từ chỉ nguồn/điểm xuất phát",
+        "ja": "起点を示す助詞"
+      },
+      {
+        "text": "水",
+        "kana": "みず",
+        "en": "water",
+        "vi": "nước",
+        "ja": "水"
+      },
+      {
+        "text": "が",
+        "kana": "が",
+        "en": "subject particle",
+        "vi": "trợ từ chủ ngữ",
+        "ja": "主語を示す助詞"
+      },
+      {
+        "text": "溢れる",
+        "kana": "あふれる",
+        "en": "overflow",
+        "vi": "tràn ra",
+        "ja": "容器や場所から外へこぼれ出る"
+      }
+    ]
+  },
+  {
+    "japanese": "海溝",
+    "kana": "かいこう",
+    "en": "ocean trench",
+    "vi": "rãnh đại dương",
+    "ja": "海底にある細長く深いくぼみ。",
+    "parts": [
+      {
+        "text": "海溝",
+        "kana": "かいこう",
+        "en": "ocean trench",
+        "vi": "rãnh đại dương",
+        "ja": "海底にある細長く深いくぼみ。"
+      }
+    ]
+  },
+  {
+    "japanese": "肩まで湯に浸る",
+    "kana": "かたまでゆにつかる",
+    "en": "Soak in hot water up to one's shoulders.",
+    "vi": "Ngâm mình trong nước nóng đến vai.",
+    "ja": "肩まで湯につかって入浴する。",
+    "parts": [
+      {
+        "text": "肩",
+        "kana": "かた",
+        "en": "shoulders",
+        "vi": "vai",
+        "ja": "肩"
+      },
+      {
+        "text": "まで",
+        "kana": "まで",
+        "en": "up to; as far as",
+        "vi": "đến tận",
+        "ja": "範囲の限界を示す助詞"
+      },
+      {
+        "text": "湯",
+        "kana": "ゆ",
+        "en": "hot water; bath",
+        "vi": "nước nóng",
+        "ja": "入浴用の温かい湯"
+      },
+      {
+        "text": "に",
+        "kana": "に",
+        "en": "in; location particle",
+        "vi": "trợ từ chỉ nơi chốn",
+        "ja": "場所を示す助詞"
+      },
+      {
+        "text": "浸る",
+        "kana": "つかる",
+        "en": "soak; immerse oneself",
+        "vi": "ngâm mình",
+        "ja": "湯などの中に体を入れる"
+      }
+    ]
+  },
+  {
+    "japanese": "同窓会で昔の思い出に浸る",
+    "kana": "どうそうかいでむかしのおもいでにひたる",
+    "en": "Dwell on old memories at a class reunion.",
+    "vi": "Đắm mình trong kỷ niệm xưa tại buổi họp lớp.",
+    "ja": "同窓会で過去の思い出を懐かしむ。",
+    "parts": [
+      {
+        "text": "同窓会",
+        "kana": "どうそうかい",
+        "en": "class reunion",
+        "vi": "buổi họp lớp",
+        "ja": "卒業生が集まる会"
+      },
+      {
+        "text": "で",
+        "kana": "で",
+        "en": "at; location particle",
+        "vi": "trợ từ chỉ nơi chốn",
+        "ja": "動作の場所を示す助詞"
+      },
+      {
+        "text": "昔",
+        "kana": "むかし",
+        "en": "old times; past",
+        "vi": "ngày xưa",
+        "ja": "過去"
+      },
+      {
+        "text": "の",
+        "kana": "の",
+        "en": "linking particle",
+        "vi": "trợ từ liên kết",
+        "ja": "名詞をつなぐ助詞"
+      },
+      {
+        "text": "思い出",
+        "kana": "おもいで",
+        "en": "memory",
+        "vi": "kỷ niệm",
+        "ja": "過去のことを思い出すこと"
+      },
+      {
+        "text": "に",
+        "kana": "に",
+        "en": "in; target particle",
+        "vi": "trợ từ chỉ đối tượng",
+        "ja": "対象を示す助詞"
+      },
+      {
+        "text": "浸る",
+        "kana": "ひたる",
+        "en": "dwell on; immerse oneself in",
+        "vi": "đắm mình trong",
+        "ja": "ある気分や思いに深く入り込む"
+      }
+    ]
+  },
+  {
+    "japanese": "汚れたセーターを洗面器のお湯に浸す",
+    "kana": "よごれたセーターをせんめんきのおゆにひたす",
+    "en": "Soak the dirty sweater in hot water in a basin.",
+    "vi": "Ngâm chiếc áo len bẩn trong nước nóng ở chậu rửa.",
+    "ja": "汚れたセーターを洗面器に入れた湯の中につける。",
+    "parts": [
+      {
+        "text": "汚れた",
+        "kana": "よごれた",
+        "en": "dirty",
+        "vi": "bẩn",
+        "ja": "汚れが付いた"
+      },
+      {
+        "text": "セーター",
+        "kana": "セーター",
+        "en": "sweater",
+        "vi": "áo len",
+        "ja": "セーター"
+      },
+      {
+        "text": "を",
+        "kana": "を",
+        "en": "object particle",
+        "vi": "trợ từ chỉ tân ngữ",
+        "ja": "目的語を示す助詞"
+      },
+      {
+        "text": "洗面器",
+        "kana": "せんめんき",
+        "en": "basin",
+        "vi": "chậu rửa",
+        "ja": "洗面用の器"
+      },
+      {
+        "text": "の",
+        "kana": "の",
+        "en": "linking particle",
+        "vi": "trợ từ liên kết",
+        "ja": "名詞をつなぐ助詞"
+      },
+      {
+        "text": "お湯",
+        "kana": "おゆ",
+        "en": "hot water",
+        "vi": "nước nóng",
+        "ja": "温めた湯"
+      },
+      {
+        "text": "に",
+        "kana": "に",
+        "en": "in; location particle",
+        "vi": "trợ từ chỉ nơi chốn",
+        "ja": "場所を示す助詞"
+      },
+      {
+        "text": "浸す",
+        "kana": "ひたす",
+        "en": "soak; immerse",
+        "vi": "ngâm",
+        "ja": "液体の中に入れる"
+      }
+    ]
+  },
+  {
+    "japanese": "大雨で床下まで浸水する",
+    "kana": "おおあめでゆかしたまでしんすいする",
+    "en": "Flooding reaches beneath the floor due to heavy rain.",
+    "vi": "Mưa lớn khiến nước ngập đến dưới sàn nhà.",
+    "ja": "大雨によって床下まで水が入り込む。",
+    "parts": [
+      {
+        "text": "大雨",
+        "kana": "おおあめ",
+        "en": "heavy rain",
+        "vi": "mưa lớn",
+        "ja": "強く降る雨"
+      },
+      {
+        "text": "で",
+        "kana": "で",
+        "en": "because of; cause particle",
+        "vi": "trợ từ chỉ nguyên nhân",
+        "ja": "原因を示す助詞"
+      },
+      {
+        "text": "床下",
+        "kana": "ゆかした",
+        "en": "under the floor",
+        "vi": "dưới sàn nhà",
+        "ja": "床の下"
+      },
+      {
+        "text": "まで",
+        "kana": "まで",
+        "en": "as far as; up to",
+        "vi": "đến tận",
+        "ja": "範囲の限界を示す助詞"
+      },
+      {
+        "text": "浸水する",
+        "kana": "しんすいする",
+        "en": "be flooded",
+        "vi": "bị ngập nước",
+        "ja": "水が入り込む"
+      }
+    ]
+  },
+  {
+    "japanese": "淡いピンクの服",
+    "kana": "あわいピンクのふく",
+    "en": "pale pink clothing",
+    "vi": "quần áo màu hồng nhạt",
+    "ja": "薄い色合いのピンク色の服。",
+    "parts": [
+      {
+        "text": "淡い",
+        "kana": "あわい",
+        "en": "pale; light",
+        "vi": "nhạt",
+        "ja": "色が薄い"
+      },
+      {
+        "text": "ピンク",
+        "kana": "ピンク",
+        "en": "pink",
+        "vi": "màu hồng",
+        "ja": "ピンク色"
+      },
+      {
+        "text": "の",
+        "kana": "の",
+        "en": "linking particle",
+        "vi": "trợ từ liên kết",
+        "ja": "名詞をつなぐ助詞"
+      },
+      {
+        "text": "服",
+        "kana": "ふく",
+        "en": "clothing",
+        "vi": "quần áo",
+        "ja": "身に着けるもの"
+      }
+    ]
+  },
+  {
+    "japanese": "淡い期待を抱く",
+    "kana": "あわいきたいをいだく",
+    "en": "Harbor a faint hope.",
+    "vi": "Nuôi hy vọng mong manh.",
+    "ja": "実現の可能性が低いかもしれない希望を持つ。",
+    "parts": [
+      {
+        "text": "淡い",
+        "kana": "あわい",
+        "en": "faint; slight",
+        "vi": "mong manh",
+        "ja": "強くない"
+      },
+      {
+        "text": "期待",
+        "kana": "きたい",
+        "en": "hope; expectation",
+        "vi": "hy vọng",
+        "ja": "実現を待ち望むこと"
+      },
+      {
+        "text": "を",
+        "kana": "を",
+        "en": "object particle",
+        "vi": "trợ từ chỉ tân ngữ",
+        "ja": "目的語を示す助詞"
+      },
+      {
+        "text": "抱く",
+        "kana": "いだく",
+        "en": "harbor; hold",
+        "vi": "nuôi; ấp ủ",
+        "ja": "考えや感情を心に持つ"
+      }
+    ]
+  },
+  {
+    "japanese": "色の濃淡",
+    "kana": "いろののうたん",
+    "en": "gradation of color; light and dark shades",
+    "vi": "sắc độ đậm nhạt",
+    "ja": "色の濃い部分と薄い部分。",
+    "parts": [
+      {
+        "text": "色",
+        "kana": "いろ",
+        "en": "color",
+        "vi": "màu sắc",
+        "ja": "色"
+      },
+      {
+        "text": "の",
+        "kana": "の",
+        "en": "linking particle",
+        "vi": "trợ từ liên kết",
+        "ja": "名詞をつなぐ助詞"
+      },
+      {
+        "text": "濃淡",
+        "kana": "のうたん",
+        "en": "light and dark shades",
+        "vi": "độ đậm nhạt",
+        "ja": "色の濃いことと薄いこと"
+      }
+    ]
+  },
+  {
+    "japanese": "淡水の湖や川に生息する魚",
+    "kana": "たんすいのみずうみやかわにせいそくするさかな",
+    "en": "fish that live in freshwater lakes and rivers",
+    "vi": "cá sống ở hồ và sông nước ngọt",
+    "ja": "塩分の少ない湖や川に住む魚。",
+    "parts": [
+      {
+        "text": "淡水",
+        "kana": "たんすい",
+        "en": "fresh water",
+        "vi": "nước ngọt",
+        "ja": "塩分の少ない水"
+      },
+      {
+        "text": "の",
+        "kana": "の",
+        "en": "linking particle",
+        "vi": "trợ từ liên kết",
+        "ja": "名詞をつなぐ助詞"
+      },
+      {
+        "text": "湖",
+        "kana": "みずうみ",
+        "en": "lake",
+        "vi": "hồ",
+        "ja": "湖"
+      },
+      {
+        "text": "や",
+        "kana": "や",
+        "en": "and; examples particle",
+        "vi": "và; trợ từ liệt kê",
+        "ja": "例を挙げる助詞"
+      },
+      {
+        "text": "川",
+        "kana": "かわ",
+        "en": "river",
+        "vi": "sông",
+        "ja": "川"
+      },
+      {
+        "text": "に",
+        "kana": "に",
+        "en": "in; location particle",
+        "vi": "trợ từ chỉ nơi chốn",
+        "ja": "場所を示す助詞"
+      },
+      {
+        "text": "生息する",
+        "kana": "せいそくする",
+        "en": "inhabit; live",
+        "vi": "sinh sống",
+        "ja": "動物がある場所に住む"
+      },
+      {
+        "text": "魚",
+        "kana": "さかな",
+        "en": "fish",
+        "vi": "cá",
+        "ja": "魚"
+      }
+    ]
+  },
+  {
+    "japanese": "冷淡な態度であしらう",
+    "kana": "れいたんなたいどであしらう",
+    "en": "Treat someone in a cold, indifferent manner.",
+    "vi": "Đối xử với ai đó bằng thái độ lạnh nhạt.",
+    "ja": "思いやりのない冷たい態度で応対する。",
+    "parts": [
+      {
+        "text": "冷淡な",
+        "kana": "れいたんな",
+        "en": "cold; indifferent",
+        "vi": "lạnh nhạt",
+        "ja": "思いやりのない冷たい"
+      },
+      {
+        "text": "態度",
+        "kana": "たいど",
+        "en": "attitude; manner",
+        "vi": "thái độ",
+        "ja": "人や物事への接し方"
+      },
+      {
+        "text": "で",
+        "kana": "で",
+        "en": "in; with; manner particle",
+        "vi": "trợ từ chỉ cách thức",
+        "ja": "状態や方法を示す助詞"
+      },
+      {
+        "text": "あしらう",
+        "kana": "あしらう",
+        "en": "treat; deal with",
+        "vi": "đối xử",
+        "ja": "相手をある態度で扱う"
+      }
+    ]
+  },
+  {
+    "japanese": "穂が出る",
+    "kana": "ほがでる",
+    "en": "Ears of grain emerge.",
+    "vi": "Bông lúa trổ ra.",
+    "ja": "稲や麦などに穂が現れる。",
+    "parts": [
+      {
+        "text": "穂",
+        "kana": "ほ",
+        "en": "ear of grain",
+        "vi": "bông lúa",
+        "ja": "稲や麦などの穂"
+      },
+      {
+        "text": "が",
+        "kana": "が",
+        "en": "subject particle",
+        "vi": "trợ từ chủ ngữ",
+        "ja": "主語を示す助詞"
+      },
+      {
+        "text": "出る",
+        "kana": "でる",
+        "en": "appear; emerge",
+        "vi": "nhú ra; trổ ra",
+        "ja": "表面に現れる"
+      }
+    ]
+  },
+  {
+    "japanese": "麦の穂",
+    "kana": "むぎのほ",
+    "en": "ear of wheat/barley",
+    "vi": "bông lúa mì; bông lúa mạch",
+    "ja": "麦の茎の先につく実の部分。",
+    "parts": [
+      {
+        "text": "麦",
+        "kana": "むぎ",
+        "en": "wheat; barley",
+        "vi": "lúa mì; lúa mạch",
+        "ja": "麦"
+      },
+      {
+        "text": "の",
+        "kana": "の",
+        "en": "linking particle",
+        "vi": "trợ từ liên kết",
+        "ja": "名詞をつなぐ助詞"
+      },
+      {
+        "text": "穂",
+        "kana": "ほ",
+        "en": "ear; head of grain",
+        "vi": "bông lúa",
+        "ja": "穀物の穂先"
+      }
+    ]
+  },
+  {
+    "japanese": "稲穂",
+    "kana": "いなほ",
+    "en": "rice ear; rice panicle",
+    "vi": "bông lúa",
+    "ja": "稲の穂。",
+    "parts": [
+      {
+        "text": "稲穂",
+        "kana": "いなほ",
+        "en": "rice ear; rice panicle",
+        "vi": "bông lúa",
+        "ja": "稲の穂。"
+      }
+    ]
+  },
+  {
+    "japanese": "稲を刈る",
+    "kana": "いねをかる",
+    "en": "Harvest rice plants.",
+    "vi": "Gặt lúa.",
+    "ja": "育った稲を刈り取る。",
+    "parts": [
+      {
+        "text": "稲",
+        "kana": "いね",
+        "en": "rice plant",
+        "vi": "cây lúa",
+        "ja": "稲"
+      },
+      {
+        "text": "を",
+        "kana": "を",
+        "en": "object particle",
+        "vi": "trợ từ chỉ tân ngữ",
+        "ja": "目的語を示す助詞"
+      },
+      {
+        "text": "刈る",
+        "kana": "かる",
+        "en": "harvest; reap",
+        "vi": "gặt",
+        "ja": "草や作物を刈り取る"
+      }
+    ]
+  },
+  {
+    "japanese": "稲作農家",
+    "kana": "いなさくのうか",
+    "en": "rice-farming household",
+    "vi": "nông hộ trồng lúa",
+    "ja": "稲を栽培する農家。",
+    "parts": [
+      {
+        "text": "稲作農家",
+        "kana": "いなさくのうか",
+        "en": "rice-farming household",
+        "vi": "nông hộ trồng lúa",
+        "ja": "稲を栽培する農家。"
+      }
+    ]
+  },
+  {
+    "japanese": "稲妻が走る",
+    "kana": "いなずまがはしる",
+    "en": "Lightning flashes across the sky.",
+    "vi": "Tia chớp lóe ngang bầu trời.",
+    "ja": "稲妻が空を走るように光る。",
+    "parts": [
+      {
+        "text": "稲妻",
+        "kana": "いなずま",
+        "en": "lightning",
+        "vi": "tia chớp",
+        "ja": "稲妻"
+      },
+      {
+        "text": "が",
+        "kana": "が",
+        "en": "subject particle",
+        "vi": "trợ từ chủ ngữ",
+        "ja": "主語を示す助詞"
+      },
+      {
+        "text": "走る",
+        "kana": "はしる",
+        "en": "flash across",
+        "vi": "lóe lên",
+        "ja": "光などが素早く現れる"
+      }
+    ]
+  },
+  {
+    "japanese": "福祉関係の仕事に就く",
+    "kana": "ふくしかんけいのしごとにつく",
+    "en": "Take a job related to social welfare.",
+    "vi": "Làm công việc liên quan đến phúc lợi xã hội.",
+    "ja": "福祉に関係する職業に就職する。",
+    "parts": [
+      {
+        "text": "福祉",
+        "kana": "ふくし",
+        "en": "welfare",
+        "vi": "phúc lợi xã hội",
+        "ja": "福祉"
+      },
+      {
+        "text": "関係",
+        "kana": "かんけい",
+        "en": "related to; field",
+        "vi": "liên quan; lĩnh vực",
+        "ja": "関わり"
+      },
+      {
+        "text": "の",
+        "kana": "の",
+        "en": "linking particle",
+        "vi": "trợ từ liên kết",
+        "ja": "名詞をつなぐ助詞"
+      },
+      {
+        "text": "仕事",
+        "kana": "しごと",
+        "en": "work; job",
+        "vi": "công việc",
+        "ja": "仕事"
+      },
+      {
+        "text": "に",
+        "kana": "に",
+        "en": "in; destination particle",
+        "vi": "trợ từ chỉ lĩnh vực/đích",
+        "ja": "到達点や対象を示す助詞"
+      },
+      {
+        "text": "就く",
+        "kana": "つく",
+        "en": "take up; enter (a job)",
+        "vi": "đảm nhận; bước vào (công việc)",
+        "ja": "仕事や地位に身を置く"
+      }
+    ]
+  },
+  {
+    "japanese": "社会福祉制度",
+    "kana": "しゃかいふくしせいど",
+    "en": "social welfare system",
+    "vi": "chế độ phúc lợi xã hội",
+    "ja": "社会全体で人々の生活を支える制度。",
+    "parts": [
+      {
+        "text": "社会福祉制度",
+        "kana": "しゃかいふくしせいど",
+        "en": "social welfare system",
+        "vi": "chế độ phúc lợi xã hội",
+        "ja": "社会全体で人々の生活を支える制度。"
+      }
+    ]
+  },
+  {
+    "japanese": "四大文明発祥の地",
+    "kana": "よんだいぶんめいはっしょうのち",
+    "en": "the birthplace of the four great ancient civilizations",
+    "vi": "cái nôi của bốn nền văn minh lớn",
+    "ja": "四大文明が生まれた土地。",
+    "parts": [
+      {
+        "text": "四大",
+        "kana": "よんだい",
+        "en": "four great",
+        "vi": "bốn nền lớn",
+        "ja": "四つの大きなもの"
+      },
+      {
+        "text": "文明",
+        "kana": "ぶんめい",
+        "en": "civilization",
+        "vi": "nền văn minh",
+        "ja": "文明"
+      },
+      {
+        "text": "発祥",
+        "kana": "はっしょう",
+        "en": "origin; birthplace",
+        "vi": "khởi nguồn",
+        "ja": "物事が始まること"
+      },
+      {
+        "text": "の",
+        "kana": "の",
+        "en": "linking particle",
+        "vi": "trợ từ liên kết",
+        "ja": "名詞をつなぐ助詞"
+      },
+      {
+        "text": "地",
+        "kana": "ち",
+        "en": "place; land",
+        "vi": "vùng đất",
+        "ja": "場所や土地"
+      }
+    ]
+  },
+  {
+    "japanese": "社長が不祥事を起こす",
+    "kana": "しゃちょうがふしょうじをおこす",
+    "en": "The company president causes a scandal.",
+    "vi": "Giám đốc gây ra bê bối.",
+    "ja": "社長が不正や不適切な事件を引き起こす。",
+    "parts": [
+      {
+        "text": "社長",
+        "kana": "しゃちょう",
+        "en": "company president",
+        "vi": "giám đốc công ty",
+        "ja": "会社の長"
+      },
+      {
+        "text": "が",
+        "kana": "が",
+        "en": "subject particle",
+        "vi": "trợ từ chủ ngữ",
+        "ja": "主語を示す助詞"
+      },
+      {
+        "text": "不祥事",
+        "kana": "ふしょうじ",
+        "en": "scandal; misconduct",
+        "vi": "vụ bê bối",
+        "ja": "不名誉な事件"
+      },
+      {
+        "text": "を",
+        "kana": "を",
+        "en": "object particle",
+        "vi": "trợ từ chỉ tân ngữ",
+        "ja": "目的語を示す助詞"
+      },
+      {
+        "text": "起こす",
+        "kana": "おこす",
+        "en": "cause; commit",
+        "vi": "gây ra; gây nên",
+        "ja": "事件などを引き起こす"
+      }
+    ]
+  },
+  {
+    "japanese": "裸になる",
+    "kana": "はだかになる",
+    "en": "Get naked.",
+    "vi": "Cởi trần; khỏa thân.",
+    "ja": "衣服を脱いで裸の状態になる。",
+    "parts": [
+      {
+        "text": "裸",
+        "kana": "はだか",
+        "en": "naked; unclothed",
+        "vi": "khỏa thân",
+        "ja": "衣服を着けていない状態"
+      },
+      {
+        "text": "に",
+        "kana": "に",
+        "en": "into; change-of-state particle",
+        "vi": "trợ từ chỉ sự chuyển đổi",
+        "ja": "変化後の状態を示す助詞"
+      },
+      {
+        "text": "なる",
+        "kana": "なる",
+        "en": "become",
+        "vi": "trở nên",
+        "ja": "ある状態に変わる"
+      }
+    ]
+  },
+  {
+    "japanese": "裸体画を描く",
+    "kana": "らたいがをえがく",
+    "en": "Paint a nude figure.",
+    "vi": "Vẽ tranh khỏa thân.",
+    "ja": "裸の人体を描いた絵を制作する。",
+    "parts": [
+      {
+        "text": "裸体画",
+        "kana": "らたいが",
+        "en": "nude painting",
+        "vi": "tranh khỏa thân",
+        "ja": "裸体を描いた絵"
+      },
+      {
+        "text": "を",
+        "kana": "を",
+        "en": "object particle",
+        "vi": "trợ từ chỉ tân ngữ",
+        "ja": "目的語を示す助詞"
+      },
+      {
+        "text": "描く",
+        "kana": "えがく",
+        "en": "draw; depict",
+        "vi": "vẽ; miêu tả",
+        "ja": "絵や形を表す"
+      }
+    ]
+  },
+  {
+    "japanese": "全裸で泳ぐ",
+    "kana": "ぜんらでおよぐ",
+    "en": "Swim completely naked.",
+    "vi": "Bơi khỏa thân hoàn toàn.",
+    "ja": "衣服を一切身につけずに泳ぐ。",
+    "parts": [
+      {
+        "text": "全裸",
+        "kana": "ぜんら",
+        "en": "completely naked",
+        "vi": "khỏa thân hoàn toàn",
+        "ja": "何も身に着けていないこと"
+      },
+      {
+        "text": "で",
+        "kana": "で",
+        "en": "while; manner particle",
+        "vi": "trợ từ chỉ trạng thái/cách thức",
+        "ja": "状態や方法を示す助詞"
+      },
+      {
+        "text": "泳ぐ",
+        "kana": "およぐ",
+        "en": "swim",
+        "vi": "bơi",
+        "ja": "水中を進む"
+      }
+    ]
+  },
+  {
+    "japanese": "企業不祥事を赤裸裸に暴く",
+    "kana": "きぎょうふしょうじをせきららにあばく",
+    "en": "Expose corporate scandals in full.",
+    "vi": "Phơi bày trần trụi bê bối doanh nghiệp.",
+    "ja": "企業の不祥事を隠さず、ありのままに明らかにする。",
+    "parts": [
+      {
+        "text": "企業",
+        "kana": "きぎょう",
+        "en": "company; corporation",
+        "vi": "doanh nghiệp",
+        "ja": "企業"
+      },
+      {
+        "text": "不祥事",
+        "kana": "ふしょうじ",
+        "en": "scandal; misconduct",
+        "vi": "vụ bê bối",
+        "ja": "不名誉な事件"
+      },
+      {
+        "text": "を",
+        "kana": "を",
+        "en": "object particle",
+        "vi": "trợ từ chỉ tân ngữ",
+        "ja": "目的語を示す助詞"
+      },
+      {
+        "text": "赤裸裸",
+        "kana": "せきらら",
+        "en": "bare; candid; exposed",
+        "vi": "trần trụi; phơi bày",
+        "ja": "包み隠しのないこと"
+      },
+      {
+        "text": "に",
+        "kana": "に",
+        "en": "adverbial particle",
+        "vi": "trợ từ tạo trạng từ",
+        "ja": "状態や様子を示す助詞"
+      },
+      {
+        "text": "暴く",
+        "kana": "あばく",
+        "en": "expose; uncover",
+        "vi": "vạch trần",
+        "ja": "隠された事実を明るみに出す"
+      }
+    ]
+  },
+  {
+    "japanese": "半袖のシャツ",
+    "kana": "はんそでのシャツ",
+    "en": "short-sleeved shirt",
+    "vi": "áo sơ mi ngắn tay",
+    "ja": "袖が肘より短いシャツ。",
+    "parts": [
+      {
+        "text": "半袖",
+        "kana": "はんそで",
+        "en": "short sleeves",
+        "vi": "tay áo ngắn",
+        "ja": "袖が肘より短いこと"
+      },
+      {
+        "text": "の",
+        "kana": "の",
+        "en": "linking particle",
+        "vi": "trợ từ liên kết",
+        "ja": "名詞をつなぐ助詞"
+      },
+      {
+        "text": "シャツ",
+        "kana": "シャツ",
+        "en": "shirt",
+        "vi": "áo sơ mi",
+        "ja": "シャツ"
+      }
+    ]
+  },
+  {
+    "japanese": "袖口が汚れる",
+    "kana": "そでぐちがよごれる",
+    "en": "The cuff gets dirty.",
+    "vi": "Cổ tay áo bị bẩn.",
+    "ja": "服の袖の端が汚くなる。",
+    "parts": [
+      {
+        "text": "袖口",
+        "kana": "そでぐち",
+        "en": "cuff; sleeve opening",
+        "vi": "cổ tay áo",
+        "ja": "袖の手首側の部分"
+      },
+      {
+        "text": "が",
+        "kana": "が",
+        "en": "subject particle",
+        "vi": "trợ từ chủ ngữ",
+        "ja": "主語を示す助詞"
+      },
+      {
+        "text": "汚れる",
+        "kana": "よごれる",
+        "en": "get dirty",
+        "vi": "bị bẩn",
+        "ja": "汚れが付く"
+      }
+    ]
+  },
+  {
+    "japanese": "長袖",
+    "kana": "ながそで",
+    "en": "long sleeves; long-sleeved garment",
+    "vi": "tay dài; áo dài tay",
+    "ja": "袖が手首まである衣服。",
+    "parts": [
+      {
+        "text": "長袖",
+        "kana": "ながそで",
+        "en": "long sleeves; long-sleeved garment",
+        "vi": "tay dài; áo dài tay",
+        "ja": "袖が手首まである衣服。"
+      }
+    ]
+  },
+  {
+    "japanese": "魚が焦げる",
+    "kana": "さかながこげる",
+    "en": "The fish gets charred.",
+    "vi": "Cá bị cháy xém.",
+    "ja": "魚を焼きすぎて表面が黒くなる。",
+    "parts": [
+      {
+        "text": "魚",
+        "kana": "さかな",
+        "en": "fish",
+        "vi": "cá",
+        "ja": "魚"
+      },
+      {
+        "text": "が",
+        "kana": "が",
+        "en": "subject particle",
+        "vi": "trợ từ chủ ngữ",
+        "ja": "主語を示す助詞"
+      },
+      {
+        "text": "焦げる",
+        "kana": "こげる",
+        "en": "get burnt",
+        "vi": "bị cháy xém",
+        "ja": "焼きすぎて黒くなる"
+      }
+    ]
+  },
+  {
+    "japanese": "少しを焦がしちゃった",
+    "kana": "すこしをこがしちゃった",
+    "en": "I accidentally burned a little of it.",
+    "vi": "Tôi lỡ làm cháy mất một ít.",
+    "ja": "少し焦がしてしまった、という口語表現。",
+    "parts": [
+      {
+        "text": "少し",
+        "kana": "すこし",
+        "en": "a little",
+        "vi": "một chút",
+        "ja": "少量"
+      },
+      {
+        "text": "を",
+        "kana": "を",
+        "en": "object particle",
+        "vi": "trợ từ chỉ tân ngữ",
+        "ja": "目的語を示す助詞"
+      },
+      {
+        "text": "焦がしちゃった",
+        "kana": "こがしちゃった",
+        "en": "accidentally burnt; ended up burning",
+        "vi": "lỡ làm cháy xém",
+        "ja": "焦がしてしまった（口語）"
+      }
+    ]
+  },
+  {
+    "japanese": "待ち焦がれる",
+    "kana": "まちこがれる",
+    "en": "Wait eagerly; long for",
+    "vi": "mong ngóng; trông đợi tha thiết",
+    "ja": "待ち遠しく思いながら待つ。",
+    "parts": [
+      {
+        "text": "待ち焦がれる",
+        "kana": "まちこがれる",
+        "en": "Wait eagerly; long for",
+        "vi": "mong ngóng; trông đợi tha thiết",
+        "ja": "待ち遠しく思いながら待つ。"
+      }
+    ]
+  },
+  {
+    "japanese": "時間がなくて焦る",
+    "kana": "じかんがなくてあせる",
+    "en": "Panic because there is no time.",
+    "vi": "Cuống lên vì không còn thời gian.",
+    "ja": "時間が足りず、気持ちが落ち着かなくなる。",
+    "parts": [
+      {
+        "text": "時間",
+        "kana": "じかん",
+        "en": "time",
+        "vi": "thời gian",
+        "ja": "時間"
+      },
+      {
+        "text": "が",
+        "kana": "が",
+        "en": "subject particle",
+        "vi": "trợ từ chủ ngữ",
+        "ja": "主語を示す助詞"
+      },
+      {
+        "text": "なくて",
+        "kana": "なくて",
+        "en": "not having; because there is no",
+        "vi": "không có; vì không có",
+        "ja": "ないことを表す形"
+      },
+      {
+        "text": "焦る",
+        "kana": "あせる",
+        "en": "feel pressed; panic",
+        "vi": "cuống lên",
+        "ja": "気が急いて落ち着かなくなる"
+      }
+    ]
+  },
+  {
+    "japanese": "焦点を定める",
+    "kana": "しょうてんをさだめる",
+    "en": "Set the focus; determine the focal point.",
+    "vi": "Xác định tiêu điểm.",
+    "ja": "焦点をはっきり決める。",
+    "parts": [
+      {
+        "text": "焦点",
+        "kana": "しょうてん",
+        "en": "focus; focal point",
+        "vi": "trọng tâm",
+        "ja": "焦点"
+      },
+      {
+        "text": "を",
+        "kana": "を",
+        "en": "object particle",
+        "vi": "trợ từ chỉ tân ngữ",
+        "ja": "目的語を示す助詞"
+      },
+      {
+        "text": "定める",
+        "kana": "さだめる",
+        "en": "set; determine",
+        "vi": "xác định",
+        "ja": "決める"
+      }
+    ]
+  },
+  {
+    "japanese": "山に熊が出没する",
+    "kana": "やまにくまがしゅつぼつする",
+    "en": "Bears appear in the mountains.",
+    "vi": "Gấu xuất hiện ở vùng núi.",
+    "ja": "山に熊が現れたりいなくなったりする。",
+    "parts": [
+      {
+        "text": "山",
+        "kana": "やま",
+        "en": "mountain",
+        "vi": "núi",
+        "ja": "山"
+      },
+      {
+        "text": "に",
+        "kana": "に",
+        "en": "in; location particle",
+        "vi": "trợ từ chỉ nơi chốn",
+        "ja": "場所を示す助詞"
+      },
+      {
+        "text": "熊",
+        "kana": "くま",
+        "en": "bear",
+        "vi": "gấu",
+        "ja": "熊"
+      },
+      {
+        "text": "が",
+        "kana": "が",
+        "en": "subject particle",
+        "vi": "trợ từ chủ ngữ",
+        "ja": "主語を示す助詞"
+      },
+      {
+        "text": "出没する",
+        "kana": "しゅつぼつする",
+        "en": "appear and disappear; roam",
+        "vi": "xuất hiện rồi biến mất",
+        "ja": "現れたり隠れたりする"
+      }
+    ]
+  },
+  {
+    "japanese": "熊手で落ち葉を集める",
+    "kana": "くまででおちばをあつめる",
+    "en": "Gather fallen leaves with a rake.",
+    "vi": "Dùng cào gom lá rụng.",
+    "ja": "熊手を使って落ちた葉を集める。",
+    "parts": [
+      {
+        "text": "熊手",
+        "kana": "くまで",
+        "en": "rake",
+        "vi": "cào lá",
+        "ja": "落ち葉を集める道具"
+      },
+      {
+        "text": "で",
+        "kana": "で",
+        "en": "with; means particle",
+        "vi": "trợ từ chỉ phương tiện",
+        "ja": "手段を示す助詞"
+      },
+      {
+        "text": "落ち葉",
+        "kana": "おちば",
+        "en": "fallen leaves",
+        "vi": "lá rụng",
+        "ja": "落ちた葉"
+      },
+      {
+        "text": "を",
+        "kana": "を",
+        "en": "object particle",
+        "vi": "trợ từ chỉ tân ngữ",
+        "ja": "目的語を示す助詞"
+      },
+      {
+        "text": "集める",
+        "kana": "あつめる",
+        "en": "gather",
+        "vi": "gom lại",
+        "ja": "一か所に寄せる"
+      }
+    ]
+  },
+  {
+    "japanese": "熟れたトマトを収穫する",
+    "kana": "うれたトマトをしゅうかくする",
+    "en": "Harvest ripe tomatoes.",
+    "vi": "Thu hoạch cà chua chín.",
+    "ja": "十分に熟したトマトを取り入れる。",
+    "parts": [
+      {
+        "text": "熟れた",
+        "kana": "うれた",
+        "en": "ripe",
+        "vi": "chín",
+        "ja": "十分に熟した"
+      },
+      {
+        "text": "トマト",
+        "kana": "トマト",
+        "en": "tomato",
+        "vi": "cà chua",
+        "ja": "トマト"
+      },
+      {
+        "text": "を",
+        "kana": "を",
+        "en": "object particle",
+        "vi": "trợ từ chỉ tân ngữ",
+        "ja": "目的語を示す助詞"
+      },
+      {
+        "text": "収穫する",
+        "kana": "しゅうかくする",
+        "en": "harvest",
+        "vi": "thu hoạch",
+        "ja": "作物を取り入れる"
+      }
+    ]
+  },
+  {
+    "japanese": "成熟した社会",
+    "kana": "せいじゅくしたしゃかい",
+    "en": "a mature society",
+    "vi": "một xã hội trưởng thành",
+    "ja": "社会の仕組みや人々の考え方が十分に発達した社会。",
+    "parts": [
+      {
+        "text": "成熟した",
+        "kana": "せいじゅくした",
+        "en": "mature; developed",
+        "vi": "trưởng thành; phát triển",
+        "ja": "十分に成長した"
+      },
+      {
+        "text": "社会",
+        "kana": "しゃかい",
+        "en": "society",
+        "vi": "xã hội",
+        "ja": "社会"
+      }
+    ]
+  },
+  {
+    "japanese": "熟成したワイン",
+    "kana": "じゅくせいしたワイン",
+    "en": "aged wine",
+    "vi": "rượu vang được ủ chín",
+    "ja": "時間をかけて味や香りがよくなったワイン。",
+    "parts": [
+      {
+        "text": "熟成した",
+        "kana": "じゅくせいした",
+        "en": "aged; matured",
+        "vi": "được ủ chín",
+        "ja": "時間をかけて味や質がよくなった"
+      },
+      {
+        "text": "ワイン",
+        "kana": "ワイン",
+        "en": "wine",
+        "vi": "rượu vang",
+        "ja": "ワイン"
+      }
+    ]
+  },
+  {
+    "japanese": "熟練したパイロット",
+    "kana": "じゅくれんしたパイロット",
+    "en": "a skilled pilot",
+    "vi": "phi công lành nghề",
+    "ja": "経験を積み、操縦技術に優れたパイロット。",
+    "parts": [
+      {
+        "text": "熟練した",
+        "kana": "じゅくれんした",
+        "en": "skilled; experienced",
+        "vi": "lành nghề; giàu kinh nghiệm",
+        "ja": "経験を積んで技術に優れた"
+      },
+      {
+        "text": "パイロット",
+        "kana": "パイロット",
+        "en": "pilot",
+        "vi": "phi công",
+        "ja": "航空機を操縦する人"
+      }
+    ]
+  },
+  {
+    "japanese": "熟睡する",
+    "kana": "じゅくすいする",
+    "en": "Sleep soundly.",
+    "vi": "Ngủ say.",
+    "ja": "深くぐっすり眠る。",
+    "parts": [
+      {
+        "text": "熟睡する",
+        "kana": "じゅくすいする",
+        "en": "Sleep soundly.",
+        "vi": "Ngủ say.",
+        "ja": "深くぐっすり眠る。"
+      }
+    ]
+  },
+  {
+    "japanese": "未熟児",
+    "kana": "みじゅくじ",
+    "en": "premature or underdeveloped infant",
+    "vi": "trẻ sinh non hoặc chưa phát triển đầy đủ",
+    "ja": "母体内で十分に成長する前に生まれた子。",
+    "parts": [
+      {
+        "text": "未熟児",
+        "kana": "みじゅくじ",
+        "en": "premature or underdeveloped infant",
+        "vi": "trẻ sinh non hoặc chưa phát triển đầy đủ",
+        "ja": "母体内で十分に成長する前に生まれた子。"
+      }
+    ]
+  },
+  {
+    "japanese": "新薬開発の功績により勲章を賜る",
+    "kana": "しんやくかいはつのこうせきによりくんしょうをたまわる",
+    "en": "Be awarded a medal for achievements in developing a new drug.",
+    "vi": "Được ban tặng huân chương vì thành tích phát triển thuốc mới.",
+    "ja": "新薬開発の功績によって勲章をいただく。",
+    "parts": [
+      {
+        "text": "新薬",
+        "kana": "しんやく",
+        "en": "new medicine",
+        "vi": "thuốc mới",
+        "ja": "新しい薬"
+      },
+      {
+        "text": "開発",
+        "kana": "かいはつ",
+        "en": "development",
+        "vi": "phát triển",
+        "ja": "新しいものを作り出すこと"
+      },
+      {
+        "text": "の",
+        "kana": "の",
+        "en": "linking particle",
+        "vi": "trợ từ liên kết",
+        "ja": "名詞をつなぐ助詞"
+      },
+      {
+        "text": "功績",
+        "kana": "こうせき",
+        "en": "achievement; merit",
+        "vi": "công lao",
+        "ja": "優れた成果"
+      },
+      {
+        "text": "により",
+        "kana": "により",
+        "en": "because of; by virtue of",
+        "vi": "nhờ vào; bởi",
+        "ja": "原因や手段を示す"
+      },
+      {
+        "text": "勲章",
+        "kana": "くんしょう",
+        "en": "medal; decoration",
+        "vi": "huân chương",
+        "ja": "功績をたたえて授ける章"
+      },
+      {
+        "text": "を",
+        "kana": "を",
+        "en": "object particle",
+        "vi": "trợ từ chỉ tân ngữ",
+        "ja": "目的語を示す助詞"
+      },
+      {
+        "text": "賜る",
+        "kana": "たまわる",
+        "en": "receive (humbly); be bestowed",
+        "vi": "được ban tặng",
+        "ja": "目上の人からいただく（謙譲語）"
+      }
+    ]
+  },
+  {
+    "japanese": "文化勲章",
+    "kana": "ぶんかくんしょう",
+    "en": "Order of Culture",
+    "vi": "Huân chương Văn hóa",
+    "ja": "文化の発展に大きく貢献した人に授与される日本の勲章。",
+    "parts": [
+      {
+        "text": "文化勲章",
+        "kana": "ぶんかくんしょう",
+        "en": "Order of Culture",
+        "vi": "Huân chương Văn hóa",
+        "ja": "文化の発展に大きく貢献した人に授与される日本の勲章。"
+      }
+    ]
+  },
+  {
+    "japanese": "先生の忠告に耳を傾ける",
+    "kana": "せんせいのちゅうこくにみみをかたむける",
+    "en": "Listen carefully to the teacher's advice.",
+    "vi": "Lắng nghe lời khuyên của giáo viên.",
+    "ja": "先生の忠告を注意深く聞く。",
+    "parts": [
+      {
+        "text": "先生",
+        "kana": "せんせい",
+        "en": "teacher",
+        "vi": "thầy/cô giáo",
+        "ja": "先生"
+      },
+      {
+        "text": "の",
+        "kana": "の",
+        "en": "linking particle",
+        "vi": "trợ từ liên kết",
+        "ja": "名詞をつなぐ助詞"
+      },
+      {
+        "text": "忠告",
+        "kana": "ちゅうこく",
+        "en": "advice; warning",
+        "vi": "lời khuyên; cảnh báo",
+        "ja": "相手のために注意すること"
+      },
+      {
+        "text": "に",
+        "kana": "に",
+        "en": "to; target particle",
+        "vi": "trợ từ chỉ đối tượng",
+        "ja": "対象を示す助詞"
+      },
+      {
+        "text": "耳",
+        "kana": "みみ",
+        "en": "ear",
+        "vi": "tai",
+        "ja": "耳"
+      },
+      {
+        "text": "を",
+        "kana": "を",
+        "en": "object particle",
+        "vi": "trợ từ chỉ tân ngữ",
+        "ja": "目的語を示す助詞"
+      },
+      {
+        "text": "傾ける",
+        "kana": "かたむける",
+        "en": "lend; turn (one’s ear)",
+        "vi": "lắng nghe",
+        "ja": "注意して聞く"
+      }
+    ]
+  },
+  {
+    "japanese": "忠実な部下を持つ",
+    "kana": "ちゅうじつなぶかをもつ",
+    "en": "Have a loyal subordinate.",
+    "vi": "Có cấp dưới trung thành.",
+    "ja": "誠実でよく従う部下がいる。",
+    "parts": [
+      {
+        "text": "忠実な",
+        "kana": "ちゅうじつな",
+        "en": "faithful; loyal",
+        "vi": "trung thành",
+        "ja": "誠実でよく従う"
+      },
+      {
+        "text": "部下",
+        "kana": "ぶか",
+        "en": "subordinate",
+        "vi": "cấp dưới",
+        "ja": "下の立場で仕える人"
+      },
+      {
+        "text": "を",
+        "kana": "を",
+        "en": "object particle",
+        "vi": "trợ từ chỉ tân ngữ",
+        "ja": "目的語を示す助詞"
+      },
+      {
+        "text": "持つ",
+        "kana": "もつ",
+        "en": "have",
+        "vi": "có",
+        "ja": "所有する"
+      }
+    ]
+  },
+  {
+    "japanese": "原作に忠実な映画",
+    "kana": "げんさくにちゅうじつなえいが",
+    "en": "a film faithful to the original work",
+    "vi": "bộ phim trung thành với nguyên tác",
+    "ja": "原作の内容や設定をよく保った映画。",
+    "parts": [
+      {
+        "text": "原作",
+        "kana": "げんさく",
+        "en": "original work",
+        "vi": "tác phẩm gốc",
+        "ja": "映画などのもとになった作品"
+      },
+      {
+        "text": "に",
+        "kana": "に",
+        "en": "to; reference particle",
+        "vi": "trợ từ chỉ sự đối chiếu",
+        "ja": "基準や対象を示す助詞"
+      },
+      {
+        "text": "忠実な",
+        "kana": "ちゅうじつな",
+        "en": "faithful; true to",
+        "vi": "trung thành; sát với",
+        "ja": "元のものから離れていない"
+      },
+      {
+        "text": "映画",
+        "kana": "えいが",
+        "en": "film; movie",
+        "vi": "phim",
+        "ja": "映画"
+      }
+    ]
+  },
+  {
+    "japanese": "医師を志す",
+    "kana": "いしをこころざす",
+    "en": "Aspire to become a doctor.",
+    "vi": "Nuôi chí trở thành bác sĩ.",
+    "ja": "医師になることを目指す。",
+    "parts": [
+      {
+        "text": "医師",
+        "kana": "いし",
+        "en": "physician",
+        "vi": "bác sĩ",
+        "ja": "医師"
+      },
+      {
+        "text": "を",
+        "kana": "を",
+        "en": "object particle",
+        "vi": "trợ từ chỉ tân ngữ",
+        "ja": "目的語を示す助詞"
+      },
+      {
+        "text": "志す",
+        "kana": "こころざす",
+        "en": "aspire to; aim to become",
+        "vi": "nuôi chí hướng trở thành",
+        "ja": "目標として目指す"
+      }
+    ]
+  },
+  {
+    "japanese": "志が高い",
+    "kana": "こころざしがたかい",
+    "en": "Have lofty ambitions.",
+    "vi": "Có chí hướng cao đẹp.",
+    "ja": "目指す目標や理想が高い。",
+    "parts": [
+      {
+        "text": "志",
+        "kana": "こころざし",
+        "en": "ambition; aspiration",
+        "vi": "chí hướng",
+        "ja": "目指す目標や理想"
+      },
+      {
+        "text": "が",
+        "kana": "が",
+        "en": "subject particle",
+        "vi": "trợ từ chủ ngữ",
+        "ja": "主語を示す助詞"
+      },
+      {
+        "text": "高い",
+        "kana": "たかい",
+        "en": "high; lofty",
+        "vi": "cao cả",
+        "ja": "程度や水準が高い"
+      }
+    ]
+  },
+  {
+    "japanese": "志望校を決める",
+    "kana": "しぼうこうをきめる",
+    "en": "Choose the school one hopes to attend.",
+    "vi": "Quyết định trường nguyện vọng.",
+    "ja": "入学したい学校を決める。",
+    "parts": [
+      {
+        "text": "志望校",
+        "kana": "しぼうこう",
+        "en": "school of choice",
+        "vi": "trường nguyện vọng",
+        "ja": "入学を希望する学校"
+      },
+      {
+        "text": "を",
+        "kana": "を",
+        "en": "object particle",
+        "vi": "trợ từ chỉ tân ngữ",
+        "ja": "目的語を示す助詞"
+      },
+      {
+        "text": "決める",
+        "kana": "きめる",
+        "en": "decide; choose",
+        "vi": "quyết định; chọn",
+        "ja": "決定する"
+      }
+    ]
+  },
+  {
+    "japanese": "ブランド志向",
+    "kana": "ブランドしこう",
+    "en": "preference for brand-name goods",
+    "vi": "xu hướng chuộng hàng hiệu",
+    "ja": "有名ブランドの商品を好む傾向。",
+    "parts": [
+      {
+        "text": "ブランド志向",
+        "kana": "ブランドしこう",
+        "en": "preference for brand-name goods",
+        "vi": "xu hướng chuộng hàng hiệu",
+        "ja": "有名ブランドの商品を好む傾向。"
+      }
+    ]
+  },
+  {
+    "japanese": "ライバルに闘志を燃やす",
+    "kana": "ライバルにとうしをもやす",
+    "en": "Feel fired up to compete against a rival.",
+    "vi": "Bùng cháy tinh thần chiến đấu trước đối thủ.",
+    "ja": "ライバルに対抗しようと闘争心を高める。",
+    "parts": [
+      {
+        "text": "ライバル",
+        "kana": "ライバル",
+        "en": "rival",
+        "vi": "đối thủ",
+        "ja": "競争相手"
+      },
+      {
+        "text": "に",
+        "kana": "に",
+        "en": "toward; target particle",
+        "vi": "trợ từ chỉ đối tượng",
+        "ja": "対象を示す助詞"
+      },
+      {
+        "text": "闘志",
+        "kana": "とうし",
+        "en": "fighting spirit",
+        "vi": "ý chí chiến đấu",
+        "ja": "戦おうとする意気込み"
+      },
+      {
+        "text": "を",
+        "kana": "を",
+        "en": "object particle",
+        "vi": "trợ từ chỉ tân ngữ",
+        "ja": "目的語を示す助詞"
+      },
+      {
+        "text": "燃やす",
+        "kana": "もやす",
+        "en": "kindle; fire up",
+        "vi": "khơi dậy; nung nấu",
+        "ja": "情熱や意欲を高める"
+      }
+    ]
+  },
+  {
+    "japanese": "努力を怠り試験に落ちる",
+    "kana": "どりょくをおこたりしけんにおちる",
+    "en": "Fail an exam after neglecting to make an effort.",
+    "vi": "Thi trượt vì lơ là nỗ lực.",
+    "ja": "努力を十分にしなかったため試験に不合格になる。",
+    "parts": [
+      {
+        "text": "努力",
+        "kana": "どりょく",
+        "en": "effort",
+        "vi": "nỗ lực",
+        "ja": "努力"
+      },
+      {
+        "text": "を",
+        "kana": "を",
+        "en": "object particle",
+        "vi": "trợ từ chỉ tân ngữ",
+        "ja": "目的語を示す助詞"
+      },
+      {
+        "text": "怠り",
+        "kana": "おこたり",
+        "en": "neglecting; slacking off",
+        "vi": "xao nhãng",
+        "ja": "怠ること"
+      },
+      {
+        "text": "試験",
+        "kana": "しけん",
+        "en": "exam",
+        "vi": "kỳ thi",
+        "ja": "試験"
+      },
+      {
+        "text": "に",
+        "kana": "に",
+        "en": "in; result particle",
+        "vi": "trợ từ chỉ kết quả",
+        "ja": "結果や到達点を示す助詞"
+      },
+      {
+        "text": "落ちる",
+        "kana": "おちる",
+        "en": "fail",
+        "vi": "trượt",
+        "ja": "試験に合格しない"
+      }
+    ]
+  },
+  {
+    "japanese": "仕事を怠ける",
+    "kana": "しごとをなまける",
+    "en": "Be lazy about one's work.",
+    "vi": "Lười làm việc.",
+    "ja": "すべき仕事をきちんとしない。",
+    "parts": [
+      {
+        "text": "仕事",
+        "kana": "しごと",
+        "en": "work",
+        "vi": "công việc",
+        "ja": "仕事"
+      },
+      {
+        "text": "を",
+        "kana": "を",
+        "en": "object particle",
+        "vi": "trợ từ chỉ tân ngữ",
+        "ja": "目的語を示す助詞"
+      },
+      {
+        "text": "怠ける",
+        "kana": "なまける",
+        "en": "slack off; neglect",
+        "vi": "lười biếng; chểnh mảng",
+        "ja": "すべきことをしない"
+      }
+    ]
+  },
+  {
+    "japanese": "怠け者",
+    "kana": "なまけもの",
+    "en": "lazy person; idler",
+    "vi": "người lười biếng",
+    "ja": "仕事や努力をしようとしない人。",
+    "parts": [
+      {
+        "text": "怠け者",
+        "kana": "なまけもの",
+        "en": "lazy person; idler",
+        "vi": "người lười biếng",
+        "ja": "仕事や努力をしようとしない人。"
+      }
+    ]
+  },
+  {
+    "japanese": "勤怠管理",
+    "kana": "きんたいかんり",
+    "en": "attendance and work-time management",
+    "vi": "quản lý chấm công và giờ làm",
+    "ja": "従業員の出勤・欠勤や勤務時間を管理すること。",
+    "parts": [
+      {
+        "text": "勤怠管理",
+        "kana": "きんたいかんり",
+        "en": "attendance and work-time management",
+        "vi": "quản lý chấm công và giờ làm",
+        "ja": "従業員の出勤・欠勤や勤務時間を管理すること。"
+      }
+    ]
+  },
+  {
+    "japanese": "泣きたい気持ちを忍んで笑顔をつくる",
+    "kana": "なきたいきもちをしのんでえがおをつくる",
+    "en": "Suppress the urge to cry and put on a smile.",
+    "vi": "Nén cảm giác muốn khóc và cố nở nụ cười.",
+    "ja": "泣きたい思いをこらえて笑顔を見せる。",
+    "parts": [
+      {
+        "text": "泣きたい",
+        "kana": "なきたい",
+        "en": "want to cry",
+        "vi": "muốn khóc",
+        "ja": "泣くことを望む"
+      },
+      {
+        "text": "気持ち",
+        "kana": "きもち",
+        "en": "feeling",
+        "vi": "cảm xúc",
+        "ja": "心の状態"
+      },
+      {
+        "text": "を",
+        "kana": "を",
+        "en": "object particle",
+        "vi": "trợ từ chỉ tân ngữ",
+        "ja": "目的語を示す助詞"
+      },
+      {
+        "text": "忍んで",
+        "kana": "しのんで",
+        "en": "suppressing; enduring",
+        "vi": "kìm nén",
+        "ja": "感情などをこらえて"
+      },
+      {
+        "text": "笑顔",
+        "kana": "えがお",
+        "en": "smile",
+        "vi": "nụ cười",
+        "ja": "笑っている顔"
+      },
+      {
+        "text": "を",
+        "kana": "を",
+        "en": "object particle",
+        "vi": "trợ từ chỉ tân ngữ",
+        "ja": "目的語を示す助詞"
+      },
+      {
+        "text": "つくる",
+        "kana": "つくる",
+        "en": "make; put on",
+        "vi": "tạo ra; nở",
+        "ja": "作り出す"
+      }
+    ]
+  },
+  {
+    "japanese": "足音を忍ばせて、そっと彼の背後に近づいた",
+    "kana": "あしおとをしのばせて、そっとかれのはいごにちかづいた",
+    "en": "Quietly crept up behind him, suppressing the sound of footsteps.",
+    "vi": "Khẽ khàng tiến lại phía sau anh ấy, cố không gây tiếng động.",
+    "ja": "足音を立てないようにして、静かに彼の後ろへ近づいた。",
+    "parts": [
+      {
+        "text": "足音",
+        "kana": "あしおと",
+        "en": "footsteps",
+        "vi": "tiếng bước chân",
+        "ja": "歩くときの音"
+      },
+      {
+        "text": "を",
+        "kana": "を",
+        "en": "object particle",
+        "vi": "trợ từ chỉ tân ngữ",
+        "ja": "目的語を示す助詞"
+      },
+      {
+        "text": "忍ばせて",
+        "kana": "しのばせて",
+        "en": "suppressing; keeping quiet",
+        "vi": "kiềm lại; làm nhẹ",
+        "ja": "音などを立てないようにして"
+      },
+      {
+        "text": "、そっと",
+        "kana": "、そっと",
+        "en": "quietly; gently",
+        "vi": "khẽ khàng",
+        "ja": "静かに（読点は区切り）"
+      },
+      {
+        "text": "彼",
+        "kana": "かれ",
+        "en": "he; him",
+        "vi": "anh ấy",
+        "ja": "彼"
+      },
+      {
+        "text": "の",
+        "kana": "の",
+        "en": "linking particle",
+        "vi": "trợ từ liên kết",
+        "ja": "名詞をつなぐ助詞"
+      },
+      {
+        "text": "背後",
+        "kana": "はいご",
+        "en": "behind; rear",
+        "vi": "phía sau",
+        "ja": "後ろ側"
+      },
+      {
+        "text": "に",
+        "kana": "に",
+        "en": "toward; destination particle",
+        "vi": "trợ từ chỉ hướng/đích",
+        "ja": "到達点を示す助詞"
+      },
+      {
+        "text": "近づいた",
+        "kana": "ちかづいた",
+        "en": "approached",
+        "vi": "đã tiến lại gần",
+        "ja": "近くへ寄った"
+      }
+    ]
+  },
+  {
+    "japanese": "忍耐強い性格",
+    "kana": "にんたいづよいせいかく",
+    "en": "a patient, persevering character",
+    "vi": "tính cách kiên nhẫn, bền bỉ",
+    "ja": "苦しさや困難を我慢強く耐える性格。",
+    "parts": [
+      {
+        "text": "忍耐",
+        "kana": "にんたい",
+        "en": "patience; perseverance",
+        "vi": "sự kiên nhẫn",
+        "ja": "苦しさに耐えること"
+      },
+      {
+        "text": "強い",
+        "kana": "づよい",
+        "en": "strong; having much",
+        "vi": "bền bỉ; có tính",
+        "ja": "程度が大きい（複合語の形）"
+      },
+      {
+        "text": "性格",
+        "kana": "せいかく",
+        "en": "personality",
+        "vi": "tính cách",
+        "ja": "性格"
+      }
+    ]
+  },
+  {
+    "japanese": "忍者",
+    "kana": "にんじゃ",
+    "en": "ninja",
+    "vi": "ninja",
+    "ja": "忍術を使って活動したとされる者。",
+    "parts": [
+      {
+        "text": "忍者",
+        "kana": "にんじゃ",
+        "en": "ninja",
+        "vi": "ninja",
+        "ja": "忍術を使って活動したとされる者。"
+      }
+    ]
+  },
+  {
+    "japanese": "残忍な犯行",
+    "kana": "ざんにんなはんこう",
+    "en": "a cruel, brutal crime",
+    "vi": "hành vi phạm tội tàn nhẫn",
+    "ja": "人にひどい苦痛を与える残酷な犯罪行為。",
+    "parts": [
+      {
+        "text": "残忍な",
+        "kana": "ざんにんな",
+        "en": "cruel; brutal",
+        "vi": "tàn nhẫn",
+        "ja": "むごくて思いやりのない"
+      },
+      {
+        "text": "犯行",
+        "kana": "はんこう",
+        "en": "crime; criminal act",
+        "vi": "hành vi phạm tội",
+        "ja": "犯罪行為"
+      }
+    ]
+  },
+  {
+    "japanese": "鉛筆の芯",
+    "kana": "えんぴつのしん",
+    "en": "pencil lead; pencil core",
+    "vi": "ruột bút chì",
+    "ja": "鉛筆の中心にある、文字を書く部分。",
+    "parts": [
+      {
+        "text": "鉛筆",
+        "kana": "えんぴつ",
+        "en": "pencil",
+        "vi": "bút chì",
+        "ja": "鉛筆"
+      },
+      {
+        "text": "の",
+        "kana": "の",
+        "en": "linking particle",
+        "vi": "trợ từ liên kết",
+        "ja": "名詞をつなぐ助詞"
+      },
+      {
+        "text": "芯",
+        "kana": "しん",
+        "en": "core; lead",
+        "vi": "ruột; lõi",
+        "ja": "中心にある部分"
+      }
+    ]
+  },
+  {
+    "japanese": "芯が強い女性",
+    "kana": "しんがつよいじょせい",
+    "en": "a strong-willed woman",
+    "vi": "người phụ nữ có ý chí mạnh mẽ",
+    "ja": "外見は柔らかくても、内面に強い意志を持つ女性。",
+    "parts": [
+      {
+        "text": "芯",
+        "kana": "しん",
+        "en": "inner core; resolve",
+        "vi": "ý chí bên trong",
+        "ja": "物事の中心や心の強さ"
+      },
+      {
+        "text": "が",
+        "kana": "が",
+        "en": "subject particle",
+        "vi": "trợ từ chủ ngữ",
+        "ja": "主語を示す助詞"
+      },
+      {
+        "text": "強い",
+        "kana": "つよい",
+        "en": "strong",
+        "vi": "mạnh mẽ",
+        "ja": "力や意志が強い"
+      },
+      {
+        "text": "女性",
+        "kana": "じょせい",
+        "en": "woman",
+        "vi": "phụ nữ",
+        "ja": "女性"
+      }
+    ]
+  },
+  {
+    "japanese": "恥を知りなさい",
+    "kana": "はじをしりなさい",
+    "en": "You should be ashamed.",
+    "vi": "Hãy biết xấu hổ đi.",
+    "ja": "恥ずべきことだと自覚しなさい。",
+    "parts": [
+      {
+        "text": "恥",
+        "kana": "はじ",
+        "en": "shame",
+        "vi": "sự xấu hổ",
+        "ja": "恥ずかしいこと"
+      },
+      {
+        "text": "を",
+        "kana": "を",
+        "en": "object particle",
+        "vi": "trợ từ chỉ tân ngữ",
+        "ja": "目的語を示す助詞"
+      },
+      {
+        "text": "知りなさい",
+        "kana": "しりなさい",
+        "en": "know; recognize (imperative)",
+        "vi": "hãy biết; hãy nhận ra",
+        "ja": "知るように促す表現"
+      }
+    ]
+  },
+  {
+    "japanese": "自分の無知を恥じる",
+    "kana": "じぶんのむちをはじる",
+    "en": "Be ashamed of one's ignorance.",
+    "vi": "Hổ thẹn vì sự thiếu hiểu biết của bản thân.",
+    "ja": "自分が知らないことを恥ずかしく思う。",
+    "parts": [
+      {
+        "text": "自分",
+        "kana": "じぶん",
+        "en": "oneself",
+        "vi": "bản thân",
+        "ja": "自分"
+      },
+      {
+        "text": "の",
+        "kana": "の",
+        "en": "linking particle",
+        "vi": "trợ từ liên kết",
+        "ja": "名詞をつなぐ助詞"
+      },
+      {
+        "text": "無知",
+        "kana": "むち",
+        "en": "ignorance",
+        "vi": "sự thiếu hiểu biết",
+        "ja": "知らないこと"
+      },
+      {
+        "text": "を",
+        "kana": "を",
+        "en": "object particle",
+        "vi": "trợ từ chỉ tân ngữ",
+        "ja": "目的語を示す助詞"
+      },
+      {
+        "text": "恥じる",
+        "kana": "はじる",
+        "en": "be ashamed of",
+        "vi": "hổ thẹn",
+        "ja": "恥ずかしく思う"
+      }
+    ]
+  },
+  {
+    "japanese": "君には羞恥心がないの？",
+    "kana": "きみにはしゅうちしんがないの",
+    "en": "Don't you have any sense of shame?",
+    "vi": "Cậu không biết xấu hổ à?",
+    "ja": "相手に恥ずかしいという気持ちがないのか尋ねる口語表現。",
+    "parts": [
+      {
+        "text": "君",
+        "kana": "きみ",
+        "en": "you",
+        "vi": "cậu; bạn",
+        "ja": "相手を指す語"
+      },
+      {
+        "text": "に",
+        "kana": "に",
+        "en": "to; for",
+        "vi": "trợ từ chỉ đối tượng",
+        "ja": "対象を示す助詞"
+      },
+      {
+        "text": "は",
+        "kana": "は",
+        "en": "topic particle",
+        "vi": "trợ từ chủ đề",
+        "ja": "話題を示す助詞"
+      },
+      {
+        "text": "羞恥心",
+        "kana": "しゅうちしん",
+        "en": "sense of shame",
+        "vi": "ý thức xấu hổ",
+        "ja": "恥ずかしいと感じる心"
+      },
+      {
+        "text": "が",
+        "kana": "が",
+        "en": "subject particle",
+        "vi": "trợ từ chủ ngữ",
+        "ja": "主語を示す助詞"
+      },
+      {
+        "text": "ない",
+        "kana": "ない",
+        "en": "not have; there is no",
+        "vi": "không có",
+        "ja": "存在しないことを表す"
+      },
+      {
+        "text": "の？",
+        "kana": "の",
+        "en": "question-ending particle",
+        "vi": "trợ từ nghi vấn cuối câu",
+        "ja": "疑問を表す終助詞"
+      }
+    ]
+  },
+  {
+    "japanese": "憩いの場",
+    "kana": "いこいのば",
+    "en": "place of relaxation",
+    "vi": "nơi nghỉ ngơi, thư giãn",
+    "ja": "人々がくつろぎ、休息する場所。",
+    "parts": [
+      {
+        "text": "憩い",
+        "kana": "いこい",
+        "en": "rest; relaxation",
+        "vi": "sự nghỉ ngơi",
+        "ja": "くつろいで休むこと"
+      },
+      {
+        "text": "の",
+        "kana": "の",
+        "en": "linking particle",
+        "vi": "trợ từ liên kết",
+        "ja": "名詞をつなぐ助詞"
+      },
+      {
+        "text": "場",
+        "kana": "ば",
+        "en": "place",
+        "vi": "nơi chốn",
+        "ja": "場所"
+      }
+    ]
+  },
+  {
+    "japanese": "しばらく休憩する",
+    "kana": "しばらくきゅうけいする",
+    "en": "Take a short break.",
+    "vi": "Nghỉ giải lao một lúc.",
+    "ja": "少しの間、仕事や活動を休む。",
+    "parts": [
+      {
+        "text": "しばらく",
+        "kana": "しばらく",
+        "en": "for a while",
+        "vi": "một lúc",
+        "ja": "少しの間"
+      },
+      {
+        "text": "休憩する",
+        "kana": "きゅうけいする",
+        "en": "take a break",
+        "vi": "nghỉ giải lao",
+        "ja": "仕事などを一時休む"
+      }
+    ]
+  }
+]

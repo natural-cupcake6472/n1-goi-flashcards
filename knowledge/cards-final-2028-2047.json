@@ -1,0 +1,22 @@
+[
+  {"japanese":"債務","kana":"さいむ","en":"debt; liability","vi":"khoản nợ; nghĩa vụ nợ","ja":"他人に金銭などを返す義務。","parts":[{"text":"債務","kana":"さいむ","en":"debt; liability","vi":"khoản nợ; nghĩa vụ nợ","ja":"他人に対して負っている返済などの義務。"}]},
+  {"japanese":"積む","kana":"つむ","en":"pile up; load","vi":"chất đống; chất hàng","ja":"物を上へ重ねる。また、荷物を車などに載せる。","parts":[{"text":"積む","kana":"つむ","en":"pile up; load","vi":"xếp chồng; chất lên","ja":"物を重ねたり、荷物を載せたりする。"}]},
+  {"japanese":"面積","kana":"めんせき","en":"area; surface area","vi":"diện tích","ja":"平面の広さを数で表したもの。","parts":[{"text":"面積","kana":"めんせき","en":"area; surface area","vi":"diện tích","ja":"平面が占める広さ。"}]},
+  {"japanese":"成績","kana":"せいせき","en":"results; grades; record","vi":"thành tích; điểm số","ja":"学習や仕事などの出来具合や結果。","parts":[{"text":"成績","kana":"せいせき","en":"results; grades","vi":"thành tích; điểm số","ja":"学習や仕事の結果や評価。"}]},
+  {"japanese":"契る","kana":"ちぎる","en":"pledge; vow","vi":"thề ước; hẹn ước","ja":"将来の約束を固く交わす。","parts":[{"text":"契る","kana":"ちぎる","en":"pledge; vow","vi":"thề ước; hẹn ước","ja":"約束を固く交わす。"}]},
+  {"japanese":"契約","kana":"けいやく","en":"contract; agreement","vi":"hợp đồng; thỏa thuận","ja":"当事者同士が合意して結ぶ約束。","parts":[{"text":"契約","kana":"けいやく","en":"contract; agreement","vi":"hợp đồng; thỏa thuận","ja":"当事者間で合意した約束。"}]},
+  {"japanese":"喫煙","kana":"きつえん","en":"smoking","vi":"việc hút thuốc","ja":"たばこを吸うこと。","parts":[{"text":"喫煙","kana":"きつえん","en":"smoking","vi":"việc hút thuốc","ja":"たばこを吸うこと。"}]},
+  {"japanese":"潔い","kana":"いさぎよい","en":"gallant; honorable; unhesitating","vi":"đường hoàng; chính trực","ja":"未練を残さず、思い切りがよい。","parts":[{"text":"潔い","kana":"いさぎよい","en":"gallant; honorable; unhesitating","vi":"đường hoàng; dứt khoát","ja":"卑怯なところがなく、きっぱりしている。"}]},
+  {"japanese":"清潔","kana":"せいけつ","en":"clean; hygienic","vi":"sạch sẽ; vệ sinh","ja":"汚れがなく、衛生的であること。","parts":[{"text":"清潔","kana":"せいけつ","en":"clean; hygienic","vi":"sạch sẽ; vệ sinh","ja":"汚れがなく、清らかな状態。"}]},
+  {"japanese":"添える","kana":"そえる","en":"add; attach; accompany","vi":"thêm vào; đính kèm","ja":"主となるものに、別のものを付け加える。","parts":[{"text":"添える","kana":"そえる","en":"add; attach; accompany","vi":"thêm vào; đính kèm","ja":"主となるものに別のものを付け加える。"}]},
+  {"japanese":"添付","kana":"てんぷ","en":"attachment; enclosure","vi":"tệp đính kèm; tài liệu kèm theo","ja":"書類などに別のものを付け加えること。","parts":[{"text":"添付","kana":"てんぷ","en":"attachment; enclosure","vi":"tệp đính kèm","ja":"書類やメールに別の資料を付け加えること。"}]},
+  {"japanese":"利益","kana":"りえき","en":"profit; benefit; interest","vi":"lợi nhuận; lợi ích","ja":"得になること。また、収入から費用を引いた儲け。","parts":[{"text":"利益","kana":"りえき","en":"profit; benefit","vi":"lợi nhuận; lợi ích","ja":"得られる益や、収入から費用を引いた儲け。"}]},
+  {"japanese":"猛烈","kana":"もうれつ","en":"fierce; intense","vi":"mãnh liệt; dữ dội","ja":"勢いや程度が非常に強いこと。","parts":[{"text":"猛烈","kana":"もうれつ","en":"fierce; intense","vi":"mãnh liệt; dữ dội","ja":"勢いや程度が極めて強いこと。"}]},
+  {"japanese":"崩れる","kana":"くずれる","en":"collapse; crumble","vi":"sụp đổ; đổ vỡ","ja":"まとまっていたものが壊れて形を失う。","parts":[{"text":"崩れる","kana":"くずれる","en":"collapse; crumble","vi":"sụp đổ; đổ vỡ","ja":"まとまった形が壊れて失われる。"}]},
+  {"japanese":"崩壊","kana":"ほうかい","en":"collapse; disintegration","vi":"sự sụp đổ; tan rã","ja":"組織や建物などが崩れて壊れること。","parts":[{"text":"崩壊","kana":"ほうかい","en":"collapse; disintegration","vi":"sự sụp đổ; tan rã","ja":"まとまりを持つものが崩れて壊れること。"}]},
+  {"japanese":"人脈","kana":"じんみゃく","en":"personal connections; network","vi":"mối quan hệ; mạng lưới quen biết","ja":"仕事や活動を通じてつながる人々の関係。","parts":[{"text":"人脈","kana":"じんみゃく","en":"personal connections; network","vi":"mối quan hệ; mạng lưới","ja":"人と人とのつながりや関係。"}]},
+  {"japanese":"腕","kana":"うで","en":"arm; skill; ability","vi":"cánh tay; tài năng","ja":"肩から手首までの部分。また、技量。","parts":[{"text":"腕","kana":"うで","en":"arm; skill; ability","vi":"cánh tay; tài năng","ja":"肩から手までの部分。転じて能力や技量。"}]},
+  {"japanese":"手腕","kana":"しゅわん","en":"ability; skill; competence","vi":"năng lực; tài điều hành","ja":"物事をうまく処理する能力。","parts":[{"text":"手腕","kana":"しゅわん","en":"ability; skill; competence","vi":"năng lực; tài điều hành","ja":"物事を処理する優れた能力。"}]},
+  {"japanese":"複雑","kana":"ふくざつ","en":"complicated; complex","vi":"phức tạp","ja":"物事の関係や仕組みが入り組んでいること。","parts":[{"text":"複雑","kana":"ふくざつ","en":"complicated; complex","vi":"phức tạp","ja":"物事が入り組み、単純でないこと。"}]},
+  {"japanese":"復習","kana":"ふくしゅう","en":"review; revision","vi":"ôn tập","ja":"一度学んだことを、もう一度学び直すこと。","parts":[{"text":"復習","kana":"ふくしゅう","en":"review; revision","vi":"ôn tập","ja":"学んだ内容を繰り返し学び、確かめること。"}]}
+]

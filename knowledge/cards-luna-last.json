@@ -1,0 +1,22 @@
+[
+  {
+    "japanese": "とても壮大なスケールの計画だが、とても実現できるとは思えない",
+    "kana": "とてもそうだいなスケールのけいかくだが、とてもじつげんできるとはおもえない",
+    "en": "It's an extremely ambitious plan, but I don't think it can be realized.",
+    "vi": "Đó là một kế hoạch có quy mô vô cùng lớn, nhưng tôi không nghĩ nó có thể thành hiện thực.",
+    "ja": "非常に壮大な計画だが、実現できるとは思えないという意味。",
+    "parts": [
+      {"text":"とても","kana":"とても","en":"very; extremely","vi":"rất; vô cùng","ja":"程度が大きいことを表す副詞。"},
+      {"text":"壮大な","kana":"そうだいな","en":"grand; ambitious","vi":"tráng lệ; quy mô lớn","ja":"規模が大きく立派なさま。"},
+      {"text":"スケール","kana":"スケール","en":"scale; scope","vi":"quy mô","ja":"物事の規模や大きさ。"},
+      {"text":"の","kana":"の","en":"links the scale to the plan","vi":"nối quy mô với kế hoạch","ja":"前の語句が後ろの名詞を修飾する助詞。"},
+      {"text":"計画","kana":"けいかく","en":"plan","vi":"kế hoạch","ja":"実行するためにあらかじめ考えた案。"},
+      {"text":"だが、","kana":"だが、","en":"but; however,","vi":"nhưng,","ja":"逆接を表す接続表現と読点。"},
+      {"text":"とても","kana":"とても","en":"very; (with negation) not at all","vi":"rất; (đi với phủ định) không thể nào","ja":"ここでは後ろの否定表現を強める副詞。"},
+      {"text":"実現","kana":"じつげん","en":"realization; implementation","vi":"sự thực hiện; hiện thực hóa","ja":"計画などを実際のものにすること。"},
+      {"text":"できる","kana":"できる","en":"can; be possible","vi":"có thể","ja":"可能であることを表す。"},
+      {"text":"とは","kana":"とは","en":"that; as for the proposition that","vi":"rằng; việc mà","ja":"引用した内容を取り立てる表現。"},
+      {"text":"思えない","kana":"おもえない","en":"cannot think; do not believe","vi":"không thể nghĩ rằng; không tin là","ja":"「思える」の否定形。"}
+    ]
+  }
+]

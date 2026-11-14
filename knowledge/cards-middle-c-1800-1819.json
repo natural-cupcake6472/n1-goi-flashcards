@@ -1,0 +1,714 @@
+[
+  {
+    "japanese": "魚を養殖する",
+    "kana": "さかなをようしょくする",
+    "en": "Farm fish.",
+    "vi": "Nuôi cá.",
+    "ja": "魚を人工的に育てる。",
+    "parts": [
+      {
+        "text": "魚",
+        "kana": "さかな",
+        "en": "fish",
+        "vi": "cá",
+        "ja": "魚。"
+      },
+      {
+        "text": "を",
+        "en": "marks the object",
+        "vi": "đánh dấu tân ngữ",
+        "ja": "動作の対象を示す助詞。",
+        "kana": "を"
+      },
+      {
+        "text": "養殖する",
+        "kana": "ようしょくする",
+        "en": "farm; raise",
+        "vi": "nuôi; gây giống",
+        "ja": "魚介類を人工的に育てる。"
+      }
+    ]
+  },
+  {
+    "japanese": "財産を増殖する",
+    "kana": "ざいさんをぞうしょくする",
+    "en": "Increase one's assets.",
+    "vi": "Làm gia tăng tài sản.",
+    "ja": "財産の量を増やす。",
+    "parts": [
+      {
+        "text": "財産",
+        "kana": "ざいさん",
+        "en": "assets; property",
+        "vi": "tài sản",
+        "ja": "個人や団体が所有する財産。"
+      },
+      {
+        "text": "を",
+        "en": "marks the object",
+        "vi": "đánh dấu tân ngữ",
+        "ja": "動作の対象を示す助詞。",
+        "kana": "を"
+      },
+      {
+        "text": "増殖する",
+        "kana": "ぞうしょくする",
+        "en": "increase; multiply",
+        "vi": "gia tăng; nhân lên",
+        "ja": "数や量を増やす。"
+      }
+    ]
+  },
+  {
+    "japanese": "母国の旗を振る",
+    "kana": "ぼこくのはたをふる",
+    "en": "Wave one's country's flag.",
+    "vi": "Vẫy lá cờ quê hương.",
+    "ja": "自分の国の旗を振る。",
+    "parts": [
+      {
+        "text": "母国",
+        "kana": "ぼこく",
+        "en": "home country",
+        "vi": "quê hương; đất nước",
+        "ja": "自分の生まれ育った国。"
+      },
+      {
+        "text": "の",
+        "en": "links the possessor to what follows",
+        "vi": "nối danh từ bổ nghĩa với danh từ sau",
+        "ja": "前の名詞が後ろの名詞を限定する助詞。",
+        "kana": "の"
+      },
+      {
+        "text": "旗",
+        "kana": "はた",
+        "en": "flag",
+        "vi": "lá cờ",
+        "ja": "目印や象徴として掲げる布。"
+      },
+      {
+        "text": "を",
+        "en": "marks the object",
+        "vi": "đánh dấu tân ngữ",
+        "ja": "動作の対象を示す助詞。",
+        "kana": "を"
+      },
+      {
+        "text": "振る",
+        "kana": "ふる",
+        "en": "wave",
+        "vi": "vẫy",
+        "ja": "手などを動かして揺らす。"
+      }
+    ]
+  },
+  {
+    "japanese": "一旗あげようと上京する",
+    "kana": "ひとはたあげようとじょうきょうする",
+    "en": "Move to Tokyo hoping to make a name for oneself.",
+    "vi": "Lên Tokyo với hy vọng lập nghiệp.",
+    "ja": "成功して名を上げようと東京へ出る。",
+    "parts": [
+      {
+        "text": "一旗",
+        "kana": "ひとはた",
+        "en": "a name; success",
+        "vi": "thành công; danh tiếng",
+        "ja": "「一旗あげる」の形で、成功して名を上げること。"
+      },
+      {
+        "text": "あげよう",
+        "kana": "あげよう",
+        "en": "raise; achieve",
+        "vi": "gây dựng; đạt được",
+        "ja": "ここでは「一旗あげる」という慣用表現の一部。"
+      },
+      {
+        "text": "と",
+        "en": "marks an intention or aim",
+        "vi": "đánh dấu ý định",
+        "ja": "引用や意図の内容を示す助詞。",
+        "kana": "と"
+      },
+      {
+        "text": "上京する",
+        "kana": "じょうきょうする",
+        "en": "go to Tokyo",
+        "vi": "lên Tokyo",
+        "ja": "地方から東京へ行く。"
+      }
+    ]
+  },
+  {
+    "japanese": "開会式で旗手を務める",
+    "kana": "かいかいしきではたてをつとめる",
+    "en": "Serve as flag bearer at the opening ceremony.",
+    "vi": "Làm người cầm cờ trong lễ khai mạc.",
+    "ja": "開会式で旗を持つ役を務める。",
+    "parts": [
+      {
+        "text": "開会式",
+        "kana": "かいかいしき",
+        "en": "opening ceremony",
+        "vi": "lễ khai mạc",
+        "ja": "会議や大会を始めるときの式。"
+      },
+      {
+        "text": "で",
+        "en": "at; in",
+        "vi": "tại; trong",
+        "ja": "動作が行われる場所や場面を示す助詞。",
+        "kana": "で"
+      },
+      {
+        "text": "旗手",
+        "kana": "はたて",
+        "en": "flag bearer",
+        "vi": "người cầm cờ",
+        "ja": "式典などで旗を持つ役の人。"
+      },
+      {
+        "text": "を",
+        "en": "marks the role/object",
+        "vi": "đánh dấu vai trò/đối tượng",
+        "ja": "動作の対象を示す助詞。",
+        "kana": "を"
+      },
+      {
+        "text": "務める",
+        "kana": "つとめる",
+        "en": "serve as; perform",
+        "vi": "đảm nhiệm",
+        "ja": "役目を引き受けて行う。"
+      }
+    ]
+  },
+  {
+    "japanese": "敵を欺く",
+    "kana": "てきをあざむく",
+    "en": "Deceive the enemy.",
+    "vi": "Đánh lừa kẻ thù.",
+    "ja": "敵をだまして誤った判断をさせる。",
+    "parts": [
+      {
+        "text": "敵",
+        "kana": "てき",
+        "en": "enemy",
+        "vi": "kẻ thù",
+        "ja": "争う相手。"
+      },
+      {
+        "text": "を",
+        "en": "marks the object",
+        "vi": "đánh dấu tân ngữ",
+        "ja": "動作の対象を示す助詞。",
+        "kana": "を"
+      },
+      {
+        "text": "欺く",
+        "kana": "あざむく",
+        "en": "deceive",
+        "vi": "đánh lừa",
+        "ja": "本当でないことを信じさせる。"
+      }
+    ]
+  },
+  {
+    "japanese": "詐欺に遭う",
+    "kana": "さぎにあう",
+    "en": "Fall victim to fraud.",
+    "vi": "Bị lừa đảo.",
+    "ja": "詐欺の被害に遭う。",
+    "parts": [
+      {
+        "text": "詐欺",
+        "kana": "さぎ",
+        "en": "fraud; scam",
+        "vi": "lừa đảo",
+        "ja": "人をだまして金品などを得ること。"
+      },
+      {
+        "text": "に",
+        "en": "marks the target/occasion",
+        "vi": "đánh dấu đối tượng/sự việc",
+        "ja": "動作や出来事の対象を示す助詞。",
+        "kana": "に"
+      },
+      {
+        "text": "遭う",
+        "kana": "あう",
+        "en": "fall victim to; encounter",
+        "vi": "gặp phải; trở thành nạn nhân",
+        "ja": "好ましくない出来事を経験する。"
+      }
+    ]
+  },
+  {
+    "japanese": "詐欺師",
+    "kana": "さぎし",
+    "en": "Swindler; fraudster.",
+    "vi": "Kẻ lừa đảo.",
+    "ja": "詐欺をする人。",
+    "parts": [
+      {
+        "text": "詐欺師",
+        "kana": "さぎし",
+        "en": "swindler; fraudster",
+        "vi": "kẻ lừa đảo",
+        "ja": "詐欺をする人。"
+      }
+    ]
+  },
+  {
+    "japanese": "詐欺罪で告発される",
+    "kana": "さぎざいでこくはつされる",
+    "en": "Be accused of fraud.",
+    "vi": "Bị tố cáo về tội lừa đảo.",
+    "ja": "詐欺罪で告発を受ける。",
+    "parts": [
+      {
+        "text": "詐欺罪",
+        "kana": "さぎざい",
+        "en": "fraud offense",
+        "vi": "tội lừa đảo",
+        "ja": "詐欺に当たる犯罪。"
+      },
+      {
+        "text": "で",
+        "en": "on the charge of; for",
+        "vi": "về; với cáo buộc",
+        "ja": "理由や資格などを示す助詞。",
+        "kana": "で"
+      },
+      {
+        "text": "告発される",
+        "kana": "こくはつされる",
+        "en": "be accused; be reported",
+        "vi": "bị tố cáo",
+        "ja": "不正や犯罪を公に訴えられる。"
+      }
+    ]
+  },
+  {
+    "japanese": "勘違いも甚だしい！",
+    "kana": "かんちがいもはなはだしい",
+    "en": "That is a tremendous misunderstanding!",
+    "vi": "Đúng là hiểu lầm quá mức!",
+    "ja": "勘違いの程度がひどすぎるという表現。",
+    "parts": [
+      {
+        "text": "勘違い",
+        "kana": "かんちがい",
+        "en": "misunderstanding",
+        "vi": "sự hiểu lầm",
+        "ja": "思い違いをすること。"
+      },
+      {
+        "text": "も",
+        "en": "even; indeed",
+        "vi": "đến mức; thật là",
+        "ja": "強調を表す助詞。",
+        "kana": "も"
+      },
+      {
+        "text": "甚だしい！",
+        "kana": "はなはだしい",
+        "en": "extreme; excessive",
+        "vi": "quá mức; nghiêm trọng",
+        "ja": "程度が非常に大きい。"
+      }
+    ]
+  },
+  {
+    "japanese": "今回の地震は甚大な被害をもたらした",
+    "kana": "こんかいのじしんはじんだいなひがいをもたらした",
+    "en": "This earthquake caused enormous damage.",
+    "vi": "Trận động đất lần này gây thiệt hại to lớn.",
+    "ja": "今回の地震によって非常に大きな被害が生じた。",
+    "parts": [
+      {
+        "text": "今回",
+        "kana": "こんかい",
+        "en": "this time",
+        "vi": "lần này",
+        "ja": "今度の機会。"
+      },
+      {
+        "text": "の",
+        "en": "links modifier to noun",
+        "vi": "nối danh từ bổ nghĩa với danh từ sau",
+        "ja": "前の名詞が後ろの名詞を限定する助詞。",
+        "kana": "の"
+      },
+      {
+        "text": "地震",
+        "kana": "じしん",
+        "en": "earthquake",
+        "vi": "động đất",
+        "ja": "地面が揺れ動く現象。"
+      },
+      {
+        "text": "は",
+        "en": "marks the topic",
+        "vi": "đánh dấu chủ đề",
+        "ja": "文の話題を示す助詞。",
+        "kana": "は"
+      },
+      {
+        "text": "甚大",
+        "kana": "じんだい",
+        "en": "enormous; immense",
+        "vi": "to lớn; nghiêm trọng",
+        "ja": "程度や規模が非常に大きいこと。"
+      },
+      {
+        "text": "な",
+        "en": "adjectival linker",
+        "vi": "nối tính từ đuôi な với danh từ",
+        "ja": "形容動詞を名詞に続ける助詞。",
+        "kana": "な"
+      },
+      {
+        "text": "被害",
+        "kana": "ひがい",
+        "en": "damage; harm",
+        "vi": "thiệt hại",
+        "ja": "災害や事故などによる損害。"
+      },
+      {
+        "text": "を",
+        "en": "marks the object",
+        "vi": "đánh dấu tân ngữ",
+        "ja": "動作の対象を示す助詞。",
+        "kana": "を"
+      },
+      {
+        "text": "もたらした",
+        "kana": "もたらした",
+        "en": "caused; brought about",
+        "vi": "gây ra; mang lại",
+        "ja": "「もたらす」の過去形。"
+      }
+    ]
+  },
+  {
+    "japanese": "勘が鋭い",
+    "kana": "かんがするどい",
+    "en": "Have sharp intuition.",
+    "vi": "Có trực giác nhạy bén.",
+    "ja": "直感が鋭く、よく気づく。",
+    "parts": [
+      {
+        "text": "勘",
+        "kana": "かん",
+        "en": "intuition; instinct",
+        "vi": "trực giác",
+        "ja": "物事を直感的に感じ取る力。"
+      },
+      {
+        "text": "が",
+        "en": "marks the subject",
+        "vi": "đánh dấu chủ ngữ",
+        "ja": "文の主語を示す助詞。",
+        "kana": "が"
+      },
+      {
+        "text": "鋭い",
+        "kana": "するどい",
+        "en": "sharp; keen",
+        "vi": "nhạy bén",
+        "ja": "感覚や判断力が優れている。"
+      }
+    ]
+  },
+  {
+    "japanese": "勘違いする",
+    "kana": "かんちがいする",
+    "en": "Mistake; misunderstand.",
+    "vi": "Nhầm lẫn; hiểu lầm.",
+    "ja": "思い違いをする。",
+    "parts": [
+      {
+        "text": "勘違いする",
+        "kana": "かんちがいする",
+        "en": "mistake; misunderstand",
+        "vi": "nhầm lẫn; hiểu lầm",
+        "ja": "思い違いをする。"
+      }
+    ]
+  },
+  {
+    "japanese": "勘定を済ませる",
+    "kana": "かんじょうをすませる",
+    "en": "Settle the bill.",
+    "vi": "Thanh toán hóa đơn.",
+    "ja": "支払いを終える。",
+    "parts": [
+      {
+        "text": "勘定",
+        "kana": "かんじょう",
+        "en": "bill; account",
+        "vi": "hóa đơn; khoản phải trả",
+        "ja": "支払う金額や代金の計算。"
+      },
+      {
+        "text": "を",
+        "en": "marks the object",
+        "vi": "đánh dấu tân ngữ",
+        "ja": "動作の対象を示す助詞。",
+        "kana": "を"
+      },
+      {
+        "text": "済ませる",
+        "kana": "すませる",
+        "en": "settle; finish",
+        "vi": "thanh toán; hoàn tất",
+        "ja": "物事を終わらせる。"
+      }
+    ]
+  },
+  {
+    "japanese": "もう、勘弁してください",
+    "kana": "もう、かんべんしてください",
+    "en": "Please give me a break already.",
+    "vi": "Xin hãy tha cho tôi.",
+    "ja": "もう許してほしい、やめてほしいという表現。",
+    "parts": [
+      {
+        "text": "もう、",
+        "kana": "もう、",
+        "en": "already; now",
+        "vi": "đã; thôi",
+        "ja": "ここでは限界を訴える気持ちを表す。"
+      },
+      {
+        "text": "勘弁して",
+        "kana": "かんべんして",
+        "en": "please spare; please forgive",
+        "vi": "xin hãy tha; xin hãy nương tay",
+        "ja": "「勘弁する」のて形で、相手に許しや中止を求める。"
+      },
+      {
+        "text": "ください",
+        "kana": "ください",
+        "en": "please",
+        "vi": "xin hãy",
+        "ja": "相手に依頼する表現。"
+      }
+    ]
+  },
+  {
+    "japanese": "聞くに堪えない悪口",
+    "kana": "きくにたえないわるくち",
+    "en": "Abuse too offensive to listen to.",
+    "vi": "Lời lẽ xúc phạm không thể nghe nổi.",
+    "ja": "聞いていられないほどひどい悪口。",
+    "parts": [
+      {
+        "text": "聞く",
+        "kana": "きく",
+        "en": "listen; hear",
+        "vi": "nghe",
+        "ja": "音や話を耳で受け取る。"
+      },
+      {
+        "text": "に",
+        "en": "to the point of",
+        "vi": "đến mức",
+        "ja": "程度や結果を示す助詞。",
+        "kana": "に"
+      },
+      {
+        "text": "堪えない",
+        "kana": "たえない",
+        "en": "cannot bear",
+        "vi": "không chịu nổi",
+        "ja": "「堪える」の否定形で、我慢できないこと。"
+      },
+      {
+        "text": "悪口",
+        "kana": "わるくち",
+        "en": "abuse; insult",
+        "vi": "lời xúc phạm",
+        "ja": "人を悪く言う言葉。"
+      }
+    ]
+  },
+  {
+    "japanese": "堪忍袋の緒が切れる",
+    "kana": "かんにんぶくろのおがきれる",
+    "en": "Lose one's patience.",
+    "vi": "Hết chịu đựng nổi.",
+    "ja": "我慢の限界に達する。",
+    "parts": [
+      {
+        "text": "堪忍袋",
+        "kana": "かんにんぶくろ",
+        "en": "patience (figurative)",
+        "vi": "sự nhẫn nhịn (nghĩa bóng)",
+        "ja": "我慢する力を袋にたとえた語。"
+      },
+      {
+        "text": "の",
+        "en": "links modifier to noun",
+        "vi": "nối danh từ bổ nghĩa với danh từ sau",
+        "ja": "前の名詞が後ろの名詞を限定する助詞。",
+        "kana": "の"
+      },
+      {
+        "text": "緒",
+        "kana": "お",
+        "en": "cord; string",
+        "vi": "dây buộc",
+        "ja": "袋の口を結ぶひも。"
+      },
+      {
+        "text": "が",
+        "en": "marks the subject",
+        "vi": "đánh dấu chủ ngữ",
+        "ja": "文の主語を示す助詞。",
+        "kana": "が"
+      },
+      {
+        "text": "切れる",
+        "kana": "きれる",
+        "en": "snap; run out",
+        "vi": "đứt; cạn",
+        "ja": "ここでは我慢の限界に達すること。"
+      }
+    ]
+  },
+  {
+    "japanese": "あの人の考えは偏っている",
+    "kana": "あのひとのかんがえはかたよっている",
+    "en": "That person's views are biased.",
+    "vi": "Suy nghĩ của người đó thiên lệch.",
+    "ja": "考え方が一方に偏っている。",
+    "parts": [
+      {
+        "text": "あの",
+        "kana": "あの",
+        "en": "that",
+        "vi": "kia; đó",
+        "ja": "話し手から離れたものを指す語。"
+      },
+      {
+        "text": "人",
+        "kana": "ひと",
+        "en": "person",
+        "vi": "người",
+        "ja": "人間。"
+      },
+      {
+        "text": "の",
+        "en": "links modifier to noun",
+        "vi": "nối danh từ bổ nghĩa với danh từ sau",
+        "ja": "前の名詞が後ろの名詞を限定する助詞。",
+        "kana": "の"
+      },
+      {
+        "text": "考え",
+        "kana": "かんがえ",
+        "en": "thought; view",
+        "vi": "suy nghĩ; quan điểm",
+        "ja": "考える内容や意見。"
+      },
+      {
+        "text": "は",
+        "en": "marks the topic",
+        "vi": "đánh dấu chủ đề",
+        "ja": "文の話題を示す助詞。",
+        "kana": "は"
+      },
+      {
+        "text": "偏っている",
+        "kana": "かたよっている",
+        "en": "be biased; be one-sided",
+        "vi": "thiên lệch",
+        "ja": "一方に寄っている状態である。"
+      }
+    ]
+  },
+  {
+    "japanese": "栄養が偏らないようにする",
+    "kana": "えいようがかたよらないようにする",
+    "en": "Make sure one's diet is balanced.",
+    "vi": "Đảm bảo dinh dưỡng cân bằng.",
+    "ja": "栄養が一部に偏らないように気をつける。",
+    "parts": [
+      {
+        "text": "栄養",
+        "kana": "えいよう",
+        "en": "nutrition",
+        "vi": "dinh dưỡng",
+        "ja": "健康を保つために必要な成分。"
+      },
+      {
+        "text": "が",
+        "en": "marks the subject",
+        "vi": "đánh dấu chủ ngữ",
+        "ja": "文の主語を示す助詞。",
+        "kana": "が"
+      },
+      {
+        "text": "偏らない",
+        "kana": "かたよらない",
+        "en": "not be unbalanced",
+        "vi": "không thiên lệch",
+        "ja": "「偏る」の否定形。"
+      },
+      {
+        "text": "よう",
+        "kana": "よう",
+        "en": "so that; way",
+        "vi": "để; cách",
+        "ja": "ここでは目的や状態を表す形式名詞。"
+      },
+      {
+        "text": "に",
+        "en": "marks purpose/state",
+        "vi": "đánh dấu mục đích/trạng thái",
+        "ja": "目的や状態を示す助詞。",
+        "kana": "に"
+      },
+      {
+        "text": "する",
+        "kana": "する",
+        "en": "make; ensure",
+        "vi": "làm; giữ cho",
+        "ja": "ある状態になるように整える。"
+      }
+    ]
+  },
+  {
+    "japanese": "偏見を持つ",
+    "kana": "へんけんをもつ",
+    "en": "Have prejudices.",
+    "vi": "Có thành kiến.",
+    "ja": "偏った見方を持つ。",
+    "parts": [
+      {
+        "text": "偏見",
+        "kana": "へんけん",
+        "en": "prejudice",
+        "vi": "thành kiến",
+        "ja": "偏った見方や考え。"
+      },
+      {
+        "text": "を",
+        "en": "marks the object",
+        "vi": "đánh dấu tân ngữ",
+        "ja": "動作の対象を示す助詞。",
+        "kana": "を"
+      },
+      {
+        "text": "持つ",
+        "kana": "もつ",
+        "en": "have; hold",
+        "vi": "có; giữ",
+        "ja": "自分のものとして備える。"
+      }
+    ]
+  }
+]

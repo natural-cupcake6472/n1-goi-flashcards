@@ -1,0 +1,22 @@
+[
+  {"japanese":"健やか","kana":"すこやか","en":"healthy; sound","vi":"khỏe mạnh","ja":"心身の状態が健康で、順調である様子。","parts":[{"text":"健やか","kana":"すこやか","en":"healthy; sound","vi":"khỏe mạnh","ja":"心や体が健康で順調な様子。"}]},
+  {"japanese":"震う","kana":"ふるう","en":"tremble; shake","vi":"run rẩy; rung lên","ja":"小刻みに揺れ動く。","parts":[{"text":"震う","kana":"ふるう","en":"tremble; shake","vi":"run rẩy; rung lên","ja":"細かく揺れ動く。"}]},
+  {"japanese":"地震","kana":"じしん","en":"earthquake","vi":"động đất","ja":"地下の岩盤が動き、地面が揺れる現象。","parts":[{"text":"地震","kana":"じしん","en":"earthquake","vi":"động đất","ja":"地下の変動によって地面が揺れる現象。"}]},
+  {"japanese":"需要","kana":"じゅよう","en":"demand","vi":"nhu cầu","ja":"商品やサービスを買いたい、利用したいという要求。","parts":[{"text":"需要","kana":"じゅよう","en":"demand","vi":"nhu cầu","ja":"商品やサービスを求めること。"}]},
+  {"japanese":"第一課","kana":"だいいっか","en":"Lesson One","vi":"Bài 1","ja":"教科書や教材の最初の課。","parts":[{"text":"第一課","kana":"だいいっか","en":"Lesson One","vi":"Bài 1","ja":"一番目の課。"}]},
+  {"japanese":"費やす","kana":"ついやす","en":"spend; devote","vi":"dành; tiêu tốn","ja":"時間や労力、金などを使う。","parts":[{"text":"費やす","kana":"ついやす","en":"spend; devote","vi":"dành; tiêu tốn","ja":"時間や金、労力などを使う。"}]},
+  {"japanese":"交通費","kana":"こうつうひ","en":"transportation expenses","vi":"chi phí đi lại","ja":"電車やバスなどの移動にかかる費用。","parts":[{"text":"交通費","kana":"こうつうひ","en":"transportation expenses","vi":"chi phí đi lại","ja":"移動に必要な交通機関の料金など。"}]},
+  {"japanese":"お祭り","kana":"おまつり","en":"festival","vi":"lễ hội","ja":"神仏への祈りや地域の行事として行われる催し。","parts":[{"text":"お祭り","kana":"おまつり","en":"festival","vi":"lễ hội","ja":"神仏を祭ったり、地域で祝ったりする行事。"}]},
+  {"japanese":"文化祭","kana":"ぶんかさい","en":"school cultural festival","vi":"lễ hội văn hóa trường học","ja":"学校などで文化活動の発表を行う催し。","parts":[{"text":"文化祭","kana":"ぶんかさい","en":"cultural festival","vi":"lễ hội văn hóa","ja":"学校で生徒が文化活動を発表する行事。"}]},
+  {"japanese":"察する","kana":"さっする","en":"sense; infer; sympathize","vi":"nhận ra; suy đoán; cảm thông","ja":"様子から相手の気持ちや事情を推し量る。","parts":[{"text":"察する","kana":"さっする","en":"sense; infer; sympathize","vi":"nhận ra; suy đoán; cảm thông","ja":"様子から気持ちや事情を推し量る。"}]},
+  {"japanese":"警察","kana":"けいさつ","en":"police","vi":"cảnh sát","ja":"犯罪を防ぎ、社会の安全を守る行政機関。","parts":[{"text":"警察","kana":"けいさつ","en":"police","vi":"cảnh sát","ja":"犯罪の予防や捜査を行う機関。"}]},
+  {"japanese":"国際","kana":"こくさい","en":"international","vi":"quốc tế","ja":"国と国との関係に関すること。","parts":[{"text":"国際","kana":"こくさい","en":"international","vi":"quốc tế","ja":"複数の国に関係すること。"}]},
+  {"japanese":"手際","kana":"てぎわ","en":"skill; manner of handling","vi":"cách xử lý; sự khéo léo","ja":"物事を処理する手順や技術。","parts":[{"text":"手際","kana":"てぎわ","en":"skill; manner of handling","vi":"cách xử lý; sự khéo léo","ja":"物事を処理する方法や手つき。"}]},
+  {"japanese":"擦る","kana":"する","en":"rub; chafe","vi":"chà; cọ xát","ja":"物を他の物に押し当てて動かす。","parts":[{"text":"擦る","kana":"する","en":"rub; chafe","vi":"chà; cọ xát","ja":"物を押し当てながら動かす。"}]},
+  {"japanese":"摩擦","kana":"まさつ","en":"friction; rubbing","vi":"ma sát; sự cọ xát","ja":"物と物がこすれ合うこと。また、その抵抗。","parts":[{"text":"摩擦","kana":"まさつ","en":"friction; rubbing","vi":"ma sát; sự cọ xát","ja":"物同士がこすれ合うこと。"}]},
+  {"japanese":"極める","kana":"きわめる","en":"master; attain the highest level","vi":"đạt đến đỉnh cao; tinh thông","ja":"ある分野を深く究め、最高の段階に達する。","parts":[{"text":"極める","kana":"きわめる","en":"master; attain the highest level","vi":"đạt đến đỉnh cao; tinh thông","ja":"物事を深く追究し、最高の段階に達する。"}]},
+  {"japanese":"積極","kana":"せっきょく","en":"positive; active","vi":"tích cực; chủ động","ja":"自分から進んで物事を行うこと。","parts":[{"text":"積極","kana":"せっきょく","en":"positive; active","vi":"tích cực; chủ động","ja":"進んで物事を行うこと。「積極的」などと使う。"}]},
+  {"japanese":"株","kana":"かぶ","en":"stock; share; stump","vi":"cổ phiếu; gốc cây","ja":"株式会社の持ち分を表す証券。また、切った木の根元。","parts":[{"text":"株","kana":"かぶ","en":"stock; share; stump","vi":"cổ phiếu; gốc cây","ja":"会社への出資を表す単位。切り株の意味もある。"}]},
+  {"japanese":"株式","kana":"かぶしき","en":"stock; shares","vi":"cổ phần; cổ phiếu","ja":"株式会社の資本を細かく分けた持ち分。","parts":[{"text":"株式","kana":"かぶしき","en":"stock; shares","vi":"cổ phần; cổ phiếu","ja":"株式会社の持ち分を小口に分けたもの。"}]},
+  {"japanese":"柔らかい","kana":"やわらかい","en":"soft; pliable; gentle","vi":"mềm; linh hoạt; nhẹ nhàng","ja":"力を加えると形が変わりやすく、硬くない。","parts":[{"text":"柔らかい","kana":"やわらかい","en":"soft; pliable; gentle","vi":"mềm; linh hoạt; nhẹ nhàng","ja":"硬くなく、しなやかである。"}]}
+]

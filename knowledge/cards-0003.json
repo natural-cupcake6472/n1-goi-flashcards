@@ -1,0 +1,129 @@
+[
+  {
+    "japanese":"ローマ帝国",
+    "kana":"ローマていこく",
+    "en":"Roman Empire",
+    "vi":"Đế quốc La Mã",
+    "ja":"古代ローマを中心として地中海地域を支配した帝国。",
+    "parts":[
+      {"text":"ローマ","kana":"ローマ","en":"Rome; Roman","vi":"La Mã","ja":"イタリアの都市ローマ、または古代ローマに関すること。"},
+      {"text":"帝国","kana":"ていこく","en":"empire","vi":"đế quốc","ja":"皇帝が統治する国、または複数の地域を支配する国家。"}
+    ]
+  },
+  {
+    "japanese":"お金がないから進学をきっぱりと諦める",
+    "kana":"おかねがないからしんがくをきっぱりとあきらめる",
+    "en":"Give up on further education decisively because there is no money.",
+    "vi":"Dứt khoát từ bỏ việc học lên vì không có tiền.",
+    "ja":"お金がないため、上級学校へ進むことをはっきり断念する。",
+    "parts":[
+      {"text":"お金","kana":"おかね","en":"money","vi":"tiền","ja":"貨幣。"},
+      {"text":"が","en":"marks the subject","vi":"đánh dấu chủ thể","ja":"状態の主体を示す助詞。"},
+      {"text":"ない","en":"not have; be absent","vi":"không có","ja":"存在しないことを表す。"},
+      {"text":"から","en":"because; since","vi":"vì; bởi vì","ja":"理由や原因を示す助詞。"},
+      {"text":"進学","kana":"しんがく","en":"advancing to a higher school","vi":"học lên bậc cao hơn","ja":"上級の学校へ進むこと。"},
+      {"text":"を","en":"marks what is given up","vi":"đánh dấu việc bị từ bỏ","ja":"動作の対象を示す助詞。"},
+      {"text":"きっぱりと","en":"decisively; firmly","vi":"dứt khoát","ja":"迷いなく、はっきりと。"},
+      {"text":"諦める","kana":"あきらめる","en":"give up; abandon","vi":"từ bỏ; đành chịu","ja":"望みや計画を実現できないと考えて断念する。"}
+    ]
+  },
+  {
+    "japanese":"諦めがつかない",
+    "kana":"あきらめがつかない",
+    "en":"Be unable to give up; be unable to accept the outcome.",
+    "vi":"Không thể từ bỏ; không cam lòng chấp nhận.",
+    "ja":"断念しようとしても、気持ちの整理ができない。",
+    "parts":[
+      {"text":"諦め","kana":"あきらめ","en":"giving up; resignation","vi":"sự từ bỏ; cam chịu","ja":"望みを断念すること。"},
+      {"text":"が","en":"marks the subject","vi":"đánh dấu chủ thể","ja":"状態の主体を示す助詞。"},
+      {"text":"つかない","kana":"つかない","en":"cannot settle; cannot come to terms","vi":"không thể nguôi; không cam lòng","ja":"「つく」の否定形。ここでは気持ちの決着がつかないこと。"}
+    ]
+  },
+  {
+    "japanese":"諦観の境地",
+    "kana":"ていかんのきょうち",
+    "en":"a state of philosophical resignation",
+    "vi":"cảnh giới nhìn nhận mọi việc với sự buông bỏ",
+    "ja":"物事の本質を見極め、執着を離れた心の状態。",
+    "parts":[
+      {"text":"諦観","kana":"ていかん","en":"clear-sighted resignation; contemplation","vi":"sự nhìn thấu và buông bỏ","ja":"物事の本質を明らかに見て、執着しないこと。"},
+      {"text":"の","en":"links the concept to the state","vi":"nối khái niệm với trạng thái","ja":"前の名詞が後ろの名詞を修飾する助詞。"},
+      {"text":"境地","kana":"きょうち","en":"state of mind; realm","vi":"cảnh giới; trạng thái tinh thần","ja":"ある境遇や精神の段階。"}
+    ]
+  },
+  {
+    "japanese":"身が引き締まる",
+    "kana":"みがひきしまる",
+    "en":"Feel oneself tense up; become resolute.",
+    "vi":"Cảm thấy nghiêm túc, tự chấn chỉnh bản thân.",
+    "ja":"緊張して気持ちが引き締まり、改まった気分になる。",
+    "parts":[
+      {"text":"身","kana":"み","en":"body; oneself","vi":"thân thể; bản thân","ja":"身体、または自分自身。"},
+      {"text":"が","en":"marks the subject","vi":"đánh dấu chủ thể","ja":"状態の主体を示す助詞。"},
+      {"text":"引き締まる","kana":"ひきしまる","en":"tense up; become taut or resolute","vi":"căng lại; trở nên nghiêm túc","ja":"ゆるみがなくなり、緊張した状態になる。"}
+    ]
+  },
+  {
+    "japanese":"犯罪を取り締まる",
+    "kana":"はんざいをとりしまる",
+    "en":"Crack down on crime.",
+    "vi":"Trấn áp tội phạm.",
+    "ja":"犯罪を防いだり、規則に従わせたりするために監督する。",
+    "parts":[
+      {"text":"犯罪","kana":"はんざい","en":"crime","vi":"tội phạm","ja":"法律に違反する行為。"},
+      {"text":"を","en":"marks the object regulated","vi":"đánh dấu đối tượng bị kiểm soát","ja":"動作の対象を示す助詞。"},
+      {"text":"取り締まる","kana":"とりしまる","en":"control; crack down on; police","vi":"kiểm soát; trấn áp","ja":"規則や法律に従わせるために監督する。"}
+    ]
+  },
+  {
+    "japanese":"手綱をきつく締める",
+    "kana":"たづなをきつくしめる",
+    "en":"Tighten the reins firmly.",
+    "vi":"Siết chặt dây cương.",
+    "ja":"馬を制御するための綱を強く引き締める。",
+    "parts":[
+      {"text":"手綱","kana":"たづな","en":"reins","vi":"dây cương","ja":"馬の口につけ、手で持って操る綱。"},
+      {"text":"を","en":"marks the object tightened","vi":"đánh dấu vật được siết","ja":"動作の対象を示す助詞。"},
+      {"text":"きつく","en":"tightly; firmly","vi":"chặt; mạnh","ja":"程度を強くして。"},
+      {"text":"締める","kana":"しめる","en":"tighten; fasten","vi":"siết chặt; thắt","ja":"ゆるみがないようにする。"}
+    ]
+  },
+  {
+    "japanese":"原稿の締め切り",
+    "kana":"げんこうのしめきり",
+    "en":"manuscript deadline",
+    "vi":"hạn chót nộp bản thảo",
+    "ja":"原稿を提出しなければならない期限。",
+    "parts":[
+      {"text":"原稿","kana":"げんこう","en":"manuscript; draft","vi":"bản thảo","ja":"印刷や発表のもとになる文章。"},
+      {"text":"の","en":"links the manuscript to its deadline","vi":"nối bản thảo với thời hạn","ja":"前の名詞が後ろの名詞を限定する助詞。"},
+      {"text":"締め切り","kana":"しめきり","en":"deadline; closing date","vi":"hạn chót","ja":"受付や提出を終える期限。"}
+    ]
+  },
+  {
+    "japanese":"条約を締結する",
+    "kana":"じょうやくをていけつする",
+    "en":"Conclude a treaty.",
+    "vi":"Ký kết hiệp ước.",
+    "ja":"国や団体が話し合い、条約を正式に結ぶ。",
+    "parts":[
+      {"text":"条約","kana":"じょうやく","en":"treaty","vi":"hiệp ước","ja":"国と国などが結ぶ正式な取り決め。"},
+      {"text":"を","en":"marks the object concluded","vi":"đánh dấu hiệp ước được ký kết","ja":"動作の対象を示す助詞。"},
+      {"text":"締結する","kana":"ていけつする","en":"conclude; enter into (a treaty)","vi":"ký kết","ja":"条約や契約を正式に結ぶ。"}
+    ]
+  },
+  {
+    "japanese":"被害が全国に及ぶ",
+    "kana":"ひがいがぜんこくにおよぶ",
+    "en":"The damage extends across the whole country.",
+    "vi":"Thiệt hại lan rộng khắp cả nước.",
+    "ja":"被害の範囲が全国にまで広がる。",
+    "parts":[
+      {"text":"被害","kana":"ひがい","en":"damage; harm","vi":"thiệt hại","ja":"災害や事故などによって受ける損害。"},
+      {"text":"が","en":"marks the subject","vi":"đánh dấu chủ thể","ja":"状態の主体を示す助詞。"},
+      {"text":"全国","kana":"ぜんこく","en":"the whole country","vi":"toàn quốc","ja":"国の全体。"},
+      {"text":"に","en":"marks the extent reached","vi":"đánh dấu phạm vi lan tới","ja":"到達点や範囲を示す助詞。"},
+      {"text":"及ぶ","kana":"およぶ","en":"extend to; reach","vi":"lan tới; đạt đến","ja":"ある範囲や程度に達する。"}
+    ]
+  }
+]

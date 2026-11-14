@@ -1,0 +1,131 @@
+[
+  {
+    "japanese":"美しい景色を眺める",
+    "kana":"うつくしいけしきをながめる",
+    "en":"Gaze at beautiful scenery.",
+    "vi":"Ngắm cảnh đẹp.",
+    "ja":"美しい景色を、視線を向けてゆっくり見る。",
+    "parts":[
+      {"text":"美しい","kana":"うつくしい","en":"beautiful","vi":"đẹp","ja":"見た目や様子がすぐれている。"},
+      {"text":"景色","kana":"けしき","en":"scenery; view","vi":"phong cảnh","ja":"目に映る土地や自然の様子。"},
+      {"text":"を","en":"marks the object viewed","vi":"đánh dấu đối tượng được ngắm","ja":"動作の対象を示す助詞。"},
+      {"text":"眺める","kana":"ながめる","en":"gaze at; look out over","vi":"ngắm nhìn","ja":"視線を向けて、しばらく見る。"}
+    ]
+  },
+  {
+    "japanese":"窓からの眺望が素晴らしい",
+    "kana":"まどからのちょうぼうがすばらしい",
+    "en":"The view from the window is wonderful.",
+    "vi":"Khung cảnh nhìn từ cửa sổ thật tuyệt.",
+    "ja":"窓から見渡せる景色が非常に優れている。",
+    "parts":[
+      {"text":"窓","kana":"まど","en":"window","vi":"cửa sổ","ja":"壁などに設けた、外を見たり風を通したりする開口部。"},
+      {"text":"から","en":"from","vi":"từ","ja":"起点や出所を示す助詞。"},
+      {"text":"の","en":"connects the source to the view","vi":"nối nguồn với khung cảnh","ja":"前の語句が後ろの名詞を修飾する助詞。"},
+      {"text":"眺望","kana":"ちょうぼう","en":"view; prospect","vi":"tầm nhìn; cảnh quan","ja":"遠くまで見渡した景色。"},
+      {"text":"が","en":"marks the subject","vi":"đánh dấu chủ thể","ja":"状態の主体を示す助詞。"},
+      {"text":"素晴らしい","kana":"すばらしい","en":"wonderful; excellent","vi":"tuyệt vời","ja":"非常に優れていて感心させられる。"}
+    ]
+  },
+  {
+    "japanese":"席/道を譲る",
+    "kana":"せき／みちをゆずる",
+    "en":"Give up one's seat / give way on the road.",
+    "vi":"Nhường chỗ / nhường đường.",
+    "ja":"自分の席を相手に使わせたり、道を相手に通らせたりする。",
+    "parts":[
+      {"text":"席/道","kana":"せき／みち","en":"seat / road; way","vi":"chỗ ngồi / đường","ja":"「席」または「道」を表す。スラッシュは原文の表記。"},
+      {"text":"を","en":"marks what is yielded","vi":"đánh dấu thứ được nhường","ja":"動作の対象を示す助詞。"},
+      {"text":"譲る","kana":"ゆずる","en":"yield; give way; give up","vi":"nhường; nhượng lại","ja":"自分のものや場所を他人に与える。"}
+    ]
+  },
+  {
+    "japanese":"親譲りの性格",
+    "kana":"おやゆずりのせいかく",
+    "en":"A personality inherited from one's parents.",
+    "vi":"Tính cách thừa hưởng từ cha mẹ.",
+    "ja":"親から受け継いだ性質や気質。",
+    "parts":[
+      {"text":"親譲り","kana":"おやゆずり","en":"inherited from one's parents","vi":"thừa hưởng từ cha mẹ","ja":"親から性質や物を受け継ぐこと。"},
+      {"text":"の","en":"links the modifier to the noun","vi":"nối phần bổ nghĩa với danh từ","ja":"前の語句が後ろの名詞を修飾する助詞。"},
+      {"text":"性格","kana":"せいかく","en":"personality; character","vi":"tính cách","ja":"その人に特有の考え方や行動の傾向。"}
+    ]
+  },
+  {
+    "japanese":"相手に譲歩を求める",
+    "kana":"あいてにじょうほをもとめる",
+    "en":"Ask the other party to make a concession.",
+    "vi":"Yêu cầu đối phương nhượng bộ.",
+    "ja":"相手に要求を一部引き下げるよう求める。",
+    "parts":[
+      {"text":"相手","kana":"あいて","en":"other party; counterpart","vi":"đối phương; bên kia","ja":"向かい合う人や交渉などの相手。"},
+      {"text":"に","en":"marks the person asked","vi":"đánh dấu người được yêu cầu","ja":"要求の向け先を示す助詞。"},
+      {"text":"譲歩","kana":"じょうほ","en":"concession","vi":"sự nhượng bộ","ja":"対立する意見や要求の一部を引き下げること。"},
+      {"text":"を","en":"marks the object sought","vi":"đánh dấu điều được yêu cầu","ja":"動作の対象を示す助詞。"},
+      {"text":"求める","kana":"もとめる","en":"ask for; seek","vi":"yêu cầu; tìm kiếm","ja":"必要なものとして要求する。"}
+    ]
+  },
+  {
+    "japanese":"財産を譲渡する",
+    "kana":"ざいさんをじょうとする",
+    "en":"Transfer one's property.",
+    "vi":"Chuyển nhượng tài sản.",
+    "ja":"財産を他人に移し渡す。",
+    "parts":[
+      {"text":"財産","kana":"ざいさん","en":"property; assets","vi":"tài sản","ja":"金銭や土地など、個人や団体が所有する価値あるもの。"},
+      {"text":"を","en":"marks the object transferred","vi":"đánh dấu tài sản được chuyển nhượng","ja":"動作の対象を示す助詞。"},
+      {"text":"譲渡する","kana":"じょうとする","en":"transfer; convey","vi":"chuyển nhượng","ja":"権利や財産を他人に譲り渡す。"}
+    ]
+  },
+  {
+    "japanese":"謙虚な人",
+    "kana":"けんきょなひと",
+    "en":"a humble person",
+    "vi":"người khiêm tốn",
+    "ja":"自分を偉いと思わず、控えめな人。",
+    "parts":[
+      {"text":"謙虚","kana":"けんきょ","en":"humble; modest","vi":"khiêm tốn","ja":"自分を誇らず、控えめで素直なこと。"},
+      {"text":"な","en":"na-adjective linker","vi":"liên kết tính từ な với danh từ","ja":"ナ形容詞が名詞を修飾するときに用いる形。"},
+      {"text":"人","kana":"ひと","en":"person","vi":"người","ja":"人間。"}
+    ]
+  },
+  {
+    "japanese":"過ちを謙虚に認める",
+    "kana":"あやまちをけんきょにみとめる",
+    "en":"Humbly admit one's mistake.",
+    "vi":"Khiêm tốn thừa nhận lỗi lầm.",
+    "ja":"自分の間違いを、素直で控えめな態度で認める。",
+    "parts":[
+      {"text":"過ち","kana":"あやまち","en":"mistake; fault","vi":"lỗi lầm","ja":"正しくない判断や行為。"},
+      {"text":"を","en":"marks what is admitted","vi":"đánh dấu điều được thừa nhận","ja":"動作の対象を示す助詞。"},
+      {"text":"謙虚に","kana":"けんきょに","en":"humbly; modestly","vi":"một cách khiêm tốn","ja":"「謙虚だ」の連用形で、控えめな態度であること。"},
+      {"text":"認める","kana":"みとめる","en":"admit; acknowledge","vi":"thừa nhận; công nhận","ja":"事実や相手の言い分を正しいと受け入れる。"}
+    ]
+  },
+  {
+    "japanese":"尊敬語と謙譲語",
+    "kana":"そんけいごとけんじょうご",
+    "en":"respectful language and humble language",
+    "vi":"kính ngữ và khiêm nhường ngữ",
+    "ja":"相手を高める敬語と、自分側を低めて述べる敬語。",
+    "parts":[
+      {"text":"尊敬語","kana":"そんけいご","en":"respectful language","vi":"kính ngữ","ja":"動作をする人を高めて敬意を表す言葉遣い。"},
+      {"text":"と","en":"and","vi":"và","ja":"名詞を並べて結ぶ助詞。"},
+      {"text":"謙譲語","kana":"けんじょうご","en":"humble language","vi":"khiêm nhường ngữ","ja":"自分や自分側の動作を低めて相手に敬意を表す言葉遣い。"}
+    ]
+  },
+  {
+    "japanese":"皇帝の位につく",
+    "kana":"こうていのくらいにつく",
+    "en":"Ascend to the throne as emperor.",
+    "vi":"Lên ngôi hoàng đế.",
+    "ja":"皇帝としての地位に就く。",
+    "parts":[
+      {"text":"皇帝","kana":"こうてい","en":"emperor","vi":"hoàng đế","ja":"帝国を治める君主。"},
+      {"text":"の","en":"links the title to the position","vi":"nối chức danh với địa vị","ja":"前の名詞が後ろの名詞を限定する助詞。"},
+      {"text":"位","kana":"くらい","en":"rank; throne; position","vi":"địa vị; ngôi","ja":"社会や組織の中での地位。"},
+      {"text":"に","en":"marks the position attained","vi":"đánh dấu địa vị đạt được","ja":"到達する位置や状態を示す助詞。"},
+      {"text":"つく","kana":"つく","en":"take; assume (a position)","vi":"đảm nhận; lên (địa vị)","ja":"地位や役目に就く。"}
+    ]
+  }
+]

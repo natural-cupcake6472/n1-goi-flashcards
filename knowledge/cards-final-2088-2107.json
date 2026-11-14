@@ -1,0 +1,22 @@
+[
+  {"japanese":"緊急","kana":"きんきゅう","en":"emergency; urgent","vi":"khẩn cấp","ja":"事態が差し迫り、すぐに対応する必要があること。","parts":[{"text":"緊急","kana":"きんきゅう","en":"urgent; emergency","vi":"khẩn cấp","ja":"すぐに対応しなければならない差し迫った状態。"}]},
+  {"japanese":"緊張","kana":"きんちょう","en":"tension; nervousness","vi":"sự căng thẳng; hồi hộp","ja":"心や体が引き締まり、落ち着かない状態。","parts":[{"text":"緊張","kana":"きんちょう","en":"tension; nervousness","vi":"sự căng thẳng; hồi hộp","ja":"心や体が張りつめている状態。"}]},
+  {"japanese":"賢い","kana":"かしこい","en":"wise; clever","vi":"thông minh; khôn ngoan","ja":"理解力や判断力が優れている。","parts":[{"text":"賢い","kana":"かしこい","en":"wise; clever","vi":"thông minh; khôn ngoan","ja":"頭の働きや判断が優れている。"}]},
+  {"japanese":"賢人","kana":"けんじん","en":"wise person; sage","vi":"hiền nhân; người khôn ngoan","ja":"知恵や人格に優れた人。","parts":[{"text":"賢人","kana":"けんじん","en":"wise person; sage","vi":"hiền nhân; người khôn ngoan","ja":"知恵と優れた人格を備えた人。"}]},
+  {"japanese":"中華料理","kana":"ちゅうかりょうり","en":"Chinese cuisine","vi":"ẩm thực Trung Hoa","ja":"中国風の料理。","parts":[{"text":"中華料理","kana":"ちゅうかりょうり","en":"Chinese cuisine","vi":"ẩm thực Trung Hoa","ja":"中国の調理法や味付けを取り入れた料理。"}]},
+  {"japanese":"華やか","kana":"はなやか","en":"gorgeous; glamorous; brilliant","vi":"lộng lẫy; rực rỡ","ja":"人目を引くほど明るく美しい様子。","parts":[{"text":"華やか","kana":"はなやか","en":"gorgeous; glamorous; brilliant","vi":"lộng lẫy; rực rỡ","ja":"明るく美しく、人目を引く様子。"}]},
+  {"japanese":"華々しい","kana":"はなばなしい","en":"brilliant; spectacular","vi":"rực rỡ; vang dội","ja":"非常に目立ち、立派で華やかである。","parts":[{"text":"華々しい","kana":"はなばなしい","en":"brilliant; spectacular","vi":"rực rỡ; vang dội","ja":"目立って立派で、非常に華やかである。"}]},
+  {"japanese":"喧嘩","kana":"けんか","en":"quarrel; fight","vi":"cãi vã; đánh nhau","ja":"人同士が言い争ったり、殴り合ったりすること。","parts":[{"text":"喧嘩","kana":"けんか","en":"quarrel; fight","vi":"cãi vã; đánh nhau","ja":"人同士が争うこと。"}]},
+  {"japanese":"偏る","kana":"かたよる","en":"be biased; be uneven","vi":"thiên lệch; mất cân bằng","ja":"一方に寄り、均衡を失う。","parts":[{"text":"偏る","kana":"かたよる","en":"be biased; be uneven","vi":"thiên lệch; mất cân bằng","ja":"一方に寄って、つり合いが取れなくなる。"}]},
+  {"japanese":"偏見","kana":"へんけん","en":"prejudice; bias","vi":"định kiến; thành kiến","ja":"十分な根拠がないのに、偏った考えを持つこと。","parts":[{"text":"偏見","kana":"へんけん","en":"prejudice; bias","vi":"định kiến; thành kiến","ja":"事実を確かめずに持つ、偏った見方。"}]},
+  {"japanese":"編む","kana":"あむ","en":"knit; weave; compile","vi":"đan; biên soạn","ja":"糸などを組み合わせて布や形を作る。また文章をまとめる。","parts":[{"text":"編む","kana":"あむ","en":"knit; weave; compile","vi":"đan; biên soạn","ja":"糸などを組み合わせる。文章をまとめる意味もある。"}]},
+  {"japanese":"編集","kana":"へんしゅう","en":"editing; compilation","vi":"biên tập","ja":"材料を集め、整理して一つの作品や記事にまとめること。","parts":[{"text":"編集","kana":"へんしゅう","en":"editing; compilation","vi":"biên tập","ja":"資料や文章を整理し、一つにまとめること。"}]},
+  {"japanese":"値段","kana":"ねだん","en":"price","vi":"giá cả","ja":"品物を買うときに支払う金額。","parts":[{"text":"値段","kana":"ねだん","en":"price","vi":"giá cả","ja":"品物を売り買いするときの金額。"}]},
+  {"japanese":"値する","kana":"あたいする","en":"be worth; deserve","vi":"đáng; xứng đáng","ja":"それにふさわしい価値がある。","parts":[{"text":"値する","kana":"あたいする","en":"be worth; deserve","vi":"đáng; xứng đáng","ja":"それに見合う価値がある。"}]},
+  {"japanese":"植える","kana":"うえる","en":"plant; transplant","vi":"trồng","ja":"植物を土に埋めて育つようにする。","parts":[{"text":"植える","kana":"うえる","en":"plant; transplant","vi":"trồng","ja":"植物を土に埋めて育てる。"}]},
+  {"japanese":"植物","kana":"しょくぶつ","en":"plant","vi":"thực vật","ja":"草や木など、自分で養分を作って育つ生物。","parts":[{"text":"植物","kana":"しょくぶつ","en":"plant","vi":"thực vật","ja":"草や木などの生物。"}]},
+  {"japanese":"励む","kana":"はげむ","en":"work hard; strive","vi":"nỗ lực; chuyên cần","ja":"目標に向けて熱心に努力する。","parts":[{"text":"励む","kana":"はげむ","en":"work hard; strive","vi":"nỗ lực; chuyên cần","ja":"目標のために熱心に努力する。"}]},
+  {"japanese":"奨励","kana":"しょうれい","en":"encouragement; recommendation","vi":"sự khuyến khích; cổ vũ","ja":"ある行動をするよう勧め、励ますこと。","parts":[{"text":"奨励","kana":"しょうれい","en":"encouragement; recommendation","vi":"sự khuyến khích; cổ vũ","ja":"行動を勧めて励ますこと。"}]},
+  {"japanese":"破る","kana":"やぶる","en":"tear; break; violate","vi":"xé; phá vỡ; vi phạm","ja":"紙などを裂く。また、約束や規則を守らない。","parts":[{"text":"破る","kana":"やぶる","en":"tear; break; violate","vi":"xé; phá vỡ; vi phạm","ja":"裂いて壊す。約束や規則を守らない意味もある。"}]},
+  {"japanese":"破損","kana":"はそん","en":"damage; breakage","vi":"sự hư hỏng; thiệt hại","ja":"物が壊れたり、傷ついたりすること。","parts":[{"text":"破損","kana":"はそん","en":"damage; breakage","vi":"sự hư hỏng; thiệt hại","ja":"物が壊れたり傷ついたりすること。"}]}
+]

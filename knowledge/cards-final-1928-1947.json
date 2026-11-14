@@ -1,0 +1,829 @@
+[
+  {
+    "japanese": "彼は自分のミスを棚に上げ、部員のミスを指摘した",
+    "kana": "かれはじぶんのミスをたなにあげ、ぶいんのミスをしてきした",
+    "en": "He ignored his own mistake and pointed out a team member's mistake.",
+    "vi": "Anh ta gạt lỗi của mình sang một bên rồi chỉ ra lỗi của thành viên trong đội.",
+    "ja": "自分の失敗には触れず、部員の失敗を取り上げて注意した。",
+    "parts": [
+      {
+        "text": "彼",
+        "kana": "かれ",
+        "en": "he",
+        "vi": "anh ấy",
+        "ja": "話題の男性を指す語。"
+      },
+      {
+        "text": "は",
+        "en": "marks the topic",
+        "vi": "đánh dấu chủ đề",
+        "ja": "話題を示す助詞。",
+        "kana": "は"
+      },
+      {
+        "text": "自分",
+        "kana": "じぶん",
+        "en": "oneself; one's own",
+        "vi": "bản thân; của mình",
+        "ja": "その人自身。"
+      },
+      {
+        "text": "の",
+        "en": "links oneself to the mistake",
+        "vi": "nối bản thân với lỗi",
+        "ja": "前の名詞が後ろの名詞を限定する助詞。",
+        "kana": "の"
+      },
+      {
+        "text": "ミス",
+        "kana": "ミス",
+        "en": "mistake",
+        "vi": "lỗi; sai sót",
+        "ja": "失敗や誤り。"
+      },
+      {
+        "text": "を",
+        "kana": "を",
+        "en": "marks the object",
+        "vi": "đánh dấu đối tượng",
+        "ja": "動作の対象を示す助詞。"
+      },
+      {
+        "text": "棚に上げ",
+        "kana": "たなにあげ",
+        "en": "set aside; ignore",
+        "vi": "gạt sang một bên; làm ngơ",
+        "ja": "自分に都合の悪いことを問題にしない。"
+      },
+      {
+        "text": "、",
+        "kana": "、",
+        "en": "comma",
+        "vi": "dấu phẩy",
+        "ja": "文の区切りを示す読点。"
+      },
+      {
+        "text": "部員",
+        "kana": "ぶいん",
+        "en": "club member; team member",
+        "vi": "thành viên câu lạc bộ/đội",
+        "ja": "部に所属する人。"
+      },
+      {
+        "text": "の",
+        "kana": "の",
+        "en": "links the member to the mistake",
+        "vi": "nối thành viên với lỗi",
+        "ja": "前の名詞が後ろの名詞を限定する助詞。"
+      },
+      {
+        "text": "ミス",
+        "kana": "ミス",
+        "en": "mistake",
+        "vi": "lỗi; sai sót",
+        "ja": "失敗や誤り。"
+      },
+      {
+        "text": "を",
+        "kana": "を",
+        "en": "marks the object",
+        "vi": "đánh dấu đối tượng",
+        "ja": "動作の対象を示す助詞。"
+      },
+      {
+        "text": "指摘した",
+        "kana": "してきした",
+        "en": "pointed out",
+        "vi": "đã chỉ ra",
+        "ja": "問題点などを具体的に取り上げて示した。"
+      }
+    ]
+  },
+  {
+    "japanese": "原因を分析する",
+    "kana": "げんいんをぶんせきする",
+    "en": "analyze the cause",
+    "vi": "phân tích nguyên nhân",
+    "ja": "物事が起きた理由を細かく調べる。",
+    "parts": [
+      {
+        "text": "原因",
+        "kana": "げんいん",
+        "en": "cause; reason",
+        "vi": "nguyên nhân",
+        "ja": "ある結果を引き起こしたもと。"
+      },
+      {
+        "text": "を",
+        "kana": "を",
+        "en": "marks what is analyzed",
+        "vi": "đánh dấu thứ được phân tích",
+        "ja": "動作の対象を示す助詞。"
+      },
+      {
+        "text": "分析する",
+        "kana": "ぶんせきする",
+        "en": "analyze",
+        "vi": "phân tích",
+        "ja": "物事を要素に分けて詳しく調べる。"
+      }
+    ]
+  },
+  {
+    "japanese": "データを解析する",
+    "kana": "データをかいせきする",
+    "en": "analyze data",
+    "vi": "phân tích dữ liệu",
+    "ja": "データを詳しく調べ、意味や構造を明らかにする。",
+    "parts": [
+      {
+        "text": "データ",
+        "kana": "データ",
+        "en": "data",
+        "vi": "dữ liệu",
+        "ja": "分析や判断の材料となる情報。"
+      },
+      {
+        "text": "を",
+        "kana": "を",
+        "en": "marks what is analyzed",
+        "vi": "đánh dấu thứ được phân tích",
+        "ja": "動作の対象を示す助詞。"
+      },
+      {
+        "text": "解析する",
+        "kana": "かいせきする",
+        "en": "analyze; examine",
+        "vi": "phân tích; giải tích",
+        "ja": "細かく調べ、内容や仕組みを明らかにする。"
+      }
+    ]
+  },
+  {
+    "japanese": "三桁の計算をする",
+    "kana": "さんけたのけいさんをする",
+    "en": "do a three-digit calculation",
+    "vi": "thực hiện phép tính với số có ba chữ số",
+    "ja": "三つの位からなる数を使って計算する。",
+    "parts": [
+      {
+        "text": "三桁",
+        "kana": "さんけた",
+        "en": "three digits; three-digit",
+        "vi": "ba chữ số",
+        "ja": "数の位が三つあること。"
+      },
+      {
+        "text": "の",
+        "kana": "の",
+        "en": "links three digits to the calculation",
+        "vi": "nối ba chữ số với phép tính",
+        "ja": "前の名詞が後ろの名詞を限定する助詞。"
+      },
+      {
+        "text": "計算",
+        "kana": "けいさん",
+        "en": "calculation",
+        "vi": "phép tính",
+        "ja": "数を使って答えを求めること。"
+      },
+      {
+        "text": "を",
+        "kana": "を",
+        "en": "marks the action",
+        "vi": "đánh dấu hành động",
+        "ja": "動作の対象を示す助詞。"
+      },
+      {
+        "text": "する",
+        "kana": "する",
+        "en": "do; perform",
+        "vi": "làm; thực hiện",
+        "ja": "動作を行う。"
+      }
+    ]
+  },
+  {
+    "japanese": "桁違いの安さ",
+    "kana": "けたちがいのやすさ",
+    "en": "incomparably low price",
+    "vi": "mức giá rẻ vượt trội",
+    "ja": "ほかと比べて、値段が非常に安いこと。",
+    "parts": [
+      {
+        "text": "桁違い",
+        "kana": "けたちがい",
+        "en": "on a completely different scale; incomparable",
+        "vi": "khác biệt vượt trội",
+        "ja": "程度や規模がほかと大きく違うこと。"
+      },
+      {
+        "text": "の",
+        "kana": "の",
+        "en": "links the difference in scale to cheapness",
+        "vi": "nối mức độ khác biệt với sự rẻ",
+        "ja": "前の語句が後ろの名詞を修飾する助詞。"
+      },
+      {
+        "text": "安さ",
+        "kana": "やすさ",
+        "en": "cheapness; low price",
+        "vi": "độ rẻ",
+        "ja": "値段が安い程度。"
+      }
+    ]
+  },
+  {
+    "japanese": "桁外れの結果を出す人",
+    "kana": "けたはずれのけっかをだすひと",
+    "en": "a person who achieves extraordinary results",
+    "vi": "người đạt được kết quả phi thường",
+    "ja": "普通の範囲を大きく超えた成果を出す人。",
+    "parts": [
+      {
+        "text": "桁外れ",
+        "kana": "けたはずれ",
+        "en": "extraordinary; exceptional",
+        "vi": "phi thường; vượt trội",
+        "ja": "普通の程度や範囲を大きく超えていること。"
+      },
+      {
+        "text": "の",
+        "kana": "の",
+        "en": "links extraordinariness to the result",
+        "vi": "nối sự phi thường với kết quả",
+        "ja": "前の語句が後ろの名詞を修飾する助詞。"
+      },
+      {
+        "text": "結果",
+        "kana": "けっか",
+        "en": "result",
+        "vi": "kết quả",
+        "ja": "行動や原因から生じたもの。"
+      },
+      {
+        "text": "を",
+        "kana": "を",
+        "en": "marks what is produced",
+        "vi": "đánh dấu thứ được tạo ra",
+        "ja": "動作の対象を示す助詞。"
+      },
+      {
+        "text": "出す",
+        "kana": "だす",
+        "en": "produce; achieve",
+        "vi": "đưa ra; đạt được",
+        "ja": "成果などを生み出す。"
+      },
+      {
+        "text": "人",
+        "kana": "ひと",
+        "en": "person",
+        "vi": "người",
+        "ja": "人間。"
+      }
+    ]
+  },
+  {
+    "japanese": "潮が満ちる",
+    "kana": "しおがみちる",
+    "en": "The tide comes in.",
+    "vi": "Thủy triều lên.",
+    "ja": "潮位が上がり、海水が岸のほうへ広がる。",
+    "parts": [
+      {
+        "text": "潮",
+        "kana": "しお",
+        "en": "tide; seawater",
+        "vi": "thủy triều; nước biển",
+        "ja": "海面の水位の上がり下がり。"
+      },
+      {
+        "text": "が",
+        "kana": "が",
+        "en": "marks the subject",
+        "vi": "đánh dấu chủ thể",
+        "ja": "状態の主体を示す助詞。"
+      },
+      {
+        "text": "満ちる",
+        "kana": "みちる",
+        "en": "come in; fill up",
+        "vi": "lên; dâng đầy",
+        "ja": "潮位や量が増えていっぱいになる。"
+      }
+    ]
+  },
+  {
+    "japanese": "感染者を非難するような社会の風潮は慎むべきだ",
+    "kana": "かんせんしゃをひなんするようなしゃかいのふうちょうはつつしむべきだ",
+    "en": "Society should refrain from the trend of blaming infected people.",
+    "vi": "Xã hội nên tránh xu hướng chỉ trích người nhiễm bệnh.",
+    "ja": "感染した人を責めるような社会的傾向は控えるべきだ。",
+    "parts": [
+      {
+        "text": "感染者",
+        "kana": "かんせんしゃ",
+        "en": "infected person",
+        "vi": "người bị nhiễm bệnh",
+        "ja": "病原体に感染した人。"
+      },
+      {
+        "text": "を",
+        "kana": "を",
+        "en": "marks whom people criticize",
+        "vi": "đánh dấu người bị chỉ trích",
+        "ja": "動作の対象を示す助詞。"
+      },
+      {
+        "text": "非難する",
+        "kana": "ひなんする",
+        "en": "criticize; blame",
+        "vi": "chỉ trích; trách móc",
+        "ja": "相手の欠点や過ちを責める。"
+      },
+      {
+        "text": "ような",
+        "kana": "ような",
+        "en": "such as; that",
+        "vi": "như; có vẻ",
+        "ja": "例や様子を示して名詞を修飾する。"
+      },
+      {
+        "text": "社会",
+        "kana": "しゃかい",
+        "en": "society",
+        "vi": "xã hội",
+        "ja": "人々が集まり生活するまとまり。"
+      },
+      {
+        "text": "の",
+        "kana": "の",
+        "en": "links society to its trend",
+        "vi": "nối xã hội với xu hướng",
+        "ja": "前の名詞が後ろの名詞を限定する助詞。"
+      },
+      {
+        "text": "風潮",
+        "kana": "ふうちょう",
+        "en": "social trend; tendency",
+        "vi": "xu hướng xã hội",
+        "ja": "世間に広がっている傾向。"
+      },
+      {
+        "text": "は",
+        "kana": "は",
+        "en": "marks the topic",
+        "vi": "đánh dấu chủ đề",
+        "ja": "話題を示す助詞。"
+      },
+      {
+        "text": "慎む",
+        "kana": "つつしむ",
+        "en": "refrain from; avoid",
+        "vi": "kiềm chế; tránh",
+        "ja": "行動を控えめにする。"
+      },
+      {
+        "text": "べき",
+        "kana": "べき",
+        "en": "should; ought to",
+        "vi": "nên; cần phải",
+        "ja": "当然そうするのがよいという意味。"
+      },
+      {
+        "text": "だ",
+        "kana": "だ",
+        "en": "is; should be",
+        "vi": "là; nên",
+        "ja": "断定を表す助動詞。"
+      }
+    ]
+  },
+  {
+    "japanese": "目指せ！日本１！全国制覇！",
+    "kana": "めざせ！にほんいち！ぜんこくせいは！",
+    "en": "Aim for number one in Japan! Win the national championship!",
+    "vi": "Hãy hướng tới vị trí số một Nhật Bản! Vô địch toàn quốc!",
+    "ja": "日本一を目標にし、全国大会で優勝しようという呼びかけ。",
+    "parts": [
+      {
+        "text": "目指せ",
+        "kana": "めざせ",
+        "en": "aim for!",
+        "vi": "hãy nhắm tới!",
+        "ja": "「目指す」の命令形。目標にするよう促す。"
+      },
+      {
+        "text": "！",
+        "kana": "！",
+        "en": "exclamation mark",
+        "vi": "dấu chấm than",
+        "ja": "強い呼びかけを示す記号。"
+      },
+      {
+        "text": "日本１",
+        "kana": "にほんいち",
+        "en": "number one in Japan",
+        "vi": "số một Nhật Bản",
+        "ja": "日本で最も優れていること。"
+      },
+      {
+        "text": "！",
+        "kana": "！",
+        "en": "exclamation mark",
+        "vi": "dấu chấm than",
+        "ja": "強い呼びかけを示す記号。"
+      },
+      {
+        "text": "全国制覇",
+        "kana": "ぜんこくせいは",
+        "en": "national championship; conquering the nation",
+        "vi": "vô địch toàn quốc",
+        "ja": "全国規模の大会で優勝すること。"
+      },
+      {
+        "text": "！",
+        "kana": "！",
+        "en": "exclamation mark",
+        "vi": "dấu chấm than",
+        "ja": "強い呼びかけを示す記号。"
+      }
+    ]
+  },
+  {
+    "japanese": "オリンピック二連覇達成！",
+    "kana": "オリンピックにれんぱたっせい！",
+    "en": "Olympic champion for the second consecutive time!",
+    "vi": "Đạt chức vô địch Olympic hai kỳ liên tiếp!",
+    "ja": "オリンピックで二大会続けて優勝した。",
+    "parts": [
+      {
+        "text": "オリンピック",
+        "kana": "オリンピック",
+        "en": "Olympics",
+        "vi": "Thế vận hội Olympic",
+        "ja": "世界各国の選手が参加する国際スポーツ大会。"
+      },
+      {
+        "text": "二連覇",
+        "kana": "にれんぱ",
+        "en": "two consecutive championships",
+        "vi": "hai lần vô địch liên tiếp",
+        "ja": "二大会続けて優勝すること。"
+      },
+      {
+        "text": "達成",
+        "kana": "たっせい",
+        "en": "achievement; accomplishment",
+        "vi": "sự đạt được; thành tựu",
+        "ja": "目標を成し遂げること。"
+      },
+      {
+        "text": "！",
+        "kana": "！",
+        "en": "exclamation mark",
+        "vi": "dấu chấm than",
+        "ja": "強調を示す記号。"
+      }
+    ]
+  },
+  {
+    "japanese": "国王の冠",
+    "kana": "こくおうのかんむり",
+    "en": "the king's crown",
+    "vi": "vương miện của nhà vua",
+    "ja": "国王が身につける冠。",
+    "parts": [
+      {
+        "text": "国王",
+        "kana": "こくおう",
+        "en": "king",
+        "vi": "quốc vương",
+        "ja": "一国を治める王。"
+      },
+      {
+        "text": "の",
+        "kana": "の",
+        "en": "links the king to the crown",
+        "vi": "nối nhà vua với vương miện",
+        "ja": "前の名詞が後ろの名詞を限定する助詞。"
+      },
+      {
+        "text": "冠",
+        "kana": "かんむり",
+        "en": "crown",
+        "vi": "vương miện",
+        "ja": "頭にかぶる飾りや地位を表すもの。"
+      }
+    ]
+  },
+  {
+    "japanese": "王冠を頭に戴く",
+    "kana": "おうかんをあたまにいただく",
+    "en": "wear a crown on one's head",
+    "vi": "đội vương miện trên đầu",
+    "ja": "頭に王冠を載せる。",
+    "parts": [
+      {
+        "text": "王冠",
+        "kana": "おうかん",
+        "en": "crown",
+        "vi": "vương miện",
+        "ja": "王の地位を示す冠。"
+      },
+      {
+        "text": "を",
+        "kana": "を",
+        "en": "marks what is worn",
+        "vi": "đánh dấu thứ được đội",
+        "ja": "動作の対象を示す助詞。"
+      },
+      {
+        "text": "頭",
+        "kana": "あたま",
+        "en": "head",
+        "vi": "đầu",
+        "ja": "体の最上部。"
+      },
+      {
+        "text": "に",
+        "kana": "に",
+        "en": "on",
+        "vi": "lên; trên",
+        "ja": "動作の位置を示す助詞。"
+      },
+      {
+        "text": "戴く",
+        "kana": "いただく",
+        "en": "wear on one's head; receive respectfully",
+        "vi": "đội trên đầu; kính nhận",
+        "ja": "頭に載せる。"
+      }
+    ]
+  },
+  {
+    "japanese": "大会３冠王",
+    "kana": "たいかいさんかんおう",
+    "en": "three-title champion of the tournament",
+    "vi": "nhà vô địch giành ba danh hiệu của giải",
+    "ja": "大会で三つの部門・タイトルを制した選手。",
+    "parts": [
+      {
+        "text": "大会",
+        "kana": "たいかい",
+        "en": "tournament; competition",
+        "vi": "giải đấu",
+        "ja": "多くの人が参加する競技会。"
+      },
+      {
+        "text": "３冠王",
+        "kana": "さんかんおう",
+        "en": "three-crown champion; holder of three titles",
+        "vi": "nhà vô địch ba danh hiệu",
+        "ja": "三つのタイトルを同時に獲得した人。"
+      }
+    ]
+  },
+  {
+    "japanese": "喪中のため祝い事を控える",
+    "kana": "もちゅうのためいわいごとをひかえる",
+    "en": "Refrain from celebrations because one is in mourning.",
+    "vi": "Kiêng tổ chức việc vui vì đang trong thời gian tang chế.",
+    "ja": "近親者を亡くした期間なので、祝いの行事を避ける。",
+    "parts": [
+      {
+        "text": "喪中",
+        "kana": "もちゅう",
+        "en": "mourning period",
+        "vi": "thời gian để tang",
+        "ja": "近親者が亡くなってから一定期間。"
+      },
+      {
+        "text": "の",
+        "kana": "の",
+        "en": "links mourning to the reason",
+        "vi": "nối việc để tang với lý do",
+        "ja": "前の名詞が後ろの語句を限定する助詞。"
+      },
+      {
+        "text": "ため",
+        "kana": "ため",
+        "en": "because of; for",
+        "vi": "vì; do",
+        "ja": "理由や目的を表す語。"
+      },
+      {
+        "text": "祝い事",
+        "kana": "いわいごと",
+        "en": "celebration; festive occasion",
+        "vi": "việc vui; dịp lễ mừng",
+        "ja": "めでたいことを祝う行事。"
+      },
+      {
+        "text": "を",
+        "kana": "を",
+        "en": "marks what is avoided",
+        "vi": "đánh dấu việc được kiêng",
+        "ja": "動作の対象を示す助詞。"
+      },
+      {
+        "text": "控える",
+        "kana": "ひかえる",
+        "en": "refrain from; avoid",
+        "vi": "kiêng; hạn chế",
+        "ja": "行動をしないようにする。"
+      }
+    ]
+  },
+  {
+    "japanese": "喪服を着る",
+    "kana": "もふくをきる",
+    "en": "wear mourning clothes",
+    "vi": "mặc đồ tang",
+    "ja": "葬儀などで着る黒い服を身につける。",
+    "parts": [
+      {
+        "text": "喪服",
+        "kana": "もふく",
+        "en": "mourning clothes",
+        "vi": "đồ tang",
+        "ja": "葬儀や喪中に着る服。"
+      },
+      {
+        "text": "を",
+        "kana": "を",
+        "en": "marks what is worn",
+        "vi": "đánh dấu thứ được mặc",
+        "ja": "動作の対象を示す助詞。"
+      },
+      {
+        "text": "着る",
+        "kana": "きる",
+        "en": "wear; put on",
+        "vi": "mặc",
+        "ja": "衣服を身につける。"
+      }
+    ]
+  },
+  {
+    "japanese": "記憶喪失",
+    "kana": "きおくそうしつ",
+    "en": "memory loss; amnesia",
+    "vi": "mất trí nhớ; chứng mất trí nhớ",
+    "ja": "記憶が失われること。",
+    "parts": [
+      {
+        "text": "記憶",
+        "kana": "きおく",
+        "en": "memory",
+        "vi": "ký ức; trí nhớ",
+        "ja": "経験したことを覚えておくこと。"
+      },
+      {
+        "text": "喪失",
+        "kana": "そうしつ",
+        "en": "loss",
+        "vi": "sự mất mát",
+        "ja": "持っていたものを失うこと。"
+      }
+    ]
+  },
+  {
+    "japanese": "自信を喪失する",
+    "kana": "じしんをそうしつする",
+    "en": "lose confidence",
+    "vi": "mất tự tin",
+    "ja": "自分の能力や価値を信じられなくなる。",
+    "parts": [
+      {
+        "text": "自信",
+        "kana": "じしん",
+        "en": "confidence",
+        "vi": "sự tự tin",
+        "ja": "自分の能力や判断を信じる気持ち。"
+      },
+      {
+        "text": "を",
+        "kana": "を",
+        "en": "marks what is lost",
+        "vi": "đánh dấu thứ bị mất",
+        "ja": "動作の対象を示す助詞。"
+      },
+      {
+        "text": "喪失する",
+        "kana": "そうしつする",
+        "en": "lose",
+        "vi": "đánh mất",
+        "ja": "持っていたものを失う。"
+      }
+    ]
+  },
+  {
+    "japanese": "大きな仕事を任されたため、「全力で臨む」覚悟をした",
+    "kana": "おおきなしごとをまかされたため、「ぜんりょくでのぞむ」かくごをした",
+    "en": "Because I was entrusted with a major task, I resolved to give it my all.",
+    "vi": "Vì được giao công việc lớn, tôi đã quyết tâm dốc toàn lực.",
+    "ja": "大きな仕事を任されたので、全力で取り組むと決心した。",
+    "parts": [
+      {
+        "text": "大きな",
+        "kana": "おおきな",
+        "en": "large; major",
+        "vi": "lớn; quan trọng",
+        "ja": "規模や程度が大きい。"
+      },
+      {
+        "text": "仕事",
+        "kana": "しごと",
+        "en": "work; task",
+        "vi": "công việc",
+        "ja": "するべき作業。"
+      },
+      {
+        "text": "を",
+        "kana": "を",
+        "en": "marks what is entrusted",
+        "vi": "đánh dấu việc được giao",
+        "ja": "動作の対象を示す助詞。"
+      },
+      {
+        "text": "任された",
+        "kana": "まかされた",
+        "en": "was entrusted with",
+        "vi": "được giao phó",
+        "ja": "「任せる」の受身形の過去。"
+      },
+      {
+        "text": "ため",
+        "kana": "ため",
+        "en": "because",
+        "vi": "vì; do",
+        "ja": "理由を示す語。"
+      },
+      {
+        "text": "、",
+        "kana": "、",
+        "en": "comma",
+        "vi": "dấu phẩy",
+        "ja": "文の区切りを示す読点。"
+      },
+      {
+        "text": "「",
+        "kana": "「",
+        "en": "opening quotation mark",
+        "vi": "dấu ngoặc kép mở",
+        "ja": "引用の始まりを示す記号。"
+      },
+      {
+        "text": "全力",
+        "kana": "ぜんりょく",
+        "en": "full strength; one's utmost",
+        "vi": "toàn lực",
+        "ja": "持っている力のすべて。"
+      },
+      {
+        "text": "で",
+        "kana": "で",
+        "en": "with; using",
+        "vi": "bằng; với",
+        "ja": "方法や状態を示す助詞。"
+      },
+      {
+        "text": "臨む",
+        "kana": "のぞむ",
+        "en": "tackle; face; approach",
+        "vi": "đối mặt; tham gia",
+        "ja": "ある物事に向き合う。"
+      },
+      {
+        "text": "」",
+        "kana": "」",
+        "en": "closing quotation mark",
+        "vi": "dấu ngoặc kép đóng",
+        "ja": "引用の終わりを示す記号。"
+      },
+      {
+        "text": "覚悟",
+        "kana": "かくご",
+        "en": "resolution; determination",
+        "vi": "quyết tâm",
+        "ja": "困難を受け入れて行う心構え。"
+      },
+      {
+        "text": "を",
+        "kana": "を",
+        "en": "marks what is made",
+        "vi": "đánh dấu điều được hình thành",
+        "ja": "動作の対象を示す助詞。"
+      },
+      {
+        "text": "した",
+        "kana": "した",
+        "en": "made; formed",
+        "vi": "đã có; đã quyết",
+        "ja": "「する」の過去形。"
+      }
+    ]
+  }
+]

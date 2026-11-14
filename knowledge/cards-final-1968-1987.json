@@ -1,0 +1,686 @@
+[
+  {
+    "japanese": "日本語教育の振興",
+    "kana": "にほんごきょういくのしんこう",
+    "en": "promotion of Japanese-language education",
+    "vi": "sự thúc đẩy giáo dục tiếng Nhật",
+    "ja": "日本語を教える教育を盛んにし、発展させること。",
+    "parts": [
+      {
+        "text": "日本語",
+        "kana": "にほんご",
+        "en": "Japanese language",
+        "vi": "tiếng Nhật",
+        "ja": "日本で使われる言語。"
+      },
+      {
+        "text": "教育",
+        "kana": "きょういく",
+        "en": "education",
+        "vi": "giáo dục",
+        "ja": "知識や技能を教え育てること。"
+      },
+      {
+        "text": "の",
+        "kana": "の",
+        "en": "links education to its promotion",
+        "vi": "nối giáo dục với việc thúc đẩy",
+        "ja": "前の名詞が後ろの名詞を限定する助詞。"
+      },
+      {
+        "text": "振興",
+        "kana": "しんこう",
+        "en": "promotion; development",
+        "vi": "sự thúc đẩy; phát triển",
+        "ja": "物事を盛んにし、発展させること。"
+      }
+    ]
+  },
+  {
+    "japanese": "白熱した試合に興奮する",
+    "kana": "はくねつしたしあいにこうふんする",
+    "en": "get excited by an intense match",
+    "vi": "phấn khích trước trận đấu gay cấn",
+    "ja": "激しい試合を見て気持ちが高まる。",
+    "parts": [
+      {
+        "text": "白熱した",
+        "kana": "はくねつした",
+        "en": "heated; intense",
+        "vi": "gay cấn; sôi nổi",
+        "ja": "議論や試合が非常に盛り上がった。"
+      },
+      {
+        "text": "試合",
+        "kana": "しあい",
+        "en": "match; game",
+        "vi": "trận đấu",
+        "ja": "勝ち負けを競う競技。"
+      },
+      {
+        "text": "に",
+        "kana": "に",
+        "en": "at; by",
+        "vi": "trước; bởi",
+        "ja": "感情が向かう対象を示す助詞。"
+      },
+      {
+        "text": "興奮する",
+        "kana": "こうふんする",
+        "en": "get excited; become agitated",
+        "vi": "phấn khích; kích động",
+        "ja": "気持ちが高ぶる。"
+      }
+    ]
+  },
+  {
+    "japanese": "国語辞典で調べる",
+    "kana": "こくごじてんでしらべる",
+    "en": "look it up in a Japanese dictionary",
+    "vi": "tra cứu trong từ điển tiếng Nhật",
+    "ja": "国語辞典を使って言葉の意味などを確認する。",
+    "parts": [
+      {
+        "text": "国語辞典",
+        "kana": "こくごじてん",
+        "en": "Japanese-language dictionary",
+        "vi": "từ điển tiếng Nhật",
+        "ja": "日本語の言葉の意味や読みを説明した辞典。"
+      },
+      {
+        "text": "で",
+        "kana": "で",
+        "en": "in; using",
+        "vi": "bằng; trong",
+        "ja": "道具や方法を示す助詞。"
+      },
+      {
+        "text": "調べる",
+        "kana": "しらべる",
+        "en": "look up; investigate",
+        "vi": "tra cứu; tìm hiểu",
+        "ja": "資料などを使って確かめる。"
+      }
+    ]
+  },
+  {
+    "japanese": "古典の授業",
+    "kana": "こてんのじゅぎょう",
+    "en": "class on classical literature",
+    "vi": "tiết học văn học cổ điển",
+    "ja": "古典文学などを学ぶ授業。",
+    "parts": [
+      {
+        "text": "古典",
+        "kana": "こてん",
+        "en": "classics; classical literature",
+        "vi": "tác phẩm cổ điển",
+        "ja": "長い間読み継がれてきた古い作品。"
+      },
+      {
+        "text": "の",
+        "kana": "の",
+        "en": "links the classics to the class",
+        "vi": "nối tác phẩm cổ điển với tiết học",
+        "ja": "前の名詞が後ろの名詞を限定する助詞。"
+      },
+      {
+        "text": "授業",
+        "kana": "じゅぎょう",
+        "en": "class; lesson",
+        "vi": "tiết học",
+        "ja": "学校で教えたり学んだりする時間。"
+      }
+    ]
+  },
+  {
+    "japanese": "出典を探す",
+    "kana": "しゅってんをさがす",
+    "en": "find the source",
+    "vi": "tìm nguồn trích dẫn",
+    "ja": "引用した情報が元々載っていた資料を探す。",
+    "parts": [
+      {
+        "text": "出典",
+        "kana": "しゅってん",
+        "en": "source; reference",
+        "vi": "nguồn; tài liệu tham khảo",
+        "ja": "引用や情報の元になった書物や資料。"
+      },
+      {
+        "text": "を",
+        "kana": "を",
+        "en": "marks what is sought",
+        "vi": "đánh dấu thứ được tìm",
+        "ja": "動作の対象を示す助詞。"
+      },
+      {
+        "text": "探す",
+        "kana": "さがす",
+        "en": "search for; look for",
+        "vi": "tìm kiếm",
+        "ja": "欲しいものや必要なものを見つけようとする。"
+      }
+    ]
+  },
+  {
+    "japanese": "会員だけの特典",
+    "kana": "かいいんだけのとくてん",
+    "en": "benefit exclusively for members",
+    "vi": "đặc quyền chỉ dành cho hội viên",
+    "ja": "会員に限って受けられる有利なサービス。",
+    "parts": [
+      {
+        "text": "会員",
+        "kana": "かいいん",
+        "en": "member",
+        "vi": "hội viên; thành viên",
+        "ja": "会や組織に所属している人。"
+      },
+      {
+        "text": "だけ",
+        "kana": "だけ",
+        "en": "only; exclusively",
+        "vi": "chỉ",
+        "ja": "範囲を限定する語。"
+      },
+      {
+        "text": "の",
+        "kana": "の",
+        "en": "links members to the benefit",
+        "vi": "nối hội viên với quyền lợi",
+        "ja": "前の語句が後ろの名詞を限定する助詞。"
+      },
+      {
+        "text": "特典",
+        "kana": "とくてん",
+        "en": "special benefit; privilege",
+        "vi": "đặc quyền; ưu đãi",
+        "ja": "特別に与えられる利益やサービス。"
+      }
+    ]
+  },
+  {
+    "japanese": "お通夜に香典を持参する",
+    "kana": "おつやにこうでんをじさんする",
+    "en": "bring a condolence gift to the wake",
+    "vi": "mang tiền phúng viếng đến lễ thức canh",
+    "ja": "通夜の場に、弔意を示す金品を持って行く。",
+    "parts": [
+      {
+        "text": "お通夜",
+        "kana": "おつや",
+        "en": "wake; vigil",
+        "vi": "lễ thức canh; lễ viếng tối",
+        "ja": "葬儀の前夜に故人を偲ぶ儀式。"
+      },
+      {
+        "text": "に",
+        "kana": "に",
+        "en": "to; at",
+        "vi": "đến; tại",
+        "ja": "移動先や場所を示す助詞。"
+      },
+      {
+        "text": "香典",
+        "kana": "こうでん",
+        "en": "condolence money",
+        "vi": "tiền phúng viếng",
+        "ja": "葬儀などで遺族に贈る金銭。"
+      },
+      {
+        "text": "を",
+        "kana": "を",
+        "en": "marks what is brought",
+        "vi": "đánh dấu thứ được mang theo",
+        "ja": "動作の対象を示す助詞。"
+      },
+      {
+        "text": "持参する",
+        "kana": "じさんする",
+        "en": "bring; take along",
+        "vi": "mang theo",
+        "ja": "物を持って行く。"
+      }
+    ]
+  },
+  {
+    "japanese": "典型的な風邪の症状",
+    "kana": "てんけいてきなかぜのしょうじょう",
+    "en": "typical cold symptoms",
+    "vi": "các triệu chứng cảm lạnh điển hình",
+    "ja": "一般的な風邪に見られる代表的な症状。",
+    "parts": [
+      {
+        "text": "典型的",
+        "kana": "てんけいてき",
+        "en": "typical; representative",
+        "vi": "điển hình",
+        "ja": "ある種類の特徴をよく表している。"
+      },
+      {
+        "text": "な",
+        "kana": "な",
+        "en": "adjectival connector",
+        "vi": "từ nối tính từ",
+        "ja": "ナ形容詞を名詞に続ける形。"
+      },
+      {
+        "text": "風邪",
+        "kana": "かぜ",
+        "en": "common cold",
+        "vi": "cảm lạnh",
+        "ja": "ウイルスなどで起こる呼吸器の病気。"
+      },
+      {
+        "text": "の",
+        "kana": "の",
+        "en": "links the cold to its symptoms",
+        "vi": "nối cảm lạnh với triệu chứng",
+        "ja": "前の名詞が後ろの名詞を限定する助詞。"
+      },
+      {
+        "text": "症状",
+        "kana": "しょうじょう",
+        "en": "symptom",
+        "vi": "triệu chứng",
+        "ja": "病気によって体に現れる変化。"
+      }
+    ]
+  },
+  {
+    "japanese": "和尚",
+    "kana": "おしょう",
+    "en": "Buddhist priest; head priest",
+    "vi": "nhà sư; trụ trì",
+    "ja": "僧侶、特に寺の住職などを指す語。",
+    "parts": [
+      {
+        "text": "和尚",
+        "kana": "おしょう",
+        "en": "Buddhist priest; head priest",
+        "vi": "nhà sư; trụ trì",
+        "ja": "僧侶を敬っていう語。"
+      }
+    ]
+  },
+  {
+    "japanese": "高尚な趣味を持つ",
+    "kana": "こうしょうなしゅみをもつ",
+    "en": "have refined interests",
+    "vi": "có thú vui tao nhã",
+    "ja": "品が高く、教養を感じさせる趣味がある。",
+    "parts": [
+      {
+        "text": "高尚",
+        "kana": "こうしょう",
+        "en": "refined; elevated",
+        "vi": "cao nhã; tao nhã",
+        "ja": "品格や程度が高く、俗っぽくないこと。"
+      },
+      {
+        "text": "な",
+        "kana": "な",
+        "en": "adjectival connector",
+        "vi": "từ nối tính từ",
+        "ja": "ナ形容詞を名詞に続ける形。"
+      },
+      {
+        "text": "趣味",
+        "kana": "しゅみ",
+        "en": "hobby; interest",
+        "vi": "sở thích; thú vui",
+        "ja": "楽しみとして行うことや好み。"
+      },
+      {
+        "text": "を",
+        "kana": "を",
+        "en": "marks what one has",
+        "vi": "đánh dấu thứ mình có",
+        "ja": "動作の対象を示す助詞。"
+      },
+      {
+        "text": "持つ",
+        "kana": "もつ",
+        "en": "have; possess",
+        "vi": "có; sở hữu",
+        "ja": "自分のものとして備える。"
+      }
+    ]
+  },
+  {
+    "japanese": "結論を出すには時期尚早だ",
+    "kana": "けつろんをだすにはじきしょうそうだ",
+    "en": "It is too early to reach a conclusion.",
+    "vi": "Còn quá sớm để đưa ra kết luận.",
+    "ja": "結論を決めるには、まだ適切な時期ではない。",
+    "parts": [
+      {
+        "text": "結論",
+        "kana": "けつろん",
+        "en": "conclusion",
+        "vi": "kết luận",
+        "ja": "考えた末に出す最終的な判断。"
+      },
+      {
+        "text": "を",
+        "kana": "を",
+        "en": "marks what is reached",
+        "vi": "đánh dấu kết luận được đưa ra",
+        "ja": "動作の対象を示す助詞。"
+      },
+      {
+        "text": "出す",
+        "kana": "だす",
+        "en": "reach; produce",
+        "vi": "đưa ra",
+        "ja": "意見や結論などを示す。"
+      },
+      {
+        "text": "に",
+        "kana": "に",
+        "en": "for; in order to",
+        "vi": "để",
+        "ja": "目的を示す助詞。"
+      },
+      {
+        "text": "は",
+        "kana": "は",
+        "en": "marks the topic",
+        "vi": "đánh dấu chủ đề",
+        "ja": "話題を示す助詞。"
+      },
+      {
+        "text": "時期尚早",
+        "kana": "じきしょうそう",
+        "en": "premature; too early",
+        "vi": "còn quá sớm",
+        "ja": "何かをするのに時期が早すぎること。"
+      },
+      {
+        "text": "だ",
+        "kana": "だ",
+        "en": "is",
+        "vi": "là",
+        "ja": "断定を表す助動詞。"
+      }
+    ]
+  },
+  {
+    "japanese": "髪に艶がある",
+    "kana": "かみにつやがある",
+    "en": "Her hair has a shine.",
+    "vi": "Tóc có độ bóng mượt.",
+    "ja": "髪に光沢がある。",
+    "parts": [
+      {
+        "text": "髪",
+        "kana": "かみ",
+        "en": "hair",
+        "vi": "tóc",
+        "ja": "頭に生える毛。"
+      },
+      {
+        "text": "に",
+        "kana": "に",
+        "en": "on; in",
+        "vi": "ở; trên",
+        "ja": "状態のある場所を示す助詞。"
+      },
+      {
+        "text": "艶",
+        "kana": "つや",
+        "en": "shine; luster",
+        "vi": "độ bóng; vẻ óng mượt",
+        "ja": "表面が滑らかで光ること。"
+      },
+      {
+        "text": "が",
+        "kana": "が",
+        "en": "marks the subject",
+        "vi": "đánh dấu chủ thể",
+        "ja": "存在するものを示す助詞。"
+      },
+      {
+        "text": "ある",
+        "kana": "ある",
+        "en": "have; exist",
+        "vi": "có; tồn tại",
+        "ja": "物事が存在する。"
+      }
+    ]
+  },
+  {
+    "japanese": "艶やかな肌",
+    "kana": "つややかなはだ",
+    "en": "radiant, lustrous skin",
+    "vi": "làn da căng bóng",
+    "ja": "光沢があって美しい肌。",
+    "parts": [
+      {
+        "text": "艶やかな",
+        "kana": "つややかな",
+        "en": "lustrous; glossy",
+        "vi": "bóng mượt; óng ả",
+        "ja": "光沢があり、見た目が美しい。"
+      },
+      {
+        "text": "肌",
+        "kana": "はだ",
+        "en": "skin",
+        "vi": "da",
+        "ja": "体の表面を覆う皮膚。"
+      }
+    ]
+  },
+  {
+    "japanese": "妖艶な女性",
+    "kana": "ようえんなじょせい",
+    "en": "a bewitchingly attractive woman",
+    "vi": "người phụ nữ quyến rũ mê hoặc",
+    "ja": "不思議な魅力があり、なまめかしく美しい女性。",
+    "parts": [
+      {
+        "text": "妖艶",
+        "kana": "ようえん",
+        "en": "bewitching; alluring",
+        "vi": "quyến rũ; mê hoặc",
+        "ja": "人を惑わせるような、なまめかしい美しさ。"
+      },
+      {
+        "text": "な",
+        "kana": "な",
+        "en": "adjectival connector",
+        "vi": "từ nối tính từ",
+        "ja": "ナ形容詞を名詞に続ける形。"
+      },
+      {
+        "text": "女性",
+        "kana": "じょせい",
+        "en": "woman",
+        "vi": "phụ nữ",
+        "ja": "成人した女の人。"
+      }
+    ]
+  },
+  {
+    "japanese": "囚人",
+    "kana": "しゅうじん",
+    "en": "prisoner",
+    "vi": "tù nhân",
+    "ja": "刑務所などに収容されている人。",
+    "parts": [
+      {
+        "text": "囚人",
+        "kana": "しゅうじん",
+        "en": "prisoner",
+        "vi": "tù nhân",
+        "ja": "罪を犯したとして拘束・収容されている人。"
+      }
+    ]
+  },
+  {
+    "japanese": "死刑囚",
+    "kana": "しけいしゅう",
+    "en": "death-row inmate",
+    "vi": "tử tù",
+    "ja": "死刑判決を受けた囚人。",
+    "parts": [
+      {
+        "text": "死刑",
+        "kana": "しけい",
+        "en": "death penalty",
+        "vi": "án tử hình",
+        "ja": "犯罪に対する刑罰として命を奪う刑。"
+      },
+      {
+        "text": "囚",
+        "kana": "しゅう",
+        "en": "prisoner; captive",
+        "vi": "tù nhân",
+        "ja": "捕らえられて自由を奪われた人。"
+      }
+    ]
+  },
+  {
+    "japanese": "首都圏",
+    "kana": "しゅとけん",
+    "en": "metropolitan area around the capital",
+    "vi": "vùng thủ đô",
+    "ja": "首都とその周辺の地域。",
+    "parts": [
+      {
+        "text": "首都",
+        "kana": "しゅと",
+        "en": "capital",
+        "vi": "thủ đô",
+        "ja": "国の政治の中心となる都市。"
+      },
+      {
+        "text": "圏",
+        "kana": "けん",
+        "en": "area; sphere",
+        "vi": "vùng; khu vực",
+        "ja": "一定の範囲や地域。"
+      }
+    ]
+  },
+  {
+    "japanese": "優勝圏外に入る",
+    "kana": "ゆうしょうけんがいにはいる",
+    "en": "fall outside contention for the championship",
+    "vi": "rơi khỏi nhóm có khả năng vô địch",
+    "ja": "優勝できる可能性のある範囲から外れる。",
+    "parts": [
+      {
+        "text": "優勝",
+        "kana": "ゆうしょう",
+        "en": "championship; victory",
+        "vi": "chức vô địch",
+        "ja": "競技などで最も優れた成績を得ること。"
+      },
+      {
+        "text": "圏外",
+        "kana": "けんがい",
+        "en": "outside the range; out of contention",
+        "vi": "ngoài phạm vi",
+        "ja": "一定の範囲の外。"
+      },
+      {
+        "text": "に",
+        "kana": "に",
+        "en": "into; to",
+        "vi": "vào; đến",
+        "ja": "変化後の状態を示す助詞。"
+      },
+      {
+        "text": "入る",
+        "kana": "はいる",
+        "en": "enter; fall into",
+        "vi": "vào; rơi vào",
+        "ja": "ある範囲の中に加わる。"
+      }
+    ]
+  },
+  {
+    "japanese": "大気圏",
+    "kana": "たいきけん",
+    "en": "atmosphere",
+    "vi": "khí quyển",
+    "ja": "地球を取り巻く空気の層。",
+    "parts": [
+      {
+        "text": "大気",
+        "kana": "たいき",
+        "en": "atmosphere; air",
+        "vi": "khí quyển; không khí",
+        "ja": "地球を包む空気。"
+      },
+      {
+        "text": "圏",
+        "kana": "けん",
+        "en": "sphere; layer",
+        "vi": "vùng; tầng",
+        "ja": "一定の範囲や層。"
+      }
+    ]
+  },
+  {
+    "japanese": "地下鉄で携帯電話が圏外になった",
+    "kana": "ちかてつでけいたいでんわがけんがいになった",
+    "en": "My mobile phone had no signal on the subway.",
+    "vi": "Điện thoại di động bị mất sóng trong tàu điện ngầm.",
+    "ja": "地下鉄の中で携帯電話が通信できない状態になった。",
+    "parts": [
+      {
+        "text": "地下鉄",
+        "kana": "ちかてつ",
+        "en": "subway; underground railway",
+        "vi": "tàu điện ngầm",
+        "ja": "地下を走る鉄道。"
+      },
+      {
+        "text": "で",
+        "kana": "で",
+        "en": "on; in",
+        "vi": "ở; trên",
+        "ja": "場所を示す助詞。"
+      },
+      {
+        "text": "携帯電話",
+        "kana": "けいたいでんわ",
+        "en": "mobile phone",
+        "vi": "điện thoại di động",
+        "ja": "持ち運んで使える電話。"
+      },
+      {
+        "text": "が",
+        "kana": "が",
+        "en": "marks the subject",
+        "vi": "đánh dấu chủ thể",
+        "ja": "状態の主体を示す助詞。"
+      },
+      {
+        "text": "圏外",
+        "kana": "けんがい",
+        "en": "out of range; no service",
+        "vi": "ngoài vùng phủ sóng",
+        "ja": "携帯電話の電波が届かない範囲。"
+      },
+      {
+        "text": "に",
+        "kana": "に",
+        "en": "into; to",
+        "vi": "thành",
+        "ja": "変化後の状態を示す助詞。"
+      },
+      {
+        "text": "なった",
+        "kana": "なった",
+        "en": "became",
+        "vi": "đã trở thành",
+        "ja": "「なる」の過去形。"
+      }
+    ]
+  }
+]

@@ -1,0 +1,127 @@
+[
+  {
+    "japanese": "相撲のチャンピオンに挑む",
+    "kana": "すもうのチャンピオンにいどむ",
+    "en": "Challenge the sumo champion.",
+    "vi": "Thách đấu nhà vô địch sumo.",
+    "ja": "相撲のチャンピオンに対して勝負を仕掛ける。",
+    "parts": [
+      {"text":"相撲","kana":"すもう","en":"sumo wrestling","vi":"đấu vật sumo","ja":"日本の伝統的な格闘技。"},
+      {"text":"の","en":"links the noun to the following noun","vi":"nối danh từ với danh từ phía sau","ja":"前の名詞を後ろの名詞に結び付ける助詞。"},
+      {"text":"チャンピオン","kana":"チャンピオン","en":"champion","vi":"nhà vô địch","ja":"競技などで優勝した人。"},
+      {"text":"に","en":"marks the opponent of the challenge","vi":"đánh dấu đối tượng bị thách đấu","ja":"挑む相手を示す助詞。"},
+      {"text":"挑む","kana":"いどむ","en":"challenge; take on","vi":"thách đấu; đương đầu","ja":"相手や困難な物事に立ち向かう。"}
+    ]
+  },
+  {
+    "japanese": "難問に挑戦する",
+    "kana": "なんもんにちょうせんする",
+    "en": "Take on a difficult problem.",
+    "vi": "Thử sức giải một vấn đề khó.",
+    "ja": "解くのが難しい問題に取り組む。",
+    "parts": [
+      {"text":"難問","kana":"なんもん","en":"difficult problem","vi":"vấn đề khó","ja":"解決や解答が難しい問題。"},
+      {"text":"に","en":"marks what is being attempted","vi":"đánh dấu việc được thử sức","ja":"挑戦する対象を示す助詞。"},
+      {"text":"挑戦する","kana":"ちょうせんする","en":"challenge; take on","vi":"thử sức; thách thức","ja":"困難な物事に立ち向かって取り組む。"}
+    ]
+  },
+  {
+    "japanese": "挑戦者",
+    "kana": "ちょうせんしゃ",
+    "en": "challenger",
+    "vi": "người thách đấu",
+    "ja": "勝負や競争に挑む人。",
+    "parts": [
+      {"text":"挑戦","kana":"ちょうせん","en":"challenge","vi":"sự thách thức","ja":"困難な物事や相手に立ち向かうこと。"},
+      {"text":"者","kana":"しゃ","en":"person; someone who","vi":"người; người làm việc gì","ja":"その性質や行為を持つ人を表す接尾語。"}
+    ]
+  },
+  {
+    "japanese": "桃色の着物を着た成人女性",
+    "kana": "ももいろのきものをきたせいじんじょせい",
+    "en": "An adult woman wearing a pink kimono.",
+    "vi": "Một phụ nữ trưởng thành mặc kimono màu hồng.",
+    "ja": "桃色の着物を身に着けている成人の女性。",
+    "parts": [
+      {"text":"桃色","kana":"ももいろ","en":"pink; peach color","vi":"màu hồng đào","ja":"桃の実のような淡い赤色。"},
+      {"text":"の","en":"links the color to the garment","vi":"nối màu sắc với trang phục","ja":"前の名詞が後ろの名詞を修飾することを示す助詞。"},
+      {"text":"着物","kana":"きもの","en":"kimono","vi":"kimono; áo kimono","ja":"日本の伝統的な衣服。"},
+      {"text":"を","en":"marks the object worn","vi":"đánh dấu trang phục được mặc","ja":"動作の対象を示す助詞。"},
+      {"text":"着た","kana":"きた","en":"wore; wearing","vi":"đã mặc; mặc","ja":"「着る」の過去形で、身に着けていることを表す。"},
+      {"text":"成人女性","kana":"せいじんじょせい","en":"adult woman","vi":"phụ nữ trưởng thành","ja":"成人した女性。"}
+    ]
+  },
+  {
+    "japanese": "白桃",
+    "kana": "はくとう",
+    "en": "white peach",
+    "vi": "đào trắng",
+    "ja": "果肉が白い桃、またはその品種。",
+    "parts": [
+      {"text":"白","kana":"はく","en":"white","vi":"màu trắng","ja":"雪のような色。"},
+      {"text":"桃","kana":"とう","en":"peach","vi":"quả đào","ja":"甘い果実をつけるバラ科の樹木、またはその果実。"}
+    ]
+  },
+  {
+    "japanese": "うさぎが跳ねる",
+    "kana": "うさぎがはねる",
+    "en": "A rabbit hops.",
+    "vi": "Con thỏ nhảy.",
+    "ja": "うさぎが地面を蹴って飛び上がる。",
+    "parts": [
+      {"text":"うさぎ","kana":"うさぎ","en":"rabbit","vi":"con thỏ","ja":"長い耳を持つ哺乳類。"},
+      {"text":"が","en":"marks the subject","vi":"đánh dấu chủ thể","ja":"動作や状態の主体を示す助詞。"},
+      {"text":"跳ねる","kana":"はねる","en":"hop; bounce","vi":"nhảy; nảy lên","ja":"地面を蹴って飛び上がる。"}
+    ]
+  },
+  {
+    "japanese": "泥が跳ねて靴が汚れた",
+    "kana": "どろがはねてくつがよごれた",
+    "en": "Mud splashed up and dirtied my shoes.",
+    "vi": "Bùn bắn lên làm bẩn giày.",
+    "ja": "泥が飛び散り、そのため靴が汚れた。",
+    "parts": [
+      {"text":"泥","kana":"どろ","en":"mud","vi":"bùn","ja":"水を含んだ土。"},
+      {"text":"が","en":"marks the subject","vi":"đánh dấu chủ thể","ja":"動作の主体を示す助詞。"},
+      {"text":"跳ねて","kana":"はねて","en":"splashed; jumping and","vi":"bắn lên; rồi","ja":"「跳ねる」のて形。ここでは泥が飛び散ること。"},
+      {"text":"靴","kana":"くつ","en":"shoes","vi":"giày","ja":"足に履くもの。"},
+      {"text":"が","en":"marks the subject","vi":"đánh dấu chủ thể","ja":"状態の主体を示す助詞。"},
+      {"text":"汚れた","kana":"よごれた","en":"became dirty","vi":"đã bị bẩn","ja":"「汚れる」の過去形。"}
+    ]
+  },
+  {
+    "japanese": "とび箱を跳ぶ",
+    "kana": "とびばこをとぶ",
+    "en": "Jump over a vaulting box.",
+    "vi": "Nhảy qua hộp nhảy.",
+    "ja": "体操で、とび箱を越えるように跳躍する。",
+    "parts": [
+      {"text":"とび箱","kana":"とびばこ","en":"vaulting box","vi":"hộp nhảy thể dục","ja":"跳び越える運動に使う体操器具。"},
+      {"text":"を","en":"marks the object crossed","vi":"đánh dấu vật được vượt qua","ja":"動作の対象や経路を示す助詞。"},
+      {"text":"跳ぶ","kana":"とぶ","en":"jump; leap","vi":"nhảy; bật qua","ja":"地面を蹴って空中に上がる。"}
+    ]
+  },
+  {
+    "japanese": "お嬢様育ちの世間知らず",
+    "kana": "おじょうさまそだちのせけんしらず",
+    "en": "A sheltered person raised as a young lady.",
+    "vi": "Người được nuông chiều như tiểu thư nên thiếu hiểu biết về đời.",
+    "ja": "裕福で大切に育てられ、世の中の事情に詳しくない人。",
+    "parts": [
+      {"text":"お嬢様育ち","kana":"おじょうさまそだち","en":"raised as a sheltered young lady","vi":"được nuôi dạy như tiểu thư","ja":"裕福な家の娘として大切に育てられたこと。"},
+      {"text":"の","en":"connects the description to the person","vi":"nối phần bổ nghĩa với người được nói đến","ja":"前の語句が後ろの名詞を修飾する助詞。"},
+      {"text":"世間知らず","kana":"せけんしらず","en":"naive; inexperienced about the world","vi":"non nớt, thiếu hiểu biết về đời","ja":"世の中の事情や人情をよく知らないこと、またその人。"}
+    ]
+  },
+  {
+    "japanese": "お坊ちゃん",
+    "kana": "おぼっちゃん",
+    "en": "young master; sheltered boy",
+    "vi": "cậu ấm; cậu bé được nuông chiều",
+    "ja": "他人の息子を丁寧に、または親しみを込めて呼ぶ語。",
+    "parts": [
+      {"text":"お","en":"polite or affectionate prefix","vi":"tiền tố lịch sự hoặc thân mật","ja":"丁寧さや親しみを添える接頭語。"},
+      {"text":"坊ちゃん","kana":"ぼっちゃん","en":"young master; boy","vi":"cậu chủ nhỏ; cậu bé","ja":"他人の息子を丁寧に呼ぶ語。"}
+    ]
+  }
+]

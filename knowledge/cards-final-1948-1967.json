@@ -1,0 +1,812 @@
+[
+  {
+    "japanese": "臨場感あふれる映画",
+    "kana": "りんじょうかんあふれるえいが",
+    "en": "an immersive movie",
+    "vi": "bộ phim sống động như thật",
+    "ja": "その場にいるような感覚が豊かな映画。",
+    "parts": [
+      {
+        "text": "臨場感",
+        "kana": "りんじょうかん",
+        "en": "sense of presence; realism",
+        "vi": "cảm giác chân thực; sống động",
+        "ja": "実際にその場にいるように感じること。"
+      },
+      {
+        "text": "あふれる",
+        "kana": "あふれる",
+        "en": "overflowing with; full of",
+        "vi": "tràn đầy",
+        "ja": "中に収まりきらないほど多くある。"
+      },
+      {
+        "text": "映画",
+        "kana": "えいが",
+        "en": "movie; film",
+        "vi": "phim",
+        "ja": "映像を連続して見せる作品。"
+      }
+    ]
+  },
+  {
+    "japanese": "臨時休業",
+    "kana": "りんじきゅうぎょう",
+    "en": "temporary closure",
+    "vi": "tạm thời đóng cửa",
+    "ja": "通常の営業日だが、一時的に営業を休むこと。",
+    "parts": [
+      {
+        "text": "臨時",
+        "kana": "りんじ",
+        "en": "temporary; special",
+        "vi": "tạm thời; đột xuất",
+        "ja": "一時的で、通常とは異なること。"
+      },
+      {
+        "text": "休業",
+        "kana": "きゅうぎょう",
+        "en": "business closure; suspension of operations",
+        "vi": "ngừng kinh doanh; đóng cửa",
+        "ja": "営業や仕事を休むこと。"
+      }
+    ]
+  },
+  {
+    "japanese": "飲食店ではお客様の要望に合わせて臨機応変な対応が望まれる",
+    "kana": "いんしょくてんではおきゃくさまのようぼうにあわせてりんきおうへんなたいおうがのぞまれる",
+    "en": "Restaurants are expected to respond flexibly to customers' requests.",
+    "vi": "Các nhà hàng được kỳ vọng ứng biến linh hoạt theo yêu cầu của khách hàng.",
+    "ja": "飲食店では、客の希望に応じてその場に適した対応をすることが求められる。",
+    "parts": [
+      {
+        "text": "飲食店",
+        "kana": "いんしょくてん",
+        "en": "restaurant; food and drink establishment",
+        "vi": "nhà hàng; quán ăn",
+        "ja": "食事や飲み物を提供する店。"
+      },
+      {
+        "text": "で",
+        "kana": "で",
+        "en": "at; in",
+        "vi": "ở; tại",
+        "ja": "場所を示す助詞。"
+      },
+      {
+        "text": "は",
+        "kana": "は",
+        "en": "marks the topic",
+        "vi": "đánh dấu chủ đề",
+        "ja": "話題を示す助詞。"
+      },
+      {
+        "text": "お客様",
+        "kana": "おきゃくさま",
+        "en": "customer; guest",
+        "vi": "khách hàng; quý khách",
+        "ja": "店などを利用する人を敬っていう語。"
+      },
+      {
+        "text": "の",
+        "kana": "の",
+        "en": "links the customer to their request",
+        "vi": "nối khách hàng với yêu cầu",
+        "ja": "前の名詞が後ろの名詞を限定する助詞。"
+      },
+      {
+        "text": "要望",
+        "kana": "ようぼう",
+        "en": "request; demand",
+        "vi": "yêu cầu; mong muốn",
+        "ja": "こうしてほしいという希望。"
+      },
+      {
+        "text": "に",
+        "kana": "に",
+        "en": "in response to",
+        "vi": "theo; đáp ứng",
+        "ja": "対応する対象を示す助詞。"
+      },
+      {
+        "text": "合わせて",
+        "kana": "あわせて",
+        "en": "in accordance with",
+        "vi": "phù hợp với",
+        "ja": "他のものに合うようにする。"
+      },
+      {
+        "text": "臨機応変",
+        "kana": "りんきおうへん",
+        "en": "flexible; adaptable to circumstances",
+        "vi": "linh hoạt; tùy cơ ứng biến",
+        "ja": "その時の状況に応じて適切に対応すること。"
+      },
+      {
+        "text": "な",
+        "kana": "な",
+        "en": "adjectival connector",
+        "vi": "từ nối tính từ",
+        "ja": "ナ形容詞を名詞に続ける形。"
+      },
+      {
+        "text": "対応",
+        "kana": "たいおう",
+        "en": "response; handling",
+        "vi": "sự ứng phó; xử lý",
+        "ja": "状況や相手に応じて行動すること。"
+      },
+      {
+        "text": "が",
+        "kana": "が",
+        "en": "marks the subject",
+        "vi": "đánh dấu chủ thể",
+        "ja": "求められるものを示す助詞。"
+      },
+      {
+        "text": "望まれる",
+        "kana": "のぞまれる",
+        "en": "is desired; is expected",
+        "vi": "được mong đợi",
+        "ja": "そうすることがよいと期待される。"
+      }
+    ]
+  },
+  {
+    "japanese": "父の臨終に立ち会う",
+    "kana": "ちちのりんじゅうにたちあう",
+    "en": "be present at one's father's death",
+    "vi": "có mặt bên cha lúc lâm chung",
+    "ja": "父が亡くなる最期の時に、その場にいる。",
+    "parts": [
+      {
+        "text": "父",
+        "kana": "ちち",
+        "en": "father",
+        "vi": "cha; bố",
+        "ja": "自分の父親。"
+      },
+      {
+        "text": "の",
+        "kana": "の",
+        "en": "links the father to his final moments",
+        "vi": "nối người cha với phút cuối",
+        "ja": "前の名詞が後ろの名詞を限定する助詞。"
+      },
+      {
+        "text": "臨終",
+        "kana": "りんじゅう",
+        "en": "deathbed; final moments",
+        "vi": "lúc lâm chung",
+        "ja": "人が亡くなる間際。"
+      },
+      {
+        "text": "に",
+        "kana": "に",
+        "en": "at",
+        "vi": "vào; tại",
+        "ja": "時点を示す助詞。"
+      },
+      {
+        "text": "立ち会う",
+        "kana": "たちあう",
+        "en": "be present; witness",
+        "vi": "có mặt; chứng kiến",
+        "ja": "その場にいて、出来事を見届ける。"
+      }
+    ]
+  },
+  {
+    "japanese": "子供を褒める",
+    "kana": "こどもをほめる",
+    "en": "praise a child",
+    "vi": "khen trẻ em",
+    "ja": "子供のよい点を認めて言葉にする。",
+    "parts": [
+      {
+        "text": "子供",
+        "kana": "こども",
+        "en": "child",
+        "vi": "trẻ em",
+        "ja": "年齢の低い人。"
+      },
+      {
+        "text": "を",
+        "kana": "を",
+        "en": "marks whom one praises",
+        "vi": "đánh dấu người được khen",
+        "ja": "動作の対象を示す助詞。"
+      },
+      {
+        "text": "褒める",
+        "kana": "ほめる",
+        "en": "praise; compliment",
+        "vi": "khen ngợi",
+        "ja": "よい点を認めて言葉にする。"
+      }
+    ]
+  },
+  {
+    "japanese": "手伝いをしてご褒美をもらった",
+    "kana": "てつだいをしてごほうびをもらった",
+    "en": "I helped and received a reward.",
+    "vi": "Tôi đã giúp đỡ và nhận được phần thưởng.",
+    "ja": "手助けをしたので、褒美として物などを受け取った。",
+    "parts": [
+      {
+        "text": "手伝い",
+        "kana": "てつだい",
+        "en": "help; assistance",
+        "vi": "sự giúp đỡ",
+        "ja": "人の仕事を助けること。"
+      },
+      {
+        "text": "を",
+        "kana": "を",
+        "en": "marks what is done",
+        "vi": "đánh dấu việc được làm",
+        "ja": "動作の対象を示す助詞。"
+      },
+      {
+        "text": "して",
+        "kana": "して",
+        "en": "doing; and did",
+        "vi": "làm rồi",
+        "ja": "「する」のて形。"
+      },
+      {
+        "text": "ご褒美",
+        "kana": "ごほうび",
+        "en": "reward; treat",
+        "vi": "phần thưởng",
+        "ja": "よい行いへの報酬。"
+      },
+      {
+        "text": "を",
+        "kana": "を",
+        "en": "marks what is received",
+        "vi": "đánh dấu thứ được nhận",
+        "ja": "動作の対象を示す助詞。"
+      },
+      {
+        "text": "もらった",
+        "kana": "もらった",
+        "en": "received; got",
+        "vi": "đã nhận",
+        "ja": "人から物などを受け取った。"
+      }
+    ]
+  },
+  {
+    "japanese": "人々が羨むような美人な女性と付き合っている",
+    "kana": "ひとびとがうらやむようなびじんなじょせいとつきあっている",
+    "en": "He is dating a beautiful woman whom everyone envies.",
+    "vi": "Anh ấy đang hẹn hò với một phụ nữ xinh đẹp khiến mọi người ghen tị.",
+    "ja": "多くの人がうらやましく思うほど美しい女性と交際している。",
+    "parts": [
+      {
+        "text": "人々",
+        "kana": "ひとびと",
+        "en": "people",
+        "vi": "mọi người",
+        "ja": "多くの人。"
+      },
+      {
+        "text": "が",
+        "kana": "が",
+        "en": "marks the subject",
+        "vi": "đánh dấu chủ thể",
+        "ja": "動作の主体を示す助詞。"
+      },
+      {
+        "text": "羨む",
+        "kana": "うらやむ",
+        "en": "envy",
+        "vi": "ghen tị; ngưỡng mộ",
+        "ja": "他人の恵まれた状態をうらやましく思う。"
+      },
+      {
+        "text": "ような",
+        "kana": "ような",
+        "en": "such that; like",
+        "vi": "đến mức; như",
+        "ja": "例や様子を示して名詞を修飾する。"
+      },
+      {
+        "text": "美人",
+        "kana": "びじん",
+        "en": "beauty; beautiful woman",
+        "vi": "người đẹp",
+        "ja": "顔立ちが美しい人。"
+      },
+      {
+        "text": "な",
+        "kana": "な",
+        "en": "adjectival connector",
+        "vi": "từ nối tính từ",
+        "ja": "ナ形容詞を名詞に続ける形。"
+      },
+      {
+        "text": "女性",
+        "kana": "じょせい",
+        "en": "woman",
+        "vi": "phụ nữ",
+        "ja": "成人した女の人。"
+      },
+      {
+        "text": "と",
+        "kana": "と",
+        "en": "with",
+        "vi": "với",
+        "ja": "交際の相手を示す助詞。"
+      },
+      {
+        "text": "付き合っている",
+        "kana": "つきあっている",
+        "en": "is dating; is in a relationship",
+        "vi": "đang hẹn hò; đang có quan hệ",
+        "ja": "人と交際している状態。"
+      }
+    ]
+  },
+  {
+    "japanese": "羨望の的となる",
+    "kana": "せんぼうのまととなる",
+    "en": "become the object of envy",
+    "vi": "trở thành đối tượng khiến người khác ghen tị",
+    "ja": "多くの人からうらやましく思われる対象になる。",
+    "parts": [
+      {
+        "text": "羨望",
+        "kana": "せんぼう",
+        "en": "envy; admiration",
+        "vi": "sự ghen tị; ngưỡng mộ",
+        "ja": "他人の優れた点などをうらやましく思うこと。"
+      },
+      {
+        "text": "の",
+        "kana": "の",
+        "en": "links envy to its object",
+        "vi": "nối sự ngưỡng mộ với đối tượng",
+        "ja": "前の名詞が後ろの名詞を限定する助詞。"
+      },
+      {
+        "text": "的",
+        "kana": "まと",
+        "en": "target; object",
+        "vi": "mục tiêu; đối tượng",
+        "ja": "感情や行動が向けられるもの。"
+      },
+      {
+        "text": "と",
+        "kana": "と",
+        "en": "as; into",
+        "vi": "thành; với tư cách",
+        "ja": "変化後の状態を示す助詞。"
+      },
+      {
+        "text": "なる",
+        "kana": "なる",
+        "en": "become",
+        "vi": "trở thành",
+        "ja": "別の状態に変わる。"
+      }
+    ]
+  },
+  {
+    "japanese": "釜で米を炊く",
+    "kana": "かまでこめをたく",
+    "en": "cook rice in a pot",
+    "vi": "nấu cơm bằng nồi",
+    "ja": "釜を使って米を加熱し、ご飯にする。",
+    "parts": [
+      {
+        "text": "釜",
+        "kana": "かま",
+        "en": "cooking pot; rice pot",
+        "vi": "nồi; nồi nấu cơm",
+        "ja": "米などを煮炊きする器具。"
+      },
+      {
+        "text": "で",
+        "kana": "で",
+        "en": "in; using",
+        "vi": "bằng; trong",
+        "ja": "道具や場所を示す助詞。"
+      },
+      {
+        "text": "米",
+        "kana": "こめ",
+        "en": "uncooked rice",
+        "vi": "gạo",
+        "ja": "稲から取った食用の粒。"
+      },
+      {
+        "text": "を",
+        "kana": "を",
+        "en": "marks what is cooked",
+        "vi": "đánh dấu thứ được nấu",
+        "ja": "動作の対象を示す助詞。"
+      },
+      {
+        "text": "炊く",
+        "kana": "たく",
+        "en": "cook rice",
+        "vi": "nấu cơm",
+        "ja": "米などを水とともに加熱して食べられる状態にする。"
+      }
+    ]
+  },
+  {
+    "japanese": "釜飯",
+    "kana": "かまめし",
+    "en": "rice cooked and served in an individual pot",
+    "vi": "cơm nấu trong nồi nhỏ",
+    "ja": "釜で炊いたご飯に具を加えた料理。",
+    "parts": [
+      {
+        "text": "釜飯",
+        "kana": "かまめし",
+        "en": "pot rice; rice cooked in a pot",
+        "vi": "cơm nấu trong nồi",
+        "ja": "釜で炊き、具を載せて出すご飯料理。"
+      }
+    ]
+  },
+  {
+    "japanese": "メロディーを奏でる",
+    "kana": "メロディーをかなでる",
+    "en": "play a melody",
+    "vi": "tấu lên giai điệu",
+    "ja": "楽器などで旋律を演奏する。",
+    "parts": [
+      {
+        "text": "メロディー",
+        "kana": "メロディー",
+        "en": "melody",
+        "vi": "giai điệu",
+        "ja": "音の高低や長さをつないだ旋律。"
+      },
+      {
+        "text": "を",
+        "kana": "を",
+        "en": "marks what is played",
+        "vi": "đánh dấu giai điệu được tấu",
+        "ja": "動作の対象を示す助詞。"
+      },
+      {
+        "text": "奏でる",
+        "kana": "かなでる",
+        "en": "play; perform (music)",
+        "vi": "tấu; trình diễn",
+        "ja": "楽器などで音楽を演奏する。"
+      }
+    ]
+  },
+  {
+    "japanese": "ショパンの曲を演奏する",
+    "kana": "ショパンのきょくをえんそうする",
+    "en": "perform a piece by Chopin",
+    "vi": "biểu diễn một bản nhạc của Chopin",
+    "ja": "ショパンが作曲した音楽を楽器などで奏する。",
+    "parts": [
+      {
+        "text": "ショパン",
+        "kana": "ショパン",
+        "en": "Chopin",
+        "vi": "Chopin",
+        "ja": "ポーランド出身の作曲家フレデリック・ショパン。"
+      },
+      {
+        "text": "の",
+        "kana": "の",
+        "en": "links Chopin to the piece",
+        "vi": "nối Chopin với bản nhạc",
+        "ja": "前の名詞が後ろの名詞を限定する助詞。"
+      },
+      {
+        "text": "曲",
+        "kana": "きょく",
+        "en": "piece of music; song",
+        "vi": "bản nhạc; bài hát",
+        "ja": "演奏や歌唱のために作られた音楽。"
+      },
+      {
+        "text": "を",
+        "kana": "を",
+        "en": "marks what is performed",
+        "vi": "đánh dấu thứ được biểu diễn",
+        "ja": "動作の対象を示す助詞。"
+      },
+      {
+        "text": "演奏する",
+        "kana": "えんそうする",
+        "en": "perform; play music",
+        "vi": "biểu diễn; chơi nhạc",
+        "ja": "楽器などを使って音楽を奏する。"
+      }
+    ]
+  },
+  {
+    "japanese": "バイオリンの演奏会",
+    "kana": "バイオリンのえんそうかい",
+    "en": "violin concert",
+    "vi": "buổi hòa nhạc violin",
+    "ja": "バイオリンを演奏する音楽会。",
+    "parts": [
+      {
+        "text": "バイオリン",
+        "kana": "バイオリン",
+        "en": "violin",
+        "vi": "đàn violin",
+        "ja": "弦を弓でこすって演奏する楽器。"
+      },
+      {
+        "text": "の",
+        "kana": "の",
+        "en": "links the violin to the concert",
+        "vi": "nối đàn violin với buổi hòa nhạc",
+        "ja": "前の名詞が後ろの名詞を限定する助詞。"
+      },
+      {
+        "text": "演奏会",
+        "kana": "えんそうかい",
+        "en": "concert; recital",
+        "vi": "buổi hòa nhạc",
+        "ja": "音楽を演奏して聴かせる会。"
+      }
+    ]
+  },
+  {
+    "japanese": "吹奏楽",
+    "kana": "すいそうがく",
+    "en": "wind ensemble music; concert band",
+    "vi": "nhạc hòa tấu kèn; ban nhạc kèn",
+    "ja": "管楽器を中心に演奏する合奏音楽。",
+    "parts": [
+      {
+        "text": "吹奏楽",
+        "kana": "すいそうがく",
+        "en": "wind ensemble; concert band",
+        "vi": "nhạc hòa tấu kèn",
+        "ja": "管楽器を中心とする合奏やその音楽。"
+      }
+    ]
+  },
+  {
+    "japanese": "宣伝が功を奏し収益が伸びた",
+    "kana": "せんでんがこうをそうししゅうえきがのびた",
+    "en": "The advertising paid off, and revenue increased.",
+    "vi": "Quảng cáo đã phát huy tác dụng, doanh thu tăng lên.",
+    "ja": "宣伝の効果が現れ、利益が増えた。",
+    "parts": [
+      {
+        "text": "宣伝",
+        "kana": "せんでん",
+        "en": "advertising; publicity",
+        "vi": "quảng cáo; tuyên truyền",
+        "ja": "商品や活動を広く知らせること。"
+      },
+      {
+        "text": "が",
+        "kana": "が",
+        "en": "marks the subject",
+        "vi": "đánh dấu chủ thể",
+        "ja": "動作の主体を示す助詞。"
+      },
+      {
+        "text": "功を奏し",
+        "kana": "こうをそうし",
+        "en": "paid off; proved effective",
+        "vi": "đã phát huy tác dụng",
+        "ja": "「功を奏する」の連用形。努力や手段がよい結果を生む。"
+      },
+      {
+        "text": "収益",
+        "kana": "しゅうえき",
+        "en": "revenue; profit",
+        "vi": "doanh thu; lợi nhuận",
+        "ja": "事業などで得られる利益。"
+      },
+      {
+        "text": "が",
+        "kana": "が",
+        "en": "marks the subject",
+        "vi": "đánh dấu chủ thể",
+        "ja": "変化するものを示す助詞。"
+      },
+      {
+        "text": "伸びた",
+        "kana": "のびた",
+        "en": "increased; grew",
+        "vi": "đã tăng",
+        "ja": "数量や程度が大きくなった。"
+      }
+    ]
+  },
+  {
+    "japanese": "医療の発達により、平均寿命が延びる",
+    "kana": "いりょうのはったつにより、へいきんじゅみょうがのびる",
+    "en": "Average life expectancy increases thanks to advances in medicine.",
+    "vi": "Tuổi thọ trung bình tăng lên nhờ sự phát triển của y học.",
+    "ja": "医療が進歩した結果、平均して生きる年数が長くなる。",
+    "parts": [
+      {
+        "text": "医療",
+        "kana": "いりょう",
+        "en": "medical care; medicine",
+        "vi": "y tế; chăm sóc y khoa",
+        "ja": "病気の診断や治療を行うこと。"
+      },
+      {
+        "text": "の",
+        "kana": "の",
+        "en": "links medicine to its development",
+        "vi": "nối y học với sự phát triển",
+        "ja": "前の名詞が後ろの名詞を限定する助詞。"
+      },
+      {
+        "text": "発達",
+        "kana": "はったつ",
+        "en": "development; advancement",
+        "vi": "sự phát triển; tiến bộ",
+        "ja": "能力や技術などが進歩すること。"
+      },
+      {
+        "text": "により",
+        "kana": "により",
+        "en": "due to; by means of",
+        "vi": "nhờ; do",
+        "ja": "原因や手段を表す。"
+      },
+      {
+        "text": "、",
+        "kana": "、",
+        "en": "comma",
+        "vi": "dấu phẩy",
+        "ja": "文の区切りを示す読点。"
+      },
+      {
+        "text": "平均寿命",
+        "kana": "へいきんじゅみょう",
+        "en": "average life expectancy",
+        "vi": "tuổi thọ trung bình",
+        "ja": "人が平均して生きる年数。"
+      },
+      {
+        "text": "が",
+        "kana": "が",
+        "en": "marks the subject",
+        "vi": "đánh dấu chủ thể",
+        "ja": "変化するものを示す助詞。"
+      },
+      {
+        "text": "延びる",
+        "kana": "のびる",
+        "en": "lengthen; increase",
+        "vi": "kéo dài; tăng lên",
+        "ja": "時間や長さが大きくなる。"
+      }
+    ]
+  },
+  {
+    "japanese": "長寿番組が終わる",
+    "kana": "ちょうじゅばんぐみがおわる",
+    "en": "A long-running TV program comes to an end.",
+    "vi": "Chương trình truyền hình phát sóng lâu năm kết thúc.",
+    "ja": "長い間続いたテレビ番組が終了する。",
+    "parts": [
+      {
+        "text": "長寿番組",
+        "kana": "ちょうじゅばんぐみ",
+        "en": "long-running program",
+        "vi": "chương trình lâu năm",
+        "ja": "長期間にわたって放送されている番組。"
+      },
+      {
+        "text": "が",
+        "kana": "が",
+        "en": "marks the subject",
+        "vi": "đánh dấu chủ thể",
+        "ja": "終わるものを示す助詞。"
+      },
+      {
+        "text": "終わる",
+        "kana": "おわる",
+        "en": "end; come to an end",
+        "vi": "kết thúc",
+        "ja": "続いていたことが終了する。"
+      }
+    ]
+  },
+  {
+    "japanese": "寿司",
+    "kana": "すし",
+    "en": "sushi",
+    "vi": "sushi; cơm trộn giấm",
+    "ja": "酢飯に魚介類などを合わせた日本料理。",
+    "parts": [
+      {
+        "text": "寿司",
+        "kana": "すし",
+        "en": "sushi",
+        "vi": "sushi",
+        "ja": "酢飯と魚介類などを組み合わせた日本料理。"
+      }
+    ]
+  },
+  {
+    "japanese": "新規で事業を興す",
+    "kana": "しんきでじぎょうをおこす",
+    "en": "start a new business",
+    "vi": "khởi nghiệp kinh doanh mới",
+    "ja": "新しく事業を始める。",
+    "parts": [
+      {
+        "text": "新規",
+        "kana": "しんき",
+        "en": "new; newly established",
+        "vi": "mới; mới thành lập",
+        "ja": "新しく始めること。"
+      },
+      {
+        "text": "で",
+        "kana": "で",
+        "en": "as; in the form of",
+        "vi": "theo hình thức; với",
+        "ja": "状態や方法を示す助詞。"
+      },
+      {
+        "text": "事業",
+        "kana": "じぎょう",
+        "en": "business; enterprise",
+        "vi": "doanh nghiệp; hoạt động kinh doanh",
+        "ja": "社会的・経済的な目的を持って行う仕事。"
+      },
+      {
+        "text": "を",
+        "kana": "を",
+        "en": "marks what is started",
+        "vi": "đánh dấu việc được khởi đầu",
+        "ja": "動作の対象を示す助詞。"
+      },
+      {
+        "text": "興す",
+        "kana": "おこす",
+        "en": "establish; launch",
+        "vi": "gây dựng; khởi lập",
+        "ja": "新しく事業などを始める。"
+      }
+    ]
+  },
+  {
+    "japanese": "災害から復興する",
+    "kana": "さいがいからふっこうする",
+    "en": "recover and rebuild after a disaster",
+    "vi": "phục hồi và tái thiết sau thảm họa",
+    "ja": "災害で受けた被害から立ち直り、再び発展する。",
+    "parts": [
+      {
+        "text": "災害",
+        "kana": "さいがい",
+        "en": "disaster",
+        "vi": "thảm họa",
+        "ja": "地震や台風などによる大きな被害。"
+      },
+      {
+        "text": "から",
+        "kana": "から",
+        "en": "from; after",
+        "vi": "từ; sau",
+        "ja": "起点や離れる対象を示す助詞。"
+      },
+      {
+        "text": "復興する",
+        "kana": "ふっこうする",
+        "en": "recover; rebuild",
+        "vi": "phục hồi; tái thiết",
+        "ja": "衰えたものを再び盛んにする。"
+      }
+    ]
+  }
+]

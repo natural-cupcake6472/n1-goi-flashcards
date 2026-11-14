@@ -1,0 +1,44 @@
+{
+  "source": "n1-goi.txt",
+  "status": "draft",
+  "group": "挑",
+  "cards": [
+    {
+      "japanese": "相撲のチャンピオンに挑む",
+      "kana": "すもうのチャンピオンにいどむ",
+      "meaning": {
+        "en": "Challenge the sumo champion.",
+        "vi": "Thách đấu nhà vô địch sumo."
+      },
+      "breakdown": [
+        { "text": "相撲", "kana": "すもう", "en": "sumo wrestling", "vi": "đấu vật sumo" },
+        { "text": "の", "kana": "の", "en": "links sumo to champion", "vi": "nối sumo với nhà vô địch" },
+        { "text": "チャンピオン", "kana": "チャンピオン", "en": "champion", "vi": "nhà vô địch" },
+        { "text": "に", "kana": "に", "en": "marks the person challenged", "vi": "chỉ người bị thách đấu" },
+        { "text": "挑む", "kana": "いどむ", "en": "challenge", "vi": "thách đấu" }
+      ]
+    },
+    {
+      "japanese": "難問に挑戦する",
+      "kana": "なんもんにちょうせんする",
+      "meaning": {
+        "en": "Take on a difficult problem.",
+        "vi": "Thử sức với một vấn đề khó."
+      },
+      "breakdown": [
+        { "text": "難問", "kana": "なんもん", "en": "difficult problem", "vi": "vấn đề khó" },
+        { "text": "に", "kana": "に", "en": "marks what is being attempted", "vi": "chỉ việc được thử sức" },
+        { "text": "挑戦する", "kana": "ちょうせんする", "en": "take on; challenge oneself", "vi": "thử sức; thách thức" }
+      ]
+    },
+    {
+      "japanese": "挑戦者",
+      "kana": "ちょうせんしゃ",
+      "meaning": { "en": "Challenger.", "vi": "Người thách đấu." },
+      "breakdown": [
+        { "text": "挑戦", "kana": "ちょうせん", "en": "challenge", "vi": "sự thách thức" },
+        { "text": "者", "kana": "しゃ", "en": "person", "vi": "người" }
+      ]
+    }
+  ]
+}
