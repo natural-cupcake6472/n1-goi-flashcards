@@ -4366,7 +4366,7 @@
       "parts": [
        {
         "text": "何でもかんでも",
-        "reading": "なんでかんでも"
+        "reading": ""
        },
        {
         "text": "予断する",
@@ -4614,7 +4614,7 @@
       "parts": [
        {
         "text": "何とか",
-        "reading": "なんとか"
+        "reading": ""
        },
        {
         "text": "費用",
@@ -5579,7 +5579,7 @@
        },
        {
         "text": "ヨガ教室は、",
-        "reading": "ヨガきょうしつは、"
+        "reading": ""
        },
        {
         "text": "患者から",
@@ -6006,7 +6006,7 @@
        },
        {
         "text": "マーケティング活動を",
-        "reading": "マーケティングかつどうを"
+        "reading": ""
        },
        {
         "text": "行っている。",
@@ -6155,7 +6155,7 @@
       "parts": [
        {
         "text": "つかの間の",
-        "reading": "つかのまの"
+        "reading": ""
        },
        {
         "text": "平和の",
@@ -7502,7 +7502,7 @@
        },
        {
         "text": "思われていない",
-        "reading": "おもわれていない"
+        "reading": ""
        },
        {
         "text": "か",
@@ -19530,36 +19530,32 @@
      "meaning_vi": "Việc gộp nhiều thứ làm 1.",
      "meaning_ja": "多くのことを一つにまとめること",
      "example": {
-      "ja": "「コロナ給付金 10 万円」",
-      "vi": "10 man tiền trợ cấp Corona.",
+      "ja": "「お支払いはご一括でよろしいでしょうか」",
+      "vi": "Quý khách thanh toán một lần đúng không ạ?",
       "parts": [
        {
         "text": "「",
         "reading": ""
        },
        {
-        "text": "コロナ",
+        "text": "お支払い",
+        "reading": "おしはらい"
+       },
+       {
+        "text": "は",
         "reading": ""
        },
        {
-        "text": "給付金",
-        "reading": "きゅうふきん"
+        "text": "ご一括",
+        "reading": "ごいっかつ"
        },
        {
-        "text": " ",
+        "text": "で",
         "reading": ""
        },
        {
-        "text": "10",
+        "text": "よろしいでしょうか",
         "reading": ""
-       },
-       {
-        "text": " ",
-        "reading": ""
-       },
-       {
-        "text": "万円",
-        "reading": "まんえん"
        },
        {
         "text": "」",
@@ -22625,87 +22621,27 @@
      "meaning_vi": "Cảm thấy như nhau. Tán thành suy nghĩ ý kiến của đối phương.",
      "meaning_ja": "同じように感じること。その意見や考えに賛成であること。",
      "example": {
-      "ja": "田中：やはり、この状況ではB案よりA案の方が現実的だと思いますが。",
-      "vi": "Tanaka : Quả thật là ở tình huống này thì tôi cho rằng phương án A khả thi hơn phương án B.",
+      "ja": "高橋：全く同感です。",
+      "vi": "Takahashi: Tôi hoàn toàn đồng ý.",
       "parts": [
        {
-        "text": "田中",
-        "reading": "たなか"
+        "text": "高橋",
+        "reading": "たかはし"
        },
        {
         "text": "：",
         "reading": ""
        },
        {
-        "text": "やはり",
-        "reading": ""
+        "text": "全く",
+        "reading": "まったく"
        },
        {
-        "text": "、",
-        "reading": ""
+        "text": "同感",
+        "reading": "どうかん"
        },
        {
-        "text": "この",
-        "reading": ""
-       },
-       {
-        "text": "状況",
-        "reading": "じょうきょう"
-       },
-       {
-        "text": "では",
-        "reading": ""
-       },
-       {
-        "text": "B",
-        "reading": ""
-       },
-       {
-        "text": "案",
-        "reading": "あん"
-       },
-       {
-        "text": "より",
-        "reading": ""
-       },
-       {
-        "text": "A",
-        "reading": ""
-       },
-       {
-        "text": "案",
-        "reading": "あん"
-       },
-       {
-        "text": "の",
-        "reading": ""
-       },
-       {
-        "text": "方",
-        "reading": "ほう"
-       },
-       {
-        "text": "が",
-        "reading": ""
-       },
-       {
-        "text": "現実的",
-        "reading": "げんじつてき"
-       },
-       {
-        "text": "だ",
-        "reading": ""
-       },
-       {
-        "text": "と",
-        "reading": ""
-       },
-       {
-        "text": "思います",
-        "reading": "おもいます"
-       },
-       {
-        "text": "が",
+        "text": "です",
         "reading": ""
        },
        {
@@ -29380,7 +29316,7 @@
        },
        {
         "text": "飲みます",
-        "reading": "のみます"
+        "reading": ""
        },
        {
         "text": "」",
@@ -30054,7 +29990,7 @@
       "parts": [
        {
         "text": "スパイ映画で、",
-        "reading": "スパイえいがで、"
+        "reading": ""
        },
        {
         "text": "本物",
@@ -35156,48 +35092,24 @@
      "meaning_vi": "Có vẻ sắp chán ngấy vì luôn cùng một trạng thái, không thay đổi.\nMuốn có sự kích thích.",
      "meaning_ja": "同じ調子で、変化がない飽きそう。刺激が欲しい。",
      "example": {
-      "ja": "簡単な生活を変える 30 日間のチャレンジ。",
-      "vi": "30 ngày thử thách thay đổi cuộc sống tẻ nhạt.",
+      "ja": "単調作業が楽しくなる。",
+      "vi": "Công việc tẻ nhạt trở nên vui vẻ hơn.",
       "parts": [
        {
-        "text": "簡単な",
-        "reading": "かんたんな"
+        "text": "単調",
+        "reading": "たんちょう"
        },
        {
-        "text": "生活",
-        "reading": "せいかつ"
+        "text": "作業",
+        "reading": "さぎょう"
        },
        {
-        "text": "を",
+        "text": "が",
         "reading": ""
        },
        {
-        "text": "変える",
-        "reading": "かえる"
-       },
-       {
-        "text": " ",
-        "reading": ""
-       },
-       {
-        "text": "30",
-        "reading": ""
-       },
-       {
-        "text": " ",
-        "reading": ""
-       },
-       {
-        "text": "日間",
-        "reading": "にちかん"
-       },
-       {
-        "text": "の",
-        "reading": ""
-       },
-       {
-        "text": "チャレンジ",
-        "reading": ""
+        "text": "楽しくなる",
+        "reading": "たのしくなる"
        },
        {
         "text": "。",
@@ -40923,7 +40835,7 @@
        },
        {
         "text": "ずれ込み",
-        "reading": "ずれこみ"
+        "reading": ""
        },
        {
         "text": "そうだ",
@@ -51159,8 +51071,8 @@
      "meaning_vi": "Xen ngang vào câu chuyện của người khác.",
      "meaning_ja": "人の会話に横から入る。",
      "example": {
-      "ja": "A：Bちゃん、昨日、いっしょに食べに行ったパン屋さんおいしかったね。",
-      "vi": "B ơi, cái cửa hàng bánh mì hôm qua mình cùng đi ăn ngon nhỉ.",
+      "ja": "A：Cちゃん横から口を挟まないで。",
+      "vi": "A: C đừng xen ngang vào thế!",
       "parts": [
        {
         "text": "A",
@@ -51171,44 +51083,24 @@
         "reading": ""
        },
        {
-        "text": "Bちゃん",
+        "text": "C",
         "reading": ""
        },
        {
-        "text": "、",
+        "text": "ちゃん",
         "reading": ""
        },
        {
-        "text": "昨日",
-        "reading": "きのう"
+        "text": "横",
+        "reading": "よこ"
        },
        {
-        "text": "、",
+        "text": "から",
         "reading": ""
        },
        {
-        "text": "いっしょに",
-        "reading": ""
-       },
-       {
-        "text": "食べに",
-        "reading": "たべに"
-       },
-       {
-        "text": "行った",
-        "reading": "いった"
-       },
-       {
-        "text": "パン屋さん",
-        "reading": "ぱんやさん"
-       },
-       {
-        "text": "おいしかった",
-        "reading": ""
-       },
-       {
-        "text": "ね",
-        "reading": ""
+        "text": "口を挟まないで",
+        "reading": "くちをはさまないで"
        },
        {
         "text": "。",
@@ -51293,35 +51185,27 @@
      "meaning_vi": "Cố gắng không gây tổn hại danh dự, lập trường của đối phương.",
      "meaning_ja": "相手の立場・名誉を傷つけないようにする。",
      "example": {
-      "ja": "取引先：「わたしはね、ゴルフの腕に自信があるんだ。",
-      "vi": "Khách hàng: Tôi ấy mà, rất tự tin vào tay nghề chơi golf của mình. Tôi sẽ chỉ cho bạn.",
+      "ja": "取引先の顔を立てて、わざとゴルフで負けた。",
+      "vi": "Vì giữ thể diện cho khách hàng nên cố tình chơi golf thua.",
       "parts": [
        {
         "text": "取引先",
         "reading": "とりひきさき"
        },
        {
-        "text": "：",
+        "text": "の",
         "reading": ""
        },
        {
-        "text": "「",
-        "reading": ""
-       },
-       {
-        "text": "わたし",
-        "reading": ""
-       },
-       {
-        "text": "は",
-        "reading": ""
-       },
-       {
-        "text": "ね",
-        "reading": ""
+        "text": "顔を立てて",
+        "reading": "かおをたてて"
        },
        {
         "text": "、",
+        "reading": ""
+       },
+       {
+        "text": "わざと",
         "reading": ""
        },
        {
@@ -51329,36 +51213,12 @@
         "reading": ""
        },
        {
-        "text": "の",
+        "text": "で",
         "reading": ""
        },
        {
-        "text": "腕",
-        "reading": "うで"
-       },
-       {
-        "text": "に",
-        "reading": ""
-       },
-       {
-        "text": "自信",
-        "reading": "じしん"
-       },
-       {
-        "text": "が",
-        "reading": ""
-       },
-       {
-        "text": "ある",
-        "reading": ""
-       },
-       {
-        "text": "ん",
-        "reading": ""
-       },
-       {
-        "text": "だ",
-        "reading": ""
+        "text": "負けた",
+        "reading": "まけた"
        },
        {
         "text": "。",
@@ -51967,12 +51827,12 @@
      "meaning_vi": "Có quan tâm, hứng thú, liên quan đến một việc nào đó.",
      "meaning_ja": "関心や興味をもって、あることに関係する。",
      "example": {
-      "ja": "母：「子どもはいつ？」",
-      "vi": "Mẹ: Con định bao giờ có con?",
+      "ja": "息子：「夫婦の話に首を突っ込まないで！」",
+      "vi": "Con trai: Đừng xen vào chuyện của vợ chồng con!",
       "parts": [
        {
-        "text": "母",
-        "reading": "はは"
+        "text": "息子",
+        "reading": "むすこ"
        },
        {
         "text": "：",
@@ -51983,15 +51843,27 @@
         "reading": ""
        },
        {
-        "text": "子ども",
-        "reading": "こども"
+        "text": "夫婦",
+        "reading": "ふうふ"
        },
        {
-        "text": "は",
+        "text": "の",
         "reading": ""
        },
        {
-        "text": "いつ？",
+        "text": "話",
+        "reading": "はなし"
+       },
+       {
+        "text": "に",
+        "reading": ""
+       },
+       {
+        "text": "首を突っ込まないで",
+        "reading": "くびをつっこまないで"
+       },
+       {
+        "text": "！",
         "reading": ""
        },
        {
