@@ -7,3 +7,5 @@ tmp
 .bun-tmp
 .bun-cache
 .wrangler
+.env
+**/.env

@@ -9,6 +9,8 @@ import topicsData from "../generated/topics.json";
 import hanvietMap from "../generated/hanviet.json";
 import lessonKanji from "../generated/lesson-kanji.json";
 
+const SITE_ID: string = "kanji";
+
 type Unit = { text: string; reading?: string; whole?: boolean };
 type Mode = "lesson" | "topic" | "group" | "random";
 type Lesson = { id: string; label: string; start: number; count: number };
@@ -126,6 +128,44 @@ const writeState = (state: Stored) => {
     /* storage full or blocked */
   }
 };
+const UID_KEY = "n1goi:uid";
+
+const uid = (): string => {
+  try {
+    let v = localStorage.getItem(UID_KEY);
+    if (!v) {
+      v = (crypto as Crypto).randomUUID ? crypto.randomUUID() : String(Date.now()) + Math.random().toString(16).slice(2);
+      localStorage.setItem(UID_KEY, v);
+    }
+    return v;
+  } catch {
+    return "anon";
+  }
+};
+
+const pullState = async (): Promise<Stored | null> => {
+  try {
+    const r = await fetch("/api/state?u=" + encodeURIComponent(uid()), { cache: "no-store" });
+    if (!r.ok) return null;
+    const j = (await r.json()) as { state?: Stored | null };
+    return j.state ?? null;
+  } catch {
+    return null;
+  }
+};
+
+let pushTimer: ReturnType<typeof setTimeout> | null = null;
+const pushState = (state: Stored) => {
+  if (pushTimer) clearTimeout(pushTimer);
+  pushTimer = setTimeout(() => {
+    void fetch("/api/state?u=" + encodeURIComponent(uid()), {
+      method: "PUT",
+      headers: { "content-type": "application/json" },
+      body: JSON.stringify({ state }),
+    }).catch(() => undefined);
+  }, 400);
+};
+
 const readHistory = (mode: string): Visit[] => {
   try {
     return JSON.parse(localStorage.getItem(historyKey(mode)) ?? "[]") as Visit[];
@@ -163,6 +203,7 @@ const readToday = (): number => {
 };
 
 const KANJI_RE = /[\u4e00-\u9fff]/;
+const DAILY_GOAL = 474;
 const PART_BG = ["bg-[#e0efe4]", "bg-[#f8e9d6]", "bg-[#e4e8f7]", "bg-[#f6e2e5]", "bg-[#e5eee7]"];
 const SWIPE = 80;
 const EASE = "transform 200ms ease-out";
@@ -233,6 +274,14 @@ export default component$(() => {
       if (stored.mode) mode.value = stored.mode;
       if (stored.topic && topicSequences[stored.topic]) topic.value = stored.topic;
     }
+    const remote = await pullState();
+    if (remote) {
+      if (typeof remote.index === "number" && remote.index >= 0 && remote.index < cards.length) index.value = remote.index;
+      if (typeof remote.reveal === "number") reveal.value = Math.min(2, Math.max(0, remote.reveal));
+      if (remote.lang) language.value = remote.lang;
+      if (remote.mode) mode.value = remote.mode;
+      if (remote.topic && topicSequences[remote.topic]) topic.value = remote.topic;
+    }
     history.value = readHistory(mode.value);
     historyTotal.value = history.value.length;
     backStack.value = readBack();
@@ -253,6 +302,7 @@ export default component$(() => {
     const stage = stageCard === card ? step : 0;
     const snapshot = { index: card, reveal: stage, lang, mode: order, topic: currentTopic };
     writeState(snapshot);
+    pushState(snapshot);
     void idbPut("state", snapshot);
     if (!remote.value) {
       history.value = pushHistory(order, card);
@@ -451,13 +501,36 @@ export default component$(() => {
         >
           ↩
         </button>
-        <button
-          aria-label="Admin panel"
-          class="rounded-full border border-[#ddd8c9] px-3 py-1.5 text-[10px] font-bold tracking-[0.16em] text-[#7c8b80] active:bg-[#ece7d9]"
-          onClick$={openPanel}
-        >
-          ADMIN
-        </button>
+        <div class="flex items-center gap-1">
+          <button
+            aria-label="Kanji deck"
+            class={"rounded-full px-2 py-1.5 text-[10px] font-bold tracking-[0.14em] " + (SITE_ID === "kanji" ? "border border-[#cfe0d2] bg-[#e6efe6] text-[#2f5d45]" : "border border-[#ddd8c9] text-[#7c8b80]")}
+            onClick$={() => { window.location.href = "http://" + window.location.hostname + ":4177/"; }}
+          >
+            漢
+          </button>
+          <button
+            aria-label="Goi deck"
+            class={"rounded-full px-2 py-1.5 text-[10px] font-bold tracking-[0.14em] " + (SITE_ID === "goi" ? "border border-[#cfe0d2] bg-[#e6efe6] text-[#2f5d45]" : "border border-[#ddd8c9] text-[#7c8b80]")}
+            onClick$={() => { window.location.href = "http://" + window.location.hostname + ":4181/"; }}
+          >
+            語
+          </button>
+          <button
+            aria-label="Grammar deck"
+            class={"rounded-full px-2 py-1.5 text-[10px] font-bold tracking-[0.14em] " + (SITE_ID === "grammar" ? "border border-[#cfe0d2] bg-[#e6efe6] text-[#2f5d45]" : "border border-[#ddd8c9] text-[#7c8b80]")}
+            onClick$={() => { window.location.href = "http://" + window.location.hostname + ":4182/"; }}
+          >
+            文
+          </button>
+          <button
+            aria-label="Admin panel"
+            class="rounded-full border border-[#ddd8c9] px-3 py-1.5 text-[10px] font-bold tracking-[0.16em] text-[#7c8b80] active:bg-[#ece7d9]"
+            onClick$={openPanel}
+          >
+            ADMIN
+          </button>
+        </div>
       </div>
       <div class="mx-auto w-full max-w-[480px] px-5 pb-2">
         <div class="flex items-center gap-2">
@@ -473,7 +546,9 @@ export default component$(() => {
             </span>
           )}
           <span class="text-[10px] text-[#c3cbc0]">·</span>
-          <span class="text-[10px] tabular-nums text-[#a6b0a6]">{todayCount.value} today</span>
+          <span class="text-[10px] tabular-nums text-[#a6b0a6]">
+            {Math.max(0, DAILY_GOAL - todayCount.value)} 🎯
+          </span>
         </div>
       </div>
       <div class="relative mx-auto w-full max-w-[480px] flex-1 px-4 pb-2">

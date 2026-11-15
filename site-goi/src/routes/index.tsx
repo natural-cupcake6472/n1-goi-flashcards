@@ -16,6 +16,43 @@ type Lesson = { id: string; label: string; buoi: string; cards: Card[] };
 
 const LESSONS = (goiData as unknown as { lessons: Lesson[] }).lessons;
 const STORE = "n1goi-goi:state";
+const UID_KEY = "n1goi:uid";
+
+const uid = (): string => {
+  try {
+    let v = localStorage.getItem(UID_KEY);
+    if (!v) {
+      v = (crypto as Crypto).randomUUID ? crypto.randomUUID() : String(Date.now()) + Math.random().toString(16).slice(2);
+      localStorage.setItem(UID_KEY, v);
+    }
+    return v;
+  } catch {
+    return "anon";
+  }
+};
+
+const pullState = async (): Promise<{ lesson?: number; index?: number } | null> => {
+  try {
+    const r = await fetch("/api/state?u=" + encodeURIComponent(uid()), { cache: "no-store" });
+    if (!r.ok) return null;
+    const j = (await r.json()) as { state?: { lesson?: number; index?: number } | null };
+    return j.state ?? null;
+  } catch {
+    return null;
+  }
+};
+
+let pushTimer: ReturnType<typeof setTimeout> | null = null;
+const pushState = (state: { lesson: number; index: number }) => {
+  if (pushTimer) clearTimeout(pushTimer);
+  pushTimer = setTimeout(() => {
+    void fetch("/api/state?u=" + encodeURIComponent(uid()), {
+      method: "PUT",
+      headers: { "content-type": "application/json" },
+      body: JSON.stringify({ state }),
+    }).catch(() => undefined);
+  }, 400);
+};
 
 export default component$(() => {
   const lesson = useSignal(0);
@@ -33,15 +70,23 @@ export default component$(() => {
   const cards = current.cards;
   const card = cards[index.value];
 
-  useVisibleTask$(() => {
+  const synced = useSignal(false);
+
+  useVisibleTask$(async () => {
     try {
       const raw = localStorage.getItem(STORE);
       if (raw) {
         const s = JSON.parse(raw);
         if (typeof s.lesson === "number" && s.lesson < LESSONS.length) lesson.value = s.lesson;
-        if (typeof s.index === "number" && s.index < LESSONS[s.lesson ?? 0].cards.length) index.value = s.index;
+        if (typeof s.index === "number" && s.index < LESSONS[lesson.value].cards.length) index.value = s.index;
       }
     } catch { /* ignore */ }
+    const remote = await pullState();
+    if (remote) {
+      if (typeof remote.lesson === "number" && remote.lesson < LESSONS.length) lesson.value = remote.lesson;
+      if (typeof remote.index === "number" && remote.index < LESSONS[lesson.value].cards.length) index.value = remote.index;
+    }
+    synced.value = true;
   });
 
   useTask$(({ track }) => {
@@ -49,6 +94,7 @@ export default component$(() => {
     const i = track(() => index.value);
     if (typeof window === "undefined") return;
     localStorage.setItem(STORE, JSON.stringify({ lesson: l, index: i }));
+    if (synced.value) pushState({ lesson: l, index: i });
   });
 
   const advance = $((dir: number) => {
