@@ -287,6 +287,9 @@ export default component$(() => {
     backStack.value = readBack();
     todayCount.value = readToday();
     loaded.value = true;
+    if (!remote) {
+      pushState({ index: index.value, reveal: reveal.value, lang: language.value, mode: mode.value, topic: topic.value });
+    }
   });
 
   // Persist locally.

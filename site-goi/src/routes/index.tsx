@@ -87,6 +87,7 @@ export default component$(() => {
       if (typeof remote.index === "number" && remote.index < LESSONS[lesson.value].cards.length) index.value = remote.index;
     }
     synced.value = true;
+    if (!remote) pushState({ lesson: lesson.value, index: index.value });
   });
 
   useTask$(({ track }) => {
