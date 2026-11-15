@@ -9,3 +9,5 @@ tmp
 .wrangler
 .env
 **/.env
+server
+**/server/
