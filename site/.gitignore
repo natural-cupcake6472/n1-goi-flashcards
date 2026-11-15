@@ -5,10 +5,5 @@ server
 .tmp
 .env
 .env.*
-!.env.example
 *.log
-.DS_Store
 .state.json
-.vscode/*
-!.vscode/extensions.json
-!.vscode/settings.json

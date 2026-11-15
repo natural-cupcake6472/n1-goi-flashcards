@@ -129,6 +129,44 @@ const writeState = (state: Stored) => {
   }
 };
 
+const UID_KEY = "n1goi:uid";
+
+const uid = (): string => {
+  try {
+    let v = localStorage.getItem(UID_KEY);
+    if (!v) {
+      v = (crypto as Crypto).randomUUID ? crypto.randomUUID() : String(Date.now()) + Math.random().toString(16).slice(2);
+      localStorage.setItem(UID_KEY, v);
+    }
+    return v;
+  } catch {
+    return "anon";
+  }
+};
+
+const pullState = async (): Promise<Stored | null> => {
+  try {
+    const r = await fetch("/api/state?u=" + encodeURIComponent(uid()), { cache: "no-store" });
+    if (!r.ok) return null;
+    const j = (await r.json()) as { state?: Stored | null };
+    return j.state ?? null;
+  } catch {
+    return null;
+  }
+};
+
+let pushTimer: ReturnType<typeof setTimeout> | null = null;
+const pushState = (state: Stored) => {
+  if (pushTimer) clearTimeout(pushTimer);
+  pushTimer = setTimeout(() => {
+    void fetch("/api/state?u=" + encodeURIComponent(uid()), {
+      method: "PUT",
+      headers: { "content-type": "application/json" },
+      body: JSON.stringify({ state }),
+    }).catch(() => undefined);
+  }, 400);
+};
+
 const readHistory = (mode: string): Visit[] => {
   try {
     return JSON.parse(localStorage.getItem(historyKey(mode)) ?? "[]") as Visit[];
@@ -237,11 +275,22 @@ export default component$(() => {
       if (stored.mode) mode.value = stored.mode;
       if (stored.topic && topicSequences[stored.topic]) topic.value = stored.topic;
     }
+    const remote = await pullState();
+    if (remote) {
+      if (typeof remote.index === "number" && remote.index >= 0 && remote.index < cards.length) index.value = remote.index;
+      if (typeof remote.reveal === "number") reveal.value = Math.min(2, Math.max(0, remote.reveal));
+      if (remote.lang) language.value = remote.lang;
+      if (remote.mode) mode.value = remote.mode;
+      if (remote.topic && topicSequences[remote.topic]) topic.value = remote.topic;
+    }
     history.value = readHistory(mode.value);
     historyTotal.value = history.value.length;
     backStack.value = readBack();
     todayCount.value = readToday();
     loaded.value = true;
+    if (!remote) {
+      pushState({ index: index.value, reveal: reveal.value, lang: language.value, mode: mode.value, topic: topic.value });
+    }
   });
 
   // Persist locally.
@@ -257,6 +306,7 @@ export default component$(() => {
     const stage = stageCard === card ? step : 0;
     const snapshot = { index: card, reveal: stage, lang, mode: order, topic: currentTopic };
     writeState(snapshot);
+    pushState(snapshot);
     void idbPut("state", snapshot);
     if (!remote.value) {
       history.value = pushHistory(order, card);
