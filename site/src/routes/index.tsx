@@ -609,18 +609,16 @@ export default component$(() => {
                 <p class="m-0 mb-3 text-center text-[15px] leading-normal text-[#3a4a40]">
                   {info[language.value]}
                 </p>
-                <ul class="m-0 grid list-none grid-cols-[max-content_1fr] items-baseline gap-x-3 gap-y-2 p-0">
+                <ul class="m-0 grid list-none grid-cols-[max-content_max-content_1fr] items-baseline gap-x-3 gap-y-2 p-0">
                   {info.parts.map((part, i) => (
                     <li key={i} class="contents">
-                      <span class="flex flex-col items-start justify-self-start gap-0.5">
-                        <span
-                          class={`rounded-[3px] px-1.5 py-0.5 text-[13px] font-semibold text-[#22322a] ${PART_BG[i % 5]}`}
-                        >
-                          {part.text}
-                        </span>
-                        {KANJI_RE.test(part.text) && part.kana && part.kana !== part.text && (
-                          <span class="pl-1.5 text-[10px] leading-none text-[#8fa094]">{part.kana}</span>
-                        )}
+                      <span
+                        class={`justify-self-start rounded-[3px] px-1.5 py-0.5 text-[13px] font-semibold text-[#22322a] ${PART_BG[i % 5]}`}
+                      >
+                        {part.text}
+                      </span>
+                      <span class="text-[13px] text-[#8fa094]">
+                        {KANJI_RE.test(part.text) && part.kana && part.kana !== part.text ? part.kana : ""}
                       </span>
                       <span class="text-[13px] leading-snug text-[#4d5d52]">
                         {language.value === "vi" && hanvietForText(part.text) && (
