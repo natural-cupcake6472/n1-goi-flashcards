@@ -162,6 +162,7 @@ const readToday = (): number => {
   }
 };
 
+const KANJI_RE = /[\u4e00-\u9fff]/;
 const PART_BG = ["bg-[#e0efe4]", "bg-[#f8e9d6]", "bg-[#e4e8f7]", "bg-[#f6e2e5]", "bg-[#e5eee7]"];
 const SWIPE = 80;
 const EASE = "transform 200ms ease-out";
@@ -611,10 +612,15 @@ export default component$(() => {
                 <ul class="m-0 grid list-none grid-cols-[max-content_1fr] items-baseline gap-x-3 gap-y-2 p-0">
                   {info.parts.map((part, i) => (
                     <li key={i} class="contents">
-                      <span
-                        class={`justify-self-start rounded-[3px] px-1.5 py-0.5 text-[13px] font-semibold text-[#22322a] ${PART_BG[i % 5]}`}
-                      >
-                        {part.text}
+                      <span class="flex flex-col items-start justify-self-start gap-0.5">
+                        <span
+                          class={`rounded-[3px] px-1.5 py-0.5 text-[13px] font-semibold text-[#22322a] ${PART_BG[i % 5]}`}
+                        >
+                          {part.text}
+                        </span>
+                        {KANJI_RE.test(part.text) && part.kana && part.kana !== part.text && (
+                          <span class="pl-1.5 text-[10px] leading-none text-[#8fa094]">{part.kana}</span>
+                        )}
                       </span>
                       <span class="text-[13px] leading-snug text-[#4d5d52]">
                         {language.value === "vi" && hanvietForText(part.text) && (
