@@ -1,9 +1,0 @@
-node_modules
-dist
-build
-server
-.tmp
-.env
-.env.*
-*.log
-.state.json

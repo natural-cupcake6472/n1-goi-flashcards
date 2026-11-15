@@ -1,7 +1,7 @@
 import { store } from "../shared/redis.ts";
 
 const PORT = 4177;
-const NS = "kanji";
+const DECKS = ["kanji", "goi", "grammar"];
 
 Bun.serve({
   hostname: "0.0.0.0",
@@ -11,8 +11,10 @@ Bun.serve({
     const path = decodeURIComponent(url.pathname);
 
     if (path === "/api/state") {
+      const deck = (url.searchParams.get("deck") || "kanji").replace(/[^a-z]/g, "");
+      if (!DECKS.includes(deck)) return new Response("bad deck", { status: 400 });
       const uid = (url.searchParams.get("u") || "anon").replace(/[^\w-]/g, "").slice(0, 64);
-      const key = "n1goi:" + NS + ":" + uid;
+      const key = "n1goi:" + deck + ":" + uid;
       try {
         if (req.method === "GET") {
           const raw = await store().get(key);
@@ -30,8 +32,12 @@ Bun.serve({
     }
 
     if (path.includes("..")) return new Response("Bad request", { status: 400 });
-    const file = Bun.file(new URL("./dist" + (path === "/" ? "/index.html" : path), import.meta.url));
-    return (await file.exists()) ? new Response(file) : new Response("Not found", { status: 404 });
+    let filePath = path === "/" ? "/index.html" : path;
+    if (!/\.[a-z0-9]+$/i.test(filePath)) filePath += "/index.html";
+    const file = Bun.file(new URL("./dist" + filePath, import.meta.url));
+    if (await file.exists()) return new Response(file);
+    const fallback = Bun.file(new URL("./dist/index.html", import.meta.url));
+    return (await fallback.exists()) ? new Response(fallback) : new Response("Not found", { status: 404 });
   },
 });
-console.log("serving " + PORT + " (" + NS + ", kvrocks state)");
+console.log("n1 site on " + PORT + " (kanji + goi + grammar, kvrocks state)");
