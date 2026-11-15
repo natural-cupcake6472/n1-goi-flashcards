@@ -1,0 +1,1797 @@
+{
+ "lessons": [
+  {
+   "id": "bai-1",
+   "label": "第1課",
+   "buoi": "01",
+   "cards": [
+    {
+     "pattern": "～に至る",
+     "formation": "N＋に至る",
+     "usage": "Source says the pattern expresses a result after various events; situation, stage, or time point may precede it.",
+     "meaning_vi": "Cho đến, dẫn đến...",
+     "examples": [
+      {
+       "ja": "実際に事故に至って、ようやく自動車会社は事故原因の調査を始めた。",
+       "vi": ""
+      },
+      {
+       "ja": "一生懸命準備したが、合格には至らなかった。",
+       "vi": ""
+      }
+     ]
+    },
+    {
+     "pattern": "～(が)ゆえ(に)",
+     "formation": "N / 普通形（だ→である）＋(が)ゆえ(に)",
+     "usage": "Source gives cause＋(が)ゆえに＋result and notes から＜ので＜ゆえ（ニュース、論文）.",
+     "meaning_vi": "Do, vì...",
+     "examples": [
+      {
+       "ja": "貧しいがゆえに学校へ通い続けられない子どもたちが多くいる。",
+       "vi": ""
+      },
+      {
+       "ja": "失敗した経験も役に立つのは、若いゆえの特権だ。",
+       "vi": ""
+      }
+     ]
+    },
+    {
+     "pattern": "～かというと／かといえば",
+     "formation": "普通形（だ）＋かというと／かといえば; 疑問詞普通形（だ）＋かというと／かといえば",
+     "usage": "Source notes an expected proposition may be rejected; after a question word, the next clause answers the question.",
+     "meaning_vi": "Nếu nói là...",
+     "examples": [
+      {
+       "ja": "A：彼の作文すごいですよ？彼こそ作家になれると思います。",
+       "vi": ""
+      },
+      {
+       "ja": "B：文章がうまければ誰でも作家になれるかといえば、そんなことはないね。",
+       "vi": ""
+      },
+      {
+       "ja": "A：え！学校の先生って大変なんですか？意外ですね。",
+       "vi": ""
+      },
+      {
+       "ja": "B：そうですね、なぜ大変かというと、職場に男性があまりいないからです。",
+       "vi": ""
+      }
+     ]
+    },
+    {
+     "pattern": "～をもって",
+     "formation": "N＋をもって",
+     "usage": "Source distinguishes ending at a time point from use as means or standard; formal notices are described as stiff/formal.",
+     "meaning_vi": "Vào lúc/ Bằng...",
+     "examples": [
+      {
+       "ja": "① 乗客の減少が続いていた竹山鉄道が、今年の3月31日をもって廃止された。",
+       "vi": ""
+      },
+      {
+       "ja": "② 今月いっぱいをもちまして退職いたします。",
+       "vi": ""
+      },
+      {
+       "ja": "① 面接の結果は、来週中に書面をもって通知いたします。",
+       "vi": ""
+      },
+      {
+       "ja": "② 何をもって人の価値を評価するかは難しい問題だ。",
+       "vi": ""
+      }
+     ]
+    },
+    {
+     "pattern": "～(よ)うと／が",
+     "formation": "Vよう / Aいかろう / Aな・Nであろう ＋ と／が",
+     "usage": "Source describes it as written-language たとえ～ても; common preceding words: たとえ、どんなに、いかに.",
+     "meaning_vi": "Dẫu, cho dù...",
+     "examples": [
+      {
+       "ja": "① どんなに高かろうと、どうしても手に入れたいんだ。",
+       "vi": ""
+      },
+      {
+       "ja": "② どんな悪人であろうと、良心は残ってるはず！",
+       "vi": ""
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "bai-2",
+   "label": "第2課",
+   "buoi": "02",
+   "cards": [
+    {
+     "pattern": "～極まりない",
+     "formation": "N / Aい＋こと / Aな＋(なこと) ＋ 極まりない",
+     "usage": "これ以上ないほど、非常に～。あきれた気持ちを強く表す。好ましくないことが前に来る。",
+     "meaning_vi": "Cực kì, vô cùng...",
+     "examples": [
+      {
+       "ja": "こんなミスをするなんて、恥ずかしいこと極まりない。",
+       "vi": ""
+      },
+      {
+       "ja": "初対面の人に学歴を聞くとは、非常識極まりない。",
+       "vi": ""
+      }
+     ]
+    },
+    {
+     "pattern": "～(か)と思いきや",
+     "formation": "普通形 ＋ (か)と思いきや",
+     "usage": "Aだと思ったけど、実際は違ってBだった。驚き・残念な気持ち。前は期待や予想、後は「それに反する実際の様子」。",
+     "meaning_vi": "Cứ ngỡ là...",
+     "examples": [
+      {
+       "ja": "今日は暑くなるかと思いきや、むしろ寒いぐらいだった。",
+       "vi": ""
+      },
+      {
+       "ja": "夫が６時に起きてすごいと思いきや、後で聞いたら１２時まで二度寝していたらしい。",
+       "vi": ""
+      }
+     ]
+    },
+    {
+     "pattern": "～ではあるまいし",
+     "formation": "N ＋ ではあるまいし",
+     "usage": "～ではないのだから。よく後ろには、アドバイス、忠告などが来る。会話でもよく使う。",
+     "meaning_vi": "Không phải là, chẳng phải là...",
+     "examples": [
+      {
+       "ja": "子どもではあるまいし、旅行ぐらい一人で行くわー。",
+       "vi": ""
+      },
+      {
+       "ja": "早稲田生じゃあるまいし、そんなこと聞かれてもよくわからないよ。",
+       "vi": ""
+      }
+     ]
+    },
+    {
+     "pattern": "～ては／ていては",
+     "formation": "Negative result: Vて ＋ (いて)は; repetition: V1ては ＋ V2ます/V2る",
+     "usage": "Point 1: ～すると／(－)の結果になる. Point 2: 行為を/状況が繰り返している.",
+     "meaning_vi": "Nếu... thì / Cứ... lại...",
+     "examples": [
+      {
+       "ja": "上司になって、部下を指摘するのを恐れていては上司としての進歩がない。",
+       "vi": ""
+      },
+      {
+       "ja": "雨が降ってはやみ、降ってはやみしている。",
+       "vi": ""
+      },
+      {
+       "ja": "留学のために貯金をしているのだが、なかなかたまらない。貯金通帳を見てはため息をつく毎日だ。",
+       "vi": ""
+      }
+     ]
+    },
+    {
+     "pattern": "～とあって",
+     "formation": "N／普通形 ＋ とあって",
+     "usage": "～という特別な状況だから～だ。前に、連休・結婚式・イベントが来る。会話でもよく使う。",
+     "meaning_vi": "Bởi vì...",
+     "examples": [
+      {
+       "ja": "連休とあって、遊園地は相当な混雑だったようだ。",
+       "vi": ""
+      },
+      {
+       "ja": "無料で映画が見られるとあって、入り口の前には１時間も前から行列ができた。",
+       "vi": ""
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "bai-3",
+   "label": "第3課",
+   "buoi": "03",
+   "cards": [
+    {
+     "pattern": "～ならでは(の)",
+     "formation": "N ＋ ならではの",
+     "usage": "～だけができる。～の特有のこと。主にいい評価",
+     "meaning_vi": "Chỉ... mới có thể...",
+     "examples": [
+      {
+       "ja": "日本ならではの美意識と創造性。",
+       "vi": ""
+      },
+      {
+       "ja": "こんな素晴らしい授業はベテラン先生ならではだ。",
+       "vi": ""
+      }
+     ]
+    },
+    {
+     "pattern": "～なくして",
+     "formation": "N ＋ なくして(は)",
+     "usage": "A がなければ、B が成立しない。後ろは否定の意味。",
+     "meaning_vi": "Nếu không... thì khó mà...",
+     "examples": [
+      {
+       "ja": "個人の成長なくして企業の発展はない。",
+       "vi": ""
+      },
+      {
+       "ja": "リスクなくして成功なし。本当に手に入れたいなら恐れないこと！",
+       "vi": ""
+      }
+     ]
+    },
+    {
+     "pattern": "～ともなると／ともなれば",
+     "formation": "N ＋ ともなると／ともなれば",
+     "usage": "～までの段階になると、当然...という結果になる。特別な場合やある段階を表す言葉がよく出る。",
+     "meaning_vi": "Một khi... thì...",
+     "examples": [
+      {
+       "ja": "部長ともなると責任も重くなります。",
+       "vi": ""
+      },
+      {
+       "ja": "30代ともなると、先々を考えて、20代の時よりも慎重に次の職場を選ぶ必要があるのではないでしょうか。",
+       "vi": ""
+      }
+     ]
+    },
+    {
+     "pattern": "～ての(こと)",
+     "formation": "Vて ＋ の (こと)",
+     "usage": "～した上での結果、決定など。「～てのことだ」の形でよく使う。「…の理由、目的」という意味もする。思う、考える、見るなどがよく出る。",
+     "meaning_vi": "Nhờ có... mà...",
+     "examples": [
+      {
+       "ja": "このアイディアを商品化するのは難しいのが、試してみての結論だ。",
+       "vi": ""
+      },
+      {
+       "ja": "うつ病が完全に治ってない人を働かせようとすることは、本当にその人のためを思ってのことなのでしょうか。",
+       "vi": ""
+      }
+     ]
+    },
+    {
+     "pattern": "～にしても／としても",
+     "formation": "N(だ)／普通形 ＋ にしても／としても",
+     "usage": "～場合でも／～ということが事実でも。よく出る：たとえ、仮に、疑問詞など。",
+     "meaning_vi": "Cho dù...",
+     "examples": [
+      {
+       "ja": "あの病院は人気だから予約したとしても、２時間は待つでしょう。",
+       "vi": ""
+      },
+      {
+       "ja": "いくら少人数にしてもパーティーをするにはこの部屋は狭すぎる。",
+       "vi": ""
+      }
+     ]
+    },
+    {
+     "pattern": "～ならでは(の)",
+     "formation": "N + ならではの; examples also show N + ならではだ",
+     "usage": "JA: ～だけができる。～の特有のこと。主にいい評価 / VI: Chỉ... mới có thể. Chủ yếu là đánh giá tốt",
+     "meaning_vi": "Chỉ... mới có thể...",
+     "examples": [
+      {
+       "ja": "日本ならではの美意識と創造性。",
+       "vi": ""
+      },
+      {
+       "ja": "こんな素晴らしい授業はベテラン先生ならではだ。",
+       "vi": ""
+      }
+     ]
+    },
+    {
+     "pattern": "～なくして(は)",
+     "formation": "N + なくして(は)",
+     "usage": "JA: A がなければ、B が成立しない。後ろは否定の意味。 / VI: Nếu không có A thì B không thể hình thành. Phía sau thường mang ý nghĩa phủ định",
+     "meaning_vi": "Nếu không... thì khó mà...",
+     "examples": [
+      {
+       "ja": "個人の成長なくして企業の発展はない。",
+       "vi": ""
+      },
+      {
+       "ja": "リスクなくして成功なし。本当に手に入れたいなら恐れないこと！",
+       "vi": ""
+      }
+     ]
+    },
+    {
+     "pattern": "～ともなると／ともなれば",
+     "formation": "N + ともなると／ともなれば",
+     "usage": "JA: ～までの段階になると、当然...という結果になる。特別な場合やある段階を表す言葉がよく出る。 / VI: Nếu đến giai đoạn này, thì đương nhiên kết quả là... Thường sử dụng với các từ biểu hiện giai đoạn/ trường hợp đặc biệt,...",
+     "meaning_vi": "Một khi... thì...",
+     "examples": [
+      {
+       "ja": "部長ともなると責任も重くなります。",
+       "vi": ""
+      },
+      {
+       "ja": "30代ともなると、先々を考えて、20代の時よりも慎重に次の職場を選ぶ必要があるのではないでしょうか。",
+       "vi": ""
+      }
+     ]
+    },
+    {
+     "pattern": "～ての(こと)",
+     "formation": "Vて + の (こと)",
+     "usage": "JA: ～した上での結果、決定など。「～てのことだ」の形でよく使う。「…の理由、目的」という意味もする。思う、考える、見るなどがよく出る / VI: Diễn tả kết quả, quyết định,... có được sau khi tiến hành làm xong một việc nào đó; Thường sử dụng với dạng「～てのことだ」; Ngoài ra cũng có ý nghĩa là「lý do của, mục đích của...」; Thường hay đi với 思う、考える、見る",
+     "meaning_vi": "Nhờ có... mà...",
+     "examples": [
+      {
+       "ja": "このアイディアを商品化するのは難しいのが、試してみての結論だ。",
+       "vi": ""
+      },
+      {
+       "ja": "うつ病が完全に治ってない人を働かせようとすることは、本当にその人のためを思ってのことなのでしょうか。",
+       "vi": ""
+      }
+     ]
+    },
+    {
+     "pattern": "～にしても／としても",
+     "formation": "N(だ) / 普通形 + にしても／としても",
+     "usage": "JA: ～場合でも／～ということが事実でも。よく出る：たとえ、仮に、疑問詞など / VI: Cho dù trong trường hợp.../ Cho dù sự thật là...; Thường hay đi với たとえ、仮に、疑問詞 (từ nghi vấn)",
+     "meaning_vi": "Cho dù...",
+     "examples": [
+      {
+       "ja": "あの病院は人気だから予約したとしても、2 時間は待つでしょう。",
+       "vi": ""
+      },
+      {
+       "ja": "いくら少人数にしてもパーティーをするにはこの部屋は狭すぎる。",
+       "vi": ""
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "bai-4",
+   "label": "第4課",
+   "buoi": "04",
+   "cards": [
+    {
+     "pattern": "～あっての",
+     "formation": "N1 ＋ あっての ＋ N2",
+     "usage": "A があるからこそ B がある。A の重要さ、意義を強調する。",
+     "meaning_vi": "Có được là nhờ...",
+     "examples": [
+      {
+       "ja": "皆さんあっての Riki 日本語です。",
+       "vi": ""
+      },
+      {
+       "ja": "私の存在は、父母あっての私なのです。",
+       "vi": ""
+      }
+     ]
+    },
+    {
+     "pattern": "～かのようだ／な／に",
+     "formation": "V普 / Aい / Aな・Nである ＋ かのようだ／な／に",
+     "usage": "～のように見える、感じるが、実はそうではない。The source also shows ような＋N and ように＋V/A.",
+     "meaning_vi": "Như thể là...",
+     "examples": [
+      {
+       "ja": "彼の喜び様子は自分が賞をもらったかのようだ。",
+       "vi": ""
+      },
+      {
+       "ja": "何も知らないかのような顔をしている。",
+       "vi": ""
+      }
+     ]
+    },
+    {
+     "pattern": "～ごとく／ごとき（如く）",
+     "formation": "普通形(だ→である)＋(が／かの); Nの ＋ ごとく／ごとき",
+     "usage": "例え、比較、例を挙げる（硬い）。Source equates ～ごとく＋V with ～ように＋V/A, and ～ごとき＋N with ～ようなN.",
+     "meaning_vi": "Như, giống như...",
+     "examples": [
+      {
+       "ja": "昔の彼と比べると、まるで別人のごとき優しさだ。",
+       "vi": ""
+      },
+      {
+       "ja": "死ぬがごとく眠っている。",
+       "vi": ""
+      },
+      {
+       "ja": "かたつむりになったかのごとく、歩く。",
+       "vi": ""
+      }
+     ]
+    },
+    {
+     "pattern": "～ばこそ",
+     "formation": "仮定形 ＋ こそ",
+     "usage": "A だから B だ。他の理由はない。「理由、原因」を強調する。「～のだ」で終わることが多い。",
+     "meaning_vi": "Chính vì...",
+     "examples": [
+      {
+       "ja": "貴社のご協力があればこそ、成功につながるのです。",
+       "vi": ""
+      },
+      {
+       "ja": "彼女がいればこそ幸せになれるのよ。",
+       "vi": ""
+      }
+     ]
+    },
+    {
+     "pattern": "～といったらない",
+     "formation": "Aい／N / Aな(だ) ＋ といったらない",
+     "usage": "言葉で言えないぐらい最高に～だ。驚き、感動を強調する。話し言葉：～ったらない、～ったらありゃしない、～ったらなど。",
+     "meaning_vi": "Cực kì...",
+     "examples": [
+      {
+       "ja": "アオザイの美しさといったらない。",
+       "vi": ""
+      },
+      {
+       "ja": "駅に案内がどこにもなかった。不親切ったら…。",
+       "vi": ""
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "bai-5",
+   "label": "第5課",
+   "buoi": "05",
+   "cards": [
+    {
+     "pattern": "～べく",
+     "formation": "Vる + べく; する → するべく／すべく",
+     "usage": "～するために（書き言葉、硬い）。「ために」より強い意志がある。",
+     "meaning_vi": "Để...",
+     "examples": [
+      {
+       "ja": "彼は一日も早く借金を返すべく、必死に働いている。",
+       "vi": ""
+      },
+      {
+       "ja": "映画をさらに盛り上げるべく、登場人物を増やす必要がある。",
+       "vi": ""
+      }
+     ]
+    },
+    {
+     "pattern": "～べくして",
+     "formation": "Vる + べくして + V; する → するべく／すべく",
+     "usage": "そうなったのは当然の結果だ。前後が多く同じ動詞。",
+     "meaning_vi": "...là đương nhiên",
+     "examples": [
+      {
+       "ja": "人知れず厳しい練習を続けた彼女は、その試合に勝つべくして勝った。",
+       "vi": ""
+      }
+     ]
+    },
+    {
+     "pattern": "～ざる",
+     "formation": "Vない + ざる; する → せざる",
+     "usage": "「～ない」より硬い表現。書き言葉。",
+     "meaning_vi": "Không...",
+     "examples": [
+      {
+       "ja": "花王には、現状に満足せず常に革新を続ける『絶えざる革新』という経営理念がある。",
+       "vi": ""
+      },
+      {
+       "ja": "政治の世界には、知られざる真実たくさんある。",
+       "vi": ""
+      }
+     ]
+    },
+    {
+     "pattern": "～は否めない",
+     "formation": "N + は／も + 否めない",
+     "usage": "否定することはできない。やんわりと伝える感じ。ビジネスシーンで使われることが多い。",
+     "meaning_vi": "Không thể phủ nhận...",
+     "examples": [
+      {
+       "ja": "その責任が君にあることは否めない。",
+       "vi": ""
+      },
+      {
+       "ja": "会社の一部から不満が出る可能性は否めない。",
+       "vi": ""
+      }
+     ]
+    },
+    {
+     "pattern": "～か否か",
+     "formation": "普通形 + か否か; N／A は (である) + か否か",
+     "usage": "「～かどうか」より硬い言葉。",
+     "meaning_vi": "Có hay không...",
+     "examples": [
+      {
+       "ja": "人は平等であるか否か。",
+       "vi": ""
+      },
+      {
+       "ja": "SNS 上の顔の知らない人に会うべきか否か。",
+       "vi": ""
+      },
+      {
+       "ja": "こういう音を苦痛と感じるか否かは、人によって異なる。",
+       "vi": ""
+      }
+     ]
+    },
+    {
+     "pattern": "～か～ないか",
+     "formation": "Vる／Vた + か + Vないか～",
+     "usage": "～とほぼ同時に、…／～するのとちょうどその頃、…。驚くほど早い感じ。よく使うパターン：～のうちに、～の頃など。",
+     "meaning_vi": "Vừa... thì...",
+     "examples": [
+      {
+       "ja": "答案を書き終えるか終えないかのうちに、ベルが鳴った。",
+       "vi": ""
+      },
+      {
+       "ja": "物心がつくかつかないかの頃から、パソコンを使いこなしていた。",
+       "vi": ""
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "bai-6",
+   "label": "第6課",
+   "buoi": "06",
+   "cards": [
+    {
+     "pattern": "～にあって",
+     "formation": "N + にあって",
+     "usage": "～という特別な状況・事態において、... Source Vietnamese explanation: Trong hoàn cảnh, trạng thái đặc biệt...",
+     "meaning_vi": "Trong hoàn cảnh...",
+     "examples": [
+      {
+       "ja": "水も食料もない状況にあって、人々は互いに助け合うことの大切さを学んだ。",
+       "vi": ""
+      },
+      {
+       "ja": "長い人生にあって、一度立ち止まって自分を見つめ直す時間も必要だ。",
+       "vi": ""
+      }
+     ]
+    },
+    {
+     "pattern": "～に堪えない",
+     "formation": "N / Vる + に堪えない; for the emotional-sentiment use: N(感情) + に堪えない",
+     "usage": "Use ①: 「ひどすぎて、～のが我慢できない／つらい。」Often used with 見る／聞く／読む／言う. Use ②: 「非常に～だ」という気持ちを表す。Often accompanies 感謝・悲しみ・同情・後悔・喜び・～の念など.",
+     "meaning_vi": "Không chịu nổi...",
+     "examples": [
+      {
+       "ja": "あの役者の気障な格好は、まったく見るに堪えない。",
+       "vi": ""
+      },
+      {
+       "ja": "突然の悲報で、悲しみの念に堪えません。",
+       "vi": ""
+      }
+     ]
+    },
+    {
+     "pattern": "～をよそに",
+     "formation": "N + をよそに",
+     "usage": "心配、批判、期待などを無視して、... Source Vietnamese explanation: Không quan tâm đến sự lo lắng, phê bình, kì vọng,...",
+     "meaning_vi": "Không quan tâm, mặc kệ...",
+     "examples": [
+      {
+       "ja": "冷たい周囲の視線をよそにイチャイチャしている。",
+       "vi": ""
+      }
+     ]
+    },
+    {
+     "pattern": "～を控えて",
+     "formation": "N + を控えて; N + を控えた + N. Source also prints 「A を〈時間・時期〉に控えて」.",
+     "usage": "A が近い将来に予定されて、B する／A に直面して、B の状態. Vietnamese source explanation: A (Khoảng thời gian) đã được lên kế hoạch trong tương lai gần, thì B.../ Đối diện với mốc thời gian A thì trạng thái B.",
+     "meaning_vi": "Sắp đến, gần đến...",
+     "examples": [
+      {
+       "ja": "妹は明後日の結婚を控えて、不安で眠れない様子だ。",
+       "vi": ""
+      },
+      {
+       "ja": "卒業を控えた四年生たちは論文執筆に忙しい。",
+       "vi": ""
+      }
+     ]
+    },
+    {
+     "pattern": "～を限りに",
+     "formation": "N + を限りに",
+     "usage": "〈時間〉を最後に（やめる）. Often used with 今日、来年、次回など. Vietnamese source explanation: Đến cuối (thời gian) mới từ bỏ.",
+     "meaning_vi": "Đến hết, đến cuối...",
+     "examples": [
+      {
+       "ja": "昨日の講義を限りに、山田教授は大学を定年退官した。",
+       "vi": ""
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "bai-7",
+   "label": "第7課",
+   "buoi": "07",
+   "cards": [
+    {
+     "pattern": "～に越したことはない",
+     "formation": "普通形 + に越したことはない; だ → (である)",
+     "usage": "必ずする必要はないが、～ほうがいい・理想だ。Source Vietnamese: ...thì không cần thiết lắm nhưng nên... thì tốt hơn",
+     "meaning_vi": "Nên...thì hơn...",
+     "examples": [
+      {
+       "ja": "挑戦するなら早いに越したことはない。",
+       "vi": ""
+      },
+      {
+       "ja": "インターネットでの買い物は、用心するに越したことはない。",
+       "vi": ""
+      },
+      {
+       "ja": "普段使う道具の使い方は簡単であるに越したことはない。",
+       "vi": ""
+      }
+     ]
+    },
+    {
+     "pattern": "～もさることながら",
+     "formation": "N + もさることながら",
+     "usage": "A はもちろん、B もより一層～だ。さること ≒ もちろんのこと。Source Vietnamese: A thì đương nhiên, B còn hơn thế nữa.",
+     "meaning_vi": "...là đương nhiên...; không chỉ... mà... còn hơn thế nữa",
+     "examples": [
+      {
+       "ja": "A社の冷蔵庫は価格もさることながら、環境に優しい点も購入の決め手になった。",
+       "vi": ""
+      }
+     ]
+    },
+    {
+     "pattern": "～ようによって(は)",
+     "formation": "Vます + ようによって(は); the diagram visually strikes through the ます ending.",
+     "usage": "～のやり方次第で、～が変わる。Source Vietnamese: Tùy vào cách làm của ～ thì ～ thay đổi.",
+     "meaning_vi": "Tùy theo...",
+     "examples": [
+      {
+       "ja": "こんな古い機械も、使いようによっては何かの役に立つのではないか。",
+       "vi": ""
+      }
+     ]
+    },
+    {
+     "pattern": "～たら～(た)で",
+     "formation": "Vたら + Vたで; Aいかったら + Aい／Aかったで; N／Aななら + N／Aで (diagram text retained as printed).",
+     "usage": "A が～になっても、想像しているようによくない／悪くない B 状況になる。同じ言葉を繰り返して使う。前向き／後ろ向き態度を表す。Source Vietnamese: Dù A có thế nào thì trạng thái B cũng không tốt/ không xấu như tưởng tượng; Sử dụng lặp lại những từ ngữ giống nhau; Thể hiện thái độ tích cực/ tiêu cực.",
+     "meaning_vi": "Nếu... thì sẽ... (theo cách đó)",
+     "examples": [
+      {
+       "ja": "試験に落ちたら落ちたで、次自分は何ができるか考えればいいのです。",
+       "vi": ""
+      },
+      {
+       "ja": "お金がないのは大変だが、あったらあったで心配事も多くなる。",
+       "vi": ""
+      }
+     ]
+    },
+    {
+     "pattern": "～といったところだ",
+     "formation": "N + といったところだ",
+     "usage": "だいたいAという程度、内容。Aは大したことない程度。会話で：「ってところだ」. Source Vietnamese: Nội dung, mức độ chỉ ở khoảng A. A là mức độ không lớn, không nghiêm trọng; Trong giao tiếp thường dùng với dạng「ってところだ」.",
+     "meaning_vi": "Cùng lắm cũng chỉ khoảng...",
+     "examples": [
+      {
+       "ja": "ホーチミン市は、7月でも気温は32,3度といったところです。",
+       "vi": ""
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "bai-8",
+   "label": "第8課",
+   "buoi": "08",
+   "cards": [
+    {
+     "pattern": "～だに",
+     "formation": "Vる + だに + ～; N(助詞) + だに + Vない",
+     "usage": "['～するだけでも...と十分に感じる。恐ろしい、楽しい、難しいなど', '～取り締まるも～ない', '想像、予想、微動など限られた言葉と一緒に使う']",
+     "meaning_vi": "Chỉ cần... cũng đủ",
+     "examples": [
+      {
+       "ja": "まさか、仲よかった同級生が犯罪者だったなんて、想像するだに恐ろしい。",
+       "vi": ""
+      },
+      {
+       "ja": "予想だにしない出来事が起きた。",
+       "vi": ""
+      }
+     ]
+    },
+    {
+     "pattern": "～たりとも",
+     "formation": "N + たりとも",
+     "usage": "['～でも、絶対～しない', '一円、一日などの最少を表す']",
+     "meaning_vi": "Dù chỉ... cũng không...",
+     "examples": [
+      {
+       "ja": "あの親不孝息子に、一円たりとも渡すものか。",
+       "vi": ""
+      },
+      {
+       "ja": "一秒たりとも、時間を無駄にしてはいけない。",
+       "vi": ""
+      }
+     ]
+    },
+    {
+     "pattern": "～たる者",
+     "formation": "N + たるもの (section formation); examples also print たる者",
+     "usage": "～のレベル、～の立場にある者。後ろは態度、行動など",
+     "meaning_vi": "Trên cương vị...",
+     "examples": [
+      {
+       "ja": "教師たるもの、学生の見本になるような生き方をしないといけない。",
+       "vi": ""
+      },
+      {
+       "ja": "国会議員たる者は清廉潔白でなければならないです。",
+       "vi": ""
+      }
+     ]
+    },
+    {
+     "pattern": "～つ～つ",
+     "formation": "Vます + つ + Vます + つ (the diagram visibly strikes through the ます endings)",
+     "usage": "['～たり～たり', '限られた対の動作がつく。']",
+     "meaning_vi": "Khi thì... khi thì...",
+     "examples": [
+      {
+       "ja": "彼女に会おうか会うまいかと悩んで、家の前を行きつ戻りつしていた。",
+       "vi": ""
+      }
+     ]
+    },
+    {
+     "pattern": "～であれ",
+     "formation": "N + であれ",
+     "usage": "['AでもBでも（関係なく）', '≒～であろうと、～であろうが', 'たとえ、疑問詞 + ～であれ']",
+     "meaning_vi": "Cho dù...",
+     "examples": [
+      {
+       "ja": "禁煙であれ禁酒であれ、周りの人の協力が大切だと思う。",
+       "vi": ""
+      },
+      {
+       "ja": "たとえ親であれ、子どもの決めたことに口出しするのは反対だ。",
+       "vi": ""
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "bai-9",
+   "label": "第9課",
+   "buoi": "09",
+   "cards": [
+    {
+     "pattern": "～でなくて何だろう",
+     "formation": "N + でなくて何だろう",
+     "usage": "['「～でしょ？／～ですよ」などと強調したい気持ち', '「～じゃなかったら何？」など、いろいろな形がある']",
+     "meaning_vi": "Không phải là... thì là gì?",
+     "examples": [
+      {
+       "ja": "自分の命を犠牲にして多くの人を救ったあの男が英雄でなくて何だろう。",
+       "vi": ""
+      }
+     ]
+    },
+    {
+     "pattern": "～てやまない",
+     "formation": "Vて + やまない",
+     "usage": "['いつもずっと強く～と思っている', '願う、祈る、期待する、望む、愛するなどがよく出る。']",
+     "meaning_vi": "Vẫn luôn...",
+     "examples": [
+      {
+       "ja": "親は子供の将来を期待してやまないものだ。",
+       "vi": ""
+      },
+      {
+       "ja": "尊敬してやまない先生が退職されるので、みんなで送別会を開いたらしい。",
+       "vi": ""
+      },
+      {
+       "ja": "尊敬してやまない先生が退職されるので、みんなで送別会を開いた。",
+       "vi": ""
+      }
+     ]
+    },
+    {
+     "pattern": "～相まって",
+     "formation": "N1 が N2 + と相まって",
+     "usage": "AとBが一緒になって、作用し合って → より良い／悪い結果になる",
+     "meaning_vi": "Cùng với...",
+     "examples": [
+      {
+       "ja": "緊張とプレッシャーが相まって、口から心臓が飛び出そうだ。",
+       "vi": ""
+      }
+     ]
+    },
+    {
+     "pattern": "～といい～といい",
+     "formation": "N + といい",
+     "usage": "～を見ても～を見ても同じような状態だ。",
+     "meaning_vi": "Cả A và B đều...",
+     "examples": [
+      {
+       "ja": "この映画は映像の美しさといい、音楽の素晴らしさといい、最高の作品だ。",
+       "vi": ""
+      },
+      {
+       "ja": "最近はAIといい、5Gといい、技術の進歩が著しい。",
+       "vi": ""
+      }
+     ]
+    },
+    {
+     "pattern": "～といえども",
+     "formation": "普通形（だ）+ といえども",
+     "usage": "['～でも、実際は普通なら予想されることとは違う。', '後ろ：義務、覚悟、主張など']",
+     "meaning_vi": "Cho dù là...",
+     "examples": [
+      {
+       "ja": "たとえ、子供といえども自分の行動には責任を取るべきだ。",
+       "vi": ""
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "bai-10",
+   "label": "第10課",
+   "buoi": "10",
+   "cards": [
+    {
+     "pattern": "～ときたら",
+     "formation": "N + ときたら",
+     "usage": "The following clause is a complaint or criticism.",
+     "meaning_vi": "… ấy hả (nêu lên ví dụ xấu); than phiền",
+     "examples": [
+      {
+       "ja": "うちの旦那（だんな）ときたら、休みになればどこにも出掛けず家でごろごろしてるばかり。",
+       "vi": ""
+      }
+     ]
+    },
+    {
+     "pattern": "～とは／なんて",
+     "formation": "普通形(だ) + とは／なんて",
+     "usage": "The preceding content is something unexpected.",
+     "meaning_vi": "… thì thật là; biểu thị sự ngạc nhiên, chán ngán, cảm thán",
+     "examples": [
+      {
+       "ja": "あの優しそうな老人が、強盗事件の犯人だったなんて。",
+       "vi": ""
+      },
+      {
+       "ja": "あんなに巨大な建物を数千年前の人が造ったとは不思議としか言いようがない。",
+       "vi": ""
+      }
+     ]
+    },
+    {
+     "pattern": "～とはいえ",
+     "formation": "N／普通形 + とはいえ",
+     "usage": "Acknowledges the preceding fact and then gives a contrasting or unexpected point.",
+     "meaning_vi": "Mặc dù nói là… nhưng…",
+     "examples": [
+      {
+       "ja": "88 歳とはいえ、まだまだ元気だ。",
+       "vi": ""
+      },
+      {
+       "ja": "ダイエット中とはいえ、出されたごちそうに手をつけないなんて失礼だと思う。",
+       "vi": ""
+      }
+     ]
+    },
+    {
+     "pattern": "～とばかり(に)",
+     "formation": "発話文（はつわぶん） + とばかり(に)",
+     "usage": "Used for another person's manner or action, as if they were about to say something.",
+     "meaning_vi": "Như muốn nói rằng…",
+     "examples": [
+      {
+       "ja": "彼は黙れとばかりに私をにらみつけた。",
+       "vi": ""
+      },
+      {
+       "ja": "私が行こうとすると、彼女は「行かないで」とばかり、ドアの前に立った。",
+       "vi": ""
+      }
+     ]
+    },
+    {
+     "pattern": "～ともなく",
+     "formation": "Vる + ともなく; 疑問詞(＋助詞) + ともなく",
+     "usage": "One use describes an unintentional action, often with commonly paired verbs; another leaves time, place, person, or method unspecified.",
+     "meaning_vi": "… một cách vô thức; không rõ …",
+     "examples": [
+      {
+       "ja": "テレビを見るともなく見ていたら、友だちがテレビに出ていてびっくりした。",
+       "vi": ""
+      },
+      {
+       "ja": "長い間ベトナムに住んでいたら、覚えるともなく自然とベトナム語が身に付きました。",
+       "vi": ""
+      },
+      {
+       "ja": "夕方の商店街を歩くと、どこからともなくおいしそうな匂いが漂っている。",
+       "vi": ""
+      },
+      {
+       "ja": "彼は誰にともなく「疲れた」とつぶやきました。",
+       "vi": ""
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "bai-11",
+   "label": "第11課",
+   "buoi": "11",
+   "cards": [
+    {
+     "pattern": "～ないまでも",
+     "formation": "Vない + までも; N + とは行かないまでも／とは言わないまでも",
+     "usage": "States that although the full degree is not reached, a somewhat lower degree applies.",
+     "meaning_vi": "Dù không đến mức...",
+     "examples": [
+      {
+       "ja": "１ヵ月も休めないまでも、１週間ぐらいは仕事を休みたいなあ。",
+       "vi": ""
+      },
+      {
+       "ja": "うちの両親は離婚とは行かないまでも、ずっと仲が悪い。",
+       "vi": ""
+      }
+     ]
+    },
+    {
+     "pattern": "～ないものでもない",
+     "formation": "Vない + ものでもない",
+     "usage": "Expresses a qualified possibility dependent on circumstances.",
+     "meaning_vi": "Không hẳn là...; tùy vào hoàn cảnh mà có thể...",
+     "examples": [
+      {
+       "ja": "君が本気で勉強すれば、半年で N1 合格もできないものでもない。",
+       "vi": ""
+      },
+      {
+       "ja": "向こうが先に謝ってくれれば、仲直りしないものでもないけど。",
+       "vi": ""
+      }
+     ]
+    },
+    {
+     "pattern": "～ながらに(して)",
+     "formation": "Vます-stem／N + ながらに(して); ～ながら + の + N",
+     "usage": "The source lists limited associated words: 昔, 生まれる, 涙, いつも, いる.",
+     "meaning_vi": "Từ khi... / Trong khi...",
+     "examples": [
+      {
+       "ja": "彼の手品はいつもながら、期待を裏切らない見事なものだった。",
+       "vi": ""
+      },
+      {
+       "ja": "彼は生まれながらの天才だ。",
+       "vi": ""
+      }
+     ]
+    },
+    {
+     "pattern": "～ながら(も)",
+     "formation": "Vます-stem／N／Aい／Aな + ながら(も)",
+     "usage": "Introduces a contrast. The source compares its emphasis with のに、けれど、ながら; the Vietnamese note is transcribed in the transcript as printed.",
+     "meaning_vi": "Tuy... nhưng...",
+     "examples": [
+      {
+       "ja": "タバコは体に悪いとわかりながら、一人になるとつい吸ってしまう。",
+       "vi": ""
+      },
+      {
+       "ja": "残念ながら、その日は出席できそうにありません。",
+       "vi": ""
+      },
+      {
+       "ja": "この掃除機は、小型ながら性能がいい。",
+       "vi": ""
+      }
+     ]
+    },
+    {
+     "pattern": "～なり",
+     "formation": "Vる + なり",
+     "usage": "The source says the subject is third person.",
+     "meaning_vi": "Vừa mới... thì đã...",
+     "examples": [
+      {
+       "ja": "彼女は立ち上がるなり、コップの水を彼の顔にかけた。",
+       "vi": ""
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "bai-12",
+   "label": "第12課",
+   "buoi": "12",
+   "cards": [
+    {
+     "pattern": "～なり～なり",
+     "formation": "N(+助詞)／Vる + なり",
+     "usage": "The source warns not to use this with a superior: 目上の人には絶対✕！",
+     "meaning_vi": "Hoặc là… hoặc là…",
+     "examples": [
+      {
+       "ja": "電話なりメールなり(何なり)、知らせる方法はあるはずですよ。",
+       "vi": ""
+      },
+      {
+       "ja": "この魚、僕が釣ったんだ。焼くなり煮るなりして食べてみて。",
+       "vi": ""
+      }
+     ]
+    },
+    {
+     "pattern": "～なりに／の",
+     "formation": "N／Aい／Aな + なりに／の",
+     "usage": "The source lists common accompanying expressions 私、自分、子供、それ、～ば、～でも.",
+     "meaning_vi": "Theo cách/phạm vi khả năng của…",
+     "examples": [
+      {
+       "ja": "親が何でも指示せず、子供なりに考えさせることも大切です。",
+       "vi": ""
+      },
+      {
+       "ja": "貧しければ貧しいなりの生活をしよう。",
+       "vi": ""
+      }
+     ]
+    },
+    {
+     "pattern": "～に(は)あたらない",
+     "formation": "Vる／N + に(は)あたらない",
+     "usage": "The source says it is often used with verbs expressing emotion or evaluation: 感情や評価を表す動詞とよく使う.",
+     "meaning_vi": "Không đến mức…",
+     "examples": [
+      {
+       "ja": "彼に振られたからといって、泣くにはあたらない。",
+       "vi": ""
+      },
+      {
+       "ja": "あのホテルのサービスは称賛にはあたらない。ホテルならあのくらいは当然だ。",
+       "vi": ""
+      }
+     ]
+    },
+    {
+     "pattern": "～にかたくない",
+     "formation": "Vる／N + にかたくない",
+     "usage": "The source lists common words: 想像、察する、理解...",
+     "meaning_vi": "Không khó để…",
+     "examples": [
+      {
+       "ja": "愛する人を失った彼女の悲しみは察するにかたくない。",
+       "vi": ""
+      }
+     ]
+    },
+    {
+     "pattern": "～にして",
+     "formation": "N + にして; N／Aな + にして (the source presents separate uses)",
+     "usage": "Four source categories: stage/time point; emphatic idiomatic use; two descriptions together; and ～にして初めて.",
+     "meaning_vi": "Phải đến…; chỉ trong…; vừa là… vừa là…; ngay cả…",
+     "examples": [
+      {
+       "ja": "35 歳にして初めて車の免許を取った。",
+       "vi": ""
+      },
+      {
+       "ja": "この年にして初めて親の苦労がわかった。",
+       "vi": ""
+      },
+      {
+       "ja": "宝くじで７億円が当たり、一瞬にして突然大金持ちになった。",
+       "vi": ""
+      },
+      {
+       "ja": "彼女は生まれながらにして音楽の才能があった。",
+       "vi": ""
+      },
+      {
+       "ja": "レオナルド・ダ・ヴィンチは、芸術家にして科学者でもあった。",
+       "vi": ""
+      },
+      {
+       "ja": "彼女のデザインする服は、どれも個性的にして実用的だと定評がある。",
+       "vi": ""
+      },
+      {
+       "ja": "マラソンで 42.195 キロを走ることは、プロのスポーツ選手にして大変だ。",
+       "vi": ""
+      },
+      {
+       "ja": "この曲はベートーベンのような天才にして初めてかける作品だ。",
+       "vi": ""
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "bai-13",
+   "label": "第13課",
+   "buoi": "13",
+   "cards": [
+    {
+     "pattern": "～に即して",
+     "formation": "N + に即して／に即した + N",
+     "usage": "The source lists 状況、経験、規則 as common preceding nouns.",
+     "meaning_vi": "Theo đúng với, phù hợp với…",
+     "examples": [
+      {
+       "ja": "新聞・ニュース等各種メディアは事実に即して報道しなければならない。",
+       "vi": ""
+      },
+      {
+       "ja": "この映画は、事実に即したストーリーになっている。",
+       "vi": ""
+      }
+     ]
+    },
+    {
+     "pattern": "～にすれば／にしてみれば／にしたら",
+     "formation": "N + にすれば／にしてみれば／にしたら",
+     "usage": "The source also notes the ～たら、～ても form and that the following clause may give a judgment or opinion.",
+     "meaning_vi": "Đối với, đứng trên lập trường…",
+     "examples": [
+      {
+       "ja": "学生にしたら、一万円は大金でしょう。",
+       "vi": ""
+      },
+      {
+       "ja": "彼女はもう25歳だが、親にしてみればいつまでも子どもに見えるのだろう。",
+       "vi": ""
+      }
+     ]
+    },
+    {
+     "pattern": "～に足る",
+     "formation": "N／Vる + に足る",
+     "usage": "The source lists 信頼、尊敬、満足 as common preceding nouns.",
+     "meaning_vi": "Xứng đáng để…",
+     "examples": [
+      {
+       "ja": "彼女はこのプロジェクトのリーダーを任せるに足る人物だ。",
+       "vi": ""
+      },
+      {
+       "ja": "インターネットで得た情報は、信頼に足るものではない。",
+       "vi": ""
+      }
+     ]
+    },
+    {
+     "pattern": "～(の)にひきかえ",
+     "formation": "N + にひきかえ; non-N phrase + のにひきかえ",
+     "usage": "The source says to add の and nominalize when the preceding expression is not a noun.",
+     "meaning_vi": "Trái ngược với…",
+     "examples": [
+      {
+       "ja": "わたしがきれい好きなのにひきかえ、妹はいつも部屋を散らかしている。",
+       "vi": ""
+      },
+      {
+       "ja": "停車場は奇妙に静かだ。それにひきかえ、車内はいやにざわついている。",
+       "vi": ""
+      }
+     ]
+    },
+    {
+     "pattern": "～にもまして",
+     "formation": "N／疑問詞 + にもまして",
+     "usage": "The source describes it as 慣用的な言い方 and lists 通常のこと、以前、前、いつ(も)、だれ、何 as common expressions.",
+     "meaning_vi": "Hơn cả…",
+     "examples": [
+      {
+       "ja": "台風が近づいているので、昨日にもまして風が強い。",
+       "vi": ""
+      },
+      {
+       "ja": "結婚式の日の彼女は、いつにもまして、美しかった。",
+       "vi": ""
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "bai-14",
+   "label": "第14課",
+   "buoi": "14",
+   "cards": [
+    {
+     "pattern": "～の極み",
+     "formation": "N + の極み",
+     "usage": "Idiomatic expression. The source lists 感激、贅沢、美、痛恨、悲嘆 as common pairings.",
+     "meaning_vi": "Hết sức, vô cùng…",
+     "examples": [
+      {
+       "ja": "本人の前であんなことを言うなんて、非常識の極みだ。",
+       "vi": ""
+      },
+      {
+       "ja": "残業続きで、疲労の極みに達している。",
+       "vi": ""
+      }
+     ]
+    },
+    {
+     "pattern": "～はおろか",
+     "formation": "N + はおろか",
+     "usage": "Often followed by さえ・すら・まで・も; the source describes surprise, dissatisfaction, or negative context.",
+     "meaning_vi": "Đừng nói là… mà ngay cả…",
+     "examples": [
+      {
+       "ja": "実家は田舎なので、家の近くには Vincom はおろか、Vinmart すらない。",
+       "vi": ""
+      },
+      {
+       "ja": "新入社員は Powerpoint の使い方はおろか、タイピングの仕方も知らなかった。",
+       "vi": ""
+      }
+     ]
+    },
+    {
+     "pattern": "～べからず",
+     "formation": "Vる + べからず; Vる + べからざる + N",
+     "usage": "Formal written wording used in signs and notices. The source example uses べからざる.",
+     "meaning_vi": "Cấm, không được phép…",
+     "examples": [
+      {
+       "ja": "飲酒運転は、許すべからざる行為だ。",
+       "vi": ""
+      }
+     ]
+    },
+    {
+     "pattern": "～まじき",
+     "formation": "Vる + まじき + N; common expression: Nとして + ～まじき",
+     "usage": "Criticizes or condemns an action.",
+     "meaning_vi": "Không được phép… (về mặt đạo đức/vai trò)",
+     "examples": [
+      {
+       "ja": "彼のやったことは、人としてあるまじき残酷な行為だ。",
+       "vi": ""
+      },
+      {
+       "ja": "大切な人にわたしは言うまじきことを言ってしまった。",
+       "vi": ""
+      }
+     ]
+    },
+    {
+     "pattern": "～まで(のこと)だ",
+     "formation": "Vた + まで(のこと)だ (downplaying an action); Vる + まで(のこと)だ (resolve or only recourse)",
+     "usage": "The source presents two uses: downplaying one's own action, and stating one's resolve or only available option, often with a conditional.",
+     "meaning_vi": "Chỉ… thôi; nếu không còn cách nào khác thì đành…",
+     "examples": [
+      {
+       "ja": "特に用事はない。元気かどうか気になって電話してみたまでのことだ。",
+       "vi": ""
+      },
+      {
+       "ja": "やれと言われたからやったまでで、私の責任ではありませんよ。",
+       "vi": ""
+      },
+      {
+       "ja": "ホテルが見つからなければ、ネットカフェかカラオケで一晩過ごすまでのことだ。",
+       "vi": ""
+      },
+      {
+       "ja": "道がないなら、自分で道を作るまでだ。",
+       "vi": ""
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "bai-15",
+   "label": "第15課",
+   "buoi": "15",
+   "cards": [
+    {
+     "pattern": "～までもない",
+     "formation": "Vる + までもない",
+     "usage": "Often occurs with わざわざ and verbs such as 言う, 聞く, 調べる, 疑う. Meaning and formation are from the source page.",
+     "meaning_vi": "Không cần phải…; việc đó quá hiển nhiên hoặc quá dễ.",
+     "examples": [
+      {
+       "ja": "こんな計算は簡単すぎるよ。電卓を使うまでもないね。",
+       "vi": ""
+      },
+      {
+       "ja": "ここの料理は絶対においしいよ。食べるまでもない。匂いでわかる！",
+       "vi": ""
+      }
+     ]
+    },
+    {
+     "pattern": "～めく",
+     "formation": "N + めく; ～めいた + N",
+     "usage": "",
+     "meaning_vi": "Có vẻ như; mang cảm giác giống như.",
+     "examples": [
+      {
+       "ja": "少しずつ秋めいてきた。",
+       "vi": ""
+      },
+      {
+       "ja": "先輩から説教めいたことを言われた。",
+       "vi": ""
+      },
+      {
+       "ja": "彼はどこか、謎めいた雰囲気があって、女性に人気だ。",
+       "vi": ""
+      }
+     ]
+    },
+    {
+     "pattern": "～ものを",
+     "formation": "普通形 + ものを; だ → な",
+     "usage": "The source describes regret or a feeling of reproaching the other person.",
+     "meaning_vi": "Phải chi…; giá mà…",
+     "examples": [
+      {
+       "ja": "内緒にしておけばお互いハッピーなものを、どうしてしゃべっちゃったんだよ。",
+       "vi": ""
+      },
+      {
+       "ja": "もっと早く健康診断を受けていれば手術をしないですんだものを...。",
+       "vi": ""
+      }
+     ]
+    },
+    {
+     "pattern": "～や(否や)",
+     "formation": "Vる + や(否や)",
+     "usage": "The source says the following event happens suddenly and is not the subject's intention.",
+     "meaning_vi": "Vừa mới… thì đã…",
+     "examples": [
+      {
+       "ja": "息子が布団に入るや否や、「グーグー」といびきをかき始めた。",
+       "vi": ""
+      },
+      {
+       "ja": "迷子になったその子は、迎えに来たお父さんの顔を見るや、泣き出した。",
+       "vi": ""
+      }
+     ]
+    },
+    {
+     "pattern": "～を皮切りに",
+     "formation": "N + を皮切り + に(して)／として",
+     "usage": "The source says it is used for the unfolding of events, businesses, or activities, and is often heard in news.",
+     "meaning_vi": "Bắt đầu với…; bắt đầu từ…",
+     "examples": [
+      {
+       "ja": "Apple による iPhone シリーズの値上げを皮切りに、携帯各社も値上げを決めた。",
+       "vi": ""
+      },
+      {
+       "ja": "この作品を皮切りとして、彼女はその後、多くの小説を発表した。",
+       "vi": ""
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "bai-16",
+   "label": "第16課",
+   "buoi": "16",
+   "cards": [
+    {
+     "pattern": "～を禁じ得ない",
+     "formation": "N + を禁じ得ない",
+     "usage": "The source lists tears, anger, sadness, sympathy, confusion, and surprise as common expressions.",
+     "meaning_vi": "Không kìm nén được...",
+     "examples": [
+      {
+       "ja": "信頼して1票を投じた政治家の実行力のなさに失望と憤りを禁じ得ない。",
+       "vi": ""
+      },
+      {
+       "ja": "長年ご指導いただきました教授のご退官にあたり、一同、惜別の念を禁じ得ません。",
+       "vi": ""
+      }
+     ]
+    },
+    {
+     "pattern": "～をものともせず（に）",
+     "formation": "N + をものともせず（に）",
+     "usage": "The source says not to use this for the speaker themself.",
+     "meaning_vi": "Vượt qua, vượt lên...",
+     "examples": [
+      {
+       "ja": "母は強かった。がんの宣告をものともせず、最後まで明るくふるまった。",
+       "vi": ""
+      },
+      {
+       "ja": "子どもたちは、連日の暑さをものともせず、元気に遊びまわっている。",
+       "vi": ""
+      }
+     ]
+    },
+    {
+     "pattern": "～を余儀なくされる",
+     "formation": "N + を余儀なくされる",
+     "usage": "The source notes that the action is something one originally wanted to avoid, such as cancellation, change, or retirement.",
+     "meaning_vi": "Đành phải, buộc phải...",
+     "examples": [
+      {
+       "ja": "このまま利用者が減れば、この鉄道は廃線を余儀なくされるだろう。",
+       "vi": ""
+      },
+      {
+       "ja": "景気悪化に伴い、工場は閉鎖を余儀なくされた。",
+       "vi": ""
+      }
+     ]
+    },
+    {
+     "pattern": "～んがため",
+     "formation": "Vない + んがため; する → せ",
+     "usage": "The source describes intentional action for an important purpose and says this pattern is used in writing and speeches.",
+     "meaning_vi": "Để.../ Vì mục đích...",
+     "examples": [
+      {
+       "ja": "国民の生命を守らんがため、彼はあえて危険を伴う任務を引き受けた。",
+       "vi": ""
+      },
+      {
+       "ja": "「うそも方便」と言うが、人を救わんがためのうそは許されると、私は思う。",
+       "vi": ""
+      }
+     ]
+    },
+    {
+     "pattern": "～んばかりだ",
+     "formation": "Vない + んばかりだ／の; する → せ; に",
+     "usage": "Used when the perceived degree is extremely high, even though the reality does not quite reach that degree. The source also notes ～の + N and ～に + V/A.",
+     "meaning_vi": "Tưởng chừng như...",
+     "examples": [
+      {
+       "ja": "彼は力強くうなずいた。任せろと言わんばかりだった。",
+       "vi": ""
+      },
+      {
+       "ja": "頭を畳につけんばかりにしてわびたのに、父は許してくれなかった。",
+       "vi": ""
+      },
+      {
+       "ja": "壊さんばかりに、ドアをたたく。",
+       "vi": ""
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "bai-17",
+   "label": "第17課",
+   "buoi": "17",
+   "cards": [
+    {
+     "pattern": "～なしに／で（は・も）",
+     "formation": "N + なしに／で（は・も）",
+     "usage": "The source notes that ～なしに／で is often followed by expressions such as できる and できない.",
+     "meaning_vi": "Không có... thì khó mà...",
+     "examples": [
+      {
+       "ja": "関係者の断りなしには、施設内に入ることはできない。",
+       "vi": ""
+      },
+      {
+       "ja": "経費は領収書なしで認められるか。",
+       "vi": ""
+      },
+      {
+       "ja": "誰しも他人を傷つけることなしには生きていけない。",
+       "vi": ""
+      }
+     ]
+    },
+    {
+     "pattern": "～ずにはおかない",
+     "formation": "V ずには／V ないでは + おかない",
+     "usage": "The source gives two senses: strong intention or determination to do something, and inevitability whereby something necessarily causes a state.",
+     "meaning_vi": "Chắc chắn, thế nào cũng...",
+     "examples": [
+      {
+       "ja": "「今度こそ犯人を捕まえずにはおかないぞ」と警部は心に誓った。",
+       "vi": ""
+      },
+      {
+       "ja": "会長の発言は我々に不安感を抱かせないではおかなかった。",
+       "vi": ""
+      }
+     ]
+    },
+    {
+     "pattern": "～いかんにかかわらず",
+     "formation": "N（の） + いかんにかかわらず",
+     "usage": "The source also gives ～を問わず and ～によらず, says the pattern attaches to words expressing varied differences or ranges, and says a fixed result unaffected by that factor follows.",
+     "meaning_vi": "Bất kể...",
+     "examples": [
+      {
+       "ja": "理由いかんに関わらず、遅刻した人は入室できません。",
+       "vi": ""
+      },
+      {
+       "ja": "学歴のいかんを問わず、優秀な社員を募集している。",
+       "vi": ""
+      },
+      {
+       "ja": "明日の試合の結果いかんによらず、優勝できないことは決まってしまった。",
+       "vi": ""
+      }
+     ]
+    },
+    {
+     "pattern": "～と言っても過言ではない",
+     "formation": "普通形 + と言っても過言ではない",
+     "usage": "Used to make an emphatic or extreme evaluation without it being an overstatement.",
+     "meaning_vi": "Dù nói là... thì cũng không phải là nói quá",
+     "examples": [
+      {
+       "ja": "この店の味のおいしさは世界一といっても過言ではない。",
+       "vi": ""
+      },
+      {
+       "ja": "彼の存在は世界を変えたと言っても過言ではない。",
+       "vi": ""
+      }
+     ]
+    },
+    {
+     "pattern": "～始末だ",
+     "formation": "普通形 + （という）始末だ",
+     "usage": "The source also uses この／その／あの始末だ and notes common accompanying expressions such as ついに and とうとう.",
+     "meaning_vi": "Kết cục là...",
+     "examples": [
+      {
+       "ja": "不法滞在して国外追放になる始末だ。",
+       "vi": ""
+      },
+      {
+       "ja": "うちの娘は、ダイエットのしすぎで病気になり、入院する始末だ。",
+       "vi": ""
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "bai-18",
+   "label": "第18課",
+   "buoi": "18",
+   "cards": [
+    {
+     "pattern": "～たが最後／～たら最後",
+     "formation": "Vた + ら／が + 最後",
+     "usage": "The source says both ～たが最後 and ～たら最後 are used, with an inevitable negative result.",
+     "meaning_vi": "Một khi đã... thì...",
+     "examples": [
+      {
+       "ja": "信用というものは、いったん失ったが最後、取り戻すのは難しい。",
+       "vi": ""
+      },
+      {
+       "ja": "不正行為が見つかったら最後、もうその会社にはいられないでしょう。",
+       "vi": ""
+      }
+     ]
+    },
+    {
+     "pattern": "～につけ",
+     "formation": "N／Vる + につけ",
+     "usage": "The source describes the same feeling arising naturally each time.",
+     "meaning_vi": "Cứ mỗi lần... thì lại...",
+     "examples": [
+      {
+       "ja": "彼女の「明日からダイエットする」という言葉を聞くにつけ、つい笑ってしまいます。",
+       "vi": ""
+      },
+      {
+       "ja": "出張につけ手土産を買わなければならないのは、面倒だ。",
+       "vi": ""
+      }
+     ]
+    },
+    {
+     "pattern": "～(よ)うが～まいが",
+     "formation": "V意向形 + が／と + Vまい + が／と",
+     "usage": "The source says the following clause commonly expresses sameness, irrelevance, or lack of influence.",
+     "meaning_vi": "Dù có... hay không... thì vẫn...",
+     "examples": [
+      {
+       "ja": "教室で学生は先生がいようがいまいが、お構いなしに騒いでいる。",
+       "vi": ""
+      },
+      {
+       "ja": "雨が降ろうと降るまいと、試合は行われる。",
+       "vi": ""
+      }
+     ]
+    },
+    {
+     "pattern": "～ずくめ",
+     "formation": "N + ずくめ",
+     "usage": "The source notes common expressions 黒ずくめ, 幸せずくめ, and ご馳走ずくめ.",
+     "meaning_vi": "Toàn là...",
+     "examples": [
+      {
+       "ja": "彼は、黒ずくめの目立っている服装をしている。",
+       "vi": ""
+      },
+      {
+       "ja": "今年は、息子の結婚、孫の誕生と、めでたいことずくめの一年だった。",
+       "vi": ""
+      },
+      {
+       "ja": "記録的な豪雨、野菜や果物高騰など、異例ずくめの夏だ。",
+       "vi": ""
+      }
+     ]
+    },
+    {
+     "pattern": "～ざるを得ない",
+     "formation": "Vない + ざるを得ない; する → せざる",
+     "usage": "The source describes having to do something because circumstances require it, despite not wanting to.",
+     "meaning_vi": "Đành phải...",
+     "examples": [
+      {
+       "ja": "本日雨天のため、イベントの開催を断念せざるを得ない状況でございます。",
+       "vi": ""
+      },
+      {
+       "ja": "今回の事故は、国の安全管理に問題があったと言わざるを得ない。",
+       "vi": ""
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "bai-19",
+   "label": "第19課",
+   "buoi": "19",
+   "cards": [
+    {
+     "pattern": "～きらいがある",
+     "formation": "Vる／Vない／Nの + きらいがある",
+     "usage": "The source describes an undesirable tendency, disposition, or habit and says it is used when criticizing another person.",
+     "meaning_vi": "Có chiều hướng, có khuynh hướng...",
+     "examples": [
+      {
+       "ja": "彼はどうも物事を悲観的に考えるきらいがある。",
+       "vi": ""
+      },
+      {
+       "ja": "人は年をとると、周りの人の忠告に耳を貸さなくなるきらいがある。",
+       "vi": ""
+      }
+     ]
+    },
+    {
+     "pattern": "～がてら",
+     "formation": "Nする／Vます + がてら (する／ます are crossed out in the source formula)",
+     "usage": "The source describes doing another action on the occasion of the main action and calls it a more formal expression.",
+     "meaning_vi": "Sẵn tiện...／Đồng thời...／Và...",
+     "examples": [
+      {
+       "ja": "友達を駅まで送りがてら本屋に行ってきた。",
+       "vi": ""
+      },
+      {
+       "ja": "週末にはドライブがてら、新しい博物館まで行ってみようと思う。",
+       "vi": ""
+      }
+     ]
+    },
+    {
+     "pattern": "～かたがた",
+     "formation": "N + かたがた",
+     "usage": "The source says it is used for polite purposes toward a superior, including greetings, letters, thanks, reports, and apologies; movement verbs often follow.",
+     "meaning_vi": "Cũng như là để...／Sẵn tiện xem như...",
+     "examples": [
+      {
+       "ja": "先日お世話になったお礼かたがた、社長のお宅にお寄りしました。",
+       "vi": ""
+      },
+      {
+       "ja": "ご報告かたがたお礼申し上げます。",
+       "vi": ""
+      }
+     ]
+    },
+    {
+     "pattern": "～かたわら",
+     "formation": "Nの／Vる + かたわら",
+     "usage": "The source says A is often one's main job and B a side job or other activity; A often represents work and B social activity.",
+     "meaning_vi": "Vừa...vừa...",
+     "examples": [
+      {
+       "ja": "彼は教師の仕事をするかたわら小説を書いている。",
+       "vi": ""
+      },
+      {
+       "ja": "わたしは会社勤務のかたわら子どもたちにサッカーを教えています。",
+       "vi": ""
+      }
+     ]
+    },
+    {
+     "pattern": "～そばから",
+     "formation": "Vる／Vた + そばから",
+     "usage": "The source says B follows A immediately and repeatedly, mainly for undesirable situations where effort ends up wasted.",
+     "meaning_vi": "Vừa mới... thì ngay lập tức...",
+     "examples": [
+      {
+       "ja": "仕事が終わったそばからまた仕事を頼まれる。もう全然休めない。",
+       "vi": ""
+      },
+      {
+       "ja": "このテキストは漢字が多くて大変だ。調べたそばから新しい漢字が出てくる。",
+       "vi": ""
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

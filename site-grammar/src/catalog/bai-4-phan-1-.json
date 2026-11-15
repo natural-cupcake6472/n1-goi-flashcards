@@ -1,0 +1,1547 @@
+[
+  {
+    "japanese": "お経を唱える",
+    "order": 320,
+    "sourceLines": [
+      353
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-4-phan-1-.txt",
+        "line": 9,
+        "text": "お経を唱える"
+      }
+    ]
+  },
+  {
+    "japanese": "混声合唱団",
+    "order": 321,
+    "sourceLines": [
+      354
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-4-phan-1-.txt",
+        "line": 10,
+        "text": "混声合唱団"
+      }
+    ]
+  },
+  {
+    "japanese": "他社の提案に異議を唱える",
+    "order": 322,
+    "sourceLines": [
+      355
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-4-phan-1-.txt",
+        "line": 11,
+        "text": "他社の提案に異議を唱える"
+      }
+    ]
+  },
+  {
+    "japanese": "協会の設立を提唱する",
+    "order": 323,
+    "sourceLines": [
+      356
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-4-phan-1-.txt",
+        "line": 12,
+        "text": "協会の設立を提唱する"
+      }
+    ]
+  },
+  {
+    "japanese": "雪の結晶",
+    "order": 324,
+    "sourceLines": [
+      359
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-4-phan-1-.txt",
+        "line": 17,
+        "text": "雪の結晶"
+      }
+    ]
+  },
+  {
+    "japanese": "努力の結晶",
+    "order": 325,
+    "sourceLines": [
+      360
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-4-phan-1-.txt",
+        "line": 18,
+        "text": "努力の結晶"
+      }
+    ]
+  },
+  {
+    "japanese": "水晶を使って占う",
+    "order": 326,
+    "sourceLines": [
+      361
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-4-phan-1-.txt",
+        "line": 19,
+        "text": "水晶を使って占う"
+      }
+    ]
+  },
+  {
+    "japanese": "神に誓う",
+    "order": 327,
+    "sourceLines": [
+      364
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-4-phan-1-.txt",
+        "line": 25,
+        "text": "神に誓う"
+      }
+    ]
+  },
+  {
+    "japanese": "心に誓う",
+    "order": 328,
+    "sourceLines": [
+      365
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-4-phan-1-.txt",
+        "line": 26,
+        "text": "心に誓う"
+      }
+    ]
+  },
+  {
+    "japanese": "誓いを立てる",
+    "order": 329,
+    "sourceLines": [
+      366
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-4-phan-1-.txt",
+        "line": 27,
+        "text": "誓いを立てる"
+      }
+    ]
+  },
+  {
+    "japanese": "結婚の誓約をする",
+    "order": 330,
+    "sourceLines": [
+      367
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-4-phan-1-.txt",
+        "line": 28,
+        "text": "結婚の誓約をする"
+      }
+    ]
+  },
+  {
+    "japanese": "君逝きて３年",
+    "order": 331,
+    "sourceLines": [
+      370
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-4-phan-1-.txt",
+        "line": 35,
+        "text": "君逝きて 3 年"
+      }
+    ]
+  },
+  {
+    "japanese": "彼女は若くして逝った",
+    "order": 332,
+    "sourceLines": [
+      371
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-4-phan-1-.txt",
+        "line": 36,
+        "text": "彼女は若くして逝った"
+      }
+    ]
+  },
+  {
+    "japanese": "11月1日作家〇〇氏が逝去されました",
+    "order": 333,
+    "sourceLines": [
+      372
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-4-phan-1-.txt",
+        "line": 37,
+        "text": "11 月 1 日作家〇〇氏が逝去されました"
+      }
+    ]
+  },
+  {
+    "japanese": "有名歌手が急逝した",
+    "order": 334,
+    "sourceLines": [
+      373
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-4-phan-1-.txt",
+        "line": 38,
+        "text": "有名歌手が急逝した"
+      }
+    ]
+  },
+  {
+    "japanese": "哲学を専攻する",
+    "order": 335,
+    "sourceLines": [
+      376
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-4-phan-1-.txt",
+        "line": 43,
+        "text": "哲学を専攻する"
+      }
+    ]
+  },
+  {
+    "japanese": "独自の人生哲学を語る",
+    "order": 336,
+    "sourceLines": [
+      377
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-4-phan-1-.txt",
+        "line": 44,
+        "text": "独自の人生哲学を語る"
+      }
+    ]
+  },
+  {
+    "japanese": "先生が、叱らず諭すだけだと、悪い子は変わらない",
+    "order": 337,
+    "sourceLines": [
+      380
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-4-phan-1-.txt",
+        "line": 50,
+        "text": "先生が、叱らず諭すだけだと、悪い子は変わらない"
+      }
+    ]
+  },
+  {
+    "japanese": "愉快な人",
+    "order": 338,
+    "sourceLines": [
+      383
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-4-phan-1-.txt",
+        "line": 55,
+        "text": "愉快な人"
+      }
+    ]
+  },
+  {
+    "japanese": "愉悦のひとときを過ごす",
+    "order": 339,
+    "sourceLines": [
+      384
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-4-phan-1-.txt",
+        "line": 56,
+        "text": "愉悦のひとときを過ごす"
+      }
+    ]
+  },
+  {
+    "japanese": "心の傷が癒える",
+    "order": 340,
+    "sourceLines": [
+      387
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-4-phan-1-.txt",
+        "line": 63,
+        "text": "心の傷が癒える"
+      }
+    ]
+  },
+  {
+    "japanese": "ペットに癒やされる",
+    "order": 341,
+    "sourceLines": [
+      388
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-4-phan-1-.txt",
+        "line": 64,
+        "text": "ペットに癒やされる"
+      }
+    ]
+  },
+  {
+    "japanese": "病気が治癒する",
+    "order": 342,
+    "sourceLines": [
+      389
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-4-phan-1-.txt",
+        "line": 65,
+        "text": "病気が治癒する"
+      }
+    ]
+  },
+  {
+    "japanese": "政界と財界の癒着",
+    "order": 343,
+    "sourceLines": [
+      390
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-4-phan-1-.txt",
+        "line": 66,
+        "text": "政界と財界の癒着"
+      }
+    ]
+  },
+  {
+    "japanese": "魚の餌",
+    "order": 344,
+    "sourceLines": [
+      393
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-4-phan-1-.txt",
+        "line": 72,
+        "text": "魚の餌"
+      }
+    ]
+  },
+  {
+    "japanese": "ライオンの餌食になる",
+    "order": 345,
+    "sourceLines": [
+      394
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-4-phan-1-.txt",
+        "line": 73,
+        "text": "ライオンの餌食になる"
+      }
+    ]
+  },
+  {
+    "japanese": "悪徳商法の餌食になる",
+    "order": 346,
+    "sourceLines": [
+      395
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-4-phan-1-.txt",
+        "line": 74,
+        "text": "悪徳商法の餌食になる"
+      }
+    ]
+  },
+  {
+    "japanese": "飢饉で多数の農民が餓死した",
+    "order": 347,
+    "sourceLines": [
+      398
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-4-phan-1-.txt",
+        "line": 79,
+        "text": "飢饉で多数の農民が餓死した"
+      }
+    ]
+  },
+  {
+    "japanese": "飢餓に苦しむ",
+    "order": 348,
+    "sourceLines": [
+      399
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-4-phan-1-.txt",
+        "line": 80,
+        "text": "飢餓に苦しむ"
+      }
+    ]
+  },
+  {
+    "japanese": "食糧がなくて飢える",
+    "order": 349,
+    "sourceLines": [
+      402
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-4-phan-1-.txt",
+        "line": 86,
+        "text": "食糧がなくて飢える"
+      }
+    ]
+  },
+  {
+    "japanese": "愛情に飢える",
+    "order": 350,
+    "sourceLines": [
+      403
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-4-phan-1-.txt",
+        "line": 87,
+        "text": "愛情に飢える"
+      }
+    ]
+  },
+  {
+    "japanese": "大飢饉が起こる",
+    "order": 351,
+    "sourceLines": [
+      404
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-4-phan-1-.txt",
+        "line": 88,
+        "text": "大飢饉が起こる"
+      }
+    ]
+  },
+  {
+    "japanese": "悲しみをこらえて、気を紛らすために踊る",
+    "order": 352,
+    "sourceLines": [
+      407
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-4-phan-1-.txt",
+        "line": 99,
+        "text": "悲しみをこらえて、気を紛らすために踊る"
+      }
+    ]
+  },
+  {
+    "japanese": "コーヒーは眠気を紛らすのに効果的です",
+    "order": 353,
+    "sourceLines": [
+      408
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-4-phan-1-.txt",
+        "line": 100,
+        "text": "コーヒーは眠気を紛らすのに効果的です"
+      }
+    ]
+  },
+  {
+    "japanese": "紛らわしい漢字",
+    "order": 354,
+    "sourceLines": [
+      409
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-4-phan-1-.txt",
+        "line": 101,
+        "text": "紛らわしい漢字"
+      }
+    ]
+  },
+  {
+    "japanese": "書類を紛失する",
+    "order": 355,
+    "sourceLines": [
+      410
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-4-phan-1-.txt",
+        "line": 102,
+        "text": "書類を紛失する"
+      }
+    ]
+  },
+  {
+    "japanese": "紛争に巻き込まれる",
+    "order": 356,
+    "sourceLines": [
+      411
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-4-phan-1-.txt",
+        "line": 103,
+        "text": "紛争に巻き込まれる"
+      }
+    ]
+  },
+  {
+    "japanese": "家業を継ぐ",
+    "order": 357,
+    "sourceLines": [
+      414
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-4-phan-1-.txt",
+        "line": 109,
+        "text": "家業を継ぐ"
+      }
+    ]
+  },
+  {
+    "japanese": "仕事の引き継ぎをする",
+    "order": 358,
+    "sourceLines": [
+      415
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-4-phan-1-.txt",
+        "line": 110,
+        "text": "仕事の引き継ぎをする"
+      }
+    ]
+  },
+  {
+    "japanese": "家の跡継ぎ",
+    "order": 359,
+    "sourceLines": [
+      416
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-4-phan-1-.txt",
+        "line": 111,
+        "text": "家の跡継ぎ"
+      }
+    ]
+  },
+  {
+    "japanese": "テレビ中継",
+    "order": 360,
+    "sourceLines": [
+      417
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-4-phan-1-.txt",
+        "line": 112,
+        "text": "テレビ中継"
+      }
+    ]
+  },
+  {
+    "japanese": "伝統芸能の後継者を育てる",
+    "order": 361,
+    "sourceLines": [
+      418
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-4-phan-1-.txt",
+        "line": 113,
+        "text": "伝統芸能の後継者を育てる"
+      }
+    ]
+  },
+  {
+    "japanese": "王位を継承",
+    "order": 362,
+    "sourceLines": [
+      419
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-4-phan-1-.txt",
+        "line": 114,
+        "text": "王位を継承"
+      }
+    ]
+  },
+  {
+    "japanese": "立派な身なりの紳士",
+    "order": 363,
+    "sourceLines": [
+      422
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-4-phan-1-.txt",
+        "line": 119,
+        "text": "立派な身なりの紳士"
+      }
+    ]
+  },
+  {
+    "japanese": "紳士的な態度",
+    "order": 364,
+    "sourceLines": [
+      423
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-4-phan-1-.txt",
+        "line": 120,
+        "text": "紳士的な態度"
+      }
+    ]
+  },
+  {
+    "japanese": "縄跳び",
+    "order": 365,
+    "sourceLines": [
+      426
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-4-phan-1-.txt",
+        "line": 126,
+        "text": "縄跳び"
+      }
+    ]
+  },
+  {
+    "japanese": "縄で縛る",
+    "order": 366,
+    "sourceLines": [
+      427
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-4-phan-1-.txt",
+        "line": 127,
+        "text": "縄で縛る"
+      }
+    ]
+  },
+  {
+    "japanese": "犬：ここは私の縄張りだ！",
+    "order": 367,
+    "sourceLines": [
+      428
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-4-phan-1-.txt",
+        "line": 128,
+        "text": "犬：ここは私の縄張りだ！"
+      }
+    ]
+  },
+  {
+    "japanese": "沖縄県",
+    "order": 368,
+    "sourceLines": [
+      429
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-4-phan-1-.txt",
+        "line": 129,
+        "text": "沖縄県"
+      }
+    ]
+  },
+  {
+    "japanese": "ネクタイで首が絞まる",
+    "order": 369,
+    "sourceLines": [
+      432
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-4-phan-1-.txt",
+        "line": 137,
+        "text": "ネクタイで首が絞まる"
+      }
+    ]
+  },
+  {
+    "japanese": "首を絞める",
+    "order": 370,
+    "sourceLines": [
+      433
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-4-phan-1-.txt",
+        "line": 138,
+        "text": "首を絞める"
+      }
+    ]
+  },
+  {
+    "japanese": "レモンを絞る",
+    "order": 371,
+    "sourceLines": [
+      434
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-4-phan-1-.txt",
+        "line": 139,
+        "text": "レモンを絞る"
+      }
+    ]
+  },
+  {
+    "japanese": "頭を絞ってアイディアを出す",
+    "order": 372,
+    "sourceLines": [
+      435
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-4-phan-1-.txt",
+        "line": 140,
+        "text": "頭を絞ってアイディアを出す"
+      }
+    ]
+  },
+  {
+    "japanese": "成功確率をあげるために、目標を一つに絞る",
+    "order": 373,
+    "sourceLines": [
+      436
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-4-phan-1-.txt",
+        "line": 141,
+        "text": "成功確率をあげるために、目標を一つに絞る"
+      }
+    ]
+  },
+  {
+    "japanese": "絞殺死体が発見される",
+    "order": 374,
+    "sourceLines": [
+      437
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-4-phan-1-.txt",
+        "line": 142,
+        "text": "絞殺死体が発見される"
+      }
+    ]
+  },
+  {
+    "japanese": "優秀な家系",
+    "order": 375,
+    "sourceLines": [
+      440
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-4-phan-1-.txt",
+        "line": 147,
+        "text": "優秀な家系"
+      }
+    ]
+  },
+  {
+    "japanese": "同じ系統の言語",
+    "order": 376,
+    "sourceLines": [
+      441
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-4-phan-1-.txt",
+        "line": 148,
+        "text": "同じ系統の言語"
+      }
+    ]
+  },
+  {
+    "japanese": "系列会社に出向する",
+    "order": 377,
+    "sourceLines": [
+      442
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-4-phan-1-.txt",
+        "line": 149,
+        "text": "系列会社に出向する"
+      }
+    ]
+  },
+  {
+    "japanese": "文系・理系",
+    "order": 378,
+    "sourceLines": [
+      443
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-4-phan-1-.txt",
+        "line": 150,
+        "text": "文系・理系"
+      }
+    ]
+  },
+  {
+    "japanese": "素手で触れる",
+    "order": 379,
+    "sourceLines": [
+      446
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-4-phan-1-.txt",
+        "line": 155,
+        "text": "素手で触れる"
+      }
+    ]
+  },
+  {
+    "japanese": "25歳独身女性、素性を明かす",
+    "order": 380,
+    "sourceLines": [
+      447
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-4-phan-1-.txt",
+        "line": 156,
+        "text": "25 歳独身女性、素性を明かす"
+      }
+    ]
+  },
+  {
+    "japanese": "～育ち、恋愛、仕事、アニメ",
+    "order": 381,
+    "sourceLines": [
+      448
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-4-phan-1-.txt",
+        "line": 157,
+        "text": "〜育ち、恋愛、仕事、アニメ"
+      }
+    ]
+  },
+  {
+    "japanese": "素材を生かした料理",
+    "order": 382,
+    "sourceLines": [
+      449
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-4-phan-1-.txt",
+        "line": 158,
+        "text": "素材を生かした料理"
+      }
+    ]
+  },
+  {
+    "japanese": "音楽家としての素質がある",
+    "order": 383,
+    "sourceLines": [
+      450
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-4-phan-1-.txt",
+        "line": 159,
+        "text": "音楽家としての素質がある"
+      }
+    ]
+  },
+  {
+    "japanese": "成功に必要な要素",
+    "order": 384,
+    "sourceLines": [
+      451
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-4-phan-1-.txt",
+        "line": 160,
+        "text": "成功に必要な要素"
+      }
+    ]
+  },
+  {
+    "japanese": "犯人を捜索する",
+    "order": 385,
+    "sourceLines": [
+      454
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-4-phan-1-.txt",
+        "line": 165,
+        "text": "犯人を捜索する"
+      }
+    ]
+  },
+  {
+    "japanese": "五十音順索引",
+    "order": 386,
+    "sourceLines": [
+      455
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-4-phan-1-.txt",
+        "line": 166,
+        "text": "五十音順索引"
+      }
+    ]
+  },
+  {
+    "japanese": "インターネットで検索する",
+    "order": 387,
+    "sourceLines": [
+      456
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-4-phan-1-.txt",
+        "line": 167,
+        "text": "インターネットで検索する"
+      }
+    ]
+  },
+  {
+    "japanese": "解決方法を模索する",
+    "order": 388,
+    "sourceLines": [
+      457
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-4-phan-1-.txt",
+        "line": 168,
+        "text": "解決方法を模索する"
+      }
+    ]
+  },
+  {
+    "japanese": "ロープが緩む",
+    "order": 389,
+    "sourceLines": [
+      460
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-4-phan-1-.txt",
+        "line": 175,
+        "text": "ロープが緩む"
+      }
+    ]
+  },
+  {
+    "japanese": "試験が終わって気が緩んだ",
+    "order": 390,
+    "sourceLines": [
+      461
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-4-phan-1-.txt",
+        "line": 176,
+        "text": "試験が終わって気が緩んだ"
+      }
+    ]
+  },
+  {
+    "japanese": "ベルトを緩める",
+    "order": 391,
+    "sourceLines": [
+      462
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-4-phan-1-.txt",
+        "line": 177,
+        "text": "ベルトを緩める"
+      }
+    ]
+  },
+  {
+    "japanese": "スカートが緩い",
+    "order": 392,
+    "sourceLines": [
+      463
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-4-phan-1-.txt",
+        "line": 178,
+        "text": "スカートが緩い"
+      }
+    ]
+  },
+  {
+    "japanese": "緩やかなカーブ",
+    "order": 393,
+    "sourceLines": [
+      464
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-4-phan-1-.txt",
+        "line": 179,
+        "text": "緩やかなカーブ"
+      }
+    ]
+  },
+  {
+    "japanese": "財布の紐が緩む時期",
+    "order": 394,
+    "sourceLines": [
+      465
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-4-phan-1-.txt",
+        "line": 180,
+        "text": "財布の紐が緩む時期"
+      }
+    ]
+  },
+  {
+    "japanese": "布を織る",
+    "order": 395,
+    "sourceLines": [
+      468
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-4-phan-1-.txt",
+        "line": 187,
+        "text": "布を織る"
+      }
+    ]
+  },
+  {
+    "japanese": "会社の組織図",
+    "order": 396,
+    "sourceLines": [
+      469
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-4-phan-1-.txt",
+        "line": 188,
+        "text": "会社の組織図"
+      }
+    ]
+  },
+  {
+    "japanese": "労働組合を組織する",
+    "order": 397,
+    "sourceLines": [
+      470
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-4-phan-1-.txt",
+        "line": 189,
+        "text": "労働組合を組織する"
+      }
+    ]
+  },
+  {
+    "japanese": "細胞の組織",
+    "order": 398,
+    "sourceLines": [
+      471
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-4-phan-1-.txt",
+        "line": 190,
+        "text": "細胞の組織"
+      }
+    ]
+  },
+  {
+    "japanese": "累積赤字を抱える",
+    "order": 399,
+    "sourceLines": [
+      474
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-4-phan-1-.txt",
+        "line": 197,
+        "text": "累積赤字を抱える"
+      }
+    ]
+  },
+  {
+    "japanese": "イエローカード累積三枚",
+    "order": 400,
+    "sourceLines": [
+      475
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-4-phan-1-.txt",
+        "line": 198,
+        "text": "イエローカード累積三枚"
+      }
+    ]
+  },
+  {
+    "japanese": "各支社の売り上げを累計する",
+    "order": 401,
+    "sourceLines": [
+      476
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-4-phan-1-.txt",
+        "line": 199,
+        "text": "各支社の売り上げを累計する"
+      }
+    ]
+  },
+  {
+    "japanese": "絹でできたスカーフ",
+    "order": 402,
+    "sourceLines": [
+      479
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-4-phan-1-.txt",
+        "line": 204,
+        "text": "絹でできたスカーフ"
+      }
+    ]
+  },
+  {
+    "japanese": "絹糸",
+    "order": 403,
+    "sourceLines": [
+      480
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-4-phan-1-.txt",
+        "line": 205,
+        "text": "絹糸"
+      }
+    ]
+  },
+  {
+    "japanese": "天然繊維と合成繊維",
+    "order": 404,
+    "sourceLines": [
+      483
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-4-phan-1-.txt",
+        "line": 210,
+        "text": "天然繊維と合成繊維"
+      }
+    ]
+  },
+  {
+    "japanese": "豆は食物繊維が豊富だ",
+    "order": 405,
+    "sourceLines": [
+      484
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-4-phan-1-.txt",
+        "line": 211,
+        "text": "豆は食物繊維が豊富だ"
+      }
+    ]
+  },
+  {
+    "japanese": "体力を維持する",
+    "order": 406,
+    "sourceLines": [
+      485
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-4-phan-1-.txt",
+        "line": 212,
+        "text": "体力を維持する"
+      }
+    ]
+  },
+  {
+    "japanese": "指紋認証機能",
+    "order": 407,
+    "sourceLines": [
+      488
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-4-phan-1-.txt",
+        "line": 217,
+        "text": "指紋認証機能"
+      }
+    ]
+  },
+  {
+    "japanese": "波紋が広がる",
+    "order": 408,
+    "sourceLines": [
+      489
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-4-phan-1-.txt",
+        "line": 218,
+        "text": "波紋が広がる"
+      }
+    ]
+  },
+  {
+    "japanese": "紐で縛る",
+    "order": 409,
+    "sourceLines": [
+      492
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-4-phan-1-.txt",
+        "line": 224,
+        "text": "紐で縛る"
+      }
+    ]
+  },
+  {
+    "japanese": "規則に縛られる",
+    "order": 410,
+    "sourceLines": [
+      493
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-4-phan-1-.txt",
+        "line": 225,
+        "text": "規則に縛られる"
+      }
+    ]
+  },
+  {
+    "japanese": "自由を束縛される",
+    "order": 411,
+    "sourceLines": [
+      494
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-4-phan-1-.txt",
+        "line": 226,
+        "text": "自由を束縛される"
+      }
+    ]
+  },
+  {
+    "japanese": "面接にまた落ちた。今はこのバイトだけが頼みの綱だ。",
+    "order": 414,
+    "sourceLines": [
+      499
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-4-phan-1-.txt",
+        "line": 234,
+        "text": "面接にまた落ちた。今はこのバイトだけが頼みの綱だ。"
+      }
+    ]
+  },
+  {
+    "japanese": "命綱",
+    "order": 415,
+    "sourceLines": [
+      500
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-4-phan-1-.txt",
+        "line": 235,
+        "text": "命綱"
+      }
+    ]
+  },
+  {
+    "japanese": "小学校の学習指導要綱",
+    "order": 416,
+    "sourceLines": [
+      501
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-4-phan-1-.txt",
+        "line": 236,
+        "text": "小学校の学習指導要綱"
+      }
+    ]
+  },
+  {
+    "japanese": "網で魚を捕る",
+    "order": 417,
+    "sourceLines": [
+      504
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-4-phan-1-.txt",
+        "line": 242,
+        "text": "網で魚を捕る"
+      }
+    ]
+  },
+  {
+    "japanese": "くもが網を張る",
+    "order": 418,
+    "sourceLines": [
+      505
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-4-phan-1-.txt",
+        "line": 243,
+        "text": "くもが網を張る"
+      }
+    ]
+  },
+  {
+    "japanese": "金網",
+    "order": 419,
+    "sourceLines": [
+      506
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-4-phan-1-.txt",
+        "line": 244,
+        "text": "金網"
+      }
+    ]
+  },
+  {
+    "japanese": "通信網",
+    "order": 420,
+    "sourceLines": [
+      507
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-4-phan-1-.txt",
+        "line": 245,
+        "text": "通信網"
+      }
+    ]
+  },
+  {
+    "japanese": "剛胆な振る舞いをする",
+    "order": 421,
+    "sourceLines": [
+      510
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-4-phan-1-.txt",
+        "line": 250,
+        "text": "剛胆な振る舞いをする"
+      }
+    ]
+  },
+  {
+    "japanese": "柔よく剛を制す",
+    "order": 422,
+    "sourceLines": [
+      511
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-4-phan-1-.txt",
+        "line": 251,
+        "text": "柔よく剛を制す"
+      }
+    ]
+  },
+  {
+    "japanese": "鋼で刃物を製造する",
+    "order": 423,
+    "sourceLines": [
+      514
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-4-phan-1-.txt",
+        "line": 257,
+        "text": "鋼で刃物を製造する"
+      }
+    ]
+  },
+  {
+    "japanese": "鉄鋼業",
+    "order": 424,
+    "sourceLines": [
+      515
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-4-phan-1-.txt",
+        "line": 258,
+        "text": "鉄鋼業"
+      }
+    ]
+  }
+]

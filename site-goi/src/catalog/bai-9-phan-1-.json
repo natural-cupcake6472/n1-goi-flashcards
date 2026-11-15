@@ -1,0 +1,1457 @@
+[
+  {
+    "japanese": "食後に歯を磨く",
+    "order": 823,
+    "sourceLines": [
+      1158
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-9-phan-1-.txt",
+        "line": 9,
+        "text": "食後に歯を磨く"
+      }
+    ]
+  },
+  {
+    "japanese": "ここでは最低３年腕を磨かないと一人前にはなれない",
+    "order": 824,
+    "sourceLines": [
+      1159
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-9-phan-1-.txt",
+        "line": 10,
+        "text": "ここでは最低 3 年腕を磨かないと一人前にはなれない"
+      }
+    ]
+  },
+  {
+    "japanese": "切磋琢磨することで、お互い成長することができる",
+    "order": 825,
+    "sourceLines": [
+      1160
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-9-phan-1-.txt",
+        "line": 11,
+        "text": "切磋琢磨することで、お互い成長することができる"
+      }
+    ]
+  },
+  {
+    "japanese": "悪魔",
+    "order": 826,
+    "sourceLines": [
+      1163
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-9-phan-1-.txt",
+        "line": 16,
+        "text": "悪魔"
+      }
+    ]
+  },
+  {
+    "japanese": "魔が差して夜中にカップラーメンを食べてしまった",
+    "order": 827,
+    "sourceLines": [
+      1164
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-9-phan-1-.txt",
+        "line": 17,
+        "text": "魔が差して夜中にカップラーメンを食べてしまった"
+      }
+    ]
+  },
+  {
+    "japanese": "魔法を使う",
+    "order": 828,
+    "sourceLines": [
+      1165
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-9-phan-1-.txt",
+        "line": 18,
+        "text": "魔法を使う"
+      }
+    ]
+  },
+  {
+    "japanese": "勉強の邪魔をされる",
+    "order": 829,
+    "sourceLines": [
+      1166
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-9-phan-1-.txt",
+        "line": 19,
+        "text": "勉強の邪魔をされる"
+      }
+    ]
+  },
+  {
+    "japanese": "睡魔に襲われる",
+    "order": 830,
+    "sourceLines": [
+      1167
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-9-phan-1-.txt",
+        "line": 20,
+        "text": "睡魔に襲われる"
+      }
+    ]
+  },
+  {
+    "japanese": "摩擦で靴底がすり減る",
+    "order": 831,
+    "sourceLines": [
+      1170
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-9-phan-1-.txt",
+        "line": 25,
+        "text": "摩擦で靴底がすり減る"
+      }
+    ]
+  },
+  {
+    "japanese": "米中貿易摩擦",
+    "order": 832,
+    "sourceLines": [
+      1171
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-9-phan-1-.txt",
+        "line": 26,
+        "text": "米中貿易摩擦"
+      }
+    ]
+  },
+  {
+    "japanese": "西暦2000年",
+    "order": 833,
+    "sourceLines": [
+      1174
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-9-phan-1-.txt",
+        "line": 31,
+        "text": "西暦 2000 年"
+      }
+    ]
+  },
+  {
+    "japanese": "還暦を迎える",
+    "order": 834,
+    "sourceLines": [
+      1175
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-9-phan-1-.txt",
+        "line": 32,
+        "text": "還暦を迎える"
+      }
+    ]
+  },
+  {
+    "japanese": "食べ物が腐る",
+    "order": 835,
+    "sourceLines": [
+      1178
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-9-phan-1-.txt",
+        "line": 40,
+        "text": "食べ物が腐る"
+      }
+    ]
+  },
+  {
+    "japanese": "政治の腐敗",
+    "order": 836,
+    "sourceLines": [
+      1179
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-9-phan-1-.txt",
+        "line": 41,
+        "text": "政治の腐敗"
+      }
+    ]
+  },
+  {
+    "japanese": "金属が腐食する",
+    "order": 837,
+    "sourceLines": [
+      1180
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-9-phan-1-.txt",
+        "line": 42,
+        "text": "金属が腐食する"
+      }
+    ]
+  },
+  {
+    "japanese": "陳腐な表現",
+    "order": 838,
+    "sourceLines": [
+      1181
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-9-phan-1-.txt",
+        "line": 43,
+        "text": "陳腐な表現"
+      }
+    ]
+  },
+  {
+    "japanese": "豆腐",
+    "order": 839,
+    "sourceLines": [
+      1182
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-9-phan-1-.txt",
+        "line": 44,
+        "text": "豆腐"
+      }
+    ]
+  },
+  {
+    "japanese": "廃れた商店街",
+    "order": 840,
+    "sourceLines": [
+      1185
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-9-phan-1-.txt",
+        "line": 51,
+        "text": "廃れた商店街"
+      }
+    ]
+  },
+  {
+    "japanese": "荷物を女性に持たせるなんて、男が廃る",
+    "order": 841,
+    "sourceLines": [
+      1186
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-9-phan-1-.txt",
+        "line": 52,
+        "text": "荷物を女性に持たせるなんて、男が廃る"
+      }
+    ]
+  },
+  {
+    "japanese": "戦争で国土が荒廃する",
+    "order": 842,
+    "sourceLines": [
+      1187
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-9-phan-1-.txt",
+        "line": 53,
+        "text": "戦争で国土が荒廃する"
+      }
+    ]
+  },
+  {
+    "japanese": "死刑制度を廃止する",
+    "order": 843,
+    "sourceLines": [
+      1188
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-9-phan-1-.txt",
+        "line": 54,
+        "text": "死刑制度を廃止する"
+      }
+    ]
+  },
+  {
+    "japanese": "先生に薦められて買った辞書",
+    "order": 844,
+    "sourceLines": [
+      1191
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-9-phan-1-.txt",
+        "line": 60,
+        "text": "先生に薦められて買った辞書"
+      }
+    ]
+  },
+  {
+    "japanese": "実績のある君の推薦ですから、きっと信頼できる人ですね。",
+    "order": 845,
+    "sourceLines": [
+      1192
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-9-phan-1-.txt",
+        "line": 61,
+        "text": "実績のある君の推薦ですから、きっと信頼できる人ですね。"
+      }
+    ]
+  },
+  {
+    "japanese": "結婚、出産と慶事が続く",
+    "order": 846,
+    "sourceLines": [
+      1195
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-9-phan-1-.txt",
+        "line": 66,
+        "text": "結婚、出産と慶事が続く"
+      }
+    ]
+  },
+  {
+    "japanese": "会社の慶弔休暇",
+    "order": 847,
+    "sourceLines": [
+      1196
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-9-phan-1-.txt",
+        "line": 67,
+        "text": "会社の慶弔休暇"
+      }
+    ]
+  },
+  {
+    "japanese": "写真撮影は遠慮してください。",
+    "order": 848,
+    "sourceLines": [
+      1199
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-9-phan-1-.txt",
+        "line": 72,
+        "text": "写真撮影は遠慮してください。"
+      }
+    ]
+  },
+  {
+    "japanese": "相手の立場を考慮する",
+    "order": 849,
+    "sourceLines": [
+      1200
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-9-phan-1-.txt",
+        "line": 73,
+        "text": "相手の立場を考慮する"
+      }
+    ]
+  },
+  {
+    "japanese": "配慮が行き届いた施設",
+    "order": 850,
+    "sourceLines": [
+      1201
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-9-phan-1-.txt",
+        "line": 74,
+        "text": "配慮が行き届いた施設"
+      }
+    ]
+  },
+  {
+    "japanese": "高齢者に多い不慮の事故",
+    "order": 851,
+    "sourceLines": [
+      1202
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-9-phan-1-.txt",
+        "line": 75,
+        "text": "高齢者に多い不慮の事故"
+      }
+    ]
+  },
+  {
+    "japanese": "皮膚が赤く腫れる",
+    "order": 852,
+    "sourceLines": [
+      1205
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-9-phan-1-.txt",
+        "line": 80,
+        "text": "皮膚が赤く腫れる"
+      }
+    ]
+  },
+  {
+    "japanese": "皮膚科",
+    "order": 853,
+    "sourceLines": [
+      1206
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-9-phan-1-.txt",
+        "line": 81,
+        "text": "皮膚科"
+      }
+    ]
+  },
+  {
+    "japanese": "児童虐待・動物虐待",
+    "order": 854,
+    "sourceLines": [
+      1209
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-9-phan-1-.txt",
+        "line": 87,
+        "text": "児童虐待・動物虐待"
+      }
+    ]
+  },
+  {
+    "japanese": "戦争で虐殺が行われる",
+    "order": 855,
+    "sourceLines": [
+      1210
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-9-phan-1-.txt",
+        "line": 88,
+        "text": "戦争で虐殺が行われる"
+      }
+    ]
+  },
+  {
+    "japanese": "空虚な日々",
+    "order": 856,
+    "sourceLines": [
+      1213
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-9-phan-1-.txt",
+        "line": 93,
+        "text": "空虚な日々"
+      }
+    ]
+  },
+  {
+    "japanese": "虚偽の証言",
+    "order": 857,
+    "sourceLines": [
+      1214
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-9-phan-1-.txt",
+        "line": 94,
+        "text": "虚偽の証言"
+      }
+    ]
+  },
+  {
+    "japanese": "虚空を見つめる",
+    "order": 858,
+    "sourceLines": [
+      1215
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-9-phan-1-.txt",
+        "line": 95,
+        "text": "虚空を見つめる"
+      }
+    ]
+  },
+  {
+    "japanese": "ライオンの牙",
+    "order": 859,
+    "sourceLines": [
+      1218
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-9-phan-1-.txt",
+        "line": 103,
+        "text": "ライオンの牙"
+      }
+    ]
+  },
+  {
+    "japanese": "象牙",
+    "order": 860,
+    "sourceLines": [
+      1219
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-9-phan-1-.txt",
+        "line": 104,
+        "text": "象牙"
+      }
+    ]
+  },
+  {
+    "japanese": "高級マンションで優雅に暮らす",
+    "order": 861,
+    "sourceLines": [
+      1222
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-9-phan-1-.txt",
+        "line": 109,
+        "text": "高級マンションで優雅に暮らす"
+      }
+    ]
+  },
+  {
+    "japanese": "優雅な人",
+    "order": 862,
+    "sourceLines": [
+      1223
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-9-phan-1-.txt",
+        "line": 110,
+        "text": "優雅な人"
+      }
+    ]
+  },
+  {
+    "japanese": "邪悪の心",
+    "order": 863,
+    "sourceLines": [
+      1226
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-9-phan-1-.txt",
+        "line": 115,
+        "text": "邪悪の心"
+      }
+    ]
+  },
+  {
+    "japanese": "勉強の邪魔をする",
+    "order": 864,
+    "sourceLines": [
+      1227
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-9-phan-1-.txt",
+        "line": 116,
+        "text": "勉強の邪魔をする"
+      }
+    ]
+  },
+  {
+    "japanese": "無邪気な人",
+    "order": 865,
+    "sourceLines": [
+      1228
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-9-phan-1-.txt",
+        "line": 117,
+        "text": "無邪気な人"
+      }
+    ]
+  },
+  {
+    "japanese": "お邪魔します",
+    "order": 866,
+    "sourceLines": [
+      1229
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-9-phan-1-.txt",
+        "line": 118,
+        "text": "お邪魔します"
+      }
+    ]
+  },
+  {
+    "japanese": "木の芽が出る",
+    "order": 867,
+    "sourceLines": [
+      1232
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-9-phan-1-.txt",
+        "line": 124,
+        "text": "木の芽が出る"
+      }
+    ]
+  },
+  {
+    "japanese": "恋が芽生える",
+    "order": 868,
+    "sourceLines": [
+      1233
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-9-phan-1-.txt",
+        "line": 125,
+        "text": "恋が芽生える"
+      }
+    ]
+  },
+  {
+    "japanese": "この木も芽生え始めた",
+    "order": 869,
+    "sourceLines": [
+      1234
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-9-phan-1-.txt",
+        "line": 126,
+        "text": "この木も芽生え始めた"
+      }
+    ]
+  },
+  {
+    "japanese": "種が発芽する",
+    "order": 870,
+    "sourceLines": [
+      1235
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-9-phan-1-.txt",
+        "line": 127,
+        "text": "種が発芽する"
+      }
+    ]
+  },
+  {
+    "japanese": "自転車は既に盗まれていた",
+    "order": 871,
+    "sourceLines": [
+      1238
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-9-phan-1-.txt",
+        "line": 133,
+        "text": "自転車は既に盗まれていた"
+      }
+    ]
+  },
+  {
+    "japanese": "既婚（者）",
+    "order": 872,
+    "sourceLines": [
+      1239
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-9-phan-1-.txt",
+        "line": 134,
+        "text": "既婚（者）"
+      }
+    ]
+  },
+  {
+    "japanese": "既成の背広",
+    "order": 873,
+    "sourceLines": [
+      1240
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-9-phan-1-.txt",
+        "line": 135,
+        "text": "既成の背広"
+      }
+    ]
+  },
+  {
+    "japanese": "感慨深い思い出話",
+    "order": 874,
+    "sourceLines": [
+      1243
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-9-phan-1-.txt",
+        "line": 140,
+        "text": "感慨深い思い出話"
+      }
+    ]
+  },
+  {
+    "japanese": "不当な扱いに憤慨する",
+    "order": 875,
+    "sourceLines": [
+      1244
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-9-phan-1-.txt",
+        "line": 141,
+        "text": "不当な扱いに憤慨する"
+      }
+    ]
+  },
+  {
+    "japanese": "休日は大概、家にいる",
+    "order": 876,
+    "sourceLines": [
+      1247
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-9-phan-1-.txt",
+        "line": 146,
+        "text": "休日は大概、家にいる"
+      }
+    ]
+  },
+  {
+    "japanese": "朝食は大概パンだ",
+    "order": 877,
+    "sourceLines": [
+      1248
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-9-phan-1-.txt",
+        "line": 147,
+        "text": "朝食は大概パンだ"
+      }
+    ]
+  },
+  {
+    "japanese": "彼はスポーツ選手の既成概念を破り、どんどん自分でビジネスを展開していく",
+    "order": 878,
+    "sourceLines": [
+      1249
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-9-phan-1-.txt",
+        "line": 148,
+        "text": "彼はスポーツ選手の既成概念を破り、どんどん自分でビジネスを展開していく"
+      }
+    ]
+  },
+  {
+    "japanese": "Iphoneが一概にいいとは言えない",
+    "order": 879,
+    "sourceLines": [
+      1250
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-9-phan-1-.txt",
+        "line": 149,
+        "text": "Iphone が一概にいいとは言えない"
+      }
+    ]
+  },
+  {
+    "japanese": "経験/資金が乏しい",
+    "order": 880,
+    "sourceLines": [
+      1253
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-9-phan-1-.txt",
+        "line": 155,
+        "text": "経験/資金が乏しい"
+      }
+    ]
+  },
+  {
+    "japanese": "貧乏な生活",
+    "order": 881,
+    "sourceLines": [
+      1254
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-9-phan-1-.txt",
+        "line": 156,
+        "text": "貧乏な生活"
+      }
+    ]
+  },
+  {
+    "japanese": "ビタミンが欠乏する",
+    "order": 882,
+    "sourceLines": [
+      1255
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-9-phan-1-.txt",
+        "line": 157,
+        "text": "ビタミンが欠乏する"
+      }
+    ]
+  },
+  {
+    "japanese": "庭に芝を植える",
+    "order": 883,
+    "sourceLines": [
+      1258
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-9-phan-1-.txt",
+        "line": 162,
+        "text": "庭に芝を植える"
+      }
+    ]
+  },
+  {
+    "japanese": "芝生の手入れをする",
+    "order": 884,
+    "sourceLines": [
+      1259
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-9-phan-1-.txt",
+        "line": 163,
+        "text": "芝生の手入れをする"
+      }
+    ]
+  },
+  {
+    "japanese": "芝居を観に行く",
+    "order": 885,
+    "sourceLines": [
+      1260
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-9-phan-1-.txt",
+        "line": 164,
+        "text": "芝居を観に行く"
+      }
+    ]
+  },
+  {
+    "japanese": "隣の芝生はいつも青い",
+    "order": 886,
+    "sourceLines": [
+      1261
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-9-phan-1-.txt",
+        "line": 165,
+        "text": "隣の芝生はいつも青い"
+      }
+    ]
+  },
+  {
+    "japanese": "若葉が青々と茂る",
+    "order": 887,
+    "sourceLines": [
+      1264
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-9-phan-1-.txt",
+        "line": 170,
+        "text": "若葉が青々と茂る"
+      }
+    ]
+  },
+  {
+    "japanese": "霧が濃い",
+    "order": 888,
+    "sourceLines": [
+      1267
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-9-phan-1-.txt",
+        "line": 178,
+        "text": "霧が濃い"
+      }
+    ]
+  },
+  {
+    "japanese": "霧に包まれた都市",
+    "order": 889,
+    "sourceLines": [
+      1268
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-9-phan-1-.txt",
+        "line": 179,
+        "text": "霧に包まれた都市"
+      }
+    ]
+  },
+  {
+    "japanese": "霜が降りる",
+    "order": 890,
+    "sourceLines": [
+      1271
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-9-phan-1-.txt",
+        "line": 184,
+        "text": "霜が降りる"
+      }
+    ]
+  },
+  {
+    "japanese": "真っ白な窓霜",
+    "order": 891,
+    "sourceLines": [
+      1272
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-9-phan-1-.txt",
+        "line": 185,
+        "text": "真っ白な窓霜"
+      }
+    ]
+  },
+  {
+    "japanese": "霜柱ができる",
+    "order": 892,
+    "sourceLines": [
+      1273
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-9-phan-1-.txt",
+        "line": 186,
+        "text": "霜柱ができる"
+      }
+    ]
+  },
+  {
+    "japanese": "草が露で濡れている",
+    "order": 893,
+    "sourceLines": [
+      1276
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-9-phan-1-.txt",
+        "line": 192,
+        "text": "草が露で濡れている"
+      }
+    ]
+  },
+  {
+    "japanese": "肌を露出した服",
+    "order": 894,
+    "sourceLines": [
+      1277
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-9-phan-1-.txt",
+        "line": 193,
+        "text": "肌を露出した服"
+      }
+    ]
+  },
+  {
+    "japanese": "悪事を暴露する",
+    "order": 895,
+    "sourceLines": [
+      1278
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-9-phan-1-.txt",
+        "line": 194,
+        "text": "悪事を暴露する"
+      }
+    ]
+  },
+  {
+    "japanese": "不機嫌を露骨に顔に出す",
+    "order": 896,
+    "sourceLines": [
+      1279
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-9-phan-1-.txt",
+        "line": 195,
+        "text": "不機嫌を露骨に顔に出す"
+      }
+    ]
+  },
+  {
+    "japanese": "結婚披露宴",
+    "order": 897,
+    "sourceLines": [
+      1280
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-9-phan-1-.txt",
+        "line": 196,
+        "text": "結婚披露宴"
+      }
+    ]
+  },
+  {
+    "japanese": "今日は曇りのち晴れ",
+    "order": 898,
+    "sourceLines": [
+      1283
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-9-phan-1-.txt",
+        "line": 202,
+        "text": "今日は曇りのち晴れ"
+      }
+    ]
+  },
+  {
+    "japanese": "ガラスが曇る",
+    "order": 899,
+    "sourceLines": [
+      1284
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-9-phan-1-.txt",
+        "line": 203,
+        "text": "ガラスが曇る"
+      }
+    ]
+  },
+  {
+    "japanese": "不安で顔が曇る",
+    "order": 900,
+    "sourceLines": [
+      1285
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-9-phan-1-.txt",
+        "line": 204,
+        "text": "不安で顔が曇る"
+      }
+    ]
+  },
+  {
+    "japanese": "メガネが曇る",
+    "order": 901,
+    "sourceLines": [
+      1286
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-9-phan-1-.txt",
+        "line": 205,
+        "text": "メガネが曇る"
+      }
+    ]
+  },
+  {
+    "japanese": "曇天の午後",
+    "order": 902,
+    "sourceLines": [
+      1287
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-9-phan-1-.txt",
+        "line": 206,
+        "text": "曇天の午後"
+      }
+    ]
+  },
+  {
+    "japanese": "おしゃれな雰囲気",
+    "order": 903,
+    "sourceLines": [
+      1290
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-9-phan-1-.txt",
+        "line": 211,
+        "text": "おしゃれな雰囲気"
+      }
+    ]
+  },
+  {
+    "japanese": "この会社の雰囲気になじめない",
+    "order": 904,
+    "sourceLines": [
+      1291
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-9-phan-1-.txt",
+        "line": 212,
+        "text": "この会社の雰囲気になじめない"
+      }
+    ]
+  },
+  {
+    "japanese": "雨漏りがひどい",
+    "order": 905,
+    "sourceLines": [
+      1294
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-9-phan-1-.txt",
+        "line": 218,
+        "text": "雨漏りがひどい"
+      }
+    ]
+  },
+  {
+    "japanese": "ガスが漏れる",
+    "order": 906,
+    "sourceLines": [
+      1295
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-9-phan-1-.txt",
+        "line": 219,
+        "text": "ガスが漏れる"
+      }
+    ]
+  },
+  {
+    "japanese": "試験問題が外部に漏れる",
+    "order": 907,
+    "sourceLines": [
+      1296
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-9-phan-1-.txt",
+        "line": 220,
+        "text": "試験問題が外部に漏れる"
+      }
+    ]
+  },
+  {
+    "japanese": "おしっこ/ため息/秘密を漏らす",
+    "order": 908,
+    "sourceLines": [
+      1297
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-9-phan-1-.txt",
+        "line": 221,
+        "text": "おしっこ/ため息/秘密を漏らす"
+      }
+    ]
+  },
+  {
+    "japanese": "朱色",
+    "order": 909,
+    "sourceLines": [
+      1300
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-9-phan-1-.txt",
+        "line": 226,
+        "text": "朱色"
+      }
+    ]
+  },
+  {
+    "japanese": "朱塗りの茶碗",
+    "order": 910,
+    "sourceLines": [
+      1301
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-9-phan-1-.txt",
+        "line": 227,
+        "text": "朱塗りの茶碗"
+      }
+    ]
+  },
+  {
+    "japanese": "印鑑と朱肉",
+    "order": 911,
+    "sourceLines": [
+      1302
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-9-phan-1-.txt",
+        "line": 228,
+        "text": "印鑑と朱肉"
+      }
+    ]
+  },
+  {
+    "japanese": "特殊な能力",
+    "order": 912,
+    "sourceLines": [
+      1305
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-9-phan-1-.txt",
+        "line": 234,
+        "text": "特殊な能力"
+      }
+    ]
+  },
+  {
+    "japanese": "この景色は素晴らしいが、殊に夕暮れがいい",
+    "order": 913,
+    "sourceLines": [
+      1306
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-9-phan-1-.txt",
+        "line": 235,
+        "text": "この景色は素晴らしいが、殊に夕暮れがいい"
+      }
+    ]
+  },
+  {
+    "japanese": "芽が出てから間もない、草や花のことを苗といいます",
+    "order": 914,
+    "sourceLines": [
+      1309
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-9-phan-1-.txt",
+        "line": 241,
+        "text": "芽が出てから間もない、草や花のことを苗といいます"
+      }
+    ]
+  },
+  {
+    "japanese": "苗を育てる",
+    "order": 915,
+    "sourceLines": [
+      1310
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-9-phan-1-.txt",
+        "line": 242,
+        "text": "苗を育てる"
+      }
+    ]
+  },
+  {
+    "japanese": "苗字",
+    "order": 916,
+    "sourceLines": [
+      1311
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-9-phan-1-.txt",
+        "line": 243,
+        "text": "苗字"
+      }
+    ]
+  },
+  {
+    "japanese": "笛を吹く審判",
+    "order": 917,
+    "sourceLines": [
+      1314
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-9-phan-1-.txt",
+        "line": 249,
+        "text": "笛を吹く審判"
+      }
+    ]
+  },
+  {
+    "japanese": "口笛を吹く",
+    "order": 918,
+    "sourceLines": [
+      1315
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-9-phan-1-.txt",
+        "line": 250,
+        "text": "口笛を吹く"
+      }
+    ]
+  },
+  {
+    "japanese": "電車が警笛を鳴らしてホームに入る",
+    "order": 919,
+    "sourceLines": [
+      1316
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-9-phan-1-.txt",
+        "line": 251,
+        "text": "電車が警笛を鳴らしてホームに入る"
+      }
+    ]
+  }
+]

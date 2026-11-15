@@ -1,0 +1,1442 @@
+[
+  {
+    "japanese": "政府は格差問題の是正にむけて、様々な政策を打ち出した。",
+    "order": 920,
+    "sourceLines": [
+      1317
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-10-phan-1-.txt",
+        "line": 8,
+        "text": "政府は格差問題の是正にむけて、様々な政策を打ち出した。"
+      }
+    ]
+  },
+  {
+    "japanese": "新商品が出ました。是非、ご購入ください。",
+    "order": 921,
+    "sourceLines": [
+      1318
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-10-phan-1-.txt",
+        "line": 9,
+        "text": "新商品が出ました。是非、ご購入ください。"
+      }
+    ]
+  },
+  {
+    "japanese": "書類を提出する",
+    "order": 922,
+    "sourceLines": [
+      1321
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-10-phan-1-.txt",
+        "line": 15,
+        "text": "書類を提出する"
+      }
+    ]
+  },
+  {
+    "japanese": "具体策を提案する",
+    "order": 923,
+    "sourceLines": [
+      1322
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-10-phan-1-.txt",
+        "line": 16,
+        "text": "具体策を提案する"
+      }
+    ]
+  },
+  {
+    "japanese": "かばんを肩から提げる",
+    "order": 924,
+    "sourceLines": [
+      1323
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-10-phan-1-.txt",
+        "line": 17,
+        "text": "かばんを肩から提げる"
+      }
+    ]
+  },
+  {
+    "japanese": "結婚を前提に付き合う",
+    "order": 925,
+    "sourceLines": [
+      1324
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-10-phan-1-.txt",
+        "line": 18,
+        "text": "結婚を前提に付き合う"
+      }
+    ]
+  },
+  {
+    "japanese": "A社とB社が業務提携を結ぶ。",
+    "order": 926,
+    "sourceLines": [
+      1325
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-10-phan-1-.txt",
+        "line": 19,
+        "text": "A 社と B 社が業務提携を結ぶ。"
+      }
+    ]
+  },
+  {
+    "japanese": "仕事で何か問題があったら、すぐに問題提起することが大切",
+    "order": 927,
+    "sourceLines": [
+      1326
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-10-phan-1-.txt",
+        "line": 20,
+        "text": "仕事で何か問題があったら、すぐに問題提起することが大切"
+      }
+    ]
+  },
+  {
+    "japanese": "堤防沿いを散策する",
+    "order": 928,
+    "sourceLines": [
+      1329
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-10-phan-1-.txt",
+        "line": 26,
+        "text": "堤防沿いを散策する"
+      }
+    ]
+  },
+  {
+    "japanese": "防波堤",
+    "order": 929,
+    "sourceLines": [
+      1330
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-10-phan-1-.txt",
+        "line": 27,
+        "text": "防波堤"
+      }
+    ]
+  },
+  {
+    "japanese": "働きすぎは体に障る",
+    "order": 930,
+    "sourceLines": [
+      1333
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-10-phan-1-.txt",
+        "line": 33,
+        "text": "働きすぎは体に障る"
+      }
+    ]
+  },
+  {
+    "japanese": "気に障る",
+    "order": 931,
+    "sourceLines": [
+      1334
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-10-phan-1-.txt",
+        "line": 34,
+        "text": "気に障る"
+      }
+    ]
+  },
+  {
+    "japanese": "耳障りな音",
+    "order": 932,
+    "sourceLines": [
+      1335
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-10-phan-1-.txt",
+        "line": 35,
+        "text": "耳障りな音"
+      }
+    ]
+  },
+  {
+    "japanese": "当たり障りのない（言葉/人）",
+    "order": 933,
+    "sourceLines": [
+      1336
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-10-phan-1-.txt",
+        "line": 36,
+        "text": "当たり障りのない（言葉/人）"
+      }
+    ]
+  },
+  {
+    "japanese": "国家の安全を保障する",
+    "order": 934,
+    "sourceLines": [
+      1337
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-10-phan-1-.txt",
+        "line": 37,
+        "text": "国家の安全を保障する"
+      }
+    ]
+  },
+  {
+    "japanese": "障害を乗り越える",
+    "order": 935,
+    "sourceLines": [
+      1338
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-10-phan-1-.txt",
+        "line": 38,
+        "text": "障害を乗り越える"
+      }
+    ]
+  },
+  {
+    "japanese": "ノーベル賞を取りで表彰される",
+    "order": 936,
+    "sourceLines": [
+      1341
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-10-phan-1-.txt",
+        "line": 43,
+        "text": "ノーベル賞を取りで表彰される"
+      }
+    ]
+  },
+  {
+    "japanese": "表彰状を授与する",
+    "order": 937,
+    "sourceLines": [
+      1342
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-10-phan-1-.txt",
+        "line": 44,
+        "text": "表彰状を授与する"
+      }
+    ]
+  },
+  {
+    "japanese": "模擬試験を受ける",
+    "order": 938,
+    "sourceLines": [
+      1345
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-10-phan-1-.txt",
+        "line": 49,
+        "text": "模擬試験を受ける"
+      }
+    ]
+  },
+  {
+    "japanese": "擬音語",
+    "order": 939,
+    "sourceLines": [
+      1346
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-10-phan-1-.txt",
+        "line": 50,
+        "text": "擬音語"
+      }
+    ]
+  },
+  {
+    "japanese": "擬態語",
+    "order": 940,
+    "sourceLines": [
+      1347
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-10-phan-1-.txt",
+        "line": 51,
+        "text": "擬態語"
+      }
+    ]
+  },
+  {
+    "japanese": "肩が凝る",
+    "order": 941,
+    "sourceLines": [
+      1350
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-10-phan-1-.txt",
+        "line": 57,
+        "text": "肩が凝る"
+      }
+    ]
+  },
+  {
+    "japanese": "ゴルフに凝る",
+    "order": 942,
+    "sourceLines": [
+      1351
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-10-phan-1-.txt",
+        "line": 58,
+        "text": "ゴルフに凝る"
+      }
+    ]
+  },
+  {
+    "japanese": "工夫を凝らす",
+    "order": 943,
+    "sourceLines": [
+      1352
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-10-phan-1-.txt",
+        "line": 59,
+        "text": "工夫を凝らす"
+      }
+    ]
+  },
+  {
+    "japanese": "デザインが凝っている",
+    "order": 944,
+    "sourceLines": [
+      1353
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-10-phan-1-.txt",
+        "line": 60,
+        "text": "デザインが凝っている"
+      }
+    ]
+  },
+  {
+    "japanese": "作者の思いが凝縮された本",
+    "order": 945,
+    "sourceLines": [
+      1354
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-10-phan-1-.txt",
+        "line": 61,
+        "text": "作者の思いが凝縮された本"
+      }
+    ]
+  },
+  {
+    "japanese": "相手を凝視する",
+    "order": 946,
+    "sourceLines": [
+      1355
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-10-phan-1-.txt",
+        "line": 62,
+        "text": "相手を凝視する"
+      }
+    ]
+  },
+  {
+    "japanese": "現状把握",
+    "order": 947,
+    "sourceLines": [
+      1358
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-10-phan-1-.txt",
+        "line": 67,
+        "text": "現状把握"
+      }
+    ]
+  },
+  {
+    "japanese": "良く肥えた豚",
+    "order": 948,
+    "sourceLines": [
+      1361
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-10-phan-1-.txt",
+        "line": 74,
+        "text": "良く肥えた豚"
+      }
+    ]
+  },
+  {
+    "japanese": "長年面接官をやっていると人を見る目が肥える",
+    "order": 949,
+    "sourceLines": [
+      1362
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-10-phan-1-.txt",
+        "line": 75,
+        "text": "長年面接官をやっていると人を見る目が肥える"
+      }
+    ]
+  },
+  {
+    "japanese": "畑を肥やす",
+    "order": 950,
+    "sourceLines": [
+      1363
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-10-phan-1-.txt",
+        "line": 76,
+        "text": "畑を肥やす"
+      }
+    ]
+  },
+  {
+    "japanese": "肥料",
+    "order": 951,
+    "sourceLines": [
+      1364
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-10-phan-1-.txt",
+        "line": 77,
+        "text": "肥料"
+      }
+    ]
+  },
+  {
+    "japanese": "肥満体",
+    "order": 952,
+    "sourceLines": [
+      1365
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-10-phan-1-.txt",
+        "line": 78,
+        "text": "肥満体"
+      }
+    ]
+  },
+  {
+    "japanese": "漫画",
+    "order": 953,
+    "sourceLines": [
+      1368
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-10-phan-1-.txt",
+        "line": 83,
+        "text": "漫画"
+      }
+    ]
+  },
+  {
+    "japanese": "注意力が散漫だ",
+    "order": 954,
+    "sourceLines": [
+      1369
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-10-phan-1-.txt",
+        "line": 84,
+        "text": "注意力が散漫だ"
+      }
+    ]
+  },
+  {
+    "japanese": "高級時計を自慢する",
+    "order": 955,
+    "sourceLines": [
+      1372
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-10-phan-1-.txt",
+        "line": 89,
+        "text": "高級時計を自慢する"
+      }
+    ]
+  },
+  {
+    "japanese": "傲慢な人",
+    "order": 956,
+    "sourceLines": [
+      1373
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-10-phan-1-.txt",
+        "line": 90,
+        "text": "傲慢な人"
+      }
+    ]
+  },
+  {
+    "japanese": "我慢強い性格",
+    "order": 957,
+    "sourceLines": [
+      1374
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-10-phan-1-.txt",
+        "line": 91,
+        "text": "我慢強い性格"
+      }
+    ]
+  },
+  {
+    "japanese": "慢性の病気",
+    "order": 958,
+    "sourceLines": [
+      1375
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-10-phan-1-.txt",
+        "line": 92,
+        "text": "慢性の病気"
+      }
+    ]
+  },
+  {
+    "japanese": "コロナの影響でキャンパスが閑散としている",
+    "order": 959,
+    "sourceLines": [
+      1378
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-10-phan-1-.txt",
+        "line": 99,
+        "text": "コロナの影響でキャンパスが閑散としている"
+      }
+    ]
+  },
+  {
+    "japanese": "農閑期",
+    "order": 960,
+    "sourceLines": [
+      1379
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-10-phan-1-.txt",
+        "line": 100,
+        "text": "農閑期"
+      }
+    ]
+  },
+  {
+    "japanese": "雨で田畑が潤う",
+    "order": 961,
+    "sourceLines": [
+      1382
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-10-phan-1-.txt",
+        "line": 107,
+        "text": "雨で田畑が潤う"
+      }
+    ]
+  },
+  {
+    "japanese": "増税効果で財政が潤う",
+    "order": 962,
+    "sourceLines": [
+      1383
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-10-phan-1-.txt",
+        "line": 108,
+        "text": "増税効果で財政が潤う"
+      }
+    ]
+  },
+  {
+    "japanese": "ビールを飲んで喉を潤す",
+    "order": 963,
+    "sourceLines": [
+      1384
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-10-phan-1-.txt",
+        "line": 109,
+        "text": "ビールを飲んで喉を潤す"
+      }
+    ]
+  },
+  {
+    "japanese": "潤沢な資金",
+    "order": 965,
+    "sourceLines": [
+      1386
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-10-phan-1-.txt",
+        "line": 111,
+        "text": "潤沢な資金"
+      }
+    ]
+  },
+  {
+    "japanese": "橋の欄干で写真を撮る",
+    "order": 966,
+    "sourceLines": [
+      1389
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-10-phan-1-.txt",
+        "line": 116,
+        "text": "橋の欄干で写真を撮る"
+      }
+    ]
+  },
+  {
+    "japanese": "解答欄に記入する",
+    "order": 967,
+    "sourceLines": [
+      1390
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-10-phan-1-.txt",
+        "line": 117,
+        "text": "解答欄に記入する"
+      }
+    ]
+  },
+  {
+    "japanese": "新聞のテレビ欄を見る",
+    "order": 968,
+    "sourceLines": [
+      1391
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-10-phan-1-.txt",
+        "line": 118,
+        "text": "新聞のテレビ欄を見る"
+      }
+    ]
+  },
+  {
+    "japanese": "出版物の検閲",
+    "order": 969,
+    "sourceLines": [
+      1394
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-10-phan-1-.txt",
+        "line": 123,
+        "text": "出版物の検閲"
+      }
+    ]
+  },
+  {
+    "japanese": "レポート作成のために、偉人のことが書かれた書物を閲覧する",
+    "order": 970,
+    "sourceLines": [
+      1395
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-10-phan-1-.txt",
+        "line": 124,
+        "text": "レポート作成のために、偉人のことが書かれた書物を閲覧する"
+      }
+    ]
+  },
+  {
+    "japanese": "暗闇",
+    "order": 971,
+    "sourceLines": [
+      1398
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-10-phan-1-.txt",
+        "line": 129,
+        "text": "暗闇"
+      }
+    ]
+  },
+  {
+    "japanese": "闇に閉ざされた世界",
+    "order": 972,
+    "sourceLines": [
+      1399
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-10-phan-1-.txt",
+        "line": 130,
+        "text": "闇に閉ざされた世界"
+      }
+    ]
+  },
+  {
+    "japanese": "犯人の心の闇を探る",
+    "order": 973,
+    "sourceLines": [
+      1400
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-10-phan-1-.txt",
+        "line": 131,
+        "text": "犯人の心の闇を探る"
+      }
+    ]
+  },
+  {
+    "japanese": "病気と闘う",
+    "order": 974,
+    "sourceLines": [
+      1403
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-10-phan-1-.txt",
+        "line": 137,
+        "text": "病気と闘う"
+      }
+    ]
+  },
+  {
+    "japanese": "闘病の末に亡くなりました",
+    "order": 975,
+    "sourceLines": [
+      1404
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-10-phan-1-.txt",
+        "line": 138,
+        "text": "闘病の末に亡くなりました"
+      }
+    ]
+  },
+  {
+    "japanese": "闘争心の強い人",
+    "order": 976,
+    "sourceLines": [
+      1405
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-10-phan-1-.txt",
+        "line": 139,
+        "text": "闘争心の強い人"
+      }
+    ]
+  },
+  {
+    "japanese": "問題解決のために奮闘する",
+    "order": 977,
+    "sourceLines": [
+      1406
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-10-phan-1-.txt",
+        "line": 140,
+        "text": "問題解決のために奮闘する"
+      }
+    ]
+  },
+  {
+    "japanese": "党内に複数の派閥がある",
+    "order": 978,
+    "sourceLines": [
+      1409
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-10-phan-1-.txt",
+        "line": 145,
+        "text": "党内に複数の派閥がある"
+      }
+    ]
+  },
+  {
+    "japanese": "財閥",
+    "order": 979,
+    "sourceLines": [
+      1410
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-10-phan-1-.txt",
+        "line": 146,
+        "text": "財閥"
+      }
+    ]
+  },
+  {
+    "japanese": "あのメーカーは10個の販売店に商品を卸している",
+    "order": 980,
+    "sourceLines": [
+      1413
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-10-phan-1-.txt",
+        "line": 151,
+        "text": "あのメーカーは１０個の販売店に商品を卸している"
+      }
+    ]
+  },
+  {
+    "japanese": "卸値",
+    "order": 981,
+    "sourceLines": [
+      1414
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-10-phan-1-.txt",
+        "line": 152,
+        "text": "卸値"
+      }
+    ]
+  },
+  {
+    "japanese": "使用後の食器は返却口へお戻しください",
+    "order": 982,
+    "sourceLines": [
+      1417
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-10-phan-1-.txt",
+        "line": 157,
+        "text": "使用後の食器は返却口へお戻しください"
+      }
+    ]
+  },
+  {
+    "japanese": "ごみの焼却施設",
+    "order": 983,
+    "sourceLines": [
+      1418
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-10-phan-1-.txt",
+        "line": 158,
+        "text": "ごみの焼却施設"
+      }
+    ]
+  },
+  {
+    "japanese": "提案を上司に却下される",
+    "order": 984,
+    "sourceLines": [
+      1419
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-10-phan-1-.txt",
+        "line": 159,
+        "text": "提案を上司に却下される"
+      }
+    ]
+  },
+  {
+    "japanese": "忘却曲線",
+    "order": 985,
+    "sourceLines": [
+      1420
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-10-phan-1-.txt",
+        "line": 160,
+        "text": "忘却曲線"
+      }
+    ]
+  },
+  {
+    "japanese": "職人が巧みな技術を披露する",
+    "order": 986,
+    "sourceLines": [
+      1423
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-10-phan-1-.txt",
+        "line": 166,
+        "text": "職人が巧みな技術を披露する"
+      }
+    ]
+  },
+  {
+    "japanese": "精巧な作り",
+    "order": 987,
+    "sourceLines": [
+      1424
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-10-phan-1-.txt",
+        "line": 167,
+        "text": "精巧な作り"
+      }
+    ]
+  },
+  {
+    "japanese": "巧妙な詐欺の手口",
+    "order": 988,
+    "sourceLines": [
+      1425
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-10-phan-1-.txt",
+        "line": 168,
+        "text": "巧妙な詐欺の手口"
+      }
+    ]
+  },
+  {
+    "japanese": "大陸横断に成功する",
+    "order": 989,
+    "sourceLines": [
+      1428
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-10-phan-1-.txt",
+        "line": 173,
+        "text": "大陸横断に成功する"
+      }
+    ]
+  },
+  {
+    "japanese": "日本の歴史に多大な功績を残した",
+    "order": 990,
+    "sourceLines": [
+      1429
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-10-phan-1-.txt",
+        "line": 174,
+        "text": "日本の歴史に多大な功績を残した"
+      }
+    ]
+  },
+  {
+    "japanese": "年功序列",
+    "order": 991,
+    "sourceLines": [
+      1430
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-10-phan-1-.txt",
+        "line": 175,
+        "text": "年功序列"
+      }
+    ]
+  },
+  {
+    "japanese": "下肢に麻痺が残る",
+    "order": 992,
+    "sourceLines": [
+      1433
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-10-phan-1-.txt",
+        "line": 182,
+        "text": "下肢に麻痺が残る"
+      }
+    ]
+  },
+  {
+    "japanese": "選択肢",
+    "order": 993,
+    "sourceLines": [
+      1434
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-10-phan-1-.txt",
+        "line": 183,
+        "text": "選択肢"
+      }
+    ]
+  },
+  {
+    "japanese": "肘をついて食事をするのは失礼だ",
+    "order": 994,
+    "sourceLines": [
+      1437
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-10-phan-1-.txt",
+        "line": 188,
+        "text": "肘をついて食事をするのは失礼だ"
+      }
+    ]
+  },
+  {
+    "japanese": "肘の痛み",
+    "order": 995,
+    "sourceLines": [
+      1438
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-10-phan-1-.txt",
+        "line": 189,
+        "text": "肘の痛み"
+      }
+    ]
+  },
+  {
+    "japanese": "肘掛けいす",
+    "order": 996,
+    "sourceLines": [
+      1439
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-10-phan-1-.txt",
+        "line": 190,
+        "text": "肘掛けいす"
+      }
+    ]
+  },
+  {
+    "japanese": "胴が長い",
+    "order": 997,
+    "sourceLines": [
+      1442
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-10-phan-1-.txt",
+        "line": 195,
+        "text": "胴が長い"
+      }
+    ]
+  },
+  {
+    "japanese": "胴回りを測る",
+    "order": 998,
+    "sourceLines": [
+      1443
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-10-phan-1-.txt",
+        "line": 196,
+        "text": "胴回りを測る"
+      }
+    ]
+  },
+  {
+    "japanese": "監督を胴上げする",
+    "order": 999,
+    "sourceLines": [
+      1444
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-10-phan-1-.txt",
+        "line": 197,
+        "text": "監督を胴上げする"
+      }
+    ]
+  },
+  {
+    "japanese": "胃腸が弱い",
+    "order": 1000,
+    "sourceLines": [
+      1447
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-10-phan-1-.txt",
+        "line": 202,
+        "text": "胃腸が弱い"
+      }
+    ]
+  },
+  {
+    "japanese": "大腸",
+    "order": 1001,
+    "sourceLines": [
+      1448
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-10-phan-1-.txt",
+        "line": 203,
+        "text": "大腸"
+      }
+    ]
+  },
+  {
+    "japanese": "肺ガンになる",
+    "order": 1002,
+    "sourceLines": [
+      1451
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-10-phan-1-.txt",
+        "line": 208,
+        "text": "肺ガンになる"
+      }
+    ]
+  },
+  {
+    "japanese": "肺炎",
+    "order": 1003,
+    "sourceLines": [
+      1452
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-10-phan-1-.txt",
+        "line": 209,
+        "text": "肺炎"
+      }
+    ]
+  },
+  {
+    "japanese": "肺活量が多い",
+    "order": 1004,
+    "sourceLines": [
+      1453
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-10-phan-1-.txt",
+        "line": 210,
+        "text": "肺活量が多い"
+      }
+    ]
+  },
+  {
+    "japanese": "肝臓を悪くする",
+    "order": 1005,
+    "sourceLines": [
+      1456
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-10-phan-1-.txt",
+        "line": 216,
+        "text": "肝臓を悪くする"
+      }
+    ]
+  },
+  {
+    "japanese": "肝を冷やす",
+    "order": 1006,
+    "sourceLines": [
+      1457
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-10-phan-1-.txt",
+        "line": 217,
+        "text": "肝を冷やす"
+      }
+    ]
+  },
+  {
+    "japanese": "肝心なのは本人の気持ちだ",
+    "order": 1007,
+    "sourceLines": [
+      1458
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-10-phan-1-.txt",
+        "line": 218,
+        "text": "肝心なのは本人の気持ちだ"
+      }
+    ]
+  },
+  {
+    "japanese": "社長のそのお言葉、肝に銘じておきます",
+    "order": 1008,
+    "sourceLines": [
+      1459
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-10-phan-1-.txt",
+        "line": 219,
+        "text": "社長のそのお言葉、肝に銘じておきます"
+      }
+    ]
+  },
+  {
+    "japanese": "鼓膜が破れる",
+    "order": 1009,
+    "sourceLines": [
+      1462
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-10-phan-1-.txt",
+        "line": 224,
+        "text": "鼓膜が破れる"
+      }
+    ]
+  },
+  {
+    "japanese": "膜構造",
+    "order": 1010,
+    "sourceLines": [
+      1463
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-10-phan-1-.txt",
+        "line": 225,
+        "text": "膜構造"
+      }
+    ]
+  },
+  {
+    "japanese": "牛乳を温めると膜ができる",
+    "order": 1011,
+    "sourceLines": [
+      1464
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-10-phan-1-.txt",
+        "line": 226,
+        "text": "牛乳を温めると膜ができる"
+      }
+    ]
+  },
+  {
+    "japanese": "大胆不敵な行動",
+    "order": 1012,
+    "sourceLines": [
+      1467
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-10-phan-1-.txt",
+        "line": 231,
+        "text": "大胆不敵な行動"
+      }
+    ]
+  },
+  {
+    "japanese": "落胆のあまり寝込む",
+    "order": 1013,
+    "sourceLines": [
+      1468
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-10-phan-1-.txt",
+        "line": 232,
+        "text": "落胆のあまり寝込む"
+      }
+    ]
+  },
+  {
+    "japanese": "胆石",
+    "order": 1014,
+    "sourceLines": [
+      1469
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-10-phan-1-.txt",
+        "line": 233,
+        "text": "胆石"
+      }
+    ]
+  },
+  {
+    "japanese": "超音波で胎児を見る",
+    "order": 1015,
+    "sourceLines": [
+      1472
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-10-phan-1-.txt",
+        "line": 238,
+        "text": "超音波で胎児を見る"
+      }
+    ]
+  },
+  {
+    "japanese": "初めて子供の胎動を感じた",
+    "order": 1016,
+    "sourceLines": [
+      1473
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-10-phan-1-.txt",
+        "line": 239,
+        "text": "初めて子供の胎動を感じた"
+      }
+    ]
+  }
+]

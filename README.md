@@ -4,6 +4,17 @@ A mobile-first Japanese study deck built from an N1 preparation kanji workbook (
 
 2,266 example sentences. Tap a card to reveal furigana, tap again for the translation and a per-word breakdown. Swipe left/right to move through the deck.
 
+
+## Three decks
+
+| folder | deck | local port |
+|---|---|---|
+| `site/` | kanji — 2,266 sentences over 631 kanji | 4177 |
+| `site-goi/` | goi — 1,000 N1 words, tap for furigana then translation | 4181 |
+| `site-grammar/` | grammar — 101 N1 patterns, tap for meaning then examples | 4182 |
+
+Each deck has a 3-way switcher in the top bar (漢 / 語 / 文) plus its own admin sheet. All three share the same card shell (Qwik 1.20, Tailwind 4), swipe navigation, tap-to-reveal stages and local persistence.
+
 ## Views
 
 - **Lessons** — walk a lesson end to end; a completion screen offers the next lesson.

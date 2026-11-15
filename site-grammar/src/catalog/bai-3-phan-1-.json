@@ -1,0 +1,1607 @@
+[
+  {
+    "japanese": "主張を支える根拠",
+    "order": 212,
+    "sourceLines": [
+      243
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-3-phan-1-.txt",
+        "line": 8,
+        "text": "主張を支える根拠"
+      }
+    ]
+  },
+  {
+    "japanese": "貿易の拠点",
+    "order": 213,
+    "sourceLines": [
+      244
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-3-phan-1-.txt",
+        "line": 9,
+        "text": "貿易の拠点"
+      }
+    ]
+  },
+  {
+    "japanese": "民衆が広場を占拠する",
+    "order": 214,
+    "sourceLines": [
+      245
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-3-phan-1-.txt",
+        "line": 10,
+        "text": "民衆が広場を占拠する"
+      }
+    ]
+  },
+  {
+    "japanese": "犯人だという証拠を示す",
+    "order": 215,
+    "sourceLines": [
+      246
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-3-phan-1-.txt",
+        "line": 11,
+        "text": "犯人だという証拠を示す"
+      }
+    ]
+  },
+  {
+    "japanese": "自撮り",
+    "order": 216,
+    "sourceLines": [
+      247
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-3-phan-1-.txt",
+        "line": 17,
+        "text": "自撮り"
+      }
+    ]
+  },
+  {
+    "japanese": "動画撮影に最適な一眼カメラ",
+    "order": 217,
+    "sourceLines": [
+      248
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-3-phan-1-.txt",
+        "line": 18,
+        "text": "動画撮影に最適な一眼カメラ"
+      }
+    ]
+  },
+  {
+    "japanese": "卒業記念撮影",
+    "order": 218,
+    "sourceLines": [
+      249
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-3-phan-1-.txt",
+        "line": 19,
+        "text": "卒業記念撮影"
+      }
+    ]
+  },
+  {
+    "japanese": "景色を描く",
+    "order": 219,
+    "sourceLines": [
+      250
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-3-phan-1-.txt",
+        "line": 25,
+        "text": "景色を描く"
+      }
+    ]
+  },
+  {
+    "japanese": "ボールが弧を描いて飛ぶ",
+    "order": 220,
+    "sourceLines": [
+      251
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-3-phan-1-.txt",
+        "line": 26,
+        "text": "ボールが弧を描いて飛ぶ"
+      }
+    ]
+  },
+  {
+    "japanese": "幸せな生活を心に描く",
+    "order": 221,
+    "sourceLines": [
+      252
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-3-phan-1-.txt",
+        "line": 27,
+        "text": "幸せな生活を心に描く"
+      }
+    ]
+  },
+  {
+    "japanese": "地図を描く",
+    "order": 222,
+    "sourceLines": [
+      253
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-3-phan-1-.txt",
+        "line": 28,
+        "text": "地図を描く"
+      }
+    ]
+  },
+  {
+    "japanese": "細かい部分まで正確に描写する",
+    "order": 223,
+    "sourceLines": [
+      254
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-3-phan-1-.txt",
+        "line": 29,
+        "text": "細かい部分まで正確に描写する"
+      }
+    ]
+  },
+  {
+    "japanese": "栄養を摂取する",
+    "order": 224,
+    "sourceLines": [
+      255
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-3-phan-1-.txt",
+        "line": 34,
+        "text": "栄養を摂取する"
+      }
+    ]
+  },
+  {
+    "japanese": "健康のために摂生を心がける",
+    "order": 225,
+    "sourceLines": [
+      256
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-3-phan-1-.txt",
+        "line": 35,
+        "text": "健康のために摂生を心がける"
+      }
+    ]
+  },
+  {
+    "japanese": "マッチを擦る",
+    "order": 226,
+    "sourceLines": [
+      257
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-3-phan-1-.txt",
+        "line": 41,
+        "text": "マッチを擦る"
+      }
+    ]
+  },
+  {
+    "japanese": "賭け事でお金を擦る",
+    "order": 227,
+    "sourceLines": [
+      258
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-3-phan-1-.txt",
+        "line": 42,
+        "text": "賭け事でお金を擦る"
+      }
+    ]
+  },
+  {
+    "japanese": "擦り傷",
+    "order": 228,
+    "sourceLines": [
+      259
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-3-phan-1-.txt",
+        "line": 43,
+        "text": "擦り傷"
+      }
+    ]
+  },
+  {
+    "japanese": "ズボンの裾が擦れる",
+    "order": 229,
+    "sourceLines": [
+      260
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-3-phan-1-.txt",
+        "line": 44,
+        "text": "ズボンの裾が擦れる"
+      }
+    ]
+  },
+  {
+    "japanese": "摩擦で火をおこす",
+    "order": 230,
+    "sourceLines": [
+      261
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-3-phan-1-.txt",
+        "line": 45,
+        "text": "摩擦で火をおこす"
+      }
+    ]
+  },
+  {
+    "japanese": "挨拶はコミュニケーションの基本です",
+    "order": 231,
+    "sourceLines": [
+      262
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-3-phan-1-.txt",
+        "line": 50,
+        "text": "挨拶はコミュニケーションの基本です"
+      }
+    ]
+  },
+  {
+    "japanese": "時候の挨拶を述べる",
+    "order": 232,
+    "sourceLines": [
+      263
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-3-phan-1-.txt",
+        "line": 55,
+        "text": "時候の挨拶を述べる"
+      }
+    ]
+  },
+  {
+    "japanese": "挨拶状をしたためる",
+    "order": 233,
+    "sourceLines": [
+      264
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-3-phan-1-.txt",
+        "line": 56,
+        "text": "挨拶状をしたためる"
+      }
+    ]
+  },
+  {
+    "japanese": "三人の子供を扶養する",
+    "order": 234,
+    "sourceLines": [
+      265
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-3-phan-1-.txt",
+        "line": 61,
+        "text": "三人の子供を扶養する"
+      }
+    ]
+  },
+  {
+    "japanese": "扶養控除が減額される",
+    "order": 235,
+    "sourceLines": [
+      266
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-3-phan-1-.txt",
+        "line": 62,
+        "text": "扶養控除が減額される"
+      }
+    ]
+  },
+  {
+    "japanese": "問題を一括して検討する",
+    "order": 236,
+    "sourceLines": [
+      267
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-3-phan-1-.txt",
+        "line": 67,
+        "text": "問題を一括して検討する"
+      }
+    ]
+  },
+  {
+    "japanese": "今期の総括",
+    "order": 237,
+    "sourceLines": [
+      268
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-3-phan-1-.txt",
+        "line": 68,
+        "text": "今期の総括"
+      }
+    ]
+  },
+  {
+    "japanese": "部門を統括しているリーダー",
+    "order": 238,
+    "sourceLines": [
+      269
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-3-phan-1-.txt",
+        "line": 69,
+        "text": "部門を統括しているリーダー"
+      }
+    ]
+  },
+  {
+    "japanese": "現金一括払いで新居を買った",
+    "order": 239,
+    "sourceLines": [
+      270
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-3-phan-1-.txt",
+        "line": 70,
+        "text": "現金一括払いで新居を買った"
+      }
+    ]
+  },
+  {
+    "japanese": "子供を誘拐する",
+    "order": 240,
+    "sourceLines": [
+      271
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-3-phan-1-.txt",
+        "line": 75,
+        "text": "子供を誘拐する"
+      }
+    ]
+  },
+  {
+    "japanese": "未解決の誘拐事件",
+    "order": 241,
+    "sourceLines": [
+      272
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-3-phan-1-.txt",
+        "line": 76,
+        "text": "未解決の誘拐事件"
+      }
+    ]
+  },
+  {
+    "japanese": "何者かに拉致される",
+    "order": 242,
+    "sourceLines": [
+      273
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-3-phan-1-.txt",
+        "line": 83,
+        "text": "何者かに拉致される"
+      }
+    ]
+  },
+  {
+    "japanese": "牛の乳を搾る",
+    "order": 243,
+    "sourceLines": [
+      274
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-3-phan-1-.txt",
+        "line": 89,
+        "text": "牛の乳を搾る"
+      }
+    ]
+  },
+  {
+    "japanese": "国民から税金を搾り取る",
+    "order": 244,
+    "sourceLines": [
+      275
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-3-phan-1-.txt",
+        "line": 90,
+        "text": "国民から税金を搾り取る"
+      }
+    ]
+  },
+  {
+    "japanese": "利益を搾取する",
+    "order": 245,
+    "sourceLines": [
+      276
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-3-phan-1-.txt",
+        "line": 91,
+        "text": "利益を搾取する"
+      }
+    ]
+  },
+  {
+    "japanese": "拷問にかける",
+    "order": 246,
+    "sourceLines": [
+      277
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-3-phan-1-.txt",
+        "line": 96,
+        "text": "拷問にかける"
+      }
+    ]
+  },
+  {
+    "japanese": "純愛映画が女性の心を捉えた",
+    "order": 247,
+    "sourceLines": [
+      278
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-3-phan-1-.txt",
+        "line": 102,
+        "text": "純愛映画が女性の心を捉えた"
+      }
+    ]
+  },
+  {
+    "japanese": "危機をチャンスとして捉える",
+    "order": 248,
+    "sourceLines": [
+      279
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-3-phan-1-.txt",
+        "line": 103,
+        "text": "危機をチャンスとして捉える"
+      }
+    ]
+  },
+  {
+    "japanese": "問題の捉え方が重要だ",
+    "order": 249,
+    "sourceLines": [
+      280
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-3-phan-1-.txt",
+        "line": 104,
+        "text": "問題の捉え方が重要だ"
+      }
+    ]
+  },
+  {
+    "japanese": "(人が)仕事で挫折する",
+    "order": 250,
+    "sourceLines": [
+      281
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-3-phan-1-.txt",
+        "line": 109,
+        "text": "（人が）仕事で挫折する"
+      }
+    ]
+  },
+  {
+    "japanese": "足首を捻挫する",
+    "order": 251,
+    "sourceLines": [
+      282
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-3-phan-1-.txt",
+        "line": 110,
+        "text": "足首を捻挫する"
+      }
+    ]
+  },
+  {
+    "japanese": "不況で事業計画が頓挫する",
+    "order": 252,
+    "sourceLines": [
+      283
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-3-phan-1-.txt",
+        "line": 111,
+        "text": "不況で事業計画が頓挫する"
+      }
+    ]
+  },
+  {
+    "japanese": "放置自転車を撤去する",
+    "order": 253,
+    "sourceLines": [
+      284
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-3-phan-1-.txt",
+        "line": 116,
+        "text": "放置自転車を撤去する"
+      }
+    ]
+  },
+  {
+    "japanese": "前言を撤回する",
+    "order": 254,
+    "sourceLines": [
+      285
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-3-phan-1-.txt",
+        "line": 117,
+        "text": "前言を撤回する"
+      }
+    ]
+  },
+  {
+    "japanese": "指揮官が撤収を指示した",
+    "order": 255,
+    "sourceLines": [
+      286
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-3-phan-1-.txt",
+        "line": 118,
+        "text": "指揮官が撤収を指示した"
+      }
+    ]
+  },
+  {
+    "japanese": "海外市場から撤退する",
+    "order": 256,
+    "sourceLines": [
+      287
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-3-phan-1-.txt",
+        "line": 119,
+        "text": "海外市場から撤退する"
+      }
+    ]
+  },
+  {
+    "japanese": "(撤退 徹夜)で勉強する",
+    "order": 257,
+    "sourceLines": [
+      288
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-3-phan-1-.txt",
+        "line": 120,
+        "text": "（撤退 徹夜）で勉強する"
+      }
+    ]
+  },
+  {
+    "japanese": "苦しい練習に耐える",
+    "order": 258,
+    "sourceLines": [
+      289
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-3-phan-1-.txt",
+        "line": 126,
+        "text": "苦しい練習に耐える"
+      }
+    ]
+  },
+  {
+    "japanese": "夏の暑さに耐える",
+    "order": 259,
+    "sourceLines": [
+      290
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-3-phan-1-.txt",
+        "line": 127,
+        "text": "夏の暑さに耐える"
+      }
+    ]
+  },
+  {
+    "japanese": "耐久性の高い材料",
+    "order": 260,
+    "sourceLines": [
+      291
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-3-phan-1-.txt",
+        "line": 128,
+        "text": "耐久性の高い材料"
+      }
+    ]
+  },
+  {
+    "japanese": "耐震構造の家",
+    "order": 261,
+    "sourceLines": [
+      292
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-3-phan-1-.txt",
+        "line": 129,
+        "text": "耐震構造の家"
+      }
+    ]
+  },
+  {
+    "japanese": "耐熱ガラス",
+    "order": 262,
+    "sourceLines": [
+      293
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-3-phan-1-.txt",
+        "line": 130,
+        "text": "耐熱ガラス"
+      }
+    ]
+  },
+  {
+    "japanese": "不明な点を尋ねる",
+    "order": 263,
+    "sourceLines": [
+      294
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-3-phan-1-.txt",
+        "line": 136,
+        "text": "不明な点を尋ねる"
+      }
+    ]
+  },
+  {
+    "japanese": "行方を尋ねて回る",
+    "order": 264,
+    "sourceLines": [
+      295
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-3-phan-1-.txt",
+        "line": 137,
+        "text": "行方を尋ねて回る"
+      }
+    ]
+  },
+  {
+    "japanese": "詳しくは店舗スタッフまで",
+    "order": 265,
+    "sourceLines": [
+      296
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-3-phan-1-.txt",
+        "line": 138,
+        "text": "詳しくは店舗スタッフまでお尋ねください"
+      }
+    ]
+  },
+  {
+    "japanese": "お尋ねください",
+    "order": 266,
+    "sourceLines": [
+      297
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-3-phan-1-.txt",
+        "line": 138,
+        "text": "詳しくは店舗スタッフまでお尋ねください"
+      }
+    ]
+  },
+  {
+    "japanese": "警官が怪しい男を尋問する",
+    "order": 267,
+    "sourceLines": [
+      298
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-3-phan-1-.txt",
+        "line": 139,
+        "text": "警官が怪しい男を尋問する"
+      }
+    ]
+  },
+  {
+    "japanese": "彼は尋常じゃない大きさだ",
+    "order": 268,
+    "sourceLines": [
+      299
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-3-phan-1-.txt",
+        "line": 140,
+        "text": "彼は尋常じゃない大きさだ"
+      }
+    ]
+  },
+  {
+    "japanese": "彼女と社交ダンスを踊る",
+    "order": 269,
+    "sourceLines": [
+      300
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-3-phan-1-.txt",
+        "line": 145,
+        "text": "彼女と社交ダンスを踊る"
+      }
+    ]
+  },
+  {
+    "japanese": "マスコミに踊らされる国民",
+    "order": 270,
+    "sourceLines": [
+      301
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-3-phan-1-.txt",
+        "line": 146,
+        "text": "マスコミに踊らされる国民"
+      }
+    ]
+  },
+  {
+    "japanese": "希望に胸が躍る",
+    "order": 271,
+    "sourceLines": [
+      302
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-3-phan-1-.txt",
+        "line": 152,
+        "text": "希望に胸が躍る"
+      }
+    ]
+  },
+  {
+    "japanese": "躍り上がって喜ぶ",
+    "order": 272,
+    "sourceLines": [
+      303
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-3-phan-1-.txt",
+        "line": 153,
+        "text": "躍り上がって喜ぶ"
+      }
+    ]
+  },
+  {
+    "japanese": "プロの世界で活躍する",
+    "order": 273,
+    "sourceLines": [
+      304
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-3-phan-1-.txt",
+        "line": 154,
+        "text": "プロの世界で活躍する"
+      }
+    ]
+  },
+  {
+    "japanese": "将来の飛躍への第一歩",
+    "order": 274,
+    "sourceLines": [
+      305
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-3-phan-1-.txt",
+        "line": 155,
+        "text": "将来の飛躍への第一歩"
+      }
+    ]
+  },
+  {
+    "japanese": "三回目の跳躍で世界新記録を出した",
+    "order": 275,
+    "sourceLines": [
+      306
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-3-phan-1-.txt",
+        "line": 156,
+        "text": "三回目の跳躍で世界新記録を出した"
+      }
+    ]
+  },
+  {
+    "japanese": "岩に当たって砕ける波",
+    "order": 276,
+    "sourceLines": [
+      307
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-3-phan-1-.txt",
+        "line": 165,
+        "text": "岩に当たって砕ける波"
+      }
+    ]
+  },
+  {
+    "japanese": "意志が砕ける",
+    "order": 277,
+    "sourceLines": [
+      308
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-3-phan-1-.txt",
+        "line": 166,
+        "text": "意志が砕ける"
+      }
+    ]
+  },
+  {
+    "japanese": "当たって砕ける",
+    "order": 278,
+    "sourceLines": [
+      309
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-3-phan-1-.txt",
+        "line": 167,
+        "text": "当たって砕ける"
+      }
+    ]
+  },
+  {
+    "japanese": "アイスピックで氷を砕く",
+    "order": 279,
+    "sourceLines": [
+      310
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-3-phan-1-.txt",
+        "line": 168,
+        "text": "アイスピックで氷を砕く"
+      }
+    ]
+  },
+  {
+    "japanese": "敵を粉砕する",
+    "order": 280,
+    "sourceLines": [
+      311
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-3-phan-1-.txt",
+        "line": 169,
+        "text": "敵を粉砕する"
+      }
+    ]
+  },
+  {
+    "japanese": "その母親は、40 歳を過ぎてろくな職に就かない息子の今後について、心を砕いていた",
+    "order": 281,
+    "sourceLines": [
+      312
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-3-phan-1-.txt",
+        "line": 170,
+        "text": "その母親は、40 歳を過ぎてろくな職に就かない息子の今後について、心を砕いていた"
+      }
+    ]
+  },
+  {
+    "japanese": "技術の粋を集める",
+    "order": 282,
+    "sourceLines": [
+      313
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-3-phan-1-.txt",
+        "line": 175,
+        "text": "技術の粋を集める"
+      }
+    ]
+  },
+  {
+    "japanese": "純粋な水",
+    "order": 283,
+    "sourceLines": [
+      314
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-3-phan-1-.txt",
+        "line": 176,
+        "text": "純粋な水"
+      }
+    ]
+  },
+  {
+    "japanese": "純粋な気持ち",
+    "order": 284,
+    "sourceLines": [
+      315
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-3-phan-1-.txt",
+        "line": 177,
+        "text": "純粋な気持ち"
+      }
+    ]
+  },
+  {
+    "japanese": "大事な部分を抜粋する",
+    "order": 285,
+    "sourceLines": [
+      316
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-3-phan-1-.txt",
+        "line": 178,
+        "text": "大事な部分を抜粋する"
+      }
+    ]
+  },
+  {
+    "japanese": "ナイフで鉛筆を削る",
+    "order": 286,
+    "sourceLines": [
+      317
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-3-phan-1-.txt",
+        "line": 184,
+        "text": "ナイフで鉛筆を削る"
+      }
+    ]
+  },
+  {
+    "japanese": "不要な部分を削り取る",
+    "order": 287,
+    "sourceLines": [
+      318
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-3-phan-1-.txt",
+        "line": 185,
+        "text": "不要な部分を削り取る"
+      }
+    ]
+  },
+  {
+    "japanese": "予算を削減する",
+    "order": 288,
+    "sourceLines": [
+      319
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-3-phan-1-.txt",
+        "line": 186,
+        "text": "予算を削減する"
+      }
+    ]
+  },
+  {
+    "japanese": "先生に作文を添削してもらう",
+    "order": 289,
+    "sourceLines": [
+      320
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-3-phan-1-.txt",
+        "line": 187,
+        "text": "先生に作文を添削してもらう"
+      }
+    ]
+  },
+  {
+    "japanese": "肖像画を集める",
+    "order": 290,
+    "sourceLines": [
+      321
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-3-phan-1-.txt",
+        "line": 192,
+        "text": "肖像画を集める"
+      }
+    ]
+  },
+  {
+    "japanese": "肖像権を守る",
+    "order": 291,
+    "sourceLines": [
+      322
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-3-phan-1-.txt",
+        "line": 193,
+        "text": "肖像権を守る"
+      }
+    ]
+  },
+  {
+    "japanese": "対戦相手を侮る",
+    "order": 292,
+    "sourceLines": [
+      323
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-3-phan-1-.txt",
+        "line": 199,
+        "text": "対戦相手を侮る"
+      }
+    ]
+  },
+  {
+    "japanese": "子供だと思って侮ってはいけない",
+    "order": 293,
+    "sourceLines": [
+      324
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-3-phan-1-.txt",
+        "line": 200,
+        "text": "子供だと思って侮ってはいけない"
+      }
+    ]
+  },
+  {
+    "japanese": "侮辱を受ける",
+    "order": 294,
+    "sourceLines": [
+      325
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-3-phan-1-.txt",
+        "line": 201,
+        "text": "侮辱を受ける"
+      }
+    ]
+  },
+  {
+    "japanese": "過去の過ちを悔いる",
+    "order": 295,
+    "sourceLines": [
+      326
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-3-phan-1-.txt",
+        "line": 208,
+        "text": "過去の過ちを悔いる"
+      }
+    ]
+  },
+  {
+    "japanese": "後で悔やんでも遅い。今でしょ!",
+    "order": 296,
+    "sourceLines": [
+      327
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-3-phan-1-.txt",
+        "line": 209,
+        "text": "後で悔やんでも遅い。今でしょ！"
+      }
+    ]
+  },
+  {
+    "japanese": "試合に負けて悔しい",
+    "order": 297,
+    "sourceLines": [
+      328
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-3-phan-1-.txt",
+        "line": 210,
+        "text": "試合に負けて悔しい"
+      }
+    ]
+  },
+  {
+    "japanese": "後悔先に立たず",
+    "order": 298,
+    "sourceLines": [
+      329
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-3-phan-1-.txt",
+        "line": 211,
+        "text": "後悔先に立たず"
+      }
+    ]
+  },
+  {
+    "japanese": "いくら悔やんでも、もう取り返しがつかない",
+    "order": 299,
+    "sourceLines": [
+      330
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-3-phan-1-.txt",
+        "line": 212,
+        "text": "いくら悔やんでも、もう取り返しがつかない"
+      }
+    ]
+  },
+  {
+    "japanese": "敏捷性",
+    "order": 301,
+    "sourceLines": [
+      332
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-3-phan-1-.txt",
+        "line": 218,
+        "text": "敏捷性"
+      }
+    ]
+  },
+  {
+    "japanese": "敏捷性を鍛える訓練",
+    "order": 302,
+    "sourceLines": [
+      333
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-3-phan-1-.txt",
+        "line": 219,
+        "text": "敏捷性を鍛える訓練"
+      }
+    ]
+  },
+  {
+    "japanese": "乾燥に敏感な肌",
+    "order": 303,
+    "sourceLines": [
+      334
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-3-phan-1-.txt",
+        "line": 220,
+        "text": "乾燥に敏感な肌"
+      }
+    ]
+  },
+  {
+    "japanese": "敏腕な弁護士",
+    "order": 304,
+    "sourceLines": [
+      335
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-3-phan-1-.txt",
+        "line": 221,
+        "text": "敏腕な弁護士"
+      }
+    ]
+  },
+  {
+    "japanese": "繁栄する中国",
+    "order": 305,
+    "sourceLines": [
+      336
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-3-phan-1-.txt",
+        "line": 226,
+        "text": "繁栄する中国"
+      }
+    ]
+  },
+  {
+    "japanese": "店が繁盛する",
+    "order": 306,
+    "sourceLines": [
+      337
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-3-phan-1-.txt",
+        "line": 227,
+        "text": "店が繁盛する"
+      }
+    ]
+  },
+  {
+    "japanese": "繁忙期",
+    "order": 307,
+    "sourceLines": [
+      338
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-3-phan-1-.txt",
+        "line": 228,
+        "text": "繁忙期"
+      }
+    ]
+  },
+  {
+    "japanese": "繁華街",
+    "order": 308,
+    "sourceLines": [
+      339
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-3-phan-1-.txt",
+        "line": 229,
+        "text": "繁華街"
+      }
+    ]
+  },
+  {
+    "japanese": "反対派の動きを抑える",
+    "order": 309,
+    "sourceLines": [
+      340
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-3-phan-1-.txt",
+        "line": 235,
+        "text": "反対派の動きを抑える"
+      }
+    ]
+  },
+  {
+    "japanese": "怒りを抑える",
+    "order": 310,
+    "sourceLines": [
+      341
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-3-phan-1-.txt",
+        "line": 236,
+        "text": "怒りを抑える"
+      }
+    ]
+  },
+  {
+    "japanese": "月々の出費を十万円に抑える",
+    "order": 311,
+    "sourceLines": [
+      342
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-3-phan-1-.txt",
+        "line": 237,
+        "text": "月々の出費を十万円に抑える"
+      }
+    ]
+  },
+  {
+    "japanese": "言論の抑圧",
+    "order": 312,
+    "sourceLines": [
+      343
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-3-phan-1-.txt",
+        "line": 238,
+        "text": "言論の抑圧"
+      }
+    ]
+  },
+  {
+    "japanese": "中央銀行は、金利を上げ、インフレを抑制しようとしている",
+    "order": 313,
+    "sourceLines": [
+      344
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-3-phan-1-.txt",
+        "line": 239,
+        "text": "中央銀行は、金利を上げ、インフレを抑制しようとしている"
+      }
+    ]
+  },
+  {
+    "japanese": "夏の夜空を仰ぐ",
+    "order": 314,
+    "sourceLines": [
+      345
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-3-phan-1-.txt",
+        "line": 245,
+        "text": "夏の夜空を仰ぐ"
+      }
+    ]
+  },
+  {
+    "japanese": "天を仰ぐ",
+    "order": 315,
+    "sourceLines": [
+      346
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-3-phan-1-.txt",
+        "line": 246,
+        "text": "天を仰ぐ"
+      }
+    ]
+  },
+  {
+    "japanese": "仰向けに寝る",
+    "order": 316,
+    "sourceLines": [
+      347
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-3-phan-1-.txt",
+        "line": 247,
+        "text": "仰向けに寝る"
+      }
+    ]
+  },
+  {
+    "japanese": "部長の仰る通りです",
+    "order": 317,
+    "sourceLines": [
+      348
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-3-phan-1-.txt",
+        "line": 248,
+        "text": "部長の仰る通りです"
+      }
+    ]
+  },
+  {
+    "japanese": "びっくり仰天",
+    "order": 318,
+    "sourceLines": [
+      349
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-3-phan-1-.txt",
+        "line": 249,
+        "text": "びっくり仰天"
+      }
+    ]
+  },
+  {
+    "japanese": "信仰の厚い人々",
+    "order": 319,
+    "sourceLines": [
+      350
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-3-phan-1-.txt",
+        "line": 250,
+        "text": "信仰の厚い人々"
+      }
+    ]
+  }
+]

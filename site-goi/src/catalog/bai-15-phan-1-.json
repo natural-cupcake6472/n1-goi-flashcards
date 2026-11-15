@@ -1,0 +1,2073 @@
+[
+  {
+    "japanese": "贈り物に手紙を添える",
+    "order": 1378,
+    "sourceLines": [
+      2089
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-15-phan-1-.txt",
+        "line": 9,
+        "text": "贈り物に手紙を添える"
+      }
+    ]
+  },
+  {
+    "japanese": "食品添加物",
+    "order": 1379,
+    "sourceLines": [
+      2090
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-15-phan-1-.txt",
+        "line": 10,
+        "text": "食品添加物"
+      }
+    ]
+  },
+  {
+    "japanese": "メールに資料を添付する",
+    "order": 1380,
+    "sourceLines": [
+      2091
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-15-phan-1-.txt",
+        "line": 11,
+        "text": "メールに資料を添付する"
+      }
+    ]
+  },
+  {
+    "japanese": "湯が沸く",
+    "order": 1381,
+    "sourceLines": [
+      2094
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-15-phan-1-.txt",
+        "line": 18,
+        "text": "湯が沸く"
+      }
+    ]
+  },
+  {
+    "japanese": "風呂を沸かす",
+    "order": 1382,
+    "sourceLines": [
+      2095
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-15-phan-1-.txt",
+        "line": 19,
+        "text": "風呂を沸かす"
+      }
+    ]
+  },
+  {
+    "japanese": "会場がどっと沸く",
+    "order": 1383,
+    "sourceLines": [
+      2096
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-15-phan-1-.txt",
+        "line": 20,
+        "text": "会場がどっと沸く"
+      }
+    ]
+  },
+  {
+    "japanese": "沸点",
+    "order": 1384,
+    "sourceLines": [
+      2097
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-15-phan-1-.txt",
+        "line": 21,
+        "text": "沸点"
+      }
+    ]
+  },
+  {
+    "japanese": "沸騰",
+    "order": 1385,
+    "sourceLines": [
+      2098
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-15-phan-1-.txt",
+        "line": 22,
+        "text": "沸騰"
+      }
+    ]
+  },
+  {
+    "japanese": "人類が滅亡する",
+    "order": 1386,
+    "sourceLines": [
+      2101
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-15-phan-1-.txt",
+        "line": 29,
+        "text": "人類が滅亡する"
+      }
+    ]
+  },
+  {
+    "japanese": "恐竜が絶滅する",
+    "order": 1387,
+    "sourceLines": [
+      2102
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-15-phan-1-.txt",
+        "line": 30,
+        "text": "恐竜が絶滅する"
+      }
+    ]
+  },
+  {
+    "japanese": "文明が滅びる",
+    "order": 1388,
+    "sourceLines": [
+      2103
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-15-phan-1-.txt",
+        "line": 31,
+        "text": "文明が滅びる"
+      }
+    ]
+  },
+  {
+    "japanese": "敵を滅ぼす",
+    "order": 1389,
+    "sourceLines": [
+      2104
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-15-phan-1-.txt",
+        "line": 32,
+        "text": "敵を滅ぼす"
+      }
+    ]
+  },
+  {
+    "japanese": "相続の権利が消滅する",
+    "order": 1390,
+    "sourceLines": [
+      2105
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-15-phan-1-.txt",
+        "line": 33,
+        "text": "相続の権利が消滅する"
+      }
+    ]
+  },
+  {
+    "japanese": "支離滅裂",
+    "order": 1391,
+    "sourceLines": [
+      2106
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-15-phan-1-.txt",
+        "line": 34,
+        "text": "支離滅裂"
+      }
+    ]
+  },
+  {
+    "japanese": "信号が点滅する",
+    "order": 1392,
+    "sourceLines": [
+      2107
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-15-phan-1-.txt",
+        "line": 35,
+        "text": "信号が点滅する"
+      }
+    ]
+  },
+  {
+    "japanese": "汽車に乗る",
+    "order": 1393,
+    "sourceLines": [
+      2110
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-15-phan-1-.txt",
+        "line": 40,
+        "text": "汽車に乗る"
+      }
+    ]
+  },
+  {
+    "japanese": "汽笛を鳴らす",
+    "order": 1394,
+    "sourceLines": [
+      2111
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-15-phan-1-.txt",
+        "line": 41,
+        "text": "汽笛を鳴らす"
+      }
+    ]
+  },
+  {
+    "japanese": "派閥",
+    "order": 1395,
+    "sourceLines": [
+      2114
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-15-phan-1-.txt",
+        "line": 46,
+        "text": "派閥"
+      }
+    ]
+  },
+  {
+    "japanese": "党派",
+    "order": 1396,
+    "sourceLines": [
+      2115
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-15-phan-1-.txt",
+        "line": 47,
+        "text": "党派"
+      }
+    ]
+  },
+  {
+    "japanese": "特派員としてパリへ行く",
+    "order": 1397,
+    "sourceLines": [
+      2116
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-15-phan-1-.txt",
+        "line": 48,
+        "text": "特派員としてパリへ行く"
+      }
+    ]
+  },
+  {
+    "japanese": "立派な行い",
+    "order": 1398,
+    "sourceLines": [
+      2117
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-15-phan-1-.txt",
+        "line": 49,
+        "text": "立派な行い"
+      }
+    ]
+  },
+  {
+    "japanese": "派手な服装",
+    "order": 1399,
+    "sourceLines": [
+      2118
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-15-phan-1-.txt",
+        "line": 50,
+        "text": "派手な服装"
+      }
+    ]
+  },
+  {
+    "japanese": "水の中に潜る",
+    "order": 1400,
+    "sourceLines": [
+      2121
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-15-phan-1-.txt",
+        "line": 56,
+        "text": "水の中に潜る"
+      }
+    ]
+  },
+  {
+    "japanese": "犯人が物陰に潜む",
+    "order": 1401,
+    "sourceLines": [
+      2122
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-15-phan-1-.txt",
+        "line": 57,
+        "text": "犯人が物陰に潜む"
+      }
+    ]
+  },
+  {
+    "japanese": "企業に潜む組織問題",
+    "order": 1402,
+    "sourceLines": [
+      2123
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-15-phan-1-.txt",
+        "line": 58,
+        "text": "企業に潜む組織問題"
+      }
+    ]
+  },
+  {
+    "japanese": "潜入捜査",
+    "order": 1403,
+    "sourceLines": [
+      2124
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-15-phan-1-.txt",
+        "line": 59,
+        "text": "潜入捜査"
+      }
+    ]
+  },
+  {
+    "japanese": "潜在的な力",
+    "order": 1404,
+    "sourceLines": [
+      2125
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-15-phan-1-.txt",
+        "line": 60,
+        "text": "潜在的な力"
+      }
+    ]
+  },
+  {
+    "japanese": "インフルエンザの潜伏期間",
+    "order": 1405,
+    "sourceLines": [
+      2126
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-15-phan-1-.txt",
+        "line": 61,
+        "text": "インフルエンザの潜伏期間"
+      }
+    ]
+  },
+  {
+    "japanese": "漬け物",
+    "order": 1406,
+    "sourceLines": [
+      2129
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-15-phan-1-.txt",
+        "line": 67,
+        "text": "漬け物"
+      }
+    ]
+  },
+  {
+    "japanese": "漬物は漬かりすぎると酸っぱくなる",
+    "order": 1407,
+    "sourceLines": [
+      2130
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-15-phan-1-.txt",
+        "line": 68,
+        "text": "漬物は漬かりすぎると酸っぱくなる"
+      }
+    ]
+  },
+  {
+    "japanese": "塩に漬ける",
+    "order": 1408,
+    "sourceLines": [
+      2131
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-15-phan-1-.txt",
+        "line": 69,
+        "text": "塩に漬ける"
+      }
+    ]
+  },
+  {
+    "japanese": "洗濯物を水に漬ける",
+    "order": 1409,
+    "sourceLines": [
+      2132
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-15-phan-1-.txt",
+        "line": 70,
+        "text": "洗濯物を水に漬ける"
+      }
+    ]
+  },
+  {
+    "japanese": "お茶漬け",
+    "order": 1410,
+    "sourceLines": [
+      2133
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-15-phan-1-.txt",
+        "line": 71,
+        "text": "お茶漬け"
+      }
+    ]
+  },
+  {
+    "japanese": "一夜漬けの試験勉強",
+    "order": 1411,
+    "sourceLines": [
+      2134
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-15-phan-1-.txt",
+        "line": 72,
+        "text": "一夜漬けの試験勉強"
+      }
+    ]
+  },
+  {
+    "japanese": "スキーで滑る",
+    "order": 1412,
+    "sourceLines": [
+      2137
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-15-phan-1-.txt",
+        "line": 78,
+        "text": "スキーで滑る"
+      }
+    ]
+  },
+  {
+    "japanese": "手が滑る",
+    "order": 1413,
+    "sourceLines": [
+      2138
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-15-phan-1-.txt",
+        "line": 79,
+        "text": "手が滑る"
+      }
+    ]
+  },
+  {
+    "japanese": "口が滑る",
+    "order": 1414,
+    "sourceLines": [
+      2139
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-15-phan-1-.txt",
+        "line": 80,
+        "text": "口が滑る"
+      }
+    ]
+  },
+  {
+    "japanese": "滑らかな口調",
+    "order": 1415,
+    "sourceLines": [
+      2140
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-15-phan-1-.txt",
+        "line": 81,
+        "text": "滑らかな口調"
+      }
+    ]
+  },
+  {
+    "japanese": "滑らかな肌",
+    "order": 1416,
+    "sourceLines": [
+      2141
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-15-phan-1-.txt",
+        "line": 82,
+        "text": "滑らかな肌"
+      }
+    ]
+  },
+  {
+    "japanese": "滑降競技",
+    "order": 1417,
+    "sourceLines": [
+      2142
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-15-phan-1-.txt",
+        "line": 83,
+        "text": "滑降競技"
+      }
+    ]
+  },
+  {
+    "japanese": "滑走路",
+    "order": 1418,
+    "sourceLines": [
+      2143
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-15-phan-1-.txt",
+        "line": 84,
+        "text": "滑走路"
+      }
+    ]
+  },
+  {
+    "japanese": "会議が円滑に進む",
+    "order": 1419,
+    "sourceLines": [
+      2144
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-15-phan-1-.txt",
+        "line": 85,
+        "text": "会議が円滑に進む"
+      }
+    ]
+  },
+  {
+    "japanese": "滑稽なことを言う",
+    "order": 1420,
+    "sourceLines": [
+      2145
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-15-phan-1-.txt",
+        "line": 86,
+        "text": "滑稽なことを言う"
+      }
+    ]
+  },
+  {
+    "japanese": "川の水が澄んでいる",
+    "order": 1421,
+    "sourceLines": [
+      2148
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-15-phan-1-.txt",
+        "line": 92,
+        "text": "川の水が澄んでいる"
+      }
+    ]
+  },
+  {
+    "japanese": "澄んだ空気",
+    "order": 1422,
+    "sourceLines": [
+      2149
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-15-phan-1-.txt",
+        "line": 93,
+        "text": "澄んだ空気"
+      }
+    ]
+  },
+  {
+    "japanese": "耳を澄まして聞く",
+    "order": 1423,
+    "sourceLines": [
+      2150
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-15-phan-1-.txt",
+        "line": 94,
+        "text": "耳を澄まして聞く"
+      }
+    ]
+  },
+  {
+    "japanese": "澄ました顔で冗談を言う",
+    "order": 1424,
+    "sourceLines": [
+      2151
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-15-phan-1-.txt",
+        "line": 95,
+        "text": "澄ました顔で冗談を言う"
+      }
+    ]
+  },
+  {
+    "japanese": "高原の清澄な空気",
+    "order": 1425,
+    "sourceLines": [
+      2152
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-15-phan-1-.txt",
+        "line": 96,
+        "text": "高原の清澄な空気"
+      }
+    ]
+  },
+  {
+    "japanese": "海面に漂う小舟",
+    "order": 1426,
+    "sourceLines": [
+      2155
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-15-phan-1-.txt",
+        "line": 102,
+        "text": "海面に漂う小舟"
+      }
+    ]
+  },
+  {
+    "japanese": "和やかな雰囲気が漂う",
+    "order": 1427,
+    "sourceLines": [
+      2156
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-15-phan-1-.txt",
+        "line": 103,
+        "text": "和やかな雰囲気が漂う"
+      }
+    ]
+  },
+  {
+    "japanese": "船が岸に漂着する",
+    "order": 1428,
+    "sourceLines": [
+      2157
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-15-phan-1-.txt",
+        "line": 104,
+        "text": "船が岸に漂着する"
+      }
+    ]
+  },
+  {
+    "japanese": "漂流船",
+    "order": 1429,
+    "sourceLines": [
+      2158
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-15-phan-1-.txt",
+        "line": 105,
+        "text": "漂流船"
+      }
+    ]
+  },
+  {
+    "japanese": "シャツを漂白する",
+    "order": 1430,
+    "sourceLines": [
+      2159
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-15-phan-1-.txt",
+        "line": 106,
+        "text": "シャツを漂白する"
+      }
+    ]
+  },
+  {
+    "japanese": "溝を掘る",
+    "order": 1431,
+    "sourceLines": [
+      2162
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-15-phan-1-.txt",
+        "line": 112,
+        "text": "溝を掘る"
+      }
+    ]
+  },
+  {
+    "japanese": "両国間の溝が深まる",
+    "order": 1432,
+    "sourceLines": [
+      2163
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-15-phan-1-.txt",
+        "line": 113,
+        "text": "両国間の溝が深まる"
+      }
+    ]
+  },
+  {
+    "japanese": "排水溝から水が溢れる",
+    "order": 1433,
+    "sourceLines": [
+      2164
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-15-phan-1-.txt",
+        "line": 114,
+        "text": "排水溝から水が溢れる"
+      }
+    ]
+  },
+  {
+    "japanese": "海溝",
+    "order": 1434,
+    "sourceLines": [
+      2165
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-15-phan-1-.txt",
+        "line": 115,
+        "text": "海溝"
+      }
+    ]
+  },
+  {
+    "japanese": "肩まで湯に浸る",
+    "order": 1435,
+    "sourceLines": [
+      2168
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-15-phan-1-.txt",
+        "line": 121,
+        "text": "肩まで湯に浸る"
+      }
+    ]
+  },
+  {
+    "japanese": "同窓会で昔の思い出に浸る",
+    "order": 1436,
+    "sourceLines": [
+      2169
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-15-phan-1-.txt",
+        "line": 122,
+        "text": "同窓会で昔の思い出に浸る"
+      }
+    ]
+  },
+  {
+    "japanese": "汚れたセーターを洗面器のお湯に浸す",
+    "order": 1437,
+    "sourceLines": [
+      2170
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-15-phan-1-.txt",
+        "line": 123,
+        "text": "汚れたセーターを洗面器のお湯に浸す"
+      }
+    ]
+  },
+  {
+    "japanese": "大雨で床下まで浸水する",
+    "order": 1438,
+    "sourceLines": [
+      2171
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-15-phan-1-.txt",
+        "line": 124,
+        "text": "大雨で床下まで浸水する"
+      }
+    ]
+  },
+  {
+    "japanese": "淡いピンクの服",
+    "order": 1439,
+    "sourceLines": [
+      2174
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-15-phan-1-.txt",
+        "line": 130,
+        "text": "淡いピンクの服"
+      }
+    ]
+  },
+  {
+    "japanese": "淡い期待を抱く",
+    "order": 1440,
+    "sourceLines": [
+      2175
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-15-phan-1-.txt",
+        "line": 131,
+        "text": "淡い期待を抱く"
+      }
+    ]
+  },
+  {
+    "japanese": "色の濃淡",
+    "order": 1441,
+    "sourceLines": [
+      2176
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-15-phan-1-.txt",
+        "line": 132,
+        "text": "色の濃淡"
+      }
+    ]
+  },
+  {
+    "japanese": "淡水の湖や川に生息する魚",
+    "order": 1442,
+    "sourceLines": [
+      2177
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-15-phan-1-.txt",
+        "line": 133,
+        "text": "淡水の湖や川に生息する魚"
+      }
+    ]
+  },
+  {
+    "japanese": "冷淡な態度であしらう",
+    "order": 1443,
+    "sourceLines": [
+      2178
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-15-phan-1-.txt",
+        "line": 134,
+        "text": "冷淡な態度であしらう"
+      }
+    ]
+  },
+  {
+    "japanese": "穂が出る",
+    "order": 1444,
+    "sourceLines": [
+      2181
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-15-phan-1-.txt",
+        "line": 142,
+        "text": "穂が出る"
+      }
+    ]
+  },
+  {
+    "japanese": "麦の穂",
+    "order": 1445,
+    "sourceLines": [
+      2182
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-15-phan-1-.txt",
+        "line": 143,
+        "text": "麦の穂"
+      }
+    ]
+  },
+  {
+    "japanese": "稲穂",
+    "order": 1446,
+    "sourceLines": [
+      2183
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-15-phan-1-.txt",
+        "line": 144,
+        "text": "稲穂"
+      }
+    ]
+  },
+  {
+    "japanese": "稲を刈る",
+    "order": 1447,
+    "sourceLines": [
+      2186
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-15-phan-1-.txt",
+        "line": 150,
+        "text": "稲を刈る"
+      }
+    ]
+  },
+  {
+    "japanese": "稲作農家",
+    "order": 1448,
+    "sourceLines": [
+      2187
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-15-phan-1-.txt",
+        "line": 151,
+        "text": "稲作農家"
+      }
+    ]
+  },
+  {
+    "japanese": "稲妻が走る",
+    "order": 1449,
+    "sourceLines": [
+      2188
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-15-phan-1-.txt",
+        "line": 152,
+        "text": "稲妻が走る"
+      }
+    ]
+  },
+  {
+    "japanese": "福祉関係の仕事に就く",
+    "order": 1450,
+    "sourceLines": [
+      2191
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-15-phan-1-.txt",
+        "line": 157,
+        "text": "福祉関係の仕事に就く"
+      }
+    ]
+  },
+  {
+    "japanese": "社会福祉制度",
+    "order": 1451,
+    "sourceLines": [
+      2192
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-15-phan-1-.txt",
+        "line": 158,
+        "text": "社会福祉制度"
+      }
+    ]
+  },
+  {
+    "japanese": "四大文明発祥の地",
+    "order": 1452,
+    "sourceLines": [
+      2195
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-15-phan-1-.txt",
+        "line": 163,
+        "text": "四大文明発祥の地"
+      }
+    ]
+  },
+  {
+    "japanese": "社長が不祥事を起こす",
+    "order": 1453,
+    "sourceLines": [
+      2196
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-15-phan-1-.txt",
+        "line": 164,
+        "text": "社長が不祥事を起こす"
+      }
+    ]
+  },
+  {
+    "japanese": "裸になる",
+    "order": 1454,
+    "sourceLines": [
+      2199
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-15-phan-1-.txt",
+        "line": 170,
+        "text": "裸になる"
+      }
+    ]
+  },
+  {
+    "japanese": "裸体画を描く",
+    "order": 1455,
+    "sourceLines": [
+      2200
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-15-phan-1-.txt",
+        "line": 171,
+        "text": "裸体画を描く"
+      }
+    ]
+  },
+  {
+    "japanese": "全裸で泳ぐ",
+    "order": 1456,
+    "sourceLines": [
+      2201
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-15-phan-1-.txt",
+        "line": 172,
+        "text": "全裸で泳ぐ"
+      }
+    ]
+  },
+  {
+    "japanese": "企業不祥事を赤裸裸に暴く",
+    "order": 1457,
+    "sourceLines": [
+      2202
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-15-phan-1-.txt",
+        "line": 173,
+        "text": "企業不祥事を赤裸裸に暴く"
+      }
+    ]
+  },
+  {
+    "japanese": "半袖のシャツ",
+    "order": 1458,
+    "sourceLines": [
+      2205
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-15-phan-1-.txt",
+        "line": 179,
+        "text": "半袖のシャツ"
+      }
+    ]
+  },
+  {
+    "japanese": "袖口が汚れる",
+    "order": 1459,
+    "sourceLines": [
+      2206
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-15-phan-1-.txt",
+        "line": 180,
+        "text": "袖口が汚れる"
+      }
+    ]
+  },
+  {
+    "japanese": "長袖",
+    "order": 1460,
+    "sourceLines": [
+      2207
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-15-phan-1-.txt",
+        "line": 181,
+        "text": "長袖"
+      }
+    ]
+  },
+  {
+    "japanese": "魚が焦げる",
+    "order": 1461,
+    "sourceLines": [
+      2210
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-15-phan-1-.txt",
+        "line": 188,
+        "text": "魚が焦げる"
+      }
+    ]
+  },
+  {
+    "japanese": "少しを焦がしちゃった",
+    "order": 1462,
+    "sourceLines": [
+      2211
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-15-phan-1-.txt",
+        "line": 189,
+        "text": "少しを焦がしちゃった"
+      }
+    ]
+  },
+  {
+    "japanese": "待ち焦がれる",
+    "order": 1463,
+    "sourceLines": [
+      2212
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-15-phan-1-.txt",
+        "line": 190,
+        "text": "待ち焦がれる"
+      }
+    ]
+  },
+  {
+    "japanese": "時間がなくて焦る",
+    "order": 1464,
+    "sourceLines": [
+      2213
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-15-phan-1-.txt",
+        "line": 191,
+        "text": "時間がなくて焦る"
+      }
+    ]
+  },
+  {
+    "japanese": "焦点を定める",
+    "order": 1465,
+    "sourceLines": [
+      2214
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-15-phan-1-.txt",
+        "line": 192,
+        "text": "焦点を定める"
+      }
+    ]
+  },
+  {
+    "japanese": "山に熊が出没する",
+    "order": 1466,
+    "sourceLines": [
+      2217
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-15-phan-1-.txt",
+        "line": 197,
+        "text": "山に熊が出没する"
+      }
+    ]
+  },
+  {
+    "japanese": "熊手で落ち葉を集める",
+    "order": 1467,
+    "sourceLines": [
+      2218
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-15-phan-1-.txt",
+        "line": 198,
+        "text": "熊手で落ち葉を集める"
+      }
+    ]
+  },
+  {
+    "japanese": "熟れたトマトを収穫する",
+    "order": 1468,
+    "sourceLines": [
+      2221
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-15-phan-1-.txt",
+        "line": 204,
+        "text": "熟れたトマトを収穫する"
+      }
+    ]
+  },
+  {
+    "japanese": "成熟した社会",
+    "order": 1469,
+    "sourceLines": [
+      2222
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-15-phan-1-.txt",
+        "line": 205,
+        "text": "成熟した社会"
+      }
+    ]
+  },
+  {
+    "japanese": "熟成したワイン",
+    "order": 1470,
+    "sourceLines": [
+      2223
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-15-phan-1-.txt",
+        "line": 206,
+        "text": "熟成したワイン"
+      }
+    ]
+  },
+  {
+    "japanese": "熟練したパイロット",
+    "order": 1471,
+    "sourceLines": [
+      2224
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-15-phan-1-.txt",
+        "line": 207,
+        "text": "熟練したパイロット"
+      }
+    ]
+  },
+  {
+    "japanese": "熟睡する",
+    "order": 1472,
+    "sourceLines": [
+      2225
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-15-phan-1-.txt",
+        "line": 208,
+        "text": "熟睡する"
+      }
+    ]
+  },
+  {
+    "japanese": "未熟児",
+    "order": 1473,
+    "sourceLines": [
+      2226
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-15-phan-1-.txt",
+        "line": 209,
+        "text": "未熟児"
+      }
+    ]
+  },
+  {
+    "japanese": "新薬開発の功績により勲章を賜る",
+    "order": 1474,
+    "sourceLines": [
+      2229
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-15-phan-1-.txt",
+        "line": 214,
+        "text": "新薬開発の功績により勲章を賜る"
+      }
+    ]
+  },
+  {
+    "japanese": "文化勲章",
+    "order": 1475,
+    "sourceLines": [
+      2230
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-15-phan-1-.txt",
+        "line": 215,
+        "text": "文化勲章"
+      }
+    ]
+  },
+  {
+    "japanese": "先生の忠告に耳を傾ける",
+    "order": 1476,
+    "sourceLines": [
+      2233
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-15-phan-1-.txt",
+        "line": 222,
+        "text": "先生の忠告に耳を傾ける"
+      }
+    ]
+  },
+  {
+    "japanese": "忠実な部下を持つ",
+    "order": 1477,
+    "sourceLines": [
+      2234
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-15-phan-1-.txt",
+        "line": 223,
+        "text": "忠実な部下を持つ"
+      }
+    ]
+  },
+  {
+    "japanese": "原作に忠実な映画",
+    "order": 1478,
+    "sourceLines": [
+      2235
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-15-phan-1-.txt",
+        "line": 224,
+        "text": "原作に忠実な映画"
+      }
+    ]
+  },
+  {
+    "japanese": "医師を志す",
+    "order": 1479,
+    "sourceLines": [
+      2238
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-15-phan-1-.txt",
+        "line": 231,
+        "text": "医師を志す"
+      }
+    ]
+  },
+  {
+    "japanese": "志が高い",
+    "order": 1480,
+    "sourceLines": [
+      2239
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-15-phan-1-.txt",
+        "line": 232,
+        "text": "志が高い"
+      }
+    ]
+  },
+  {
+    "japanese": "志望校を決める",
+    "order": 1481,
+    "sourceLines": [
+      2240
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-15-phan-1-.txt",
+        "line": 233,
+        "text": "志望校を決める"
+      }
+    ]
+  },
+  {
+    "japanese": "ブランド志向",
+    "order": 1482,
+    "sourceLines": [
+      2241
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-15-phan-1-.txt",
+        "line": 234,
+        "text": "ブランド志向"
+      }
+    ]
+  },
+  {
+    "japanese": "ライバルに闘志を燃やす",
+    "order": 1483,
+    "sourceLines": [
+      2242
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-15-phan-1-.txt",
+        "line": 235,
+        "text": "ライバルに闘志を燃やす"
+      }
+    ]
+  },
+  {
+    "japanese": "努力を怠り試験に落ちる",
+    "order": 1484,
+    "sourceLines": [
+      2245
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-15-phan-1-.txt",
+        "line": 242,
+        "text": "努力を怠り試験に落ちる"
+      }
+    ]
+  },
+  {
+    "japanese": "仕事を怠ける",
+    "order": 1485,
+    "sourceLines": [
+      2246
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-15-phan-1-.txt",
+        "line": 243,
+        "text": "仕事を怠ける"
+      }
+    ]
+  },
+  {
+    "japanese": "怠け者",
+    "order": 1486,
+    "sourceLines": [
+      2247,
+      3624
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-15-phan-1-.txt",
+        "line": 244,
+        "text": "怠け者"
+      }
+    ]
+  },
+  {
+    "japanese": "勤怠管理",
+    "order": 1487,
+    "sourceLines": [
+      2248
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-15-phan-1-.txt",
+        "line": 245,
+        "text": "勤怠管理"
+      }
+    ]
+  },
+  {
+    "japanese": "泣きたい気持ちを忍んで笑顔をつくる",
+    "order": 1488,
+    "sourceLines": [
+      2251
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-15-phan-1-.txt",
+        "line": 252,
+        "text": "泣きたい気持ちを忍んで笑顔をつくる"
+      }
+    ]
+  },
+  {
+    "japanese": "足音を忍ばせて、そっと彼の背後に近づいた",
+    "order": 1489,
+    "sourceLines": [
+      2252
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-15-phan-1-.txt",
+        "line": 253,
+        "text": "足音を忍ばせて、そっと彼の背後に近づいた"
+      }
+    ]
+  },
+  {
+    "japanese": "忍耐強い性格",
+    "order": 1490,
+    "sourceLines": [
+      2253
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-15-phan-1-.txt",
+        "line": 254,
+        "text": "忍耐強い性格"
+      }
+    ]
+  },
+  {
+    "japanese": "忍者",
+    "order": 1491,
+    "sourceLines": [
+      2254
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-15-phan-1-.txt",
+        "line": 255,
+        "text": "忍者"
+      }
+    ]
+  },
+  {
+    "japanese": "残忍な犯行",
+    "order": 1492,
+    "sourceLines": [
+      2255
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-15-phan-1-.txt",
+        "line": 256,
+        "text": "残忍な犯行"
+      }
+    ]
+  },
+  {
+    "japanese": "鉛筆の芯",
+    "order": 1493,
+    "sourceLines": [
+      2258
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-15-phan-1-.txt",
+        "line": 261,
+        "text": "鉛筆の芯"
+      }
+    ]
+  },
+  {
+    "japanese": "芯が強い女性",
+    "order": 1494,
+    "sourceLines": [
+      2259
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-15-phan-1-.txt",
+        "line": 262,
+        "text": "芯が強い女性"
+      }
+    ]
+  },
+  {
+    "japanese": "恥を知りなさい",
+    "order": 1495,
+    "sourceLines": [
+      2262
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-15-phan-1-.txt",
+        "line": 269,
+        "text": "恥を知りなさい"
+      }
+    ]
+  },
+  {
+    "japanese": "自分の無知を恥じる",
+    "order": 1496,
+    "sourceLines": [
+      2263
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-15-phan-1-.txt",
+        "line": 270,
+        "text": "自分の無知を恥じる"
+      }
+    ]
+  },
+  {
+    "japanese": "君には羞恥心がないの？",
+    "order": 1497,
+    "sourceLines": [
+      2264
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-15-phan-1-.txt",
+        "line": 271,
+        "text": "君には羞恥心がないの？"
+      }
+    ]
+  },
+  {
+    "japanese": "憩いの場",
+    "order": 1498,
+    "sourceLines": [
+      2267
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-15-phan-1-.txt",
+        "line": 277,
+        "text": "憩いの場"
+      }
+    ]
+  },
+  {
+    "japanese": "しばらく休憩する",
+    "order": 1499,
+    "sourceLines": [
+      2268
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-15-phan-1-.txt",
+        "line": 278,
+        "text": "しばらく休憩する"
+      }
+    ]
+  },
+  {
+    "japanese": "巨人から逃げ惑う",
+    "order": 1500,
+    "sourceLines": [
+      2271
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-15-phan-1-.txt",
+        "line": 284,
+        "text": "巨人から逃げ惑う"
+      }
+    ]
+  },
+  {
+    "japanese": "お客さんの突然の質問に戸惑う",
+    "order": 1501,
+    "sourceLines": [
+      2272
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-15-phan-1-.txt",
+        "line": 285,
+        "text": "お客さんの突然の質問に戸惑う"
+      }
+    ]
+  },
+  {
+    "japanese": "疑惑を持たれる",
+    "order": 1502,
+    "sourceLines": [
+      2273
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-15-phan-1-.txt",
+        "line": 286,
+        "text": "疑惑を持たれる"
+      }
+    ]
+  },
+  {
+    "japanese": "男性を誘惑する",
+    "order": 1503,
+    "sourceLines": [
+      2274
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-15-phan-1-.txt",
+        "line": 287,
+        "text": "男性を誘惑する"
+      }
+    ]
+  },
+  {
+    "japanese": "他人に迷惑をかける",
+    "order": 1504,
+    "sourceLines": [
+      2275
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-15-phan-1-.txt",
+        "line": 288,
+        "text": "他人に迷惑をかける"
+      }
+    ]
+  },
+  {
+    "japanese": "事実と反し、誠に遺憾であります",
+    "order": 1505,
+    "sourceLines": [
+      2278
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-15-phan-1-.txt",
+        "line": 293,
+        "text": "事実と反し、誠に遺憾であります"
+      }
+    ]
+  },
+  {
+    "japanese": "遺憾の意を表する",
+    "order": 1506,
+    "sourceLines": [
+      2279
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-15-phan-1-.txt",
+        "line": 294,
+        "text": "遺憾の意を表する"
+      }
+    ]
+  },
+  {
+    "japanese": "慰めの言葉をかける",
+    "order": 1507,
+    "sourceLines": [
+      2282
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-15-phan-1-.txt",
+        "line": 301,
+        "text": "慰めの言葉をかける"
+      }
+    ]
+  },
+  {
+    "japanese": "落ち込んでいる友人を慰める",
+    "order": 1508,
+    "sourceLines": [
+      2283
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-15-phan-1-.txt",
+        "line": 302,
+        "text": "落ち込んでいる友人を慰める"
+      }
+    ]
+  },
+  {
+    "japanese": "離婚問題や浮気・不倫の慰謝料のことは弁護士にご相談ください",
+    "order": 1509,
+    "sourceLines": [
+      2284
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-15-phan-1-.txt",
+        "line": 303,
+        "text": "離婚問題や浮気・不倫の慰謝料のことは弁護士にご相談ください"
+      }
+    ]
+  },
+  {
+    "japanese": "社員懇親会を開く",
+    "order": 1510,
+    "sourceLines": [
+      2287
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-15-phan-1-.txt",
+        "line": 308,
+        "text": "社員懇親会を開く"
+      }
+    ]
+  },
+  {
+    "japanese": "一生懸命に努力する",
+    "order": 1511,
+    "sourceLines": [
+      2290
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-15-phan-1-.txt",
+        "line": 315,
+        "text": "一生懸命に努力する"
+      }
+    ]
+  },
+  {
+    "japanese": "通貨危機が懸念される",
+    "order": 1512,
+    "sourceLines": [
+      2291
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-15-phan-1-.txt",
+        "line": 316,
+        "text": "通貨危機が懸念される"
+      }
+    ]
+  },
+  {
+    "japanese": "日本国憲法",
+    "order": 1513,
+    "sourceLines": [
+      2294
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-15-phan-1-.txt",
+        "line": 321,
+        "text": "日本国憲法"
+      }
+    ]
+  },
+  {
+    "japanese": "憲法記念日",
+    "order": 1514,
+    "sourceLines": [
+      2295
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-15-phan-1-.txt",
+        "line": 322,
+        "text": "憲法記念日"
+      }
+    ]
+  },
+  {
+    "japanese": "思想の自由が侵害されているため、違憲判決を下した",
+    "order": 1515,
+    "sourceLines": [
+      2296
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-15-phan-1-.txt",
+        "line": 323,
+        "text": "思想の自由が侵害されているため、違憲判決を下した"
+      }
+    ]
+  }
+]

@@ -1,0 +1,1367 @@
+[
+  {
+    "japanese": "学生数増加に伴い、新しい学部を開くことにしました",
+    "order": 1516,
+    "sourceLines": [
+      2299
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-16-phan-1-.txt",
+        "line": 9,
+        "text": "学生数増加に伴い、新しい学部を開くことにしました"
+      }
+    ]
+  },
+  {
+    "japanese": "危険を伴う仕事",
+    "order": 1517,
+    "sourceLines": [
+      2300
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-16-phan-1-.txt",
+        "line": 10,
+        "text": "危険を伴う仕事"
+      }
+    ]
+  },
+  {
+    "japanese": "彼はいつも口だけで行動が伴わない",
+    "order": 1518,
+    "sourceLines": [
+      2301
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-16-phan-1-.txt",
+        "line": 11,
+        "text": "彼はいつも口だけで行動が伴わない"
+      }
+    ]
+  },
+  {
+    "japanese": "人生の同伴者",
+    "order": 1519,
+    "sourceLines": [
+      2302
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-16-phan-1-.txt",
+        "line": 12,
+        "text": "人生の同伴者"
+      }
+    ]
+  },
+  {
+    "japanese": "ピアノ伴奏",
+    "order": 1520,
+    "sourceLines": [
+      2303
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-16-phan-1-.txt",
+        "line": 13,
+        "text": "ピアノ伴奏"
+      }
+    ]
+  },
+  {
+    "japanese": "部下の成長を促す",
+    "order": 1521,
+    "sourceLines": [
+      2306
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-16-phan-1-.txt",
+        "line": 19,
+        "text": "部下の成長を促す"
+      }
+    ]
+  },
+  {
+    "japanese": "司会が発言を促す",
+    "order": 1522,
+    "sourceLines": [
+      2307
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-16-phan-1-.txt",
+        "line": 20,
+        "text": "司会が発言を促す"
+      }
+    ]
+  },
+  {
+    "japanese": "広告を出し、販売を促進する",
+    "order": 1523,
+    "sourceLines": [
+      2308
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-16-phan-1-.txt",
+        "line": 21,
+        "text": "広告を出し、販売を促進する"
+      }
+    ]
+  },
+  {
+    "japanese": "支払いを催促する",
+    "order": 1524,
+    "sourceLines": [
+      2309
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-16-phan-1-.txt",
+        "line": 22,
+        "text": "支払いを催促する"
+      }
+    ]
+  },
+  {
+    "japanese": "X社がY社に吸収合併された",
+    "order": 1525,
+    "sourceLines": [
+      2312
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-16-phan-1-.txt",
+        "line": 28,
+        "text": "X 社が Y 社に吸収合併された"
+      }
+    ]
+  },
+  {
+    "japanese": "隣の村を併合する",
+    "order": 1526,
+    "sourceLines": [
+      2313
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-16-phan-1-.txt",
+        "line": 29,
+        "text": "隣の村を併合する"
+      }
+    ]
+  },
+  {
+    "japanese": "契約更新と併せて住所変更も行う",
+    "order": 1527,
+    "sourceLines": [
+      2314
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-16-phan-1-.txt",
+        "line": 30,
+        "text": "契約更新と併せて住所変更も行う"
+      }
+    ]
+  },
+  {
+    "japanese": "男女併せて10人",
+    "order": 1528,
+    "sourceLines": [
+      2315
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-16-phan-1-.txt",
+        "line": 31,
+        "text": "男女併せて 10 人"
+      }
+    ]
+  },
+  {
+    "japanese": "倫理に反する行為",
+    "order": 1529,
+    "sourceLines": [
+      2318
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-16-phan-1-.txt",
+        "line": 36,
+        "text": "倫理に反する行為"
+      }
+    ]
+  },
+  {
+    "japanese": "相手を傷つける発言が増えたのは、倫理観のない人が増えたためだとも考えられる",
+    "order": 1530,
+    "sourceLines": [
+      2319
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-16-phan-1-.txt",
+        "line": 37,
+        "text": "相手を傷つける発言が増えたのは、倫理観のない人が増えたためだとも考えられる"
+      }
+    ]
+  },
+  {
+    "japanese": "日本には侍の時代があった",
+    "order": 1531,
+    "sourceLines": [
+      2322
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-16-phan-1-.txt",
+        "line": 42,
+        "text": "日本には侍の時代があった"
+      }
+    ]
+  },
+  {
+    "japanese": "偉大な業績/人物",
+    "order": 1532,
+    "sourceLines": [
+      2325
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-16-phan-1-.txt",
+        "line": 48,
+        "text": "偉大な業績／人物"
+      }
+    ]
+  },
+  {
+    "japanese": "偉業を成し遂げる",
+    "order": 1533,
+    "sourceLines": [
+      2326
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-16-phan-1-.txt",
+        "line": 49,
+        "text": "偉業を成し遂げる"
+      }
+    ]
+  },
+  {
+    "japanese": "日本で一番偉い方は？",
+    "order": 1534,
+    "sourceLines": [
+      2327
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-16-phan-1-.txt",
+        "line": 50,
+        "text": "日本で一番偉い方は？"
+      }
+    ]
+  },
+  {
+    "japanese": "マザーテレサは仁愛の心で人々を救済した",
+    "order": 1535,
+    "sourceLines": [
+      2330
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-16-phan-1-.txt",
+        "line": 55,
+        "text": "マザーテレサは仁愛の心で人々を救済した"
+      }
+    ]
+  },
+  {
+    "japanese": "仁義を重んじる",
+    "order": 1536,
+    "sourceLines": [
+      2331
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-16-phan-1-.txt",
+        "line": 56,
+        "text": "仁義を重んじる"
+      }
+    ]
+  },
+  {
+    "japanese": "犯した罪を償う",
+    "order": 1537,
+    "sourceLines": [
+      2334
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-16-phan-1-.txt",
+        "line": 62,
+        "text": "犯した罪を償う"
+      }
+    ]
+  },
+  {
+    "japanese": "窓ガラス代を弁償してください！",
+    "order": 1538,
+    "sourceLines": [
+      2335
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-16-phan-1-.txt",
+        "line": 63,
+        "text": "窓ガラス代を弁償してください！"
+      }
+    ]
+  },
+  {
+    "japanese": "損害賠償請求をおこす",
+    "order": 1539,
+    "sourceLines": [
+      2336
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-16-phan-1-.txt",
+        "line": 64,
+        "text": "損害賠償請求をおこす"
+      }
+    ]
+  },
+  {
+    "japanese": "災害時に毛布を無償で貸与する",
+    "order": 1540,
+    "sourceLines": [
+      2337
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-16-phan-1-.txt",
+        "line": 65,
+        "text": "災害時に毛布を無償で貸与する"
+      }
+    ]
+  },
+  {
+    "japanese": "貯金のために倹約する",
+    "order": 1541,
+    "sourceLines": [
+      2340
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-16-phan-1-.txt",
+        "line": 70,
+        "text": "貯金のために倹約する"
+      }
+    ]
+  },
+  {
+    "japanese": "倹約家",
+    "order": 1542,
+    "sourceLines": [
+      2341
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-16-phan-1-.txt",
+        "line": 71,
+        "text": "倹約家"
+      }
+    ]
+  },
+  {
+    "japanese": "人生の伴侶を得る",
+    "order": 1543,
+    "sourceLines": [
+      2344
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-16-phan-1-.txt",
+        "line": 76,
+        "text": "人生の伴侶を得る"
+      }
+    ]
+  },
+  {
+    "japanese": "出家して僧侶になる",
+    "order": 1544,
+    "sourceLines": [
+      2345
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-16-phan-1-.txt",
+        "line": 77,
+        "text": "出家して僧侶になる"
+      }
+    ]
+  },
+  {
+    "japanese": "又の機会にしましょう",
+    "order": 1545,
+    "sourceLines": [
+      2348
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-16-phan-1-.txt",
+        "line": 84,
+        "text": "又の機会にしましょう"
+      }
+    ]
+  },
+  {
+    "japanese": "鉛筆、又はシャープペンシルで答案をマークして下さい",
+    "order": 1546,
+    "sourceLines": [
+      2349
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-16-phan-1-.txt",
+        "line": 85,
+        "text": "鉛筆、又はシャープペンシルで答案をマークして下さい"
+      }
+    ]
+  },
+  {
+    "japanese": "変な/嫌な奴",
+    "order": 1547,
+    "sourceLines": [
+      2353
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-16-phan-1-.txt",
+        "line": 91,
+        "text": "変な／嫌な奴"
+      }
+    ]
+  },
+  {
+    "japanese": "栗をゆでる",
+    "order": 1548,
+    "sourceLines": [
+      2356
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-16-phan-1-.txt",
+        "line": 96,
+        "text": "栗をゆでる"
+      }
+    ]
+  },
+  {
+    "japanese": "某氏の発言",
+    "order": 1549,
+    "sourceLines": [
+      2359
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-16-phan-1-.txt",
+        "line": 101,
+        "text": "某氏の発言"
+      }
+    ]
+  },
+  {
+    "japanese": "弊社と取引している某大企業は～～",
+    "order": 1550,
+    "sourceLines": [
+      2360
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-16-phan-1-.txt",
+        "line": 102,
+        "text": "弊社と取引している某大企業は～～"
+      }
+    ]
+  },
+  {
+    "japanese": "髪を茶色に染める",
+    "order": 1551,
+    "sourceLines": [
+      2363
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-16-phan-1-.txt",
+        "line": 109,
+        "text": "髪を茶色に染める"
+      }
+    ]
+  },
+  {
+    "japanese": "山が夕日に染まる",
+    "order": 1552,
+    "sourceLines": [
+      2364
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-16-phan-1-.txt",
+        "line": 110,
+        "text": "山が夕日に染まる"
+      }
+    ]
+  },
+  {
+    "japanese": "シャツに汗が染みる",
+    "order": 1553,
+    "sourceLines": [
+      2365
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-16-phan-1-.txt",
+        "line": 111,
+        "text": "シャツに汗が染みる"
+      }
+    ]
+  },
+  {
+    "japanese": "環境汚染",
+    "order": 1554,
+    "sourceLines": [
+      2366
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-16-phan-1-.txt",
+        "line": 112,
+        "text": "環境汚染"
+      }
+    ]
+  },
+  {
+    "japanese": "ウイルスに感染する",
+    "order": 1555,
+    "sourceLines": [
+      2367
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-16-phan-1-.txt",
+        "line": 113,
+        "text": "ウイルスに感染する"
+      }
+    ]
+  },
+  {
+    "japanese": "伝染病",
+    "order": 1556,
+    "sourceLines": [
+      2368
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-16-phan-1-.txt",
+        "line": 114,
+        "text": "伝染病"
+      }
+    ]
+  },
+  {
+    "japanese": "生ごみを廃棄する",
+    "order": 1557,
+    "sourceLines": [
+      2371
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-16-phan-1-.txt",
+        "line": 119,
+        "text": "生ごみを廃棄する"
+      }
+    ]
+  },
+  {
+    "japanese": "産業廃棄物",
+    "order": 1558,
+    "sourceLines": [
+      2372
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-16-phan-1-.txt",
+        "line": 120,
+        "text": "産業廃棄物"
+      }
+    ]
+  },
+  {
+    "japanese": "足を痛めて試合を棄権する",
+    "order": 1559,
+    "sourceLines": [
+      2373
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-16-phan-1-.txt",
+        "line": 121,
+        "text": "足を痛めて試合を棄権する"
+      }
+    ]
+  },
+  {
+    "japanese": "親としての責任を放棄する",
+    "order": 1560,
+    "sourceLines": [
+      2374
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-16-phan-1-.txt",
+        "line": 122,
+        "text": "親としての責任を放棄する"
+      }
+    ]
+  },
+  {
+    "japanese": "契約を破棄する",
+    "order": 1561,
+    "sourceLines": [
+      2375
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-16-phan-1-.txt",
+        "line": 123,
+        "text": "契約を破棄する"
+      }
+    ]
+  },
+  {
+    "japanese": "すぐ応用できる実践的な方法",
+    "order": 1562,
+    "sourceLines": [
+      2378
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-16-phan-1-.txt",
+        "line": 128,
+        "text": "すぐ応用できる実践的な方法"
+      }
+    ]
+  },
+  {
+    "japanese": "学んだことをすぐ実践する",
+    "order": 1563,
+    "sourceLines": [
+      2379
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-16-phan-1-.txt",
+        "line": 129,
+        "text": "学んだことをすぐ実践する"
+      }
+    ]
+  },
+  {
+    "japanese": "小銭",
+    "order": 1564,
+    "sourceLines": [
+      2382
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-16-phan-1-.txt",
+        "line": 135,
+        "text": "小銭"
+      }
+    ]
+  },
+  {
+    "japanese": "金銭感覚が狂っている人",
+    "order": 1565,
+    "sourceLines": [
+      2383
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-16-phan-1-.txt",
+        "line": 136,
+        "text": "金銭感覚が狂っている人"
+      }
+    ]
+  },
+  {
+    "japanese": "趣味を持つ",
+    "order": 1566,
+    "sourceLines": [
+      2386
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-16-phan-1-.txt",
+        "line": 142,
+        "text": "趣味を持つ"
+      }
+    ]
+  },
+  {
+    "japanese": "募金の趣旨に賛同する",
+    "order": 1567,
+    "sourceLines": [
+      2387
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-16-phan-1-.txt",
+        "line": 143,
+        "text": "募金の趣旨に賛同する"
+      }
+    ]
+  },
+  {
+    "japanese": "異国の趣がある町",
+    "order": 1568,
+    "sourceLines": [
+      2388
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-16-phan-1-.txt",
+        "line": 144,
+        "text": "異国の趣がある町"
+      }
+    ]
+  },
+  {
+    "japanese": "建設現場に赴く",
+    "order": 1569,
+    "sourceLines": [
+      2391
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-16-phan-1-.txt",
+        "line": 150,
+        "text": "建設現場に赴く"
+      }
+    ]
+  },
+  {
+    "japanese": "海外支店に赴任する",
+    "order": 1570,
+    "sourceLines": [
+      2392
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-16-phan-1-.txt",
+        "line": 151,
+        "text": "海外支店に赴任する"
+      }
+    ]
+  },
+  {
+    "japanese": "単身赴任",
+    "order": 1571,
+    "sourceLines": [
+      2393
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-16-phan-1-.txt",
+        "line": 152,
+        "text": "単身赴任"
+      }
+    ]
+  },
+  {
+    "japanese": "心の赴くままに生きる",
+    "order": 1572,
+    "sourceLines": [
+      2394
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-16-phan-1-.txt",
+        "line": 153,
+        "text": "心の赴くままに生きる"
+      }
+    ]
+  },
+  {
+    "japanese": "厄年を迎える",
+    "order": 1573,
+    "sourceLines": [
+      2397
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-16-phan-1-.txt",
+        "line": 160,
+        "text": "厄年を迎える"
+      }
+    ]
+  },
+  {
+    "japanese": "神社で厄を払う",
+    "order": 1574,
+    "sourceLines": [
+      2398
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-16-phan-1-.txt",
+        "line": 161,
+        "text": "神社で厄を払う"
+      }
+    ]
+  },
+  {
+    "japanese": "厄介なことに巻き込まれる",
+    "order": 1575,
+    "sourceLines": [
+      2399
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-16-phan-1-.txt",
+        "line": 162,
+        "text": "厄介なことに巻き込まれる"
+      }
+    ]
+  },
+  {
+    "japanese": "厄介な人",
+    "order": 1576,
+    "sourceLines": [
+      2400
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-16-phan-1-.txt",
+        "line": 163,
+        "text": "厄介な人"
+      }
+    ]
+  },
+  {
+    "japanese": "台風で川が氾濫する",
+    "order": 1577,
+    "sourceLines": [
+      2403
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-16-phan-1-.txt",
+        "line": 168,
+        "text": "台風で川が氾濫する"
+      }
+    ]
+  },
+  {
+    "japanese": "戦争で両親を失った哀れな子供たち",
+    "order": 1578,
+    "sourceLines": [
+      2406
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-16-phan-1-.txt",
+        "line": 174,
+        "text": "戦争で両親を失った哀れな子供たち"
+      }
+    ]
+  },
+  {
+    "japanese": "捨てられた子犬を哀れむ",
+    "order": 1579,
+    "sourceLines": [
+      2407
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-16-phan-1-.txt",
+        "line": 175,
+        "text": "捨てられた子犬を哀れむ"
+      }
+    ]
+  },
+  {
+    "japanese": "哀悼の意を表する",
+    "order": 1580,
+    "sourceLines": [
+      2408
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-16-phan-1-.txt",
+        "line": 176,
+        "text": "哀悼の意を表する"
+      }
+    ]
+  },
+  {
+    "japanese": "喜怒哀楽",
+    "order": 1581,
+    "sourceLines": [
+      2409
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-16-phan-1-.txt",
+        "line": 177,
+        "text": "喜怒哀楽"
+      }
+    ]
+  },
+  {
+    "japanese": "加齢とともに体力が衰える",
+    "order": 1582,
+    "sourceLines": [
+      2412
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-16-phan-1-.txt",
+        "line": 183,
+        "text": "加齢とともに体力が衰える"
+      }
+    ]
+  },
+  {
+    "japanese": "台風の勢力が衰える",
+    "order": 1583,
+    "sourceLines": [
+      2413
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-16-phan-1-.txt",
+        "line": 184,
+        "text": "台風の勢力が衰える"
+      }
+    ]
+  },
+  {
+    "japanese": "病気で衰弱する",
+    "order": 1584,
+    "sourceLines": [
+      2414
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-16-phan-1-.txt",
+        "line": 185,
+        "text": "病気で衰弱する"
+      }
+    ]
+  },
+  {
+    "japanese": "（産業/伝統文化）が衰退する",
+    "order": 1585,
+    "sourceLines": [
+      2415
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-16-phan-1-.txt",
+        "line": 186,
+        "text": "（産業／伝統文化）が衰退する"
+      }
+    ]
+  },
+  {
+    "japanese": "和洋折衷の家",
+    "order": 1586,
+    "sourceLines": [
+      2418
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-16-phan-1-.txt",
+        "line": 191,
+        "text": "和洋折衷の家"
+      }
+    ]
+  },
+  {
+    "japanese": "価格については、うまく間をとった折衷案を出すことができた",
+    "order": 1587,
+    "sourceLines": [
+      2419
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-16-phan-1-.txt",
+        "line": 192,
+        "text": "価格については、うまく間をとった折衷案を出すことができた"
+      }
+    ]
+  },
+  {
+    "japanese": "苦衷が顔に現れる",
+    "order": 1588,
+    "sourceLines": [
+      2420
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-16-phan-1-.txt",
+        "line": 193,
+        "text": "苦衷が顔に現れる"
+      }
+    ]
+  },
+  {
+    "japanese": "随筆を書く",
+    "order": 1589,
+    "sourceLines": [
+      2423
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-16-phan-1-.txt",
+        "line": 198,
+        "text": "随筆を書く"
+      }
+    ]
+  },
+  {
+    "japanese": "随筆家",
+    "order": 1590,
+    "sourceLines": [
+      2424
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-16-phan-1-.txt",
+        "line": 199,
+        "text": "随筆家"
+      }
+    ]
+  },
+  {
+    "japanese": "随時、質問を受け付けています",
+    "order": 1591,
+    "sourceLines": [
+      2425
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-16-phan-1-.txt",
+        "line": 200,
+        "text": "随時、質問を受け付けています"
+      }
+    ]
+  },
+  {
+    "japanese": "何か不安な点などがありましたら随時ご連絡ください",
+    "order": 1592,
+    "sourceLines": [
+      2426
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-16-phan-1-.txt",
+        "line": 201,
+        "text": "何か不安な点などがありましたら随時ご連絡ください"
+      }
+    ]
+  },
+  {
+    "japanese": "堕落した生活",
+    "order": 1593,
+    "sourceLines": [
+      2429
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-16-phan-1-.txt",
+        "line": 206,
+        "text": "堕落した生活"
+      }
+    ]
+  },
+  {
+    "japanese": "政治の堕落",
+    "order": 1594,
+    "sourceLines": [
+      2430
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-16-phan-1-.txt",
+        "line": 207,
+        "text": "政治の堕落"
+      }
+    ]
+  },
+  {
+    "japanese": "微笑を浮かべる",
+    "order": 1595,
+    "sourceLines": [
+      2433
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-16-phan-1-.txt",
+        "line": 212,
+        "text": "微笑を浮かべる"
+      }
+    ]
+  },
+  {
+    "japanese": "微量の毒物が発見された",
+    "order": 1596,
+    "sourceLines": [
+      2434
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-16-phan-1-.txt",
+        "line": 213,
+        "text": "微量の毒物が発見された"
+      }
+    ]
+  },
+  {
+    "japanese": "微々たる収入",
+    "order": 1597,
+    "sourceLines": [
+      2435
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-16-phan-1-.txt",
+        "line": 214,
+        "text": "微々たる収入"
+      }
+    ]
+  },
+  {
+    "japanese": "成功するか否かは微妙だ",
+    "order": 1598,
+    "sourceLines": [
+      2436
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-16-phan-1-.txt",
+        "line": 215,
+        "text": "成功するか否かは微妙だ"
+      }
+    ]
+  },
+  {
+    "japanese": "微力ながら精一杯務める",
+    "order": 1599,
+    "sourceLines": [
+      2437
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-16-phan-1-.txt",
+        "line": 216,
+        "text": "微力ながら精一杯務める"
+      }
+    ]
+  },
+  {
+    "japanese": "税金を徴収する",
+    "order": 1600,
+    "sourceLines": [
+      2440
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-16-phan-1-.txt",
+        "line": 221,
+        "text": "税金を徴収する"
+      }
+    ]
+  },
+  {
+    "japanese": "平和の象徴である白い鳩",
+    "order": 1601,
+    "sourceLines": [
+      2441
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-16-phan-1-.txt",
+        "line": 222,
+        "text": "平和の象徴である白い鳩"
+      }
+    ]
+  },
+  {
+    "japanese": "特徴のある声",
+    "order": 1602,
+    "sourceLines": [
+      2442
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-16-phan-1-.txt",
+        "line": 223,
+        "text": "特徴のある声"
+      }
+    ]
+  },
+  {
+    "japanese": "懲役3年の刑",
+    "order": 1603,
+    "sourceLines": [
+      2445
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-16-phan-1-.txt",
+        "line": 230,
+        "text": "懲役 3 年の刑"
+      }
+    ]
+  },
+  {
+    "japanese": "嘘をつく子を懲らしめる",
+    "order": 1604,
+    "sourceLines": [
+      2446
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-16-phan-1-.txt",
+        "line": 231,
+        "text": "嘘をつく子を懲らしめる"
+      }
+    ]
+  },
+  {
+    "japanese": "A:あいつまたあの崖登ろうとしてるよ！",
+    "order": 1605,
+    "sourceLines": [
+      2447
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-16-phan-1-.txt",
+        "line": 232,
+        "text": "A：あいつまたあの崖登ろうとしてるよ！"
+      }
+    ]
+  },
+  {
+    "japanese": "B:懲りないねー",
+    "order": 1606,
+    "sourceLines": [
+      2448
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-16-phan-1-.txt",
+        "line": 233,
+        "text": "B：懲りないねー"
+      }
+    ]
+  }
+]

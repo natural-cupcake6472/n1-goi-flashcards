@@ -1,0 +1,32 @@
+[
+  {
+    "japanese": "傷兵",
+    "order": 2263,
+    "sourceLines": [
+      3670
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "on-tap-n2-phan-3.txt",
+        "line": 259,
+        "text": "傷　　傷　　傷兵"
+      }
+    ]
+  },
+  {
+    "japanese": "優れる",
+    "order": 2264,
+    "sourceLines": [
+      3673
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "on-tap-n2-phan-3.txt",
+        "line": 261,
+        "text": "優　　優れる　　優秀"
+      }
+    ]
+  }
+]

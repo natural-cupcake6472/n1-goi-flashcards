@@ -1,0 +1,1773 @@
+[
+  {
+    "japanese": "相撲のチャンピオンに挑む",
+    "order": 0,
+    "sourceLines": [
+      1
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-1-phan-1-.txt",
+        "line": 9,
+        "text": "相撲のチャンピオンに挑む"
+      }
+    ]
+  },
+  {
+    "japanese": "難問に挑戦する",
+    "order": 1,
+    "sourceLines": [
+      2
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-1-phan-1-.txt",
+        "line": 10,
+        "text": "難問に挑戦する"
+      }
+    ]
+  },
+  {
+    "japanese": "挑戦者",
+    "order": 2,
+    "sourceLines": [
+      3
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-1-phan-1-.txt",
+        "line": 11,
+        "text": "挑戦者"
+      }
+    ]
+  },
+  {
+    "japanese": "桃色の着物を着た成人女性",
+    "order": 3,
+    "sourceLines": [
+      4
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-1-phan-1-.txt",
+        "line": 17,
+        "text": "桃色の着物を着た成人女性"
+      }
+    ]
+  },
+  {
+    "japanese": "白桃",
+    "order": 4,
+    "sourceLines": [
+      5
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-1-phan-1-.txt",
+        "line": 18,
+        "text": "白桃"
+      }
+    ]
+  },
+  {
+    "japanese": "うさぎが跳ねる",
+    "order": 5,
+    "sourceLines": [
+      6
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-1-phan-1-.txt",
+        "line": 24,
+        "text": "うさぎが跳ねる"
+      }
+    ]
+  },
+  {
+    "japanese": "泥が跳ねて靴が汚れた",
+    "order": 6,
+    "sourceLines": [
+      7
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-1-phan-1-.txt",
+        "line": 25,
+        "text": "泥が跳ねて靴が汚れた"
+      }
+    ]
+  },
+  {
+    "japanese": "とび箱を跳ぶ",
+    "order": 7,
+    "sourceLines": [
+      8
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-1-phan-1-.txt",
+        "line": 26,
+        "text": "とび箱を跳ぶ"
+      }
+    ]
+  },
+  {
+    "japanese": "お嬢様育ちの世間知らず",
+    "order": 8,
+    "sourceLines": [
+      9
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-1-phan-1-.txt",
+        "line": 31,
+        "text": "お嬢様育ちの世間知らず"
+      }
+    ]
+  },
+  {
+    "japanese": "お坊ちゃん",
+    "order": 9,
+    "sourceLines": [
+      10
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-1-phan-1-.txt",
+        "line": 32,
+        "text": "お坊ちゃん"
+      }
+    ]
+  },
+  {
+    "japanese": "美しい景色を眺める",
+    "order": 10,
+    "sourceLines": [
+      11
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-1-phan-1-.txt",
+        "line": 38,
+        "text": "美しい景色を眺める"
+      }
+    ]
+  },
+  {
+    "japanese": "窓からの眺望が素晴らしい",
+    "order": 11,
+    "sourceLines": [
+      12
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-1-phan-1-.txt",
+        "line": 39,
+        "text": "窓からの眺望が素晴らしい"
+      }
+    ]
+  },
+  {
+    "japanese": "席/道を譲る",
+    "order": 12,
+    "sourceLines": [
+      13
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-1-phan-1-.txt",
+        "line": 45,
+        "text": "席/道を譲る"
+      }
+    ]
+  },
+  {
+    "japanese": "親譲りの性格",
+    "order": 13,
+    "sourceLines": [
+      14
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-1-phan-1-.txt",
+        "line": 46,
+        "text": "親譲りの性格"
+      }
+    ]
+  },
+  {
+    "japanese": "相手に譲歩を求める",
+    "order": 14,
+    "sourceLines": [
+      15
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-1-phan-1-.txt",
+        "line": 47,
+        "text": "相手に譲歩を求める"
+      }
+    ]
+  },
+  {
+    "japanese": "財産を譲渡する",
+    "order": 15,
+    "sourceLines": [
+      16
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-1-phan-1-.txt",
+        "line": 48,
+        "text": "財産を譲渡する"
+      }
+    ]
+  },
+  {
+    "japanese": "謙虚な人",
+    "order": 16,
+    "sourceLines": [
+      17
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-1-phan-1-.txt",
+        "line": 53,
+        "text": "謙虚な人"
+      }
+    ]
+  },
+  {
+    "japanese": "過ちを謙虚に認める",
+    "order": 17,
+    "sourceLines": [
+      18
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-1-phan-1-.txt",
+        "line": 54,
+        "text": "過ちを謙虚に認める"
+      }
+    ]
+  },
+  {
+    "japanese": "尊敬語と謙譲語",
+    "order": 18,
+    "sourceLines": [
+      19
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-1-phan-1-.txt",
+        "line": 55,
+        "text": "尊敬語と謙譲語"
+      }
+    ]
+  },
+  {
+    "japanese": "皇帝の位につく",
+    "order": 19,
+    "sourceLines": [
+      20
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-1-phan-1-.txt",
+        "line": 60,
+        "text": "皇帝の位につく"
+      }
+    ]
+  },
+  {
+    "japanese": "ローマ帝国",
+    "order": 20,
+    "sourceLines": [
+      21
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-1-phan-1-.txt",
+        "line": 61,
+        "text": "ローマ帝国"
+      }
+    ]
+  },
+  {
+    "japanese": "お金がないから進学をきっぱりと諦める",
+    "order": 21,
+    "sourceLines": [
+      22
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-1-phan-1-.txt",
+        "line": 67,
+        "text": "お金がないから進学をきっぱりと諦める"
+      }
+    ]
+  },
+  {
+    "japanese": "諦めがつかない",
+    "order": 22,
+    "sourceLines": [
+      23
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-1-phan-1-.txt",
+        "line": 68,
+        "text": "諦めがつかない"
+      }
+    ]
+  },
+  {
+    "japanese": "諦観の境地",
+    "order": 23,
+    "sourceLines": [
+      24
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-1-phan-1-.txt",
+        "line": 69,
+        "text": "諦観の境地"
+      }
+    ]
+  },
+  {
+    "japanese": "身が引き締まる",
+    "order": 24,
+    "sourceLines": [
+      25
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-1-phan-1-.txt",
+        "line": 75,
+        "text": "身が引き締まる"
+      }
+    ]
+  },
+  {
+    "japanese": "犯罪を取り締まる",
+    "order": 25,
+    "sourceLines": [
+      26
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-1-phan-1-.txt",
+        "line": 76,
+        "text": "犯罪を取り締まる"
+      }
+    ]
+  },
+  {
+    "japanese": "手綱をきつく締める",
+    "order": 26,
+    "sourceLines": [
+      27
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-1-phan-1-.txt",
+        "line": 77,
+        "text": "手綱をきつく締める"
+      }
+    ]
+  },
+  {
+    "japanese": "原稿の締め切り",
+    "order": 27,
+    "sourceLines": [
+      28
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-1-phan-1-.txt",
+        "line": 78,
+        "text": "原稿の締め切り"
+      }
+    ]
+  },
+  {
+    "japanese": "条約を締結する",
+    "order": 28,
+    "sourceLines": [
+      29
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-1-phan-1-.txt",
+        "line": 79,
+        "text": "条約を締結する"
+      }
+    ]
+  },
+  {
+    "japanese": "被害が全国に及ぶ",
+    "order": 29,
+    "sourceLines": [
+      30
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-1-phan-1-.txt",
+        "line": 88,
+        "text": "被害が全国に及ぶ"
+      }
+    ]
+  },
+  {
+    "japanese": "影響を及ぼす",
+    "order": 30,
+    "sourceLines": [
+      31
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-1-phan-1-.txt",
+        "line": 89,
+        "text": "影響を及ぼす"
+      }
+    ]
+  },
+  {
+    "japanese": "東京、大阪及び京都で学会が開催される",
+    "order": 31,
+    "sourceLines": [
+      32
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-1-phan-1-.txt",
+        "line": 90,
+        "text": "東京、大阪及び京都で学会が開催される"
+      }
+    ]
+  },
+  {
+    "japanese": "インターネットが普及する",
+    "order": 32,
+    "sourceLines": [
+      33
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-1-phan-1-.txt",
+        "line": 91,
+        "text": "インターネットが普及する"
+      }
+    ]
+  },
+  {
+    "japanese": "責任を追及する",
+    "order": 33,
+    "sourceLines": [
+      34
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-1-phan-1-.txt",
+        "line": 92,
+        "text": "責任を追及する"
+      }
+    ]
+  },
+  {
+    "japanese": "高価な商品を扱う店",
+    "order": 34,
+    "sourceLines": [
+      35
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-1-phan-1-.txt",
+        "line": 97,
+        "text": "高価な商品を扱う店"
+      }
+    ]
+  },
+  {
+    "japanese": "母は私を子供扱いする",
+    "order": 35,
+    "sourceLines": [
+      36
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-1-phan-1-.txt",
+        "line": 98,
+        "text": "母は私を子供扱いする"
+      }
+    ]
+  },
+  {
+    "japanese": "丁寧に取り扱う",
+    "order": 36,
+    "sourceLines": [
+      37
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-1-phan-1-.txt",
+        "line": 99,
+        "text": "丁寧に取り扱う"
+      }
+    ]
+  },
+  {
+    "japanese": "猛烈に勉強する",
+    "order": 37,
+    "sourceLines": [
+      38
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-1-phan-1-.txt",
+        "line": 104,
+        "text": "猛烈に勉強する"
+      }
+    ]
+  },
+  {
+    "japanese": "強烈な印象",
+    "order": 38,
+    "sourceLines": [
+      39
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-1-phan-1-.txt",
+        "line": 105,
+        "text": "強烈な印象"
+      }
+    ]
+  },
+  {
+    "japanese": "烈火のごとく怒る",
+    "order": 39,
+    "sourceLines": [
+      40
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-1-phan-1-.txt",
+        "line": 106,
+        "text": "烈火のごとく怒る"
+      }
+    ]
+  },
+  {
+    "japanese": "熱烈に歓迎する",
+    "order": 40,
+    "sourceLines": [
+      41
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-1-phan-1-.txt",
+        "line": 107,
+        "text": "熱烈に歓迎する"
+      }
+    ]
+  },
+  {
+    "japanese": "傷口が裂ける",
+    "order": 41,
+    "sourceLines": [
+      42
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-1-phan-1-.txt",
+        "line": 113,
+        "text": "傷口が裂ける"
+      }
+    ]
+  },
+  {
+    "japanese": "口が裂けても言えない",
+    "order": 42,
+    "sourceLines": [
+      43
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-1-phan-1-.txt",
+        "line": 114,
+        "text": "口が裂けても言えない"
+      }
+    ]
+  },
+  {
+    "japanese": "髪を裂く",
+    "order": 43,
+    "sourceLines": [
+      44
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-1-phan-1-.txt",
+        "line": 115,
+        "text": "髪を裂く"
+      }
+    ]
+  },
+  {
+    "japanese": "二人の仲を裂く",
+    "order": 44,
+    "sourceLines": [
+      45
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-1-phan-1-.txt",
+        "line": 116,
+        "text": "二人の仲を裂く"
+      }
+    ]
+  },
+  {
+    "japanese": "交渉決裂",
+    "order": 45,
+    "sourceLines": [
+      46
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-1-phan-1-.txt",
+        "line": 117,
+        "text": "交渉決裂"
+      }
+    ]
+  },
+  {
+    "japanese": "風船が破裂する",
+    "order": 46,
+    "sourceLines": [
+      47
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-1-phan-1-.txt",
+        "line": 118,
+        "text": "風船が破裂する"
+      }
+    ]
+  },
+  {
+    "japanese": "細胞が分裂する",
+    "order": 47,
+    "sourceLines": [
+      48
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-1-phan-1-.txt",
+        "line": 119,
+        "text": "細胞が分裂する"
+      }
+    ]
+  },
+  {
+    "japanese": "裂け目",
+    "order": 48,
+    "sourceLines": [
+      49
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-1-phan-1-.txt",
+        "line": 120,
+        "text": "裂け目"
+      }
+    ]
+  },
+  {
+    "japanese": "勇敢な行為",
+    "order": 49,
+    "sourceLines": [
+      50
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-1-phan-1-.txt",
+        "line": 125,
+        "text": "勇敢な行為"
+      }
+    ]
+  },
+  {
+    "japanese": "不正行為",
+    "order": 50,
+    "sourceLines": [
+      51
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-1-phan-1-.txt",
+        "line": 126,
+        "text": "不正行為"
+      }
+    ]
+  },
+  {
+    "japanese": "作為的な文章",
+    "order": 51,
+    "sourceLines": [
+      52
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-1-phan-1-.txt",
+        "line": 127,
+        "text": "作為的な文章"
+      }
+    ]
+  },
+  {
+    "japanese": "データを無作為に抽出する",
+    "order": 52,
+    "sourceLines": [
+      53
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-1-phan-1-.txt",
+        "line": 128,
+        "text": "データを無作為に抽出する"
+      }
+    ]
+  },
+  {
+    "japanese": "年齢を偽る",
+    "order": 53,
+    "sourceLines": [
+      54
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-1-phan-1-.txt",
+        "line": 134,
+        "text": "年齢を偽る"
+      }
+    ]
+  },
+  {
+    "japanese": "性別を偽ってる男",
+    "order": 54,
+    "sourceLines": [
+      55
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-1-phan-1-.txt",
+        "line": 135,
+        "text": "性別を偽ってる男"
+      }
+    ]
+  },
+  {
+    "japanese": "お札を偽造する",
+    "order": 55,
+    "sourceLines": [
+      56
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-1-phan-1-.txt",
+        "line": 136,
+        "text": "お札を偽造する"
+      }
+    ]
+  },
+  {
+    "japanese": "偽物",
+    "order": 56,
+    "sourceLines": [
+      57,
+      3207
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-1-phan-1-.txt",
+        "line": 137,
+        "text": "偽物"
+      }
+    ]
+  },
+  {
+    "japanese": "講義を聴く",
+    "order": 57,
+    "sourceLines": [
+      58
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-1-phan-1-.txt",
+        "line": 143,
+        "text": "講義を聴く"
+      }
+    ]
+  },
+  {
+    "japanese": "聴解問題",
+    "order": 58,
+    "sourceLines": [
+      59
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-1-phan-1-.txt",
+        "line": 144,
+        "text": "聴解問題"
+      }
+    ]
+  },
+  {
+    "japanese": "聴覚が鋭い",
+    "order": 59,
+    "sourceLines": [
+      60
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-1-phan-1-.txt",
+        "line": 145,
+        "text": "聴覚が鋭い"
+      }
+    ]
+  },
+  {
+    "japanese": "聴講生",
+    "order": 60,
+    "sourceLines": [
+      61
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-1-phan-1-.txt",
+        "line": 146,
+        "text": "聴講生"
+      }
+    ]
+  },
+  {
+    "japanese": "聴診器",
+    "order": 61,
+    "sourceLines": [
+      62
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-1-phan-1-.txt",
+        "line": 147,
+        "text": "聴診器"
+      }
+    ]
+  },
+  {
+    "japanese": "徳の高い人",
+    "order": 62,
+    "sourceLines": [
+      63
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-1-phan-1-.txt",
+        "line": 152,
+        "text": "徳の高い人"
+      }
+    ]
+  },
+  {
+    "japanese": "道徳的な行い",
+    "order": 63,
+    "sourceLines": [
+      64
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-1-phan-1-.txt",
+        "line": 153,
+        "text": "道徳的な行い"
+      }
+    ]
+  },
+  {
+    "japanese": "人徳のある人",
+    "order": 64,
+    "sourceLines": [
+      65
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-1-phan-1-.txt",
+        "line": 154,
+        "text": "人徳のある人"
+      }
+    ]
+  },
+  {
+    "japanese": "謙譲の美徳",
+    "order": 65,
+    "sourceLines": [
+      66
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-1-phan-1-.txt",
+        "line": 155,
+        "text": "謙譲の美徳"
+      }
+    ]
+  },
+  {
+    "japanese": "月が雲に隠れる",
+    "order": 66,
+    "sourceLines": [
+      67
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-1-phan-1-.txt",
+        "line": 161,
+        "text": "月が雲に隠れる"
+      }
+    ]
+  },
+  {
+    "japanese": "姿を隠す",
+    "order": 67,
+    "sourceLines": [
+      68
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-1-phan-1-.txt",
+        "line": 162,
+        "text": "姿を隠す"
+      }
+    ]
+  },
+  {
+    "japanese": "店を息子に譲って隠居する",
+    "order": 68,
+    "sourceLines": [
+      69
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-1-phan-1-.txt",
+        "line": 163,
+        "text": "店を息子に譲って隠居する"
+      }
+    ]
+  },
+  {
+    "japanese": "穏やかな海",
+    "order": 69,
+    "sourceLines": [
+      70
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-1-phan-1-.txt",
+        "line": 169,
+        "text": "穏やかな海　　穏やかな表情"
+      }
+    ]
+  },
+  {
+    "japanese": "穏やかな表情",
+    "order": 70,
+    "sourceLines": [
+      71
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-1-phan-1-.txt",
+        "line": 169,
+        "text": "穏やかな海　　穏やかな表情"
+      }
+    ]
+  },
+  {
+    "japanese": "平穏な生活",
+    "order": 71,
+    "sourceLines": [
+      72
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-1-phan-1-.txt",
+        "line": 170,
+        "text": "平穏な生活　　不穏な空気"
+      }
+    ]
+  },
+  {
+    "japanese": "不穏な空気",
+    "order": 72,
+    "sourceLines": [
+      73
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-1-phan-1-.txt",
+        "line": 170,
+        "text": "平穏な生活　　不穏な空気"
+      }
+    ]
+  },
+  {
+    "japanese": "問題を穏便に済ませる",
+    "order": 73,
+    "sourceLines": [
+      74
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-1-phan-1-.txt",
+        "line": 171,
+        "text": "問題を穏便に済ませる"
+      }
+    ]
+  },
+  {
+    "japanese": "財産を奪う",
+    "order": 74,
+    "sourceLines": [
+      75
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-1-phan-1-.txt",
+        "line": 179,
+        "text": "財産を奪う"
+      }
+    ]
+  },
+  {
+    "japanese": "美しいビキニ姿に目を奪われる",
+    "order": 75,
+    "sourceLines": [
+      76
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-1-phan-1-.txt",
+        "line": 180,
+        "text": "美しいビキニ姿に目を奪われる"
+      }
+    ]
+  },
+  {
+    "japanese": "病は突然に命を奪う",
+    "order": 76,
+    "sourceLines": [
+      77
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-1-phan-1-.txt",
+        "line": 181,
+        "text": "病は突然に命を奪う"
+      }
+    ]
+  },
+  {
+    "japanese": "強盗が金品を略奪する",
+    "order": 77,
+    "sourceLines": [
+      78
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-1-phan-1-.txt",
+        "line": 182,
+        "text": "強盗が金品を略奪する"
+      }
+    ]
+  },
+  {
+    "japanese": "政権を奪還する",
+    "order": 78,
+    "sourceLines": [
+      79
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-1-phan-1-.txt",
+        "line": 183,
+        "text": "政権を奪還する"
+      }
+    ]
+  },
+  {
+    "japanese": "勇気を奮う",
+    "order": 79,
+    "sourceLines": [
+      80
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-1-phan-1-.txt",
+        "line": 189,
+        "text": "勇気を奮う"
+      }
+    ]
+  },
+  {
+    "japanese": "インフルエンザが猛威を奮う",
+    "order": 80,
+    "sourceLines": [
+      81
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-1-phan-1-.txt",
+        "line": 190,
+        "text": "インフルエンザが猛威を奮う"
+      }
+    ]
+  },
+  {
+    "japanese": "男は何に興奮する",
+    "order": 81,
+    "sourceLines": [
+      82
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-1-phan-1-.txt",
+        "line": 191,
+        "text": "男は何に興奮する"
+      }
+    ]
+  },
+  {
+    "japanese": "巨大国アメリカを相手に 15 時間も奮闘したが、交渉は決裂した",
+    "order": 82,
+    "sourceLines": [
+      83
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-1-phan-1-.txt",
+        "line": 192,
+        "text": "巨大国アメリカを相手に 15 時間も奮闘したが、交渉は決裂した"
+      }
+    ]
+  },
+  {
+    "japanese": "奮発して高級な肉を買う",
+    "order": 83,
+    "sourceLines": [
+      84
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-1-phan-1-.txt",
+        "line": 193,
+        "text": "奮発して高級な肉を買う"
+      }
+    ]
+  },
+  {
+    "japanese": "明治時代の庶民の生活",
+    "order": 84,
+    "sourceLines": [
+      85
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-1-phan-1-.txt",
+        "line": 198,
+        "text": "明治時代の庶民の生活"
+      }
+    ]
+  },
+  {
+    "japanese": "庶民的な政治家",
+    "order": 85,
+    "sourceLines": [
+      86
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-1-phan-1-.txt",
+        "line": 199,
+        "text": "庶民的な政治家"
+      }
+    ]
+  },
+  {
+    "japanese": "会社の庶務課",
+    "order": 86,
+    "sourceLines": [
+      87
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-1-phan-1-.txt",
+        "line": 200,
+        "text": "会社の庶務課"
+      }
+    ]
+  },
+  {
+    "japanese": "カーテンを閉めて光を遮る",
+    "order": 87,
+    "sourceLines": [
+      88
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-1-phan-1-.txt",
+        "line": 206,
+        "text": "カーテンを閉めて光を遮る"
+      }
+    ]
+  },
+  {
+    "japanese": "相手の言葉を遮る",
+    "order": 88,
+    "sourceLines": [
+      89
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-1-phan-1-.txt",
+        "line": 207,
+        "text": "相手の言葉を遮る"
+      }
+    ]
+  },
+  {
+    "japanese": "かぶるだけで周りの音を遮断する",
+    "order": 89,
+    "sourceLines": [
+      90
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-1-phan-1-.txt",
+        "line": 208,
+        "text": "かぶるだけで周りの音を遮断する"
+      }
+    ]
+  },
+  {
+    "japanese": "交通を遮断する",
+    "order": 90,
+    "sourceLines": [
+      91
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-1-phan-1-.txt",
+        "line": 209,
+        "text": "交通を遮断する"
+      }
+    ]
+  },
+  {
+    "japanese": "踏切の遮断機",
+    "order": 91,
+    "sourceLines": [
+      92
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-1-phan-1-.txt",
+        "line": 210,
+        "text": "踏切の遮断機"
+      }
+    ]
+  },
+  {
+    "japanese": "バリケードを排除する",
+    "order": 92,
+    "sourceLines": [
+      93
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-1-phan-1-.txt",
+        "line": 215,
+        "text": "バリケードを排除する"
+      }
+    ]
+  },
+  {
+    "japanese": "老廃物を体外に排出する",
+    "order": 93,
+    "sourceLines": [
+      94
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-1-phan-1-.txt",
+        "line": 216,
+        "text": "老廃物を体外に排出する"
+      }
+    ]
+  },
+  {
+    "japanese": "排気ガス",
+    "order": 94,
+    "sourceLines": [
+      95
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-1-phan-1-.txt",
+        "line": 217,
+        "text": "排気ガス"
+      }
+    ]
+  },
+  {
+    "japanese": "扉を開く",
+    "order": 95,
+    "sourceLines": [
+      96
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-1-phan-1-.txt",
+        "line": 223,
+        "text": "扉を開く"
+      }
+    ]
+  },
+  {
+    "japanese": "本の扉",
+    "order": 96,
+    "sourceLines": [
+      97
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-1-phan-1-.txt",
+        "line": 224,
+        "text": "本の扉"
+      }
+    ]
+  },
+  {
+    "japanese": "鉄の門扉",
+    "order": 97,
+    "sourceLines": [
+      98
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-1-phan-1-.txt",
+        "line": 225,
+        "text": "鉄の門扉"
+      }
+    ]
+  },
+  {
+    "japanese": "責任を免れる",
+    "order": 98,
+    "sourceLines": [
+      99
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-1-phan-1-.txt",
+        "line": 231,
+        "text": "責任を免れる"
+      }
+    ]
+  },
+  {
+    "japanese": "車の免許を取る",
+    "order": 99,
+    "sourceLines": [
+      100
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-1-phan-1-.txt",
+        "line": 232,
+        "text": "車の免許を取る"
+      }
+    ]
+  },
+  {
+    "japanese": "一次試験を免除される",
+    "order": 100,
+    "sourceLines": [
+      101
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-1-phan-1-.txt",
+        "line": 233,
+        "text": "一次試験を免除される"
+      }
+    ]
+  },
+  {
+    "japanese": "免税品",
+    "order": 101,
+    "sourceLines": [
+      102
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-1-phan-1-.txt",
+        "line": 234,
+        "text": "免税品"
+      }
+    ]
+  },
+  {
+    "japanese": "休日出勤なんて御免だ",
+    "order": 102,
+    "sourceLines": [
+      103
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-1-phan-1-.txt",
+        "line": 235,
+        "text": "休日出勤なんて御免だ"
+      }
+    ]
+  },
+  {
+    "japanese": "免職になる",
+    "order": 103,
+    "sourceLines": [
+      104
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-1-phan-1-.txt",
+        "line": 236,
+        "text": "免職になる"
+      }
+    ]
+  },
+  {
+    "japanese": "好機を逸する",
+    "order": 104,
+    "sourceLines": [
+      105
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-1-phan-1-.txt",
+        "line": 241,
+        "text": "好機を逸する"
+      }
+    ]
+  },
+  {
+    "japanese": "話が逸脱する",
+    "order": 105,
+    "sourceLines": [
+      106
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-1-phan-1-.txt",
+        "line": 242,
+        "text": "話が逸脱する"
+      }
+    ]
+  },
+  {
+    "japanese": "逸材",
+    "order": 106,
+    "sourceLines": [
+      107
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-1-phan-1-.txt",
+        "line": 245,
+        "text": "逸材"
+      }
+    ]
+  },
+  {
+    "japanese": "シートで車を覆う",
+    "order": 107,
+    "sourceLines": [
+      108
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-1-phan-1-.txt",
+        "line": 252,
+        "text": "シートで車を覆う"
+      }
+    ]
+  },
+  {
+    "japanese": "空が厚い雲に覆われている",
+    "order": 108,
+    "sourceLines": [
+      109
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-1-phan-1-.txt",
+        "line": 253,
+        "text": "空が厚い雲に覆われている"
+      }
+    ]
+  },
+  {
+    "japanese": "政権が覆る",
+    "order": 109,
+    "sourceLines": [
+      110
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-1-phan-1-.txt",
+        "line": 254,
+        "text": "政権が覆る"
+      }
+    ]
+  },
+  {
+    "japanese": "一審の判決を覆す",
+    "order": 110,
+    "sourceLines": [
+      111
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-1-phan-1-.txt",
+        "line": 255,
+        "text": "一審の判決を覆す"
+      }
+    ]
+  },
+  {
+    "japanese": "覆面をした強盗",
+    "order": 111,
+    "sourceLines": [
+      112
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-1-phan-1-.txt",
+        "line": 256,
+        "text": "覆面をした強盗"
+      }
+    ]
+  },
+  {
+    "japanese": "靴を履く",
+    "order": 112,
+    "sourceLines": [
+      113
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-1-phan-1-.txt",
+        "line": 262,
+        "text": "靴を履く"
+      }
+    ]
+  },
+  {
+    "japanese": "履き物",
+    "order": 113,
+    "sourceLines": [
+      114
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-1-phan-1-.txt",
+        "line": 263,
+        "text": "履き物"
+      }
+    ]
+  },
+  {
+    "japanese": "履歴書",
+    "order": 114,
+    "sourceLines": [
+      115
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-1-phan-1-.txt",
+        "line": 264,
+        "text": "履歴書"
+      }
+    ]
+  },
+  {
+    "japanese": "契約を履行する",
+    "order": 115,
+    "sourceLines": [
+      116
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-1-phan-1-.txt",
+        "line": 265,
+        "text": "契約を履行する"
+      }
+    ]
+  },
+  {
+    "japanese": "専門科目の履修登録",
+    "order": 116,
+    "sourceLines": [
+      117
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-1-phan-1-.txt",
+        "line": 266,
+        "text": "専門科目の履修登録"
+      }
+    ]
+  },
+  {
+    "japanese": "草履",
+    "order": 117,
+    "sourceLines": [
+      118
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-1-phan-1-.txt",
+        "line": 267,
+        "text": "草履"
+      }
+    ]
+  }
+]

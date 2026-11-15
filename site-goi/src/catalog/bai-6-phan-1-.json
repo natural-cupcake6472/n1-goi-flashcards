@@ -1,0 +1,1472 @@
+[
+  {
+    "japanese": "雨上がりに虹が見えた。",
+    "order": 534,
+    "sourceLines": [
+      689
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-6-phan-1-.txt",
+        "line": 8,
+        "text": "雨上がりに虹が見えた。"
+      }
+    ]
+  },
+  {
+    "japanese": "川辺に無数の蛍が光っている",
+    "order": 535,
+    "sourceLines": [
+      692
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-6-phan-1-.txt",
+        "line": 14,
+        "text": "川辺に無数の蛍が光っている"
+      }
+    ]
+  },
+  {
+    "japanese": "蛍光灯",
+    "order": 536,
+    "sourceLines": [
+      693
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-6-phan-1-.txt",
+        "line": 15,
+        "text": "蛍光灯"
+      }
+    ]
+  },
+  {
+    "japanese": "蛍光ペン",
+    "order": 537,
+    "sourceLines": [
+      694
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-6-phan-1-.txt",
+        "line": 16,
+        "text": "蛍光ペン"
+      }
+    ]
+  },
+  {
+    "japanese": "アイスティが濁る",
+    "order": 538,
+    "sourceLines": [
+      697
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-6-phan-1-.txt",
+        "line": 23,
+        "text": "アイスティが濁る"
+      }
+    ]
+  },
+  {
+    "japanese": "お茶を濁す",
+    "order": 539,
+    "sourceLines": [
+      698
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-6-phan-1-.txt",
+        "line": 24,
+        "text": "お茶を濁す"
+      }
+    ]
+  },
+  {
+    "japanese": "濁流にのまれる",
+    "order": 540,
+    "sourceLines": [
+      699
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-6-phan-1-.txt",
+        "line": 25,
+        "text": "濁流にのまれる"
+      }
+    ]
+  },
+  {
+    "japanese": "濁音",
+    "order": 541,
+    "sourceLines": [
+      700
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-6-phan-1-.txt",
+        "line": 26,
+        "text": "濁音"
+      }
+    ]
+  },
+  {
+    "japanese": "愚かな",
+    "order": 542,
+    "sourceLines": [
+      703
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-6-phan-1-.txt",
+        "line": 32,
+        "text": "愚かな"
+      }
+    ]
+  },
+  {
+    "japanese": "この愚か者が！",
+    "order": 543,
+    "sourceLines": [
+      704
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-6-phan-1-.txt",
+        "line": 33,
+        "text": "この愚か者が！"
+      }
+    ]
+  },
+  {
+    "japanese": "愚問ですね",
+    "order": 544,
+    "sourceLines": [
+      705
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-6-phan-1-.txt",
+        "line": 34,
+        "text": "愚問ですね"
+      }
+    ]
+  },
+  {
+    "japanese": "政党に属する",
+    "order": 545,
+    "sourceLines": [
+      708
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-6-phan-1-.txt",
+        "line": 39,
+        "text": "政党に属する"
+      }
+    ]
+  },
+  {
+    "japanese": "所属はどちらでしょうか営業２課に所属しております",
+    "order": 546,
+    "sourceLines": [
+      709
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-6-phan-1-.txt",
+        "line": 40,
+        "text": "所属はどちらでしょうか営業２課に所属しております"
+      }
+    ]
+  },
+  {
+    "japanese": "大学の付属病院",
+    "order": 547,
+    "sourceLines": [
+      710
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-6-phan-1-.txt",
+        "line": 41,
+        "text": "大学の付属病院"
+      }
+    ]
+  },
+  {
+    "japanese": "金属アレルギー",
+    "order": 548,
+    "sourceLines": [
+      711
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-6-phan-1-.txt",
+        "line": 42,
+        "text": "金属アレルギー"
+      }
+    ]
+  },
+  {
+    "japanese": "貴金属",
+    "order": 549,
+    "sourceLines": [
+      712
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-6-phan-1-.txt",
+        "line": 43,
+        "text": "貴金属"
+      }
+    ]
+  },
+  {
+    "japanese": "会社に、待遇の改善を要求する",
+    "order": 550,
+    "sourceLines": [
+      715
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-6-phan-1-.txt",
+        "line": 48,
+        "text": "会社に、待遇の改善を要求する"
+      }
+    ]
+  },
+  {
+    "japanese": "恵まれた境遇",
+    "order": 551,
+    "sourceLines": [
+      716
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-6-phan-1-.txt",
+        "line": 49,
+        "text": "恵まれた境遇"
+      }
+    ]
+  },
+  {
+    "japanese": "経験者優遇（募集要項で）",
+    "order": 552,
+    "sourceLines": [
+      717
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-6-phan-1-.txt",
+        "line": 50,
+        "text": "経験者優遇（募集要項で）"
+      }
+    ]
+  },
+  {
+    "japanese": "こんなところで会うとは奇遇ですね。",
+    "order": 553,
+    "sourceLines": [
+      718
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-6-phan-1-.txt",
+        "line": 51,
+        "text": "こんなところで会うとは奇遇ですね。"
+      }
+    ]
+  },
+  {
+    "japanese": "翼の大きな鳥",
+    "order": 554,
+    "sourceLines": [
+      721
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-6-phan-1-.txt",
+        "line": 57,
+        "text": "翼の大きな鳥"
+      }
+    ]
+  },
+  {
+    "japanese": "航空機の尾翼",
+    "order": 555,
+    "sourceLines": [
+      722
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-6-phan-1-.txt",
+        "line": 58,
+        "text": "航空機の尾翼"
+      }
+    ]
+  },
+  {
+    "japanese": "右翼手",
+    "order": 556,
+    "sourceLines": [
+      723
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-6-phan-1-.txt",
+        "line": 59,
+        "text": "右翼手"
+      }
+    ]
+  },
+  {
+    "japanese": "扇子",
+    "order": 557,
+    "sourceLines": [
+      726
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-6-phan-1-.txt",
+        "line": 64,
+        "text": "扇子"
+      }
+    ]
+  },
+  {
+    "japanese": "換気扇を掃除する",
+    "order": 558,
+    "sourceLines": [
+      727
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-6-phan-1-.txt",
+        "line": 65,
+        "text": "換気扇を掃除する"
+      }
+    ]
+  },
+  {
+    "japanese": "首かけ扇風機",
+    "order": 559,
+    "sourceLines": [
+      728
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-6-phan-1-.txt",
+        "line": 66,
+        "text": "首かけ 扇風機"
+      }
+    ]
+  },
+  {
+    "japanese": "海で溺れる",
+    "order": 560,
+    "sourceLines": [
+      731
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-6-phan-1-.txt",
+        "line": 72,
+        "text": "海で溺れる"
+      }
+    ]
+  },
+  {
+    "japanese": "溺死する",
+    "order": 561,
+    "sourceLines": [
+      732
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-6-phan-1-.txt",
+        "line": 73,
+        "text": "溺死する"
+      }
+    ]
+  },
+  {
+    "japanese": "冷暖房",
+    "order": 562,
+    "sourceLines": [
+      735
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-6-phan-1-.txt",
+        "line": 81,
+        "text": "冷暖房"
+      }
+    ]
+  },
+  {
+    "japanese": "女房",
+    "order": 563,
+    "sourceLines": [
+      736
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-6-phan-1-.txt",
+        "line": 82,
+        "text": "女房"
+      }
+    ]
+  },
+  {
+    "japanese": "文房具",
+    "order": 564,
+    "sourceLines": [
+      737
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-6-phan-1-.txt",
+        "line": 83,
+        "text": "文房具"
+      }
+    ]
+  },
+  {
+    "japanese": "芳しい香り",
+    "order": 565,
+    "sourceLines": [
+      740
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-6-phan-1-.txt",
+        "line": 89,
+        "text": "芳しい香り"
+      }
+    ]
+  },
+  {
+    "japanese": "成績/天気が芳しくない",
+    "order": 566,
+    "sourceLines": [
+      741
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-6-phan-1-.txt",
+        "line": 90,
+        "text": "成績/天気が芳しくない"
+      }
+    ]
+  },
+  {
+    "japanese": "芳香剤",
+    "order": 567,
+    "sourceLines": [
+      742
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-6-phan-1-.txt",
+        "line": 91,
+        "text": "芳香剤"
+      }
+    ]
+  },
+  {
+    "japanese": "刃が鋭い",
+    "order": 568,
+    "sourceLines": [
+      745
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-6-phan-1-.txt",
+        "line": 97,
+        "text": "刃が鋭い"
+      }
+    ]
+  },
+  {
+    "japanese": "ひげそりの刃",
+    "order": 569,
+    "sourceLines": [
+      746
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-6-phan-1-.txt",
+        "line": 98,
+        "text": "ひげそりの刃"
+      }
+    ]
+  },
+  {
+    "japanese": "刃物",
+    "order": 570,
+    "sourceLines": [
+      747
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-6-phan-1-.txt",
+        "line": 99,
+        "text": "刃物"
+      }
+    ]
+  },
+  {
+    "japanese": "腰に刀を差した武士",
+    "order": 571,
+    "sourceLines": [
+      750
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-6-phan-1-.txt",
+        "line": 105,
+        "text": "腰に刀を差した武士"
+      }
+    ]
+  },
+  {
+    "japanese": "日本刀",
+    "order": 572,
+    "sourceLines": [
+      751
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-6-phan-1-.txt",
+        "line": 106,
+        "text": "日本刀"
+      }
+    ]
+  },
+  {
+    "japanese": "竹刀",
+    "order": 573,
+    "sourceLines": [
+      752
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-6-phan-1-.txt",
+        "line": 107,
+        "text": "竹刀"
+      }
+    ]
+  },
+  {
+    "japanese": "手術の執刀医",
+    "order": 574,
+    "sourceLines": [
+      753
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-6-phan-1-.txt",
+        "line": 108,
+        "text": "手術の執刀医"
+      }
+    ]
+  },
+  {
+    "japanese": "単刀直入に言います",
+    "order": 575,
+    "sourceLines": [
+      754
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-6-phan-1-.txt",
+        "line": 109,
+        "text": "単刀直入に言います"
+      }
+    ]
+  },
+  {
+    "japanese": "ノーベル賞受賞の祝賀会",
+    "order": 576,
+    "sourceLines": [
+      757
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-6-phan-1-.txt",
+        "line": 114,
+        "text": "ノーベル賞受賞の祝賀会"
+      }
+    ]
+  },
+  {
+    "japanese": "年賀状を書く",
+    "order": 577,
+    "sourceLines": [
+      758
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-6-phan-1-.txt",
+        "line": 115,
+        "text": "年賀状を書く"
+      }
+    ]
+  },
+  {
+    "japanese": "謹賀新年",
+    "order": 578,
+    "sourceLines": [
+      759
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-6-phan-1-.txt",
+        "line": 116,
+        "text": "謹賀新年"
+      }
+    ]
+  },
+  {
+    "japanese": "虹が架かる",
+    "order": 579,
+    "sourceLines": [
+      762
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-6-phan-1-.txt",
+        "line": 123,
+        "text": "虹が架かる"
+      }
+    ]
+  },
+  {
+    "japanese": "橋を架ける",
+    "order": 580,
+    "sourceLines": [
+      763
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-6-phan-1-.txt",
+        "line": 124,
+        "text": "橋を架ける"
+      }
+    ]
+  },
+  {
+    "japanese": "架空の人物/場所",
+    "order": 581,
+    "sourceLines": [
+      764
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-6-phan-1-.txt",
+        "line": 125,
+        "text": "架空の人物/場所"
+      }
+    ]
+  },
+  {
+    "japanese": "応急担架",
+    "order": 582,
+    "sourceLines": [
+      765
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-6-phan-1-.txt",
+        "line": 126,
+        "text": "応急担架"
+      }
+    ]
+  },
+  {
+    "japanese": "明日に架ける橋",
+    "order": 583,
+    "sourceLines": [
+      766
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-6-phan-1-.txt",
+        "line": 127,
+        "text": "明日に架ける橋"
+      }
+    ]
+  },
+  {
+    "japanese": "ご飯を炊く",
+    "order": 584,
+    "sourceLines": [
+      769
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-6-phan-1-.txt",
+        "line": 133,
+        "text": "ご飯を炊く"
+      }
+    ]
+  },
+  {
+    "japanese": "炊きたてのご飯",
+    "order": 585,
+    "sourceLines": [
+      770
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-6-phan-1-.txt",
+        "line": 134,
+        "text": "炊きたてのご飯"
+      }
+    ]
+  },
+  {
+    "japanese": "炊飯器",
+    "order": 586,
+    "sourceLines": [
+      771
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-6-phan-1-.txt",
+        "line": 135,
+        "text": "炊飯器"
+      }
+    ]
+  },
+  {
+    "japanese": "一人暮らしを始めてから自炊するようになった",
+    "order": 587,
+    "sourceLines": [
+      772
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-6-phan-1-.txt",
+        "line": 136,
+        "text": "一人暮らしを始めてから自炊するようになった"
+      }
+    ]
+  },
+  {
+    "japanese": "肉と野菜を炒める",
+    "order": 588,
+    "sourceLines": [
+      775
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-6-phan-1-.txt",
+        "line": 142,
+        "text": "肉と野菜を炒める"
+      }
+    ]
+  },
+  {
+    "japanese": "野菜炒め",
+    "order": 589,
+    "sourceLines": [
+      776
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-6-phan-1-.txt",
+        "line": 143,
+        "text": "野菜炒め"
+      }
+    ]
+  },
+  {
+    "japanese": "大豆を炒る",
+    "order": 590,
+    "sourceLines": [
+      777
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-6-phan-1-.txt",
+        "line": 144,
+        "text": "大豆を炒る"
+      }
+    ]
+  },
+  {
+    "japanese": "大豆を煎る",
+    "order": 591,
+    "sourceLines": [
+      778
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-6-phan-1-.txt",
+        "line": 145,
+        "text": "大豆を煎る 卵を煎る 煎茶"
+      }
+    ]
+  },
+  {
+    "japanese": "旗が揚がる",
+    "order": 592,
+    "sourceLines": [
+      783
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-6-phan-1-.txt",
+        "line": 152,
+        "text": "旗が揚がる"
+      }
+    ]
+  },
+  {
+    "japanese": "天ぷらを揚げる",
+    "order": 593,
+    "sourceLines": [
+      784
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-6-phan-1-.txt",
+        "line": 153,
+        "text": "天ぷらを揚げる"
+      }
+    ]
+  },
+  {
+    "japanese": "抑揚をつけて話を強調する",
+    "order": 594,
+    "sourceLines": [
+      785
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-6-phan-1-.txt",
+        "line": 154,
+        "text": "抑揚をつけて話を強調する"
+      }
+    ]
+  },
+  {
+    "japanese": "国旗を掲揚する",
+    "order": 595,
+    "sourceLines": [
+      786
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-6-phan-1-.txt",
+        "line": 155,
+        "text": "国旗を掲揚する"
+      }
+    ]
+  },
+  {
+    "japanese": "掲げる",
+    "order": 596,
+    "sourceLines": [
+      787
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-6-phan-1-.txt",
+        "line": 156,
+        "text": "掲げる"
+      }
+    ]
+  },
+  {
+    "japanese": "国王から褒美を賜る",
+    "order": 597,
+    "sourceLines": [
+      790
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-6-phan-1-.txt",
+        "line": 162,
+        "text": "国王から褒美を賜る"
+      }
+    ]
+  },
+  {
+    "japanese": "成功は努力の賜物だ",
+    "order": 598,
+    "sourceLines": [
+      791
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-6-phan-1-.txt",
+        "line": 163,
+        "text": "成功は努力の賜物だ"
+      }
+    ]
+  },
+  {
+    "japanese": "裕福な家庭",
+    "order": 599,
+    "sourceLines": [
+      794
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-6-phan-1-.txt",
+        "line": 170,
+        "text": "裕福な家庭"
+      }
+    ]
+  },
+  {
+    "japanese": "余裕がない",
+    "order": 600,
+    "sourceLines": [
+      795
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-6-phan-1-.txt",
+        "line": 171,
+        "text": "余裕がない"
+      }
+    ]
+  },
+  {
+    "japanese": "富裕層",
+    "order": 601,
+    "sourceLines": [
+      796
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-6-phan-1-.txt",
+        "line": 172,
+        "text": "富裕層"
+      }
+    ]
+  },
+  {
+    "japanese": "風俗店",
+    "order": 602,
+    "sourceLines": [
+      799
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-6-phan-1-.txt",
+        "line": 177,
+        "text": "風俗店"
+      }
+    ]
+  },
+  {
+    "japanese": "世俗的なものの考え方",
+    "order": 603,
+    "sourceLines": [
+      800
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-6-phan-1-.txt",
+        "line": 178,
+        "text": "世俗的なものの考え方"
+      }
+    ]
+  },
+  {
+    "japanese": "低俗な雑誌",
+    "order": 604,
+    "sourceLines": [
+      801
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-6-phan-1-.txt",
+        "line": 179,
+        "text": "低俗な雑誌"
+      }
+    ]
+  },
+  {
+    "japanese": "俗語",
+    "order": 605,
+    "sourceLines": [
+      802
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-6-phan-1-.txt",
+        "line": 180,
+        "text": "俗語"
+      }
+    ]
+  },
+  {
+    "japanese": "鉛は人体に有害な物質だ",
+    "order": 606,
+    "sourceLines": [
+      805
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-6-phan-1-.txt",
+        "line": 186,
+        "text": "鉛は人体に有害な物質だ"
+      }
+    ]
+  },
+  {
+    "japanese": "鉛色の空",
+    "order": 607,
+    "sourceLines": [
+      806
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-6-phan-1-.txt",
+        "line": 187,
+        "text": "鉛色の空"
+      }
+    ]
+  },
+  {
+    "japanese": "鉛筆を削る",
+    "order": 608,
+    "sourceLines": [
+      807
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-6-phan-1-.txt",
+        "line": 188,
+        "text": "鉛筆を削る"
+      }
+    ]
+  },
+  {
+    "japanese": "亜鉛を多く含む食品",
+    "order": 609,
+    "sourceLines": [
+      808
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-6-phan-1-.txt",
+        "line": 189,
+        "text": "亜鉛を多く含む食品"
+      }
+    ]
+  },
+  {
+    "japanese": "川に沿って歩く",
+    "order": 610,
+    "sourceLines": [
+      811
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-6-phan-1-.txt",
+        "line": 195,
+        "text": "川に沿って歩く"
+      }
+    ]
+  },
+  {
+    "japanese": "会社の方針に沿って",
+    "order": 611,
+    "sourceLines": [
+      812
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-6-phan-1-.txt",
+        "line": 196,
+        "text": "会社の方針に沿って"
+      }
+    ]
+  },
+  {
+    "japanese": "太平洋沿岸にある町",
+    "order": 612,
+    "sourceLines": [
+      813
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-6-phan-1-.txt",
+        "line": 197,
+        "text": "太平洋沿岸にある町"
+      }
+    ]
+  },
+  {
+    "japanese": "電車の沿線でマンション開発が進む",
+    "order": 613,
+    "sourceLines": [
+      814
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-6-phan-1-.txt",
+        "line": 198,
+        "text": "電車の沿線でマンション開発が進む"
+      }
+    ]
+  },
+  {
+    "japanese": "学校の沿革",
+    "order": 614,
+    "sourceLines": [
+      815
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-6-phan-1-.txt",
+        "line": 199,
+        "text": "学校の沿革"
+      }
+    ]
+  },
+  {
+    "japanese": "船が沈没する",
+    "order": 615,
+    "sourceLines": [
+      818
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-6-phan-1-.txt",
+        "line": 204,
+        "text": "船が沈没する"
+      }
+    ]
+  },
+  {
+    "japanese": "没落した貴族",
+    "order": 616,
+    "sourceLines": [
+      819
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-6-phan-1-.txt",
+        "line": 205,
+        "text": "没落した貴族"
+      }
+    ]
+  },
+  {
+    "japanese": "財産を没収される",
+    "order": 617,
+    "sourceLines": [
+      820
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-6-phan-1-.txt",
+        "line": 206,
+        "text": "財産を没収される"
+      }
+    ]
+  },
+  {
+    "japanese": "研究に没頭する",
+    "order": 618,
+    "sourceLines": [
+      821
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-6-phan-1-.txt",
+        "line": 207,
+        "text": "研究に没頭する"
+      }
+    ]
+  },
+  {
+    "japanese": "米や麦などの穀類",
+    "order": 619,
+    "sourceLines": [
+      824
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-6-phan-1-.txt",
+        "line": 212,
+        "text": "米や麦などの穀類"
+      }
+    ]
+  },
+  {
+    "japanese": "穀物",
+    "order": 620,
+    "sourceLines": [
+      825
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-6-phan-1-.txt",
+        "line": 213,
+        "text": "穀物"
+      }
+    ]
+  },
+  {
+    "japanese": "地殻の変動",
+    "order": 621,
+    "sourceLines": [
+      828
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-6-phan-1-.txt",
+        "line": 219,
+        "text": "地殻の変動"
+      }
+    ]
+  },
+  {
+    "japanese": "貝殻",
+    "order": 622,
+    "sourceLines": [
+      829
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-6-phan-1-.txt",
+        "line": 220,
+        "text": "貝殻"
+      }
+    ]
+  },
+  {
+    "japanese": "俊足の持ち主",
+    "order": 623,
+    "sourceLines": [
+      833
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-6-phan-1-.txt",
+        "line": 226,
+        "text": "俊足の持ち主"
+      }
+    ]
+  },
+  {
+    "japanese": "酸っぱいみかん",
+    "order": 624,
+    "sourceLines": [
+      836
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-6-phan-1-.txt",
+        "line": 232,
+        "text": "酸っぱいみかん"
+      }
+    ]
+  },
+  {
+    "japanese": "口酸っぱく注意する",
+    "order": 625,
+    "sourceLines": [
+      837
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-6-phan-1-.txt",
+        "line": 233,
+        "text": "口酸っぱく注意する"
+      }
+    ]
+  },
+  {
+    "japanese": "酸味の強いコーヒー",
+    "order": 626,
+    "sourceLines": [
+      838
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-6-phan-1-.txt",
+        "line": 234,
+        "text": "酸味の強いコーヒー"
+      }
+    ]
+  },
+  {
+    "japanese": "りんごが酸化する",
+    "order": 627,
+    "sourceLines": [
+      839
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-6-phan-1-.txt",
+        "line": 235,
+        "text": "りんごが酸化する"
+      }
+    ]
+  },
+  {
+    "japanese": "酸素",
+    "order": 628,
+    "sourceLines": [
+      840
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-6-phan-1-.txt",
+        "line": 236,
+        "text": "酸素"
+      }
+    ]
+  },
+  {
+    "japanese": "炭酸飲料",
+    "order": 629,
+    "sourceLines": [
+      841
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-6-phan-1-.txt",
+        "line": 237,
+        "text": "炭酸飲料"
+      }
+    ]
+  },
+  {
+    "japanese": "御陵に参拝する",
+    "order": 630,
+    "sourceLines": [
+      844
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-6-phan-1-.txt",
+        "line": 243,
+        "text": "御陵に参拝する"
+      }
+    ]
+  },
+  {
+    "japanese": "なだらかな丘陵が続く",
+    "order": 631,
+    "sourceLines": [
+      845
+    ],
+    "status": "candidate",
+    "evidence": [
+      {
+        "file": "bai-6-phan-1-.txt",
+        "line": 244,
+        "text": "なだらかな丘陵が続く"
+      }
+    ]
+  }
+]
