@@ -9,20 +9,7 @@ type Lesson = { id: string; label: string; buoi: string; cards: Card[] };
 
 const LESSONS = (grammarData as unknown as { lessons: Lesson[] }).lessons;
 const STORE = "n1goi-grammar:state";
-const UID_KEY = "n1goi:uid";
-
-const uid = (): string => {
-  try {
-    let v = localStorage.getItem(UID_KEY);
-    if (!v) {
-      v = (crypto as Crypto).randomUUID ? crypto.randomUUID() : String(Date.now()) + Math.random().toString(16).slice(2);
-      localStorage.setItem(UID_KEY, v);
-    }
-    return v;
-  } catch {
-    return "anon";
-  }
-};
+const uid = (): string => "main";
 
 const pullState = async (): Promise<Record<string, unknown> | null> => {
   try {
