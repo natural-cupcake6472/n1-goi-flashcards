@@ -43,6 +43,41 @@ Bun.serve({
     const url = new URL(req.url);
     const path = decodeURIComponent(url.pathname);
 
+    if (path === "/api/visits") {
+      try {
+        const body = (await req.json()) as { deck?: string; indices?: number[] };
+        const deck = String(body.deck || "kanji").replace(/[^a-z]/g, "");
+        if (!DECKS.includes(deck)) return new Response("bad deck", { status: 400 });
+        const day = new Date().toLocaleDateString("en-CA", { timeZone: "Asia/Tokyo" });
+        const key = "n1goi:" + deck + ":today:" + day;
+        const idx = (body.indices || []).filter((n) => Number.isFinite(n) && n >= 0).slice(0, 5000);
+        if (idx.length) {
+          await store().command("SADD", key, ...idx.map(String));
+          await store().command("EXPIRE", key, String(60 * 60 * 48));
+        }
+        const n = Number(await store().command("SCARD", key)) || 0;
+        return Response.json({ today: n, day, added: idx.length, store: "kvrocks" });
+      } catch (err) {
+        return Response.json({ error: String(err).slice(0, 140) }, { status: 502 });
+      }
+    }
+
+    if (path === "/api/visit") {
+      const deck = (url.searchParams.get("deck") || "kanji").replace(/[^a-z]/g, "");
+      const i = Number(url.searchParams.get("i"));
+      if (!DECKS.includes(deck) || !Number.isFinite(i) || i < 0) return new Response("bad visit", { status: 400 });
+      const day = new Date().toLocaleDateString("en-CA", { timeZone: "Asia/Tokyo" });
+      const key = "n1goi:" + deck + ":today:" + day;
+      try {
+        await store().command("SADD", key, String(i));
+        await store().command("EXPIRE", key, String(60 * 60 * 48));
+        const n = Number(await store().command("SCARD", key));
+        return Response.json({ today: n, day, store: "kvrocks" });
+      } catch (err) {
+        return Response.json({ error: String(err).slice(0, 140) }, { status: 502 });
+      }
+    }
+
     if (path === "/api/state") {
       const deck = (url.searchParams.get("deck") || "kanji").replace(/[^a-z]/g, "");
       if (!DECKS.includes(deck)) return new Response("bad deck", { status: 400 });
@@ -51,7 +86,12 @@ Bun.serve({
         if (req.method === "GET") {
           let raw = await store().get(key);
           if (!raw) raw = await adoptBiggest(deck);
-          return Response.json({ state: raw ? JSON.parse(raw) : null, store: "kvrocks" });
+          const day = new Date().toLocaleDateString("en-CA", { timeZone: "Asia/Tokyo" });
+          let today = 0;
+          try {
+            today = Number(await store().command("SCARD", "n1goi:" + deck + ":today:" + day)) || 0;
+          } catch { /* ignore */ }
+          return Response.json({ state: raw ? JSON.parse(raw) : null, today, day, store: "kvrocks" });
         }
         if (req.method === "PUT" || req.method === "POST") {
           const body = (await req.json()) as { state?: unknown };

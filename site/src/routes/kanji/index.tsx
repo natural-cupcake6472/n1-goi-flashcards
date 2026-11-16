@@ -131,6 +131,60 @@ const writeState = (state: Stored) => {
 
 const uid = (): string => "main";
 
+const pullToday = async (): Promise<number> => {
+  try {
+    const r = await fetch("/api/state?deck=kanji&u=" + encodeURIComponent(uid()), { cache: "no-store" });
+    if (!r.ok) return 0;
+    const j = (await r.json()) as { today?: number };
+    return Number(j.today ?? 0);
+  } catch {
+    return 0;
+  }
+};
+
+const todayIndices = (): number[] => {
+  try {
+    const start = new Date();
+    start.setHours(0, 0, 0, 0);
+    const midnight = start.getTime();
+    const seen = new Set<number>();
+    for (const key of Object.keys(localStorage)) {
+      if (!key.startsWith("n1goi:history:")) continue;
+      const list = JSON.parse(localStorage.getItem(key) ?? "[]") as Visit[];
+      for (const v of list) if (v.at >= midnight) seen.add(v.index);
+    }
+    return [...seen];
+  } catch {
+    return [];
+  }
+};
+
+const pushVisits = async (indices: number[]): Promise<number> => {
+  try {
+    const r = await fetch("/api/visits", {
+      method: "POST",
+      headers: { "content-type": "application/json" },
+      body: JSON.stringify({ deck: "kanji", indices }),
+    });
+    if (!r.ok) return 0;
+    const j = (await r.json()) as { today?: number };
+    return Number(j.today ?? 0);
+  } catch {
+    return 0;
+  }
+};
+
+const pushVisit = async (i: number): Promise<number> => {
+  try {
+    const r = await fetch("/api/visit?deck=kanji&i=" + i, { method: "POST" });
+    if (!r.ok) return 0;
+    const j = (await r.json()) as { today?: number };
+    return Number(j.today ?? 0);
+  } catch {
+    return 0;
+  }
+};
+
 const pullState = async (): Promise<Stored | null> => {
   try {
     const r = await fetch("/api/state?deck=kanji&u=" + encodeURIComponent(uid()), { cache: "no-store" });
@@ -262,6 +316,15 @@ export default component$(() => {
       if (stored.mode) mode.value = stored.mode;
       if (stored.topic && topicSequences[stored.topic]) topic.value = stored.topic;
     }
+    const remoteToday = await pullToday();
+    const localIdx = todayIndices();
+    if (localIdx.length) {
+      const merged = await pushVisits(localIdx);
+      if (merged) todayCount.value = merged;
+      else if (remoteToday > 0) todayCount.value = remoteToday;
+    } else if (remoteToday > 0) {
+      todayCount.value = remoteToday;
+    }
     const remote = await pullState();
     if (remote) {
       if (typeof remote.index === "number" && remote.index >= 0 && remote.index < cards.length) index.value = remote.index;
@@ -294,6 +357,7 @@ export default component$(() => {
     const snapshot = { index: card, reveal: stage, lang, mode: order, topic: currentTopic };
     writeState(snapshot);
     pushState(snapshot);
+    void pushVisit(card).then((n) => { if (n) todayCount.value = n; });
     void idbPut("state", snapshot);
     if (!remote.value) {
       history.value = pushHistory(order, card);
