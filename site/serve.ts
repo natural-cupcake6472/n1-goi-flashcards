@@ -1,6 +1,7 @@
 import { store } from "../shared/redis.ts";
 
-const PORT = 4177;
+const PORT = Number(process.env.PORT || 4177);
+const PREFIX = process.env.STATE_PREFIX || "";
 const DECKS = ["kanji", "goi", "grammar"];
 const OWNER = "main";
 
@@ -19,12 +20,12 @@ const score = (deck: string, raw: string): number => {
 // If the shared key is missing, adopt the most advanced existing state (never deletes anything).
 const adoptBiggest = async (deck: string): Promise<string | null> => {
   const db = store();
-  const keys = (await db.command("KEYS", "n1goi:" + deck + ":*")) as string[] | null;
+  const keys = (await db.command("KEYS", PREFIX + "n1goi:" + deck + ":*")) as string[] | null;
   if (!keys || !keys.length) return null;
   let best: { raw: string; score: number } | null = null;
   const deviceKey = /^[0-9a-f-]{20,}$/i;
   for (const k of keys) {
-    if (k === "n1goi:" + deck + ":" + OWNER) continue;
+    if (k === PREFIX + "n1goi:" + deck + ":" + OWNER) continue;
     if (!deviceKey.test(k.slice(("n1goi:" + deck + ":").length))) continue;
     const raw = await db.get(k);
     if (!raw) continue;
@@ -32,7 +33,7 @@ const adoptBiggest = async (deck: string): Promise<string | null> => {
     if (!best || sc > best.score) best = { raw, score: sc };
   }
   if (!best) return null;
-  await db.set("n1goi:" + deck + ":" + OWNER, best.raw, 60 * 60 * 24 * 365);
+  await db.set(PREFIX + "n1goi:" + deck + ":" + OWNER, best.raw, 60 * 60 * 24 * 365);
   return best.raw;
 };
 
@@ -49,7 +50,7 @@ Bun.serve({
         const deck = String(body.deck || "kanji").replace(/[^a-z]/g, "");
         if (!DECKS.includes(deck)) return new Response("bad deck", { status: 400 });
         const day = new Date().toLocaleDateString("en-CA", { timeZone: "Asia/Tokyo" });
-        const key = "n1goi:" + deck + ":today:" + day;
+        const key = PREFIX + "n1goi:" + deck + ":today:" + day;
         const idx = (body.indices || []).filter((n) => Number.isFinite(n) && n >= 0).slice(0, 5000);
         if (idx.length) {
           await store().command("SADD", key, ...idx.map(String));
@@ -67,7 +68,7 @@ Bun.serve({
       const i = Number(url.searchParams.get("i"));
       if (!DECKS.includes(deck) || !Number.isFinite(i) || i < 0) return new Response("bad visit", { status: 400 });
       const day = new Date().toLocaleDateString("en-CA", { timeZone: "Asia/Tokyo" });
-      const key = "n1goi:" + deck + ":today:" + day;
+      const key = PREFIX + "n1goi:" + deck + ":today:" + day;
       try {
         await store().command("SADD", key, String(i));
         await store().command("EXPIRE", key, String(60 * 60 * 48));
@@ -81,7 +82,7 @@ Bun.serve({
     if (path === "/api/state") {
       const deck = (url.searchParams.get("deck") || "kanji").replace(/[^a-z]/g, "");
       if (!DECKS.includes(deck)) return new Response("bad deck", { status: 400 });
-      const key = "n1goi:" + deck + ":" + OWNER;
+      const key = PREFIX + "n1goi:" + deck + ":" + OWNER;
       try {
         if (req.method === "GET") {
           let raw = await store().get(key);
@@ -89,14 +90,24 @@ Bun.serve({
           const day = new Date().toLocaleDateString("en-CA", { timeZone: "Asia/Tokyo" });
           let today = 0;
           try {
-            today = Number(await store().command("SCARD", "n1goi:" + deck + ":today:" + day)) || 0;
+            today = Number(await store().command("SCARD", PREFIX + "n1goi:" + deck + ":today:" + day)) || 0;
           } catch { /* ignore */ }
           return Response.json({ state: raw ? JSON.parse(raw) : null, today, day, store: "kvrocks" });
         }
         if (req.method === "PUT" || req.method === "POST") {
-          const body = (await req.json()) as { state?: unknown };
-          await store().set(key, JSON.stringify(body.state ?? body), 60 * 60 * 24 * 365);
-          return Response.json({ ok: true, store: "kvrocks" });
+          const body = (await req.json()) as { state?: { index?: number } };
+          const state = body.state ?? body;
+          await store().set(key, JSON.stringify(state), 60 * 60 * 24 * 365);
+          let today = 0;
+          const idx = Number((state as { index?: number })?.index);
+          if (Number.isFinite(idx) && idx >= 0) {
+            const day = new Date().toLocaleDateString("en-CA", { timeZone: "Asia/Tokyo" });
+            const vkey = PREFIX + "n1goi:" + deck + ":today:" + day;
+            await store().command("SADD", vkey, String(idx));
+            await store().command("EXPIRE", vkey, String(60 * 60 * 48));
+            today = Number(await store().command("SCARD", vkey)) || 0;
+          }
+          return Response.json({ ok: true, today, store: "kvrocks" });
         }
         return new Response("method not allowed", { status: 405 });
       } catch (err) {
@@ -109,7 +120,14 @@ Bun.serve({
     let filePath = path === "/" ? "/index.html" : path;
     if (!/\.[a-z0-9]+$/i.test(filePath)) filePath += "/index.html";
     const file = Bun.file(new URL("./dist" + filePath, import.meta.url));
-    if (await file.exists()) return new Response(file);
+    if (await file.exists()) {
+      const immutable = /\/(build|assets|fonts)\//.test(filePath);
+      return new Response(file, {
+        headers: {
+          "cache-control": immutable ? "public, max-age=31536000, immutable" : "no-store, must-revalidate",
+        },
+      });
+    }
     const fallback = Bun.file(new URL("./dist/index.html", import.meta.url));
     return (await fallback.exists()) ? new Response(fallback) : new Response("Not found", { status: 404 });
   },

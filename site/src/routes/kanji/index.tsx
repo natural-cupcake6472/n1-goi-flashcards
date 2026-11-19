@@ -7,6 +7,8 @@ import kanjiMap from "../../generated/kanji.json";
 import lessonOrder from "../../generated/lesson-order.json";
 import topicsData from "../../generated/topics.json";
 import hanvietMap from "../../generated/hanviet.json";
+import kanjiComponents from "../../generated/kanji-components.json";
+import kanjiMeaning from "../../generated/kanji-meaning.json";
 import lessonKanji from "../../generated/lesson-kanji.json";
 
 const SITE_ID: string = "kanji";
@@ -39,6 +41,8 @@ const cards: string[] = displayOrder.map((i) => deck[i]);
 const kanjiAll: (string | null)[] = (kanjiMap as { cardKanji: (string | null)[] }).cardKanji;
 const cardKanji: (string | null)[] = displayOrder.map((i) => kanjiAll[i] ?? null);
 const HANVIET = hanvietMap as Record<string, string>;
+const COMPONENTS = kanjiComponents as Record<string, { c: string; hv: string; gloss: string }[]>;
+const MEANING = kanjiMeaning as Record<string, string>;
 const LESSON_KANJI = lessonKanji as Record<string, string[]>;
 const hanvietForText = (text: string): string =>
   [...new Set([...text].filter((c) => /\p{Script=Han}/u.test(c)))]
@@ -131,6 +135,31 @@ const writeState = (state: Stored) => {
 
 const uid = (): string => "main";
 
+const copyText = (text: string) => {
+  // navigator.clipboard needs a secure context; LAN http falls back to execCommand
+  const fallback = () => {
+    try {
+      const ta = document.createElement("textarea");
+      ta.value = text;
+      ta.setAttribute("readonly", "");
+      ta.style.position = "fixed";
+      ta.style.top = "-1000px";
+      ta.style.opacity = "0";
+      document.body.appendChild(ta);
+      ta.select();
+      ta.setSelectionRange(0, text.length);
+      document.execCommand("copy");
+      ta.remove();
+    } catch { /* ignore */ }
+  };
+  if (navigator.clipboard?.writeText) {
+    navigator.clipboard.writeText(text).catch(fallback);
+  } else {
+    fallback();
+  }
+};
+
+
 const pullToday = async (): Promise<number> => {
   try {
     const r = await fetch("/api/state?deck=kanji&u=" + encodeURIComponent(uid()), { cache: "no-store" });
@@ -174,17 +203,6 @@ const pushVisits = async (indices: number[]): Promise<number> => {
   }
 };
 
-const pushVisit = async (i: number): Promise<number> => {
-  try {
-    const r = await fetch("/api/visit?deck=kanji&i=" + i, { method: "POST" });
-    if (!r.ok) return 0;
-    const j = (await r.json()) as { today?: number };
-    return Number(j.today ?? 0);
-  } catch {
-    return 0;
-  }
-};
-
 const pullState = async (): Promise<Stored | null> => {
   try {
     const r = await fetch("/api/state?deck=kanji&u=" + encodeURIComponent(uid()), { cache: "no-store" });
@@ -197,16 +215,20 @@ const pullState = async (): Promise<Stored | null> => {
 };
 
 let pushTimer: ReturnType<typeof setTimeout> | null = null;
-const pushState = (state: Stored) => {
-  if (pushTimer) clearTimeout(pushTimer);
-  pushTimer = setTimeout(() => {
-    void fetch("/api/state?deck=kanji&u=" + encodeURIComponent(uid()), {
-      method: "PUT",
-      headers: { "content-type": "application/json" },
-      body: JSON.stringify({ state }),
-    }).catch(() => undefined);
-  }, 400);
-};
+const pushState = (state: Stored): Promise<number> =>
+  new Promise((resolve) => {
+    if (pushTimer) clearTimeout(pushTimer);
+    pushTimer = setTimeout(() => {
+      fetch("/api/state?deck=kanji&u=" + encodeURIComponent(uid()), {
+        method: "PUT",
+        headers: { "content-type": "application/json" },
+        body: JSON.stringify({ state }),
+      })
+        .then((r) => (r.ok ? r.json() : null))
+        .then((j: { today?: number } | null) => resolve(Number(j?.today ?? 0)))
+        .catch(() => resolve(0));
+    }, 400);
+  });
 
 const readHistory = (mode: string): Visit[] => {
   try {
@@ -262,6 +284,8 @@ export default component$(() => {
   const previewDetail = useSignal<KnowledgeEntry | undefined>(undefined);
   const dragX = useSignal(0);
   const dragging = useSignal(false);
+  const openKanji = useSignal<string | null>(null);
+  const ignoreGesture = useSignal(false);
   const fading = useSignal(false);
   const fly = useSignal<"" | "left" | "right">("");
   const transition = useSignal("none");
@@ -269,6 +293,12 @@ export default component$(() => {
   const startY = useSignal(0);
   const loaded = useSignal(false);
   const panelOpen = useSignal(false);
+  const zoom = useSignal(1);
+  const setZoom = $((delta: number) => {
+    zoom.value = Math.min(1.6, Math.max(0.8, Math.round((zoom.value + delta) * 10) / 10));
+    try { localStorage.setItem("n1goi:zoom", String(zoom.value)); } catch { /* ignore */ }
+  });
+  const copied = useSignal(false);
   const intro = useSignal(false);
   const lessonDone = useSignal(false);
   const topicDone = useSignal(false);
@@ -277,12 +307,15 @@ export default component$(() => {
   const historyTotal = useSignal(0);
   const todayCount = useSignal(0);
   const remote = useSignal(false);
+  const lastVisit = useSignal(-1);
+  const lastPushed = useSignal("");
   const backStack = useSignal<number[]>([]);
 
   useTask$(async ({ track }) => {
     const current = track(() => index.value);
     const japanese = cards[current];
     if (!japanese) return;
+    openKanji.value = null;
     const { loadChunk } = await import("../../generated/knowledge-loader");
     let chunk: Record<string, KnowledgeEntry> | undefined;
     if (detailFor.value !== current) {
@@ -336,7 +369,18 @@ export default component$(() => {
     history.value = readHistory(mode.value);
     historyTotal.value = history.value.length;
     backStack.value = readBack();
-    todayCount.value = readToday();
+    try {
+      const day = new Date().toLocaleDateString("en-CA");
+      const cached = Number(localStorage.getItem("n1goi:today:" + day) || 0);
+      const local = readToday();
+      const server = todayCount.value;
+      todayCount.value = server > 0 ? Math.max(server, local) : Math.max(cached, local);
+      localStorage.setItem("n1goi:today:" + day, String(todayCount.value));
+    } catch { /* ignore */ }
+    try {
+      const savedZoom = Number(localStorage.getItem("n1goi:zoom"));
+      if (savedZoom >= 0.8 && savedZoom <= 1.6) zoom.value = savedZoom;
+    } catch { /* ignore */ }
     loaded.value = true;
     if (!remote) {
       pushState({ index: index.value, reveal: reveal.value, lang: language.value, mode: mode.value, topic: topic.value });
@@ -356,13 +400,21 @@ export default component$(() => {
     const stage = stageCard === card ? step : 0;
     const snapshot = { index: card, reveal: stage, lang, mode: order, topic: currentTopic };
     writeState(snapshot);
-    pushState(snapshot);
-    void pushVisit(card).then((n) => { if (n) todayCount.value = n; });
+    const serialized = JSON.stringify({ ...snapshot, reveal: 0 });
+    if (serialized !== lastPushed.value) {
+      lastPushed.value = serialized;
+      void pushState(snapshot).then((n) => { if (n > todayCount.value) todayCount.value = n; });
+    }
+    if (lastVisit.value !== card) lastVisit.value = card;
     void idbPut("state", snapshot);
     if (!remote.value) {
       history.value = pushHistory(order, card);
       historyTotal.value = history.value.length;
-      todayCount.value = readToday();
+      todayCount.value = Math.max(todayCount.value, readToday());
+      try {
+        const day = new Date().toLocaleDateString("en-CA");
+        localStorage.setItem("n1goi:today:" + day, String(todayCount.value));
+      } catch { /* ignore */ }
     }
     remote.value = false;
   });
@@ -546,7 +598,7 @@ export default component$(() => {
     `m-0 text-center font-serif text-[clamp(20px,5.8vw,29px)] leading-[1.9] [text-wrap:balance] transition-opacity duration-150 ${isLoaded ? "opacity-100" : "opacity-0"}`;
 
   return (
-    <main class="fixed inset-0 flex select-none flex-col bg-[#f7f4ec] text-[#1f2a24]">
+    <main class="fixed inset-0 flex select-none flex-col bg-[#f7f4ec] text-[#1f2a24]" style={{ zoom: zoom.value }}>
       <div class="flex h-10 items-center justify-between px-5">
         <button
           aria-label="Back"
@@ -609,13 +661,30 @@ export default component$(() => {
       <div class="relative mx-auto w-full max-w-[480px] flex-1 px-4 pb-2">
         <div
           class={
-            "pointer-events-none absolute inset-x-4 bottom-6 top-2 flex flex-col overflow-hidden rounded-[26px] border border-[#e6e0d2] bg-[#fffefa] " +
-            (Math.abs(dragX.value) > 2 || fading.value ? "shadow-[0_24px_60px_-28px_rgba(41,67,49,0.45)]" : "")
+            "pointer-events-none absolute inset-x-4 bottom-6 top-2 flex flex-col overflow-hidden rounded-[26px] border border-[#e6e0d2] bg-[#fffefa]"
           }
         >
-          <div class="flex items-baseline justify-between px-6 pt-5">
+          <div class="flex items-center justify-between px-6 pt-5">
             <span class="truncate text-[10px] font-semibold uppercase tracking-[0.16em] text-[#a9b3a9]">{typeLabel}</span>
-            <span class="flex shrink-0 flex-col items-end pl-3 leading-none">
+            <span class="flex shrink-0 items-center gap-1.5 pl-3 leading-none">
+                          <button
+              data-no-tap
+              aria-label="Copy sentence"
+              onTouchStart$={$((e: TouchEvent) => e.stopPropagation())}
+              onPointerDown$={$((e: PointerEvent) => e.stopPropagation())}
+              class="flex h-7 w-7 shrink-0 items-center justify-center rounded-full text-[#a9b3a9] transition-colors active:bg-[#ece7d9] active:text-[#5f6f66]"
+              onClick$={$(() => {
+                copyText(nextCard);
+                copied.value = true;
+                setTimeout(() => (copied.value = false), 1200);
+              })}
+            >
+              {copied.value ? (
+                <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M20 6 9 17l-5-5" /></svg>
+              ) : (
+                <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><rect x="9" y="9" width="12" height="12" rx="2.5" /><path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1" /></svg>
+              )}
+            </button>
               <span class="text-[12px] tracking-[0.3em] text-[#b6c0b5]">{kanjiNext}</span>
             </span>
           </div>
@@ -645,29 +714,64 @@ export default component$(() => {
           <div class="flex-1 px-6 pb-6 pt-4" />
         </div>
         <div
-          data-testid="card"
+          data-build="2026-11-16T21:20" data-testid="card"
           class={
             "absolute inset-x-4 bottom-6 top-2 flex touch-none flex-col overflow-hidden rounded-[26px] border border-[#e6e0d2] bg-[#fffefa] shadow-[0_24px_60px_-28px_rgba(41,67,49,0.45)] " +
             (fly.value === "left" ? "fly-left" : fly.value === "right" ? "fly-right" : "")
           }
           style={{
-            transform: `translateX(${dragX.value}px) rotate(${dragX.value / 26}deg)`,
+            transform: `translate3d(${dragX.value}px, 0, 0) rotate(${dragX.value / 26}deg)`,
             transition: transition.value,
+            willChange: "transform",
+            contain: "layout paint",
           }}
           onTouchStart$={$((event: TouchEvent) => {
+            if (openKanji.value) {
+              ignoreGesture.value = true;
+              return;
+            }
+            const hit = document.elementFromPoint(event.touches[0].clientX, event.touches[0].clientY);
+            if (hit?.closest("[data-no-tap]")) {
+              ignoreGesture.value = true;
+              return;
+            }
+            ignoreGesture.value = false;
             const t = event.touches[0];
             startX.value = t.clientX;
             startY.value = t.clientY;
-            dragging.value = true;
-            transition.value = "none";
+            dragging.value = false;
           })}
           onTouchMove$={$((event: TouchEvent) => {
-            if (!dragging.value) return;
-            dragX.value = event.touches[0].clientX - startX.value;
+            if (openKanji.value) return;
+            if (ignoreGesture.value) return;
+            const dx = event.touches[0].clientX - startX.value;
+            const dy = event.touches[0].clientY - startY.value;
+            if (!dragging.value) {
+              if (Math.abs(dx) < 12 || Math.abs(dx) < Math.abs(dy) * 1.4) return;
+              dragging.value = true;
+              transition.value = "none";
+            }
+            dragX.value = Math.max(-220, Math.min(220, dx));
           })}
           onTouchEnd$={$((event: TouchEvent) => {
+            if (openKanji.value) {
+              ignoreGesture.value = false;
+              dragging.value = false;
+              dragX.value = 0;
+              return;
+            }
+            if (ignoreGesture.value) {
+              ignoreGesture.value = false;
+              return;
+            }
             const t = event.changedTouches[0];
-            void finish(t.clientX - startX.value, t.clientY - startY.value);
+            const dx = t.clientX - startX.value;
+            const dy = t.clientY - startY.value;
+            if (!dragging.value) {
+              if (Math.abs(dx) < 10 && Math.abs(dy) < 10) void finish(dx, dy);
+              return;
+            }
+            void finish(dx, dy);
           })}
           onTouchCancel$={$(() => {
             dragging.value = false;
@@ -675,24 +779,46 @@ export default component$(() => {
             dragX.value = 0;
           })}
           onPointerDown$={$((event: PointerEvent) => {
-            if (event.pointerType !== "mouse") return;
+            if (openKanji.value || event.pointerType !== "mouse") return;
             startX.value = event.clientX;
             startY.value = event.clientY;
             dragging.value = true;
             transition.value = "none";
           })}
           onPointerMove$={$((event: PointerEvent) => {
-            if (event.pointerType !== "mouse" || !dragging.value) return;
+            if (openKanji.value || event.pointerType !== "mouse" || !dragging.value) return;
             dragX.value = event.clientX - startX.value;
           })}
           onPointerUp$={$((event: PointerEvent) => {
+            if (openKanji.value) {
+              dragging.value = false;
+              dragX.value = 0;
+              return;
+            }
             if (event.pointerType !== "mouse") return;
             void finish(event.clientX - startX.value, event.clientY - startY.value);
           })}
         >
-          <div class="flex items-baseline justify-between px-6 pt-5">
+          <div class="flex items-center justify-between px-6 pt-5">
             <span class="truncate text-[10px] font-semibold uppercase tracking-[0.16em] text-[#a9b3a9]">{typeLabel}</span>
-            <span class="flex shrink-0 flex-col items-end pl-3 leading-none">
+            <span class="flex shrink-0 items-center gap-1.5 pl-3 leading-none">
+                        <button
+              data-no-tap
+              aria-label="Copy sentence"
+              class="flex h-7 w-7 shrink-0 items-center justify-center rounded-full text-[#a9b3a9] transition-colors active:bg-[#ece7d9] active:text-[#5f6f66]"
+              onClick$={$((e: MouseEvent) => {
+                e.stopPropagation();
+                copyText(card);
+                copied.value = true;
+                setTimeout(() => (copied.value = false), 1200);
+              })}
+            >
+              {copied.value ? (
+                <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M20 6 9 17l-5-5" /></svg>
+              ) : (
+                <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><rect x="9" y="9" width="12" height="12" rx="2.5" /><path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1" /></svg>
+              )}
+            </button>
             <span class="text-[12px] tracking-[0.3em] text-[#b6c0b5]">{kanjiNow}</span>
           </span>
           </div>
@@ -721,12 +847,104 @@ export default component$(() => {
                             ? [...unit.reading].map((c, k) => <span key={k}>{c}</span>)
                             : unit.reading || "\u00a0"}
                         </span>
-                        <span class="leading-[1.3]">{unit.text}</span>
+                        <span class="leading-[1.3]">
+                          {shown >= 1 && info
+                            ? [...unit.text].map((ch, k) =>
+                                /[\u4e00-\u9fff]/.test(ch) ? (
+                                  <button
+                                    key={k}
+                                    data-no-tap
+                                    tabIndex={-1}
+                                    aria-label={"Kanji " + ch}
+                                    onTouchStart$={$((e: TouchEvent) => e.stopPropagation())}
+                                    onTouchEnd$={$((e: TouchEvent) => e.stopPropagation())}
+                                    onPointerDown$={$((e: PointerEvent) => e.stopPropagation())}
+                                    onPointerUp$={$((e: PointerEvent) => e.stopPropagation())}
+                                    onClick$={$((e: MouseEvent) => {
+                                      e.stopPropagation();
+                                      openKanji.value = openKanji.value === ch ? null : ch;
+                                    })}
+                                    class={
+                                      "inline appearance-none border-0 bg-transparent p-0 font-[inherit] leading-[inherit] text-[inherit] " +
+                                      (openKanji.value === ch
+                                        ? "border-b-2 border-[#8fb79a]"
+                                        : "border-b border-dotted border-[#c3cbc1]")
+                                    }
+                                  >
+                                    {ch}
+                                  </button>
+                                ) : (
+                                  <span key={k}>{ch}</span>
+                                ),
+                              )
+                            : unit.text}
+                        </span>
                       </span>
                     )),
                   )
                 : card}
             </p>
+            {shown >= 1 && info && openKanji.value && (
+              <div class="pointer-events-none absolute inset-x-3 top-full z-50 -mt-3">
+                <div data-no-tap class="n1-pop pointer-events-auto mx-auto w-[min(94%,24rem)] overflow-hidden rounded-[10px] border border-[#e6e0d2] bg-[#fffdf6] shadow-[0_14px_32px_-20px_rgba(41,67,49,0.45)]">
+                  {(() => {
+                    const ch = openKanji.value as string;
+                    const parts = COMPONENTS[ch] ?? [];
+                    const word = info.parts.find((item) => item.text.includes(ch));
+                    return (
+                      <>
+                        <div class="flex items-center gap-2.5 px-3 py-1.5">
+                          <span class="font-serif text-[22px] leading-none text-[#22322a]">{ch}</span>
+                          <span class="min-w-0 flex-1">
+                            <span class="block text-[9px] uppercase tracking-[0.1em] text-[#8fa094]">{HANVIET[ch] ?? ""}</span>
+                            <span class="block text-[11px] leading-tight text-[#3a4a40]">{MEANING[ch] ?? ""}</span>
+                          </span>
+                          <button
+                            aria-label="Close kanji"
+                            onTouchStart$={$((e: TouchEvent) => e.stopPropagation())}
+                            onTouchEnd$={$((e: TouchEvent) => e.stopPropagation())}
+                            onPointerDown$={$((e: PointerEvent) => e.stopPropagation())}
+                            onClick$={$((e: MouseEvent) => {
+                              e.stopPropagation();
+                              openKanji.value = null;
+                            })}
+                            class="flex h-6 w-6 shrink-0 items-center justify-center rounded-full text-[14px] leading-none text-[#8fa094] active:bg-[#ece7d9]"
+                          >
+                            ×
+                          </button>
+                        </div>
+                        <div class="border-t border-[#efeadb] px-3 py-1.5">
+                          <div class="flex flex-wrap items-center gap-1">
+                            {parts.length ? (
+                              parts.map((part) => (
+                                <span class="inline-flex items-baseline gap-0.5 rounded-[4px] bg-[#f1efe4] px-1 py-0.5">
+                                  <span class="font-serif text-[13px] leading-none text-[#22322a]">{part.c}</span>
+                                  {part.hv && <span class="text-[8px] uppercase tracking-[0.05em] text-[#8fa094]">{part.hv}</span>}
+                                  {part.gloss && <span class="text-[9px] leading-none text-[#6d7c71]">{part.gloss}</span>}
+                                </span>
+                              ))
+                            ) : (
+                              <span class="text-[10px] text-[#a6b0a6]">không tách được bộ</span>
+                            )}
+                          </div>
+                          {parts.length > 0 && (
+                            <div class="mt-1 text-[10px] leading-tight text-[#6d7c71]">
+                              {parts.map((part) => part.c + (part.gloss ? " (" + part.gloss + ")" : "")).join(" + ")}
+                              {" → " + ch + " " + (HANVIET[ch] ?? "")}
+                            </div>
+                          )}
+                          {word && (
+                            <div class="text-[10px] leading-tight text-[#8fa094]">
+                              {"trong " + word.text + (word.kana ? " (" + word.kana + ")" : "") + " — " + word.vi}
+                            </div>
+                          )}
+                        </div>
+                      </>
+                    );
+                  })()}
+                </div>
+              </div>
+            )}
           </div>
           <div
             class={
@@ -924,6 +1142,14 @@ export default component$(() => {
                 </div>
               </div>
 
+            <div class="flex items-center justify-between gap-3 py-1.5">
+              <span class="text-[12px] text-[#8f9c92]">Zoom</span>
+              <div class="flex items-center rounded-[10px] bg-[#f4f0e4]">
+                <button class="h-10 w-9 text-[15px] text-[#8f9c92]" onClick$={() => setZoom(-0.1)} aria-label="Zoom out">−</button>
+                <span class="min-w-[56px] text-center text-[13px] font-medium text-[#22322a]">{Math.round(zoom.value * 100)}%</span>
+                <button class="h-10 w-9 text-[15px] text-[#8f9c92]" onClick$={() => setZoom(0.1)} aria-label="Zoom in">+</button>
+              </div>
+            </div>
               <div class="flex items-center justify-between gap-3 py-1.5">
                 <span class="text-[12px] text-[#8f9c92]">{mode.value === "topic" ? "Topic" : "Lesson"}</span>
                 <div class="flex items-center rounded-[10px] bg-[#f4f0e4]">
