@@ -567,7 +567,8 @@ export default component$(() => {
       <div class="relative mx-auto w-full max-w-[480px] flex-1 px-4 pb-2">
         <div
           class={
-            "pointer-events-none absolute inset-x-4 bottom-6 top-2 flex flex-col overflow-hidden rounded-[26px] border border-[#e6e0d2] bg-[#fffefa] shadow-[0_24px_60px_-28px_rgba(41,67,49,0.45)]"
+            "pointer-events-none absolute inset-x-4 bottom-6 top-2 flex flex-col overflow-hidden rounded-[26px] border border-[#e6e0d2] bg-[#fffefa] " +
+            (dragging.value || fading.value ? "shadow-[0_18px_40px_-26px_rgba(41,67,49,0.45)]" : "")
           }
         >
           <div class="flex items-center justify-between px-6 pt-5">
@@ -622,7 +623,7 @@ export default component$(() => {
         <div
           data-build="2026-11-20T00:45" data-testid="card"
           class={
-            "absolute inset-x-4 bottom-6 top-2 flex touch-none flex-col overflow-hidden rounded-[26px] border border-[#e6e0d2] bg-[#fffefa] shadow-[0_24px_60px_-28px_rgba(41,67,49,0.45)] " +
+            "absolute inset-x-4 bottom-6 top-2 flex touch-none flex-col overflow-hidden rounded-[26px] border border-[#e6e0d2] bg-[#fffefa] shadow-[0_18px_40px_-26px_rgba(41,67,49,0.45)] " +
             (fly.value === "left" ? "fly-left" : fly.value === "right" ? "fly-right" : "")
           }
           style={{
@@ -846,7 +847,17 @@ export default component$(() => {
                           )}
                           {word && (
                             <div class="text-[10px] leading-tight text-[#8fa094]">
-                              {"trong " + word.text + (word.kana ? " (" + word.kana + ")" : "") + " — " + word.vi}
+                              {"trong " + word.text + (word.kana ? " (" + word.kana + ")" : "") + " "}
+                              <span class="uppercase tracking-[0.06em] text-[#9fb0a3]">
+                                {[...word.text].filter((c: string) => HANVIET[c]).map((c: string) => HANVIET[c]).join(" ")}
+                              </span>
+                              {" — " + word.vi}
+                            </div>
+                          )}
+                          {word && (
+                            <div class="text-[10px] leading-tight text-[#a9b3a9]">
+                              {[...new Set([...word.text].filter((c: string) => /[\u4e00-\u9fff]/.test(c)))].map((c: string) => c + " " + (HANVIET[c] ?? "")).join("  +  ")}
+                              {"  →  " + [...new Set([...word.text].filter((c: string) => HANVIET[c]))].map((c: string) => HANVIET[c]).join(" ")}
                             </div>
                           )}
                         </div>
