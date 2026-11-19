@@ -661,6 +661,9 @@ export default component$(() => {
           })}
           onTouchEnd$={$((event: TouchEvent) => {
             if (openKanji.value) {
+              const t = event.changedTouches[0];
+              const inside = document.elementFromPoint(t.clientX, t.clientY)?.closest(".n1-pop");
+              if (!inside) openKanji.value = null;
               ignoreGesture.value = false;
               dragging.value = false;
               dragX.value = 0;
@@ -697,6 +700,8 @@ export default component$(() => {
           })}
           onPointerUp$={$((event: PointerEvent) => {
             if (openKanji.value) {
+              const inside = document.elementFromPoint(event.clientX, event.clientY)?.closest(".n1-pop");
+              if (!inside) openKanji.value = null;
               dragging.value = false;
               dragX.value = 0;
               return;
