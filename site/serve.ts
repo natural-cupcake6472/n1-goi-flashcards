@@ -1,5 +1,12 @@
 import { store } from "../shared/redis.ts";
 
+// A study day runs 05:00 -> 05:00 next day (JST).
+const STUDY_DAY_START_HOUR = 5;
+const studyDay = (): string => {
+  const shifted = new Date(Date.now() - STUDY_DAY_START_HOUR * 3600 * 1000);
+  return shifted.toLocaleDateString("en-CA", { timeZone: "Asia/Tokyo" });
+};
+
 const PORT = Number(process.env.PORT || 4177);
 const PREFIX = process.env.STATE_PREFIX || "";
 const DECKS = ["kanji", "goi", "grammar"];
@@ -37,6 +44,23 @@ const adoptBiggest = async (deck: string): Promise<string | null> => {
   return best.raw;
 };
 
+// Late-night reads land on the calendar key; fold them into the 05:00 study-day key once.
+const migrateStudyDay = async () => {
+  try {
+    const cal = new Date().toLocaleDateString("en-CA", { timeZone: "Asia/Tokyo" });
+    const sd = studyDay();
+    if (cal === sd) return;
+    for (const deck of DECKS) {
+      const src = PREFIX + "n1goi:" + deck + ":today:" + cal;
+      const dst = PREFIX + "n1goi:" + deck + ":today:" + sd;
+      await store().command("SUNIONSTORE", dst, dst, src);
+      await store().command("EXPIRE", dst, String(60 * 60 * 48));
+    }
+    console.log("study-day migrated", cal, "->", sd);
+  } catch { /* ignore */ }
+};
+void migrateStudyDay();
+
 Bun.serve({
   hostname: "0.0.0.0",
   port: PORT,
@@ -49,7 +73,7 @@ Bun.serve({
         const body = (await req.json()) as { deck?: string; indices?: number[] };
         const deck = String(body.deck || "kanji").replace(/[^a-z]/g, "");
         if (!DECKS.includes(deck)) return new Response("bad deck", { status: 400 });
-        const day = new Date().toLocaleDateString("en-CA", { timeZone: "Asia/Tokyo" });
+        const day = studyDay();
         const key = PREFIX + "n1goi:" + deck + ":today:" + day;
         const idx = (body.indices || []).filter((n) => Number.isFinite(n) && n >= 0).slice(0, 5000);
         if (idx.length) {
@@ -67,7 +91,7 @@ Bun.serve({
       const deck = (url.searchParams.get("deck") || "kanji").replace(/[^a-z]/g, "");
       const i = Number(url.searchParams.get("i"));
       if (!DECKS.includes(deck) || !Number.isFinite(i) || i < 0) return new Response("bad visit", { status: 400 });
-      const day = new Date().toLocaleDateString("en-CA", { timeZone: "Asia/Tokyo" });
+      const day = studyDay();
       const key = PREFIX + "n1goi:" + deck + ":today:" + day;
       try {
         await store().command("SADD", key, String(i));
@@ -87,7 +111,7 @@ Bun.serve({
         if (req.method === "GET") {
           let raw = await store().get(key);
           if (!raw) raw = await adoptBiggest(deck);
-          const day = new Date().toLocaleDateString("en-CA", { timeZone: "Asia/Tokyo" });
+          const day = studyDay();
           let today = 0;
           try {
             today = Number(await store().command("SCARD", PREFIX + "n1goi:" + deck + ":today:" + day)) || 0;
@@ -101,7 +125,7 @@ Bun.serve({
           let today = 0;
           const idx = Number((state as { index?: number })?.index);
           if (Number.isFinite(idx) && idx >= 0) {
-            const day = new Date().toLocaleDateString("en-CA", { timeZone: "Asia/Tokyo" });
+            const day = studyDay();
             const vkey = PREFIX + "n1goi:" + deck + ":today:" + day;
             await store().command("SADD", vkey, String(idx));
             await store().command("EXPIRE", vkey, String(60 * 60 * 48));

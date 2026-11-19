@@ -173,9 +173,7 @@ const pullToday = async (): Promise<number> => {
 
 const todayIndices = (): number[] => {
   try {
-    const start = new Date();
-    start.setHours(0, 0, 0, 0);
-    const midnight = start.getTime();
+    const midnight = studyDayStart();
     const seen = new Set<number>();
     for (const key of Object.keys(localStorage)) {
       if (!key.startsWith("n1goi:history:")) continue;
@@ -249,11 +247,21 @@ const pushHistory = (mode: string, index: number): Visit[] => {
   return next;
 };
 
+const studyDayStart = (): number => {
+  const d = new Date();
+  if (d.getHours() < 5) d.setDate(d.getDate() - 1);
+  d.setHours(5, 0, 0, 0);
+  return d.getTime();
+};
+
+const studyDayKey = (): string => {
+  const d = new Date(Date.now() - 5 * 3600 * 1000);
+  return d.toLocaleDateString("en-CA");
+};
+
 const readToday = (): number => {
   try {
-    const start = new Date();
-    start.setHours(0, 0, 0, 0);
-    const midnight = start.getTime();
+    const midnight = studyDayStart();
     const seen = new Set<number>();
     for (const key of Object.keys(localStorage)) {
       if (!key.startsWith("n1goi:history:")) continue;
@@ -370,7 +378,7 @@ export default component$(() => {
     historyTotal.value = history.value.length;
     backStack.value = readBack();
     try {
-      const day = new Date().toLocaleDateString("en-CA");
+      const day = studyDayKey();
       const cached = Number(localStorage.getItem("n1goi:today:" + day) || 0);
       const local = readToday();
       const server = todayCount.value;
@@ -412,7 +420,7 @@ export default component$(() => {
       historyTotal.value = history.value.length;
       todayCount.value = Math.max(todayCount.value, readToday());
       try {
-        const day = new Date().toLocaleDateString("en-CA");
+        const day = studyDayKey();
         localStorage.setItem("n1goi:today:" + day, String(todayCount.value));
       } catch { /* ignore */ }
     }
@@ -661,7 +669,7 @@ export default component$(() => {
       <div class="relative mx-auto w-full max-w-[480px] flex-1 px-4 pb-2">
         <div
           class={
-            "pointer-events-none absolute inset-x-4 bottom-6 top-2 flex flex-col overflow-hidden rounded-[26px] border border-[#e6e0d2] bg-[#fffefa]"
+            "pointer-events-none absolute inset-x-4 bottom-6 top-2 flex flex-col overflow-hidden rounded-[26px] border border-[#e6e0d2] bg-[#fffefa] shadow-[0_24px_60px_-28px_rgba(41,67,49,0.45)]"
           }
         >
           <div class="flex items-center justify-between px-6 pt-5">
@@ -714,7 +722,7 @@ export default component$(() => {
           <div class="flex-1 px-6 pb-6 pt-4" />
         </div>
         <div
-          data-build="2026-11-16T21:20" data-testid="card"
+          data-build="2026-11-20T00:45" data-testid="card"
           class={
             "absolute inset-x-4 bottom-6 top-2 flex touch-none flex-col overflow-hidden rounded-[26px] border border-[#e6e0d2] bg-[#fffefa] shadow-[0_24px_60px_-28px_rgba(41,67,49,0.45)] " +
             (fly.value === "left" ? "fly-left" : fly.value === "right" ? "fly-right" : "")
@@ -822,7 +830,7 @@ export default component$(() => {
             <span class="text-[12px] tracking-[0.3em] text-[#b6c0b5]">{kanjiNow}</span>
           </span>
           </div>
-          <div class="flex flex-1 flex-col items-center justify-center gap-2 px-6">
+          <div class="relative flex flex-1 flex-col items-center justify-center gap-2 px-6">
             <p data-testid="sentence" class={sentenceClass(loaded.value)} lang="ja">
               {info
                 ? info.parts.flatMap((part, i) =>
